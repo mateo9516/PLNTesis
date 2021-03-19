@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 2,
+    "text_characters": 13995,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "sistema de informacion",
+      "relevance": 0.572643,
+      "count": 1
+    },
+    {
+      "text": "apertura del proceso",
+      "relevance": 0.57217,
+      "count": 1
+    },
+    {
+      "text": "gestion de contratos",
+      "relevance": 0.559624,
+      "count": 1
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.548181,
+      "count": 10
+    },
+    {
+      "text": "entidad present6",
+      "relevance": 0.541355,
+      "count": 1
+    },
+    {
+      "text": "vigencias futuras",
+      "relevance": 0.540123,
+      "count": 3
+    },
+    {
+      "text": "parte del modelo",
+      "relevance": 0.539333,
+      "count": 1
+    },
+    {
+      "text": "diciembre del ano",
+      "relevance": 0.537702,
+      "count": 1
+    },
+    {
+      "text": "pago de los compromisos",
+      "relevance": 0.537581,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.536759,
+      "count": 8
+    },
+    {
+      "text": "trazabilidad de la informacion de acuerdo",
+      "relevance": 0.53525,
+      "count": 1
+    },
+    {
+      "text": "operaciones financieras",
+      "relevance": 0.533019,
+      "count": 1
+    },
+    {
+      "text": "regulador unico",
+      "relevance": 0.53069,
+      "count": 1
+    },
+    {
+      "text": "estatuto general",
+      "relevance": 0.530333,
+      "count": 1
+    },
+    {
+      "text": "estatuto organico del presupuesto",
+      "relevance": 0.52909,
+      "count": 1
+    },
+    {
+      "text": "software financiero",
+      "relevance": 0.528854,
+      "count": 1
+    },
+    {
+      "text": "asamblea departamental del valle",
+      "relevance": 0.527592,
+      "count": 1
+    },
+    {
+      "text": "cambios normativos",
+      "relevance": 0.524735,
+      "count": 1
+    },
+    {
+      "text": "plan estrat\u00e9gico de desarrollo",
+      "relevance": 0.523902,
+      "count": 1
+    },
+    {
+      "text": "periodo fiscal",
+      "relevance": 0.523631,
+      "count": 1
+    },
+    {
+      "text": "transformacion digital",
+      "relevance": 0.522732,
+      "count": 3
+    },
+    {
+      "text": "politica de estado",
+      "relevance": 0.522345,
+      "count": 1
+    },
+    {
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.522325,
+      "count": 2
+    },
+    {
+      "text": "implementacion de sistemas de informacion",
+      "relevance": 0.521876,
+      "count": 1
+    },
+    {
+      "text": "gobierno digital",
+      "relevance": 0.521339,
+      "count": 2
+    },
+    {
+      "text": "actividad acad\u00e9mica de los estudiantes",
+      "relevance": 0.520894,
+      "count": 1
+    },
+    {
+      "text": "particularidades de la institucion universitaria",
+      "relevance": 0.520761,
+      "count": 1
+    },
+    {
+      "text": "r\u00e9gimen especial",
+      "relevance": 0.52051,
+      "count": 1
+    },
+    {
+      "text": "procedimientos misionales",
+      "relevance": 0.519692,
+      "count": 1
+    },
+    {
+      "text": "esfuerzo institucional especial",
+      "relevance": 0.519171,
+      "count": 1
+    },
+    {
+      "text": "forma permanente",
+      "relevance": 0.518704,
+      "count": 1
+    },
+    {
+      "text": "marco institucional del sector",
+      "relevance": 0.518199,
+      "count": 1
+    },
+    {
+      "text": "parte contable",
+      "relevance": 0.517811,
+      "count": 1
+    },
+    {
+      "text": "trav\u00e9s de sistemas",
+      "relevance": 0.517186,
+      "count": 1
+    },
+    {
+      "text": "figura de vigencias futuras",
+      "relevance": 0.516863,
+      "count": 1
+    },
+    {
+      "text": "presupuesto de inversiones",
+      "relevance": 0.516608,
+      "count": 1
+    },
+    {
+      "text": "solicitudes de aplazamiento del cronograma",
+      "relevance": 0.516588,
+      "count": 1
+    },
+    {
+      "text": "nuevos requerimientos",
+      "relevance": 0.516258,
+      "count": 1
+    },
+    {
+      "text": "actualizaciones sustanciales de plataforma",
+      "relevance": 0.516206,
+      "count": 1
+    },
+    {
+      "text": "entidades de gobierno",
+      "relevance": 0.515631,
+      "count": 1
+    },
+    {
+      "text": "ejecucion de la obra",
+      "relevance": 0.515518,
+      "count": 1
+    },
+    {
+      "text": "contratacio\u00e9n directa",
+      "relevance": 0.515232,
+      "count": 1
+    },
+    {
+      "text": "objeto del compromiso",
+      "relevance": 0.515141,
+      "count": 1
+    },
+    {
+      "text": "presente ley",
+      "relevance": 0.514823,
+      "count": 1
+    },
+    {
+      "text": "estatuto organico de presupuesto",
+      "relevance": 0.513579,
+      "count": 1
+    },
+    {
+      "text": "documento original",
+      "relevance": 0.513349,
+      "count": 1
+    },
+    {
+      "text": "ordenador del gasto",
+      "relevance": 0.513131,
+      "count": 1
+    },
+    {
+      "text": "dimension operativa de gestion",
+      "relevance": 0.512239,
+      "count": 1
+    },
+    {
+      "text": "cauca de la auditoria regular",
+      "relevance": 0.51184,
+      "count": 1
+    },
+    {
+      "text": "principio de anualidad",
+      "relevance": 0.511378,
+      "count": 1
+    }
+  ]
+}

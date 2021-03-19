@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 5,
+    "text_characters": 47441,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "convocatorias docentes",
+      "relevance": 0.655068,
+      "count": 1
+    },
+    {
+      "text": "experiencia docente",
+      "relevance": 0.647632,
+      "count": 8
+    },
+    {
+      "text": "titulo profesional",
+      "relevance": 0.643528,
+      "count": 1
+    },
+    {
+      "text": "experiencia investigativa",
+      "relevance": 0.634711,
+      "count": 28
+    },
+    {
+      "text": "experiencia docente universitaria de minimo",
+      "relevance": 0.61308,
+      "count": 19
+    },
+    {
+      "text": "medio tiempo",
+      "relevance": 0.607853,
+      "count": 26
+    },
+    {
+      "text": "afos de experiencia profesional",
+      "relevance": 0.597491,
+      "count": 1
+    },
+    {
+      "text": "dedicacion de tiempo completo",
+      "relevance": 0.562824,
+      "count": 1
+    },
+    {
+      "text": "experiencia profesional",
+      "relevance": 0.560977,
+      "count": 15
+    },
+    {
+      "text": "ciencias sociales",
+      "relevance": 0.550959,
+      "count": 15
+    },
+    {
+      "text": "area de la convocatoria",
+      "relevance": 0.549811,
+      "count": 50
+    },
+    {
+      "text": "casos de experiencia hora catedra",
+      "relevance": 0.548722,
+      "count": 1
+    },
+    {
+      "text": "ciencias de la administracion",
+      "relevance": 0.548218,
+      "count": 1
+    },
+    {
+      "text": "docentes de carrera de tiempo completo",
+      "relevance": 0.543112,
+      "count": 1
+    },
+    {
+      "text": "facultades de artes integradas",
+      "relevance": 0.541875,
+      "count": 1
+    },
+    {
+      "text": "unidades acad\u00e9micas",
+      "relevance": 0.540017,
+      "count": 1
+    },
+    {
+      "text": "equivalente de tiempo",
+      "relevance": 0.533911,
+      "count": 11
+    },
+    {
+      "text": "area de mercadeo",
+      "relevance": 0.533825,
+      "count": 1
+    },
+    {
+      "text": "area",
+      "relevance": 0.533797,
+      "count": 31
+    },
+    {
+      "text": "perfil general",
+      "relevance": 0.532928,
+      "count": 1
+    },
+    {
+      "text": "trabajo de investigacion",
+      "relevance": 0.532021,
+      "count": 3
+    },
+    {
+      "text": "planta de cargos de empleados",
+      "relevance": 0.531389,
+      "count": 1
+    },
+    {
+      "text": "area de ciencias sociales",
+      "relevance": 0.531072,
+      "count": 2
+    },
+    {
+      "text": "nombramiento de profesores de tiempo",
+      "relevance": 0.531072,
+      "count": 1
+    },
+    {
+      "text": "disefio mecanico",
+      "relevance": 0.529774,
+      "count": 1
+    },
+    {
+      "text": "efectos de esta convocatoria",
+      "relevance": 0.528923,
+      "count": 1
+    },
+    {
+      "text": "ingeniero fisico",
+      "relevance": 0.527052,
+      "count": 1
+    },
+    {
+      "text": "ciencias naturales",
+      "relevance": 0.526521,
+      "count": 1
+    },
+    {
+      "text": "institutos de educacion",
+      "relevance": 0.52637,
+      "count": 1
+    },
+    {
+      "text": "grado correspondiente",
+      "relevance": 0.525212,
+      "count": 1
+    },
+    {
+      "text": "afio de experiencia docente universitaria",
+      "relevance": 0.525156,
+      "count": 2
+    },
+    {
+      "text": "planta de profesores nombrados",
+      "relevance": 0.524234,
+      "count": 1
+    },
+    {
+      "text": "publicaciones recientes",
+      "relevance": 0.522612,
+      "count": 1
+    },
+    {
+      "text": "area de sociologia",
+      "relevance": 0.522302,
+      "count": 2
+    },
+    {
+      "text": "planes de desarrollo de estas unidades",
+      "relevance": 0.521991,
+      "count": 1
+    },
+    {
+      "text": "produccion intelectual acad\u00e9mica",
+      "relevance": 0.519945,
+      "count": 3
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.519709,
+      "count": 2
+    },
+    {
+      "text": "cargos docentes",
+      "relevance": 0.518992,
+      "count": 8
+    },
+    {
+      "text": "facultad de salud",
+      "relevance": 0.518903,
+      "count": 2
+    },
+    {
+      "text": "facultad de ciencias sociales",
+      "relevance": 0.518821,
+      "count": 1
+    },
+    {
+      "text": "ingeniero mecatr\u00e9nico",
+      "relevance": 0.518245,
+      "count": 1
+    },
+    {
+      "text": "experiencia profesional de minimo",
+      "relevance": 0.518068,
+      "count": 16
+    },
+    {
+      "text": "desarrollo comunitario",
+      "relevance": 0.517525,
+      "count": 9
+    },
+    {
+      "text": "quimica inorganica",
+      "relevance": 0.517413,
+      "count": 1
+    },
+    {
+      "text": "experiencia docente universitaria",
+      "relevance": 0.515214,
+      "count": 36
+    },
+    {
+      "text": "asistentes de docencia",
+      "relevance": 0.515058,
+      "count": 1
+    },
+    {
+      "text": "area de cognicion",
+      "relevance": 0.514997,
+      "count": 2
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.514553,
+      "count": 1
+    },
+    {
+      "text": "sector privado",
+      "relevance": 0.514234,
+      "count": 1
+    },
+    {
+      "text": "diferentes unidades",
+      "relevance": 0.513912,
+      "count": 1
+    }
+  ]
+}

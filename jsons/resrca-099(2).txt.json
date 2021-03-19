@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 7009,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "investigacion de maestria",
+      "relevance": 0.692434,
+      "count": 4
+    },
+    {
+      "text": "tesis de doctorado",
+      "relevance": 0.647984,
+      "count": 6
+    },
+    {
+      "text": "trabajos de investigacion",
+      "relevance": 0.626103,
+      "count": 2
+    },
+    {
+      "text": "numero total",
+      "relevance": 0.604116,
+      "count": 1
+    },
+    {
+      "text": "diferentes unidades acad\u00e9micas",
+      "relevance": 0.596691,
+      "count": 1
+    },
+    {
+      "text": "publicacion de resultados",
+      "relevance": 0.580509,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.574923,
+      "count": 3
+    },
+    {
+      "text": "literal c",
+      "relevance": 0.568303,
+      "count": 1
+    },
+    {
+      "text": "estatuto general",
+      "relevance": 0.562943,
+      "count": 1
+    },
+    {
+      "text": "ningun caso",
+      "relevance": 0.559226,
+      "count": 1
+    },
+    {
+      "text": "sustentacion oral",
+      "relevance": 0.555373,
+      "count": 1
+    },
+    {
+      "text": "tipo de publicaciones",
+      "relevance": 0.552692,
+      "count": 1
+    },
+    {
+      "text": "presente resolucion",
+      "relevance": 0.547635,
+      "count": 1
+    },
+    {
+      "text": "concepto argumentado",
+      "relevance": 0.545936,
+      "count": 1
+    },
+    {
+      "text": "calidad de las tesis",
+      "relevance": 0.540639,
+      "count": 1
+    },
+    {
+      "text": "acad\u00e9mico correspondiente",
+      "relevance": 0.540268,
+      "count": 1
+    },
+    {
+      "text": "periodos acad\u00e9micos",
+      "relevance": 0.53748,
+      "count": 1
+    },
+    {
+      "text": "trabajos de investigacion de maestria",
+      "relevance": 0.537405,
+      "count": 1
+    },
+    {
+      "text": "revista internacional",
+      "relevance": 0.536947,
+      "count": 5
+    },
+    {
+      "text": "siguientes requisitos",
+      "relevance": 0.535859,
+      "count": 1
+    },
+    {
+      "text": "facultad de ingenieria",
+      "relevance": 0.531494,
+      "count": 3
+    },
+    {
+      "text": "sectores productivos",
+      "relevance": 0.53073,
+      "count": 1
+    },
+    {
+      "text": "acta de sustentacion de la tesis",
+      "relevance": 0.529876,
+      "count": 1
+    },
+    {
+      "text": "comit\u00e9 de investigaciones",
+      "relevance": 0.5279,
+      "count": 1
+    },
+    {
+      "text": "requisitos exigidos",
+      "relevance": 0.527247,
+      "count": 1
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.526895,
+      "count": 1
+    },
+    {
+      "text": "sesion del dia",
+      "relevance": 0.526431,
+      "count": 1
+    },
+    {
+      "text": "impacto social",
+      "relevance": 0.522392,
+      "count": 1
+    },
+    {
+      "text": "copia de los resumenes",
+      "relevance": 0.520239,
+      "count": 1
+    },
+    {
+      "text": "revista nacional",
+      "relevance": 0.520181,
+      "count": 2
+    },
+    {
+      "text": "tesis doctoral",
+      "relevance": 0.519996,
+      "count": 1
+    },
+    {
+      "text": "concepto del comit\u00e9 de investigacion",
+      "relevance": 0.519569,
+      "count": 1
+    },
+    {
+      "text": "siguientes criterios",
+      "relevance": 0.518982,
+      "count": 1
+    },
+    {
+      "text": "trabajo de investigacion de maestria",
+      "relevance": 0.518978,
+      "count": 1
+    },
+    {
+      "text": "trabajos",
+      "relevance": 0.517136,
+      "count": 5
+    },
+    {
+      "text": "sustentacion de la tesis",
+      "relevance": 0.516574,
+      "count": 1
+    },
+    {
+      "text": "secretario general",
+      "relevance": 0.515504,
+      "count": 1
+    },
+    {
+      "text": "presentacion de trabajos de investigacion",
+      "relevance": 0.515162,
+      "count": 1
+    },
+    {
+      "text": "aut6nomo",
+      "relevance": 0.514704,
+      "count": 1
+    },
+    {
+      "text": "caso de ambas menciones",
+      "relevance": 0.51156,
+      "count": 1
+    },
+    {
+      "text": "consejo academico de la universidad del valle",
+      "relevance": 0.511222,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.510677,
+      "count": 1
+    },
+    {
+      "text": "revistas internacionales",
+      "relevance": 0.510616,
+      "count": 1
+    },
+    {
+      "text": "calidad de la discusi\u00e9n de resultados",
+      "relevance": 0.510603,
+      "count": 1
+    },
+    {
+      "text": "duracion prevista",
+      "relevance": 0.510294,
+      "count": 1
+    },
+    {
+      "text": "trabajo de investigacion",
+      "relevance": 0.51013,
+      "count": 3
+    },
+    {
+      "text": "principal indicador",
+      "relevance": 0.510099,
+      "count": 1
+    },
+    {
+      "text": "trabajo escrito",
+      "relevance": 0.508915,
+      "count": 1
+    },
+    {
+      "text": "mencion de meritoria",
+      "relevance": 0.508127,
+      "count": 1
+    },
+    {
+      "text": "t\u00e9rminos de su estructura",
+      "relevance": 0.507162,
+      "count": 1
+    }
+  ]
+}

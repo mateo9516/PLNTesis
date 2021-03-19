@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 2,
+    "text_characters": 11468,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "direccion de relaciones internacionales",
+      "relevance": 0.684918,
+      "count": 6
+    },
+    {
+      "text": "organica de la universidad del valle",
+      "relevance": 0.61467,
+      "count": 1
+    },
+    {
+      "text": "nivel internacional",
+      "relevance": 0.594771,
+      "count": 1
+    },
+    {
+      "text": "escenario acad\u00e9mico internacional",
+      "relevance": 0.593588,
+      "count": 1
+    },
+    {
+      "text": "relaciones internacionales",
+      "relevance": 0.554162,
+      "count": 4
+    },
+    {
+      "text": "intercambio internacional",
+      "relevance": 0.553615,
+      "count": 1
+    },
+    {
+      "text": "febrero del ano",
+      "relevance": 0.551027,
+      "count": 2
+    },
+    {
+      "text": "vicerrectoria de investigaciones",
+      "relevance": 0.539967,
+      "count": 2
+    },
+    {
+      "text": "funciones asignadas",
+      "relevance": 0.539804,
+      "count": 1
+    },
+    {
+      "text": "intercambio de dicho conocimiento",
+      "relevance": 0.539508,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.537274,
+      "count": 15
+    },
+    {
+      "text": "generacion de nuevo conocimiento",
+      "relevance": 0.535356,
+      "count": 1
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.53482,
+      "count": 8
+    },
+    {
+      "text": "cupo correspondiente",
+      "relevance": 0.53465,
+      "count": 1
+    },
+    {
+      "text": "politica de internacionalizaci6n",
+      "relevance": 0.531302,
+      "count": 1
+    },
+    {
+      "text": "proyectos internacionales",
+      "relevance": 0.529778,
+      "count": 1
+    },
+    {
+      "text": "colaboracion acad\u00e9mica",
+      "relevance": 0.528945,
+      "count": 1
+    },
+    {
+      "text": "produccion intelectual",
+      "relevance": 0.528406,
+      "count": 1
+    },
+    {
+      "text": "mejor manera",
+      "relevance": 0.528074,
+      "count": 1
+    },
+    {
+      "text": "comit\u00e9 de asuntos internacionales",
+      "relevance": 0.527979,
+      "count": 3
+    },
+    {
+      "text": "calidad de invitado",
+      "relevance": 0.52655,
+      "count": 1
+    },
+    {
+      "text": "direccio\u00e9n de relaciones internacionales",
+      "relevance": 0.52558,
+      "count": 1
+    },
+    {
+      "text": "profesor de carrera",
+      "relevance": 0.525198,
+      "count": 1
+    },
+    {
+      "text": "instituciones nacionales",
+      "relevance": 0.525189,
+      "count": 2
+    },
+    {
+      "text": "lenguas extranjeras",
+      "relevance": 0.524316,
+      "count": 1
+    },
+    {
+      "text": "grandes retos",
+      "relevance": 0.524016,
+      "count": 1
+    },
+    {
+      "text": "mayor movilidad",
+      "relevance": 0.521034,
+      "count": 1
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.520586,
+      "count": 1
+    },
+    {
+      "text": "financiamiento complementario",
+      "relevance": 0.51968,
+      "count": 1
+    },
+    {
+      "text": "acto administrativo",
+      "relevance": 0.519041,
+      "count": 1
+    },
+    {
+      "text": "estructura organizacional",
+      "relevance": 0.518895,
+      "count": 2
+    },
+    {
+      "text": "direcci\u00e9n de relaciones internacionales",
+      "relevance": 0.518786,
+      "count": 1
+    },
+    {
+      "text": "congreso de colombia",
+      "relevance": 0.51866,
+      "count": 1
+    },
+    {
+      "text": "movilidad acad\u00e9mica",
+      "relevance": 0.518184,
+      "count": 3
+    },
+    {
+      "text": "direcci6\u00e9n universitaria",
+      "relevance": 0.517421,
+      "count": 1
+    },
+    {
+      "text": "apoyo administrativo",
+      "relevance": 0.516142,
+      "count": 1
+    },
+    {
+      "text": "objetivos de la politica de investigacion",
+      "relevance": 0.516021,
+      "count": 1
+    },
+    {
+      "text": "cargos de los servidores",
+      "relevance": 0.515638,
+      "count": 1
+    },
+    {
+      "text": "coordinador de area",
+      "relevance": 0.51544,
+      "count": 2
+    },
+    {
+      "text": "programas internacionales",
+      "relevance": 0.515023,
+      "count": 2
+    },
+    {
+      "text": "supresion de este cupo",
+      "relevance": 0.514896,
+      "count": 1
+    },
+    {
+      "text": "creacion artistica",
+      "relevance": 0.514034,
+      "count": 1
+    },
+    {
+      "text": "hara parte integral",
+      "relevance": 0.513986,
+      "count": 1
+    },
+    {
+      "text": "comunidad universitaria",
+      "relevance": 0.513794,
+      "count": 2
+    },
+    {
+      "text": "informacion relativa",
+      "relevance": 0.513469,
+      "count": 1
+    },
+    {
+      "text": "saliente de estudiantes",
+      "relevance": 0.512059,
+      "count": 1
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.512054,
+      "count": 9
+    },
+    {
+      "text": "parte de la comunidad universitaria",
+      "relevance": 0.511984,
+      "count": 1
+    },
+    {
+      "text": "intercambio acad\u00e9mico",
+      "relevance": 0.511883,
+      "count": 1
+    },
+    {
+      "text": "eventos internacionales",
+      "relevance": 0.511798,
+      "count": 1
+    }
+  ]
+}

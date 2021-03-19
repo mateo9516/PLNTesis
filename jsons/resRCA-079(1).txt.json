@@ -1,0 +1,215 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1506,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "fechas acordadas",
+      "relevance": 0.731399,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.721982,
+      "count": 1
+    },
+    {
+      "text": "flexibilidad acad\u00e9mica",
+      "relevance": 0.713653,
+      "count": 1
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.687474,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.685358,
+      "count": 1
+    },
+    {
+      "text": "foros de reflexion",
+      "relevance": 0.630698,
+      "count": 1
+    },
+    {
+      "text": "comunidad universitaria",
+      "relevance": 0.589052,
+      "count": 1
+    },
+    {
+      "text": "salon de reuniones",
+      "relevance": 0.579748,
+      "count": 1
+    },
+    {
+      "text": "ejercicio acad\u00e9mico conducente",
+      "relevance": 0.55735,
+      "count": 1
+    },
+    {
+      "text": "realizaci\u00e9n de los foros",
+      "relevance": 0.557338,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de agosto",
+      "relevance": 0.533419,
+      "count": 1
+    },
+    {
+      "text": "consejo academico de la universidad del valle",
+      "relevance": 0.52265,
+      "count": 1
+    },
+    {
+      "text": "uso de sus atribuciones",
+      "relevance": 0.517849,
+      "count": 1
+    },
+    {
+      "text": "secretario general",
+      "relevance": 0.517849,
+      "count": 1
+    },
+    {
+      "text": "temas nacionales",
+      "relevance": 0.511953,
+      "count": 1
+    },
+    {
+      "text": "horas de la manana",
+      "relevance": 0.501457,
+      "count": 4
+    },
+    {
+      "text": "lopez pulecio",
+      "relevance": 0.501457,
+      "count": 1
+    },
+    {
+      "text": "normal desarrollo acad\u00e9mico del semestre",
+      "relevance": 0.491649,
+      "count": 1
+    },
+    {
+      "text": "realizacion de las mencionadas actividades estudiantiles",
+      "relevance": 0.476445,
+      "count": 1
+    },
+    {
+      "text": "evaluaciones",
+      "relevance": 0.459151,
+      "count": 1
+    },
+    {
+      "text": "fechas",
+      "relevance": 0.452423,
+      "count": 1
+    },
+    {
+      "text": "inter\u00e9s",
+      "relevance": 0.450044,
+      "count": 1
+    },
+    {
+      "text": "criterio",
+      "relevance": 0.446697,
+      "count": 1
+    },
+    {
+      "text": "octubre",
+      "relevance": 0.443322,
+      "count": 2
+    },
+    {
+      "text": "representaci6",
+      "relevance": 0.442949,
+      "count": 1
+    },
+    {
+      "text": "septiembre",
+      "relevance": 0.439383,
+      "count": 2
+    },
+    {
+      "text": "unico",
+      "relevance": 0.437677,
+      "count": 1
+    },
+    {
+      "text": "r\u00e9gimen",
+      "relevance": 0.436177,
+      "count": 1
+    },
+    {
+      "text": "ramos",
+      "relevance": 0.435877,
+      "count": 1
+    },
+    {
+      "text": "noviembre",
+      "relevance": 0.435735,
+      "count": 1
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.434616,
+      "count": 1
+    },
+    {
+      "text": "representacion",
+      "relevance": 0.433355,
+      "count": 1
+    },
+    {
+      "text": "resolucion",
+      "relevance": 0.432095,
+      "count": 1
+    },
+    {
+      "text": "serie",
+      "relevance": 0.432095,
+      "count": 1
+    },
+    {
+      "text": "internos",
+      "relevance": 0.432095,
+      "count": 1
+    },
+    {
+      "text": "pruebas",
+      "relevance": 0.432095,
+      "count": 1
+    },
+    {
+      "text": "nota",
+      "relevance": 0.432095,
+      "count": 1
+    },
+    {
+      "text": "siguientes",
+      "relevance": 0.432095,
+      "count": 1
+    },
+    {
+      "text": "dia",
+      "relevance": 0.432095,
+      "count": 1
+    },
+    {
+      "text": "presidente",
+      "relevance": 0.432095,
+      "count": 1
+    },
+    {
+      "text": "rector",
+      "relevance": 0.432095,
+      "count": 1
+    }
+  ]
+}

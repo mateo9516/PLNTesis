@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 2,
+    "text_characters": 10044,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "calidad acad\u00e9mica",
+      "relevance": 0.60483,
+      "count": 1
+    },
+    {
+      "text": "informe de la comision",
+      "relevance": 0.593419,
+      "count": 1
+    },
+    {
+      "text": "estatuto general de la universidad",
+      "relevance": 0.589391,
+      "count": 1
+    },
+    {
+      "text": "realizaci\u00e9n de la convocatoria",
+      "relevance": 0.57896,
+      "count": 1
+    },
+    {
+      "text": "evaluacion de m\u00e9ritos",
+      "relevance": 0.570712,
+      "count": 2
+    },
+    {
+      "text": "nombramiento de profesores",
+      "relevance": 0.562569,
+      "count": 2
+    },
+    {
+      "text": "comisi\u00e9n de seleccion",
+      "relevance": 0.561239,
+      "count": 1
+    },
+    {
+      "text": "siguientes pruebas",
+      "relevance": 0.547459,
+      "count": 1
+    },
+    {
+      "text": "parte de la comision de seleccion",
+      "relevance": 0.543924,
+      "count": 1
+    },
+    {
+      "text": "consejos de facultad",
+      "relevance": 0.543173,
+      "count": 2
+    },
+    {
+      "text": "acad\u00e9mica de los candidatos",
+      "relevance": 0.54209,
+      "count": 1
+    },
+    {
+      "text": "reglamentacion expedida",
+      "relevance": 0.541219,
+      "count": 1
+    },
+    {
+      "text": "estabilidad laboral",
+      "relevance": 0.539637,
+      "count": 1
+    },
+    {
+      "text": "estatuto profesoral",
+      "relevance": 0.539275,
+      "count": 4
+    },
+    {
+      "text": "diferentes facultades",
+      "relevance": 0.532952,
+      "count": 1
+    },
+    {
+      "text": "trabajo de indole acad\u00e9mica",
+      "relevance": 0.532276,
+      "count": 1
+    },
+    {
+      "text": "vicerrectoria acad\u00e9mica",
+      "relevance": 0.530236,
+      "count": 5
+    },
+    {
+      "text": "tal caso",
+      "relevance": 0.529762,
+      "count": 2
+    },
+    {
+      "text": "decision de rector",
+      "relevance": 0.528084,
+      "count": 1
+    },
+    {
+      "text": "hojas de vida",
+      "relevance": 0.527337,
+      "count": 1
+    },
+    {
+      "text": "trayectoria profesional",
+      "relevance": 0.52634,
+      "count": 1
+    },
+    {
+      "text": "documentaci\u00e9n reunida",
+      "relevance": 0.526113,
+      "count": 1
+    },
+    {
+      "text": "experiencia profesional",
+      "relevance": 0.525683,
+      "count": 1
+    },
+    {
+      "text": "razones legales",
+      "relevance": 0.525034,
+      "count": 1
+    },
+    {
+      "text": "unidad acad\u00e9mica",
+      "relevance": 0.523491,
+      "count": 2
+    },
+    {
+      "text": "perfil ocupacional",
+      "relevance": 0.523116,
+      "count": 1
+    },
+    {
+      "text": "formaci\u00e9n acad\u00e9mica",
+      "relevance": 0.522483,
+      "count": 1
+    },
+    {
+      "text": "comisiones de seleccion",
+      "relevance": 0.522355,
+      "count": 1
+    },
+    {
+      "text": "comentarios de esta comision",
+      "relevance": 0.522073,
+      "count": 1
+    },
+    {
+      "text": "presente resolucion",
+      "relevance": 0.521895,
+      "count": 1
+    },
+    {
+      "text": "concurso publico de m\u00e9ritos",
+      "relevance": 0.521878,
+      "count": 2
+    },
+    {
+      "text": "capacidad creativa",
+      "relevance": 0.521845,
+      "count": 1
+    },
+    {
+      "text": "necesidades del area",
+      "relevance": 0.52175,
+      "count": 1
+    },
+    {
+      "text": "evaluacion de los m\u00e9ritos",
+      "relevance": 0.52078,
+      "count": 1
+    },
+    {
+      "text": "respectiva facultad",
+      "relevance": 0.519984,
+      "count": 1
+    },
+    {
+      "text": "plan de trabajo del profesor",
+      "relevance": 0.519814,
+      "count": 1
+    },
+    {
+      "text": "solidez de los conocimientos",
+      "relevance": 0.519067,
+      "count": 1
+    },
+    {
+      "text": "atribuciones legales",
+      "relevance": 0.518239,
+      "count": 1
+    },
+    {
+      "text": "informe de la comisi\u00e9n",
+      "relevance": 0.517636,
+      "count": 1
+    },
+    {
+      "text": "idoneidad de los profesores",
+      "relevance": 0.517432,
+      "count": 1
+    },
+    {
+      "text": "estatuto general",
+      "relevance": 0.517343,
+      "count": 1
+    },
+    {
+      "text": "cargos nuevos",
+      "relevance": 0.516117,
+      "count": 1
+    },
+    {
+      "text": "comision de seleccio\u00e9n",
+      "relevance": 0.514974,
+      "count": 1
+    },
+    {
+      "text": "anteriores parametros",
+      "relevance": 0.514916,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.514367,
+      "count": 1
+    },
+    {
+      "text": "circunstancias excepcionales",
+      "relevance": 0.512355,
+      "count": 1
+    },
+    {
+      "text": "vida acad\u00e9mica",
+      "relevance": 0.512344,
+      "count": 1
+    },
+    {
+      "text": "mala conducta",
+      "relevance": 0.512137,
+      "count": 1
+    },
+    {
+      "text": "meses siguientes",
+      "relevance": 0.5119,
+      "count": 1
+    },
+    {
+      "text": "consejo de facultad",
+      "relevance": 0.511826,
+      "count": 4
+    }
+  ]
+}

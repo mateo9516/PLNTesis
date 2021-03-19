@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 6175,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "atribuciones legales",
+      "relevance": 0.601612,
+      "count": 1
+    },
+    {
+      "text": "estudiantes de los programas de pregrado",
+      "relevance": 0.599614,
+      "count": 1
+    },
+    {
+      "text": "desarrollo de la autonomia universitaria",
+      "relevance": 0.595046,
+      "count": 1
+    },
+    {
+      "text": "universidad del valle correspondientes",
+      "relevance": 0.591878,
+      "count": 2
+    },
+    {
+      "text": "periodo acad\u00e9mico",
+      "relevance": 0.578153,
+      "count": 3
+    },
+    {
+      "text": "estudiantes de la sede cali",
+      "relevance": 0.573388,
+      "count": 1
+    },
+    {
+      "text": "pleno desarrollo",
+      "relevance": 0.568594,
+      "count": 1
+    },
+    {
+      "text": "sedes regionales",
+      "relevance": 0.564173,
+      "count": 1
+    },
+    {
+      "text": "presente resolucion",
+      "relevance": 0.559768,
+      "count": 4
+    },
+    {
+      "text": "r\u00e9gimen especial",
+      "relevance": 0.556348,
+      "count": 1
+    },
+    {
+      "text": "marzo del afo",
+      "relevance": 0.555346,
+      "count": 1
+    },
+    {
+      "text": "corresponsabilidad social",
+      "relevance": 0.548744,
+      "count": 1
+    },
+    {
+      "text": "organizacion mundial de la salud",
+      "relevance": 0.548294,
+      "count": 1
+    },
+    {
+      "text": "hecho cierto",
+      "relevance": 0.546726,
+      "count": 1
+    },
+    {
+      "text": "condonacion de las deudas pendientes",
+      "relevance": 0.540211,
+      "count": 2
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.539172,
+      "count": 4
+    },
+    {
+      "text": "marco de referencia",
+      "relevance": 0.53792,
+      "count": 1
+    },
+    {
+      "text": "cumplimiento de su mision",
+      "relevance": 0.536156,
+      "count": 1
+    },
+    {
+      "text": "programas acad\u00e9micos",
+      "relevance": 0.534923,
+      "count": 2
+    },
+    {
+      "text": "estatuto general",
+      "relevance": 0.534218,
+      "count": 1
+    },
+    {
+      "text": "estudiantes de la universidad del valle",
+      "relevance": 0.531129,
+      "count": 1
+    },
+    {
+      "text": "documento original",
+      "relevance": 0.528159,
+      "count": 1
+    },
+    {
+      "text": "proyecto de vida roto",
+      "relevance": 0.526699,
+      "count": 1
+    },
+    {
+      "text": "mecanismos tendientes",
+      "relevance": 0.52158,
+      "count": 1
+    },
+    {
+      "text": "constituci6n politica",
+      "relevance": 0.521554,
+      "count": 1
+    },
+    {
+      "text": "autoridades acad\u00e9micas",
+      "relevance": 0.51961,
+      "count": 1
+    },
+    {
+      "text": "territorio nacional",
+      "relevance": 0.517364,
+      "count": 2
+    },
+    {
+      "text": "agosto-diciembre",
+      "relevance": 0.517203,
+      "count": 1
+    },
+    {
+      "text": "parte de su compromiso social",
+      "relevance": 0.517172,
+      "count": 1
+    },
+    {
+      "text": "motivo de la pandemia",
+      "relevance": 0.516557,
+      "count": 1
+    },
+    {
+      "text": "estudiantes de pregrado de la universidad",
+      "relevance": 0.515723,
+      "count": 1
+    },
+    {
+      "text": "propios estatutos",
+      "relevance": 0.515252,
+      "count": 1
+    },
+    {
+      "text": "clara luz",
+      "relevance": 0.513482,
+      "count": 1
+    },
+    {
+      "text": "desarrollo acad\u00e9mico",
+      "relevance": 0.51334,
+      "count": 1
+    },
+    {
+      "text": "ministerio de salud",
+      "relevance": 0.513204,
+      "count": 1
+    },
+    {
+      "text": "presente resoluci6",
+      "relevance": 0.511637,
+      "count": 1
+    },
+    {
+      "text": "economia colombiana",
+      "relevance": 0.511558,
+      "count": 1
+    },
+    {
+      "text": "universidades del estado",
+      "relevance": 0.510643,
+      "count": 1
+    },
+    {
+      "text": "sede calli",
+      "relevance": 0.509653,
+      "count": 1
+    },
+    {
+      "text": "desercion universitaria",
+      "relevance": 0.509083,
+      "count": 1
+    },
+    {
+      "text": "virus coronavirus covid-19",
+      "relevance": 0.508946,
+      "count": 1
+    },
+    {
+      "text": "efectos negativos de esta eventualidad",
+      "relevance": 0.507894,
+      "count": 1
+    },
+    {
+      "text": "trav\u00e9s del consejo superior",
+      "relevance": 0.506974,
+      "count": 1
+    },
+    {
+      "text": "causa del coronavirus covid-19",
+      "relevance": 0.506645,
+      "count": 1
+    },
+    {
+      "text": "emergencia sanitaria",
+      "relevance": 0.506503,
+      "count": 1
+    },
+    {
+      "text": "costo colateral",
+      "relevance": 0.506411,
+      "count": 1
+    },
+    {
+      "text": "fuerza ejecutoria de conformidad",
+      "relevance": 0.505226,
+      "count": 1
+    },
+    {
+      "text": "estudiantes de programas de pregrado",
+      "relevance": 0.505037,
+      "count": 1
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.503915,
+      "count": 2
+    },
+    {
+      "text": "creaci\u00e9n de planes",
+      "relevance": 0.503825,
+      "count": 1
+    }
+  ]
+}

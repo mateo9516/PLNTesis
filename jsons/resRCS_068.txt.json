@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 2,
+    "text_characters": 15848,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "plan estrat\u00e9gico de desarrollo",
+      "relevance": 0.662599,
+      "count": 3
+    },
+    {
+      "text": "proyecciones de recursos de inversion",
+      "relevance": 0.611718,
+      "count": 1
+    },
+    {
+      "text": "plan programatico",
+      "relevance": 0.569689,
+      "count": 4
+    },
+    {
+      "text": "indicativo del sistema presupuestal",
+      "relevance": 0.568823,
+      "count": 1
+    },
+    {
+      "text": "sistema de seguimiento",
+      "relevance": 0.562404,
+      "count": 1
+    },
+    {
+      "text": "plan plurianual de inversiones de la universidad",
+      "relevance": 0.554779,
+      "count": 2
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.546341,
+      "count": 15
+    },
+    {
+      "text": "presupuesto general de la universidad",
+      "relevance": 0.538404,
+      "count": 1
+    },
+    {
+      "text": "indicadores del plan programatico",
+      "relevance": 0.536775,
+      "count": 1
+    },
+    {
+      "text": "exito acad\u00e9mico",
+      "relevance": 0.533618,
+      "count": 1
+    },
+    {
+      "text": "valores \u00e9ticos",
+      "relevance": 0.533404,
+      "count": 1
+    },
+    {
+      "text": "recursos del impuesto",
+      "relevance": 0.532287,
+      "count": 1
+    },
+    {
+      "text": "caracter indicativo",
+      "relevance": 0.527558,
+      "count": 1
+    },
+    {
+      "text": "alta calidad",
+      "relevance": 0.525892,
+      "count": 1
+    },
+    {
+      "text": "lineamientos estrat\u00e9gicos",
+      "relevance": 0.525644,
+      "count": 1
+    },
+    {
+      "text": "fuente de inversion",
+      "relevance": 0.525216,
+      "count": 2
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.524825,
+      "count": 1
+    },
+    {
+      "text": "plan plurianual de inversiones",
+      "relevance": 0.524162,
+      "count": 5
+    },
+    {
+      "text": "componente fundamental",
+      "relevance": 0.523492,
+      "count": 1
+    },
+    {
+      "text": "presupuesto del trienio",
+      "relevance": 0.52254,
+      "count": 1
+    },
+    {
+      "text": "documento original",
+      "relevance": 0.522179,
+      "count": 1
+    },
+    {
+      "text": "entorno real",
+      "relevance": 0.521814,
+      "count": 1
+    },
+    {
+      "text": "plan financiero",
+      "relevance": 0.519875,
+      "count": 2
+    },
+    {
+      "text": "creacion artistica ao",
+      "relevance": 0.518843,
+      "count": 1
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.5186,
+      "count": 3
+    },
+    {
+      "text": "parte integral",
+      "relevance": 0.518137,
+      "count": 1
+    },
+    {
+      "text": "instrumento del sistema presupuestal",
+      "relevance": 0.516564,
+      "count": 1
+    },
+    {
+      "text": "forma eficaz",
+      "relevance": 0.515569,
+      "count": 1
+    },
+    {
+      "text": "desarrollo de la institucion",
+      "relevance": 0.5143,
+      "count": 1
+    },
+    {
+      "text": "adopci6n de programas concretos",
+      "relevance": 0.514282,
+      "count": 1
+    },
+    {
+      "text": "fuente de recursos",
+      "relevance": 0.514227,
+      "count": 1
+    },
+    {
+      "text": "presupuesto total indicativo",
+      "relevance": 0.51412,
+      "count": 1
+    },
+    {
+      "text": "presupuestos anuales de cada vigencia",
+      "relevance": 0.513832,
+      "count": 1
+    },
+    {
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.513719,
+      "count": 1
+    },
+    {
+      "text": "previsiones de ingresos",
+      "relevance": 0.513137,
+      "count": 1
+    },
+    {
+      "text": "plan plurianual",
+      "relevance": 0.512674,
+      "count": 2
+    },
+    {
+      "text": "estatuto organico del presupuesto de la universidad",
+      "relevance": 0.512528,
+      "count": 1
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.512097,
+      "count": 15
+    },
+    {
+      "text": "reuniones del despacho de la gobernadora",
+      "relevance": 0.511768,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de diciembre",
+      "relevance": 0.510761,
+      "count": 1
+    },
+    {
+      "text": "instituci6n",
+      "relevance": 0.510153,
+      "count": 2
+    },
+    {
+      "text": "proyecciones iniciales",
+      "relevance": 0.510143,
+      "count": 1
+    },
+    {
+      "text": "eje estrategia",
+      "relevance": 0.509881,
+      "count": 1
+    },
+    {
+      "text": "uso de sus atribuciones",
+      "relevance": 0.509696,
+      "count": 1
+    },
+    {
+      "text": "competencias promoci6n",
+      "relevance": 0.509663,
+      "count": 1
+    },
+    {
+      "text": "presente resoluci6n",
+      "relevance": 0.509167,
+      "count": 1
+    },
+    {
+      "text": "direccionamiento de la inversion",
+      "relevance": 0.509003,
+      "count": 1
+    },
+    {
+      "text": "indicadores de resultado",
+      "relevance": 0.5087,
+      "count": 2
+    },
+    {
+      "text": "gesti\u00e9dn financiera de la universidad",
+      "relevance": 0.508421,
+      "count": 1
+    },
+    {
+      "text": "largo plazo",
+      "relevance": 0.508248,
+      "count": 1
+    }
+  ]
+}

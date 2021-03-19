@@ -1,0 +1,30 @@
+--tesseract, sin esto no se puede hacer OCR
+https://tesseract-ocr.github.io/tessdoc/Home.html
+
+https://digi.bib.uni-mannheim.de/tesseract/tesseract-ocr-w64-setup-v5.0.0-alpha.20200328.exe descarga directa
+
+debemos agregar tesseract a las variables del entorno en PATH imagen adjunta al repo
+
+buscar en el archivo esta linea de codigo 
+
+pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files (x86)\Tesseract-OCR\tesseract.exe"
+
+insertar la ruta donde esta elojado el tesseract
+
+--- instalar por consola 
+pip3 install PIL
+pip3 install pytesseract
+pip3 install pdf2image
+pip3 install tesseract
+
+--
+
+verificar en el cmd tener instalado pdfInfo
+
+sino descargarlo
+
+---
+
+descargar poppler tambien es necesario para acceder a los pdf
+
+*****

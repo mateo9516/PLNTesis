@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3140,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "centro de investigaciones",
+      "relevance": 0.706755,
+      "count": 1
+    },
+    {
+      "text": "comit\u00e9 central de investigaciones",
+      "relevance": 0.677753,
+      "count": 2
+    },
+    {
+      "text": "ciencias sociales",
+      "relevance": 0.589742,
+      "count": 2
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.580248,
+      "count": 1
+    },
+    {
+      "text": "centros",
+      "relevance": 0.571705,
+      "count": 4
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.571521,
+      "count": 3
+    },
+    {
+      "text": "estudios avanzados",
+      "relevance": 0.563554,
+      "count": 2
+    },
+    {
+      "text": "creaci6n",
+      "relevance": 0.561697,
+      "count": 1
+    },
+    {
+      "text": "presente resolucion",
+      "relevance": 0.552312,
+      "count": 1
+    },
+    {
+      "text": "territorio construcci6\u00e9n",
+      "relevance": 0.537645,
+      "count": 1
+    },
+    {
+      "text": "centros de investigacion",
+      "relevance": 0.532937,
+      "count": 1
+    },
+    {
+      "text": "salon de reuniones",
+      "relevance": 0.531034,
+      "count": 1
+    },
+    {
+      "text": "investigaci6n",
+      "relevance": 0.524452,
+      "count": 1
+    },
+    {
+      "text": "consejo academico de la universidad del valle",
+      "relevance": 0.522992,
+      "count": 1
+    },
+    {
+      "text": "centros de investigaci6n",
+      "relevance": 0.522419,
+      "count": 1
+    },
+    {
+      "text": "centro",
+      "relevance": 0.517171,
+      "count": 3
+    },
+    {
+      "text": "actualizacion de acuerdo",
+      "relevance": 0.516935,
+      "count": 1
+    },
+    {
+      "text": "sistema de investigacion de la universidad",
+      "relevance": 0.51527,
+      "count": 1
+    },
+    {
+      "text": "atribuciones legales",
+      "relevance": 0.511763,
+      "count": 1
+    },
+    {
+      "text": "secretario general",
+      "relevance": 0.511763,
+      "count": 1
+    },
+    {
+      "text": "documentaci6n socioecon\u00e9mica",
+      "relevance": 0.511453,
+      "count": 1
+    },
+    {
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.509317,
+      "count": 1
+    },
+    {
+      "text": "correspondientes facultades",
+      "relevance": 0.50922,
+      "count": 1
+    },
+    {
+      "text": "evaluacion de tecnologia",
+      "relevance": 0.508565,
+      "count": 1
+    },
+    {
+      "text": "evaluaci6n de tecnologia",
+      "relevance": 0.507277,
+      "count": 1
+    },
+    {
+      "text": "documentacion socioeconomica",
+      "relevance": 0.507269,
+      "count": 1
+    },
+    {
+      "text": "institutos acad\u00e9micos",
+      "relevance": 0.505687,
+      "count": 2
+    },
+    {
+      "text": "presentaci6n",
+      "relevance": 0.501881,
+      "count": 1
+    },
+    {
+      "text": "castillo gomez",
+      "relevance": 0.500535,
+      "count": 1
+    },
+    {
+      "text": "territorio construcci6n",
+      "relevance": 0.499689,
+      "count": 1
+    },
+    {
+      "text": "segundo semestre",
+      "relevance": 0.499232,
+      "count": 1
+    },
+    {
+      "text": "dinamicas de la ctel",
+      "relevance": 0.499232,
+      "count": 1
+    },
+    {
+      "text": "dias de enero",
+      "relevance": 0.49778,
+      "count": 1
+    },
+    {
+      "text": "cognici6n",
+      "relevance": 0.496795,
+      "count": 1
+    },
+    {
+      "text": "instancia",
+      "relevance": 0.495536,
+      "count": 1
+    },
+    {
+      "text": "consejo acad\u00e9mico de la universidad del valle expidiod",
+      "relevance": 0.48579,
+      "count": 1
+    },
+    {
+      "text": "investigaciones",
+      "relevance": 0.483956,
+      "count": 5
+    },
+    {
+      "text": "anos",
+      "relevance": 0.483426,
+      "count": 1
+    },
+    {
+      "text": "acuerdo",
+      "relevance": 0.483342,
+      "count": 4
+    },
+    {
+      "text": "resolucion",
+      "relevance": 0.480301,
+      "count": 1
+    },
+    {
+      "text": "condiciones",
+      "relevance": 0.47948,
+      "count": 1
+    },
+    {
+      "text": "normativa vigente de la universidad del valle",
+      "relevance": 0.478953,
+      "count": 1
+    },
+    {
+      "text": "desarrollo",
+      "relevance": 0.476347,
+      "count": 2
+    },
+    {
+      "text": "normas",
+      "relevance": 0.475746,
+      "count": 1
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.475729,
+      "count": 2
+    },
+    {
+      "text": "recomendaciones",
+      "relevance": 0.474835,
+      "count": 1
+    },
+    {
+      "text": "diciembre",
+      "relevance": 0.472487,
+      "count": 2
+    },
+    {
+      "text": "valle",
+      "relevance": 0.472338,
+      "count": 1
+    },
+    {
+      "text": "solicit6",
+      "relevance": 0.472047,
+      "count": 1
+    },
+    {
+      "text": "reconocimiento",
+      "relevance": 0.472009,
+      "count": 2
+    }
+  ]
+}

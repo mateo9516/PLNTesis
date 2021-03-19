@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2288,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "estudios de una unidad acad\u00e9mica",
+      "relevance": 0.790755,
+      "count": 1
+    },
+    {
+      "text": "distribucion del porcentaje de cupos",
+      "relevance": 0.735664,
+      "count": 1
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.695841,
+      "count": 3
+    },
+    {
+      "text": "maximo de docentes",
+      "relevance": 0.65522,
+      "count": 1
+    },
+    {
+      "text": "desarrollo acad\u00e9mico de la universidad",
+      "relevance": 0.644181,
+      "count": 1
+    },
+    {
+      "text": "unidad acad\u00e9mica",
+      "relevance": 0.594969,
+      "count": 3
+    },
+    {
+      "text": "calidad acad\u00e9mica",
+      "relevance": 0.591153,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.587246,
+      "count": 1
+    },
+    {
+      "text": "tiempo completo",
+      "relevance": 0.584163,
+      "count": 2
+    },
+    {
+      "text": "docentes nombrados",
+      "relevance": 0.576256,
+      "count": 1
+    },
+    {
+      "text": "investigacion de extension",
+      "relevance": 0.563753,
+      "count": 1
+    },
+    {
+      "text": "desarrollo profesoral",
+      "relevance": 0.55404,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.543077,
+      "count": 1
+    },
+    {
+      "text": "estimulos acad\u00e9micos",
+      "relevance": 0.537661,
+      "count": 1
+    },
+    {
+      "text": "6n interna de comisiones",
+      "relevance": 0.536517,
+      "count": 1
+    },
+    {
+      "text": "comisiones de estudio",
+      "relevance": 0.534197,
+      "count": 1
+    },
+    {
+      "text": "resolucion del consejo superior",
+      "relevance": 0.533676,
+      "count": 1
+    },
+    {
+      "text": "salon de reuniones",
+      "relevance": 0.526916,
+      "count": 1
+    },
+    {
+      "text": "tiempo de dedicacion de los profesores",
+      "relevance": 0.526305,
+      "count": 1
+    },
+    {
+      "text": "total de profesores",
+      "relevance": 0.522001,
+      "count": 2
+    },
+    {
+      "text": "literal c",
+      "relevance": 0.519928,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de diciembre",
+      "relevance": 0.507862,
+      "count": 1
+    },
+    {
+      "text": "consejo academico de la universidad del valle",
+      "relevance": 0.503275,
+      "count": 1
+    },
+    {
+      "text": "uso de sus atribuciones",
+      "relevance": 0.502527,
+      "count": 1
+    },
+    {
+      "text": "secretario general",
+      "relevance": 0.502527,
+      "count": 1
+    },
+    {
+      "text": "numero de profesores",
+      "relevance": 0.501489,
+      "count": 1
+    },
+    {
+      "text": "ntimero total de personas",
+      "relevance": 0.499019,
+      "count": 1
+    },
+    {
+      "text": "bienestar universitario",
+      "relevance": 0.493851,
+      "count": 1
+    },
+    {
+      "text": "lopez pulecio",
+      "relevance": 0.492164,
+      "count": 1
+    },
+    {
+      "text": "instituto acad\u00e9mico",
+      "relevance": 0.488557,
+      "count": 1
+    },
+    {
+      "text": "aspectos de docencia",
+      "relevance": 0.487324,
+      "count": 1
+    },
+    {
+      "text": "comision de estudios",
+      "relevance": 0.480661,
+      "count": 1
+    },
+    {
+      "text": "universidad podra",
+      "relevance": 0.474301,
+      "count": 1
+    },
+    {
+      "text": "riesgo",
+      "relevance": 0.470231,
+      "count": 1
+    },
+    {
+      "text": "calculo",
+      "relevance": 0.464783,
+      "count": 1
+    },
+    {
+      "text": "comision",
+      "relevance": 0.462883,
+      "count": 3
+    },
+    {
+      "text": "profesores",
+      "relevance": 0.461647,
+      "count": 1
+    },
+    {
+      "text": "departamento",
+      "relevance": 0.459923,
+      "count": 1
+    },
+    {
+      "text": "porcentaje",
+      "relevance": 0.459716,
+      "count": 1
+    },
+    {
+      "text": "unico",
+      "relevance": 0.457879,
+      "count": 1
+    },
+    {
+      "text": "docentes",
+      "relevance": 0.455809,
+      "count": 1
+    },
+    {
+      "text": "facultad",
+      "relevance": 0.455769,
+      "count": 2
+    },
+    {
+      "text": "articulo",
+      "relevance": 0.455297,
+      "count": 2
+    },
+    {
+      "text": "correspondiente",
+      "relevance": 0.454942,
+      "count": 1
+    },
+    {
+      "text": "resolucion",
+      "relevance": 0.454414,
+      "count": 1
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.453812,
+      "count": 1
+    },
+    {
+      "text": "escuela",
+      "relevance": 0.453371,
+      "count": 1
+    },
+    {
+      "text": "instituto",
+      "relevance": 0.453189,
+      "count": 1
+    },
+    {
+      "text": "basica",
+      "relevance": 0.452743,
+      "count": 3
+    },
+    {
+      "text": "tce",
+      "relevance": 0.452307,
+      "count": 1
+    }
+  ]
+}

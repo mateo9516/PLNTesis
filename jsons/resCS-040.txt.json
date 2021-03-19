@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2978,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "nivel nacional",
+      "relevance": 0.735362,
+      "count": 1
+    },
+    {
+      "text": "apoyo del grupo de seguimiento",
+      "relevance": 0.641363,
+      "count": 1
+    },
+    {
+      "text": "ciencias sociales",
+      "relevance": 0.637168,
+      "count": 2
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.608609,
+      "count": 1
+    },
+    {
+      "text": "respectivo consejo superior",
+      "relevance": 0.576387,
+      "count": 1
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.572051,
+      "count": 2
+    },
+    {
+      "text": "productividad de tal manera",
+      "relevance": 0.569779,
+      "count": 1
+    },
+    {
+      "text": "ano calendario",
+      "relevance": 0.551507,
+      "count": 1
+    },
+    {
+      "text": "sistema de evaluacidn periddica",
+      "relevance": 0.549882,
+      "count": 1
+    },
+    {
+      "text": "estatuto general",
+      "relevance": 0.546423,
+      "count": 1
+    },
+    {
+      "text": "productividad individual del docente",
+      "relevance": 0.541634,
+      "count": 1
+    },
+    {
+      "text": "evaluaci\u00e9n periddica de productividad",
+      "relevance": 0.533483,
+      "count": 1
+    },
+    {
+      "text": "ciencias de la administraci\u00e9n",
+      "relevance": 0.533051,
+      "count": 1
+    },
+    {
+      "text": "artes integradas",
+      "relevance": 0.530275,
+      "count": 2
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.529154,
+      "count": 1
+    },
+    {
+      "text": "sistema de evaluacion periddica de productividad",
+      "relevance": 0.526372,
+      "count": 1
+    },
+    {
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.522593,
+      "count": 1
+    },
+    {
+      "text": "diferentes productos",
+      "relevance": 0.52089,
+      "count": 1
+    },
+    {
+      "text": "seguimiento",
+      "relevance": 0.516072,
+      "count": 2
+    },
+    {
+      "text": "comit\u00e9 de credenciales",
+      "relevance": 0.513031,
+      "count": 1
+    },
+    {
+      "text": "secretario general",
+      "relevance": 0.510806,
+      "count": 1
+    },
+    {
+      "text": "redisefio del sistema nacional del informacidn",
+      "relevance": 0.508688,
+      "count": 1
+    },
+    {
+      "text": "decretos reglamentarios",
+      "relevance": 0.507399,
+      "count": 1
+    },
+    {
+      "text": "sal\u00e9n de reuniones del despacho",
+      "relevance": 0.506988,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de junio",
+      "relevance": 0.50526,
+      "count": 1
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.503678,
+      "count": 2
+    },
+    {
+      "text": "reconocimientos salariales",
+      "relevance": 0.502982,
+      "count": 1
+    },
+    {
+      "text": "pares externos",
+      "relevance": 0.502158,
+      "count": 1
+    },
+    {
+      "text": "siguiente agrupacion",
+      "relevance": 0.498928,
+      "count": 1
+    },
+    {
+      "text": "lopez pulecio",
+      "relevance": 0.498928,
+      "count": 1
+    },
+    {
+      "text": "estructura acad\u00e9mica",
+      "relevance": 0.497925,
+      "count": 1
+    },
+    {
+      "text": "informacion",
+      "relevance": 0.497051,
+      "count": 1
+    },
+    {
+      "text": "informe final",
+      "relevance": 0.495611,
+      "count": 1
+    },
+    {
+      "text": "r\u00e9gimen salarial",
+      "relevance": 0.491164,
+      "count": 1
+    },
+    {
+      "text": "productos acad\u00e9micos",
+      "relevance": 0.487592,
+      "count": 1
+    },
+    {
+      "text": "criterios",
+      "relevance": 0.486446,
+      "count": 2
+    },
+    {
+      "text": "grupo",
+      "relevance": 0.485933,
+      "count": 2
+    },
+    {
+      "text": "funciones",
+      "relevance": 0.483229,
+      "count": 1
+    },
+    {
+      "text": "salud",
+      "relevance": 0.481259,
+      "count": 2
+    },
+    {
+      "text": "articulo",
+      "relevance": 0.480943,
+      "count": 3
+    },
+    {
+      "text": "efectos",
+      "relevance": 0.48041,
+      "count": 1
+    },
+    {
+      "text": "ingenieria",
+      "relevance": 0.480181,
+      "count": 2
+    },
+    {
+      "text": "decreto",
+      "relevance": 0.479941,
+      "count": 3
+    },
+    {
+      "text": "educacion",
+      "relevance": 0.476995,
+      "count": 1
+    },
+    {
+      "text": "gobernador",
+      "relevance": 0.476912,
+      "count": 1
+    },
+    {
+      "text": "psicologia",
+      "relevance": 0.476478,
+      "count": 2
+    },
+    {
+      "text": "esquema",
+      "relevance": 0.475401,
+      "count": 2
+    },
+    {
+      "text": "econ\u00e9micas",
+      "relevance": 0.473939,
+      "count": 2
+    },
+    {
+      "text": "ciencias",
+      "relevance": 0.473365,
+      "count": 3
+    },
+    {
+      "text": "ano",
+      "relevance": 0.473026,
+      "count": 1
+    }
+  ]
+}

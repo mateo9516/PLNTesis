@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 2,
+    "text_characters": 14909,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "programas acad\u00e9micos de pregrado",
+      "relevance": 0.67507,
+      "count": 2
+    },
+    {
+      "text": "periodo acad\u00e9mico",
+      "relevance": 0.671209,
+      "count": 1
+    },
+    {
+      "text": "diferentes comit\u00e9s de programa",
+      "relevance": 0.589092,
+      "count": 1
+    },
+    {
+      "text": "programas acad\u00e9micos",
+      "relevance": 0.562655,
+      "count": 7
+    },
+    {
+      "text": "reconocimiento de cada estudiante",
+      "relevance": 0.561781,
+      "count": 1
+    },
+    {
+      "text": "examen de estado",
+      "relevance": 0.561314,
+      "count": 4
+    },
+    {
+      "text": "servicio militar obligatorio",
+      "relevance": 0.560488,
+      "count": 4
+    },
+    {
+      "text": "criterios de admision",
+      "relevance": 0.552967,
+      "count": 1
+    },
+    {
+      "text": "mayor nota",
+      "relevance": 0.539729,
+      "count": 1
+    },
+    {
+      "text": "rendimiento acad\u00e9mico",
+      "relevance": 0.537621,
+      "count": 1
+    },
+    {
+      "text": "programa acad\u00e9mico",
+      "relevance": 0.53593,
+      "count": 10
+    },
+    {
+      "text": "6n",
+      "relevance": 0.535379,
+      "count": 1
+    },
+    {
+      "text": "trav\u00e9s de una tercera persona",
+      "relevance": 0.53321,
+      "count": 1
+    },
+    {
+      "text": "numero de cupos",
+      "relevance": 0.5324,
+      "count": 3
+    },
+    {
+      "text": "estudiantes admitidos",
+      "relevance": 0.531737,
+      "count": 1
+    },
+    {
+      "text": "razones de calamidad dom\u00e9stica",
+      "relevance": 0.530379,
+      "count": 1
+    },
+    {
+      "text": "criterios de admisi6",
+      "relevance": 0.527213,
+      "count": 1
+    },
+    {
+      "text": "puntaje minimo",
+      "relevance": 0.526357,
+      "count": 3
+    },
+    {
+      "text": "forma continua",
+      "relevance": 0.525382,
+      "count": 1
+    },
+    {
+      "text": "intercambio estudiantil",
+      "relevance": 0.52452,
+      "count": 1
+    },
+    {
+      "text": "bajos rendimientos",
+      "relevance": 0.523161,
+      "count": 1
+    },
+    {
+      "text": "condiciones de excepci\u00e9dn",
+      "relevance": 0.522406,
+      "count": 2
+    },
+    {
+      "text": "algunas de las areas del nucleo",
+      "relevance": 0.52138,
+      "count": 1
+    },
+    {
+      "text": "periodo febrero-junio",
+      "relevance": 0.520576,
+      "count": 3
+    },
+    {
+      "text": "total de cupos",
+      "relevance": 0.520508,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.520064,
+      "count": 1
+    },
+    {
+      "text": "cupo de cada programa acad\u00e9mico",
+      "relevance": 0.51735,
+      "count": 1
+    },
+    {
+      "text": "academia militar",
+      "relevance": 0.516105,
+      "count": 1
+    },
+    {
+      "text": "norte del cauca",
+      "relevance": 0.515902,
+      "count": 1
+    },
+    {
+      "text": "diferentes areas",
+      "relevance": 0.514986,
+      "count": 1
+    },
+    {
+      "text": "situaciones posibles",
+      "relevance": 0.514372,
+      "count": 1
+    },
+    {
+      "text": "fotocopia de la libreta militar",
+      "relevance": 0.513988,
+      "count": 1
+    },
+    {
+      "text": "respectiva certificaci6",
+      "relevance": 0.513697,
+      "count": 1
+    },
+    {
+      "text": "nuevo examen de estado",
+      "relevance": 0.513574,
+      "count": 5
+    },
+    {
+      "text": "icfes antiguo",
+      "relevance": 0.513179,
+      "count": 3
+    },
+    {
+      "text": "cumplimiento de este requisito",
+      "relevance": 0.512862,
+      "count": 1
+    },
+    {
+      "text": "cupos",
+      "relevance": 0.512837,
+      "count": 3
+    },
+    {
+      "text": "cartas de respuesta",
+      "relevance": 0.512545,
+      "count": 1
+    },
+    {
+      "text": "misma nota ponderada",
+      "relevance": 0.512355,
+      "count": 1
+    },
+    {
+      "text": "siguientes puntajes",
+      "relevance": 0.512189,
+      "count": 1
+    },
+    {
+      "text": "febrero-junio",
+      "relevance": 0.512007,
+      "count": 1
+    },
+    {
+      "text": "sentencia derogatoria",
+      "relevance": 0.511968,
+      "count": 1
+    },
+    {
+      "text": "siguientes requisitos",
+      "relevance": 0.511786,
+      "count": 1
+    },
+    {
+      "text": "sedes regionales",
+      "relevance": 0.51148,
+      "count": 2
+    },
+    {
+      "text": "aspirante podra",
+      "relevance": 0.510947,
+      "count": 1
+    },
+    {
+      "text": "instituto colombiano",
+      "relevance": 0.510903,
+      "count": 1
+    },
+    {
+      "text": "admisi\u00e9n de este periodo",
+      "relevance": 0.51087,
+      "count": 1
+    },
+    {
+      "text": "sede de cali",
+      "relevance": 0.510252,
+      "count": 1
+    },
+    {
+      "text": "altos puntajes",
+      "relevance": 0.510175,
+      "count": 1
+    },
+    {
+      "text": "ordenamiento de menor",
+      "relevance": 0.509968,
+      "count": 1
+    }
+  ]
+}

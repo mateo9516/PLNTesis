@@ -1,0 +1,140 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1167,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "representante estudiantil",
+      "relevance": 0.880081,
+      "count": 2
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.833427,
+      "count": 4
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.655739,
+      "count": 1
+    },
+    {
+      "text": "comisi6n accidental",
+      "relevance": 0.604972,
+      "count": 1
+    },
+    {
+      "text": "ciencias naturales",
+      "relevance": 0.593235,
+      "count": 1
+    },
+    {
+      "text": "salon de reuniones",
+      "relevance": 0.547828,
+      "count": 1
+    },
+    {
+      "text": "comision accidental",
+      "relevance": 0.536791,
+      "count": 2
+    },
+    {
+      "text": "dias del mes de febrero",
+      "relevance": 0.533499,
+      "count": 1
+    },
+    {
+      "text": "uso de sus atribuciones",
+      "relevance": 0.52198,
+      "count": 1
+    },
+    {
+      "text": "secretario general",
+      "relevance": 0.52198,
+      "count": 1
+    },
+    {
+      "text": "consejo academico de la universidad del valle",
+      "relevance": 0.506656,
+      "count": 1
+    },
+    {
+      "text": "lopez pulecio",
+      "relevance": 0.499547,
+      "count": 1
+    },
+    {
+      "text": "proceso de regionalizacion",
+      "relevance": 0.46033,
+      "count": 2
+    },
+    {
+      "text": "sesion",
+      "relevance": 0.418883,
+      "count": 1
+    },
+    {
+      "text": "resolucion",
+      "relevance": 0.417998,
+      "count": 1
+    },
+    {
+      "text": "ciencias",
+      "relevance": 0.415261,
+      "count": 1
+    },
+    {
+      "text": "proceso",
+      "relevance": 0.413513,
+      "count": 1
+    },
+    {
+      "text": "enero",
+      "relevance": 0.413191,
+      "count": 1
+    },
+    {
+      "text": "regionalizacion",
+      "relevance": 0.41028,
+      "count": 1
+    },
+    {
+      "text": "ramos",
+      "relevance": 0.41028,
+      "count": 1
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.40926,
+      "count": 1
+    },
+    {
+      "text": "director",
+      "relevance": 0.4068,
+      "count": 1
+    },
+    {
+      "text": "comit\u00e9",
+      "relevance": 0.4068,
+      "count": 1
+    },
+    {
+      "text": "febrero",
+      "relevance": 0.40519,
+      "count": 1
+    },
+    {
+      "text": "presidente",
+      "relevance": 0.40519,
+      "count": 1
+    },
+    {
+      "text": "rector",
+      "relevance": 0.40519,
+      "count": 1
+    }
+  ]
+}

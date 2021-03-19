@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2497,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "comision de selecci6",
+      "relevance": 0.664218,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.642739,
+      "count": 5
+    },
+    {
+      "text": "semilleros docentes",
+      "relevance": 0.625215,
+      "count": 1
+    },
+    {
+      "text": "programa de semilleros de docentes",
+      "relevance": 0.624644,
+      "count": 1
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.604944,
+      "count": 3
+    },
+    {
+      "text": "marco del programa",
+      "relevance": 0.592084,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.582124,
+      "count": 1
+    },
+    {
+      "text": "convocatoria docente",
+      "relevance": 0.552769,
+      "count": 1
+    },
+    {
+      "text": "salon de reuniones del despacho",
+      "relevance": 0.543031,
+      "count": 1
+    },
+    {
+      "text": "secretario generaluniversidad",
+      "relevance": 0.537075,
+      "count": 1
+    },
+    {
+      "text": "hoja de vida",
+      "relevance": 0.537001,
+      "count": 1
+    },
+    {
+      "text": "puntaje minimo",
+      "relevance": 0.534179,
+      "count": 3
+    },
+    {
+      "text": "dias del mes de junio",
+      "relevance": 0.532504,
+      "count": 1
+    },
+    {
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.530754,
+      "count": 1
+    },
+    {
+      "text": "vicerrectoria academica",
+      "relevance": 0.526358,
+      "count": 1
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.522579,
+      "count": 1
+    },
+    {
+      "text": "lopez pulecio",
+      "relevance": 0.514399,
+      "count": 1
+    },
+    {
+      "text": "evaluacion de la hoja de vida",
+      "relevance": 0.510661,
+      "count": 1
+    },
+    {
+      "text": "estudio de la hoja de vida",
+      "relevance": 0.503248,
+      "count": 1
+    },
+    {
+      "text": "puntaje minimo de preselecci6n",
+      "relevance": 0.500374,
+      "count": 1
+    },
+    {
+      "text": "concursos",
+      "relevance": 0.491997,
+      "count": 2
+    },
+    {
+      "text": "marzo",
+      "relevance": 0.488542,
+      "count": 1
+    },
+    {
+      "text": "marco general de la evaluaci\u00e9n de las pruebas acad\u00e9micas",
+      "relevance": 0.487922,
+      "count": 1
+    },
+    {
+      "text": "resolucion",
+      "relevance": 0.486181,
+      "count": 2
+    },
+    {
+      "text": "criterios",
+      "relevance": 0.483561,
+      "count": 1
+    },
+    {
+      "text": "preseleccion",
+      "relevance": 0.478068,
+      "count": 1
+    },
+    {
+      "text": "delegd",
+      "relevance": 0.475854,
+      "count": 1
+    },
+    {
+      "text": "puntos",
+      "relevance": 0.475258,
+      "count": 2
+    },
+    {
+      "text": "m\u00e9ritos",
+      "relevance": 0.475204,
+      "count": 2
+    },
+    {
+      "text": "articulo",
+      "relevance": 0.473648,
+      "count": 5
+    },
+    {
+      "text": "docente",
+      "relevance": 0.472575,
+      "count": 1
+    },
+    {
+      "text": "ponderaciones",
+      "relevance": 0.471778,
+      "count": 1
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.471768,
+      "count": 2
+    },
+    {
+      "text": "preseleccionado",
+      "relevance": 0.471486,
+      "count": 1
+    },
+    {
+      "text": "aspirantes",
+      "relevance": 0.471067,
+      "count": 3
+    },
+    {
+      "text": "unico",
+      "relevance": 0.470086,
+      "count": 1
+    },
+    {
+      "text": "septiembre",
+      "relevance": 0.46951,
+      "count": 3
+    },
+    {
+      "text": "pruebas",
+      "relevance": 0.466286,
+      "count": 1
+    },
+    {
+      "text": "estudio",
+      "relevance": 0.466209,
+      "count": 1
+    },
+    {
+      "text": "paragrafo",
+      "relevance": 0.465678,
+      "count": 3
+    },
+    {
+      "text": "sustentaci6",
+      "relevance": 0.46489,
+      "count": 1
+    },
+    {
+      "text": "aspirante",
+      "relevance": 0.463985,
+      "count": 1
+    },
+    {
+      "text": "junio",
+      "relevance": 0.463492,
+      "count": 1
+    },
+    {
+      "text": "anos",
+      "relevance": 0.463492,
+      "count": 1
+    },
+    {
+      "text": "uso",
+      "relevance": 0.463492,
+      "count": 1
+    },
+    {
+      "text": "atribuciones",
+      "relevance": 0.463492,
+      "count": 1
+    },
+    {
+      "text": "preseleccionados",
+      "relevance": 0.463492,
+      "count": 1
+    },
+    {
+      "text": "resoluci6",
+      "relevance": 0.463492,
+      "count": 1
+    },
+    {
+      "text": "mayo",
+      "relevance": 0.463492,
+      "count": 1
+    },
+    {
+      "text": "reglamentaci\u00e9n",
+      "relevance": 0.463492,
+      "count": 1
+    }
+  ]
+}

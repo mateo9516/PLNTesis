@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 2,
+    "text_characters": 14662,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "distinciones acad\u00e9micas",
+      "relevance": 0.709921,
+      "count": 3
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.654891,
+      "count": 15
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.595207,
+      "count": 11
+    },
+    {
+      "text": "profesionales de los profesores",
+      "relevance": 0.585598,
+      "count": 1
+    },
+    {
+      "text": "otorgamiento de la distinci\u00e9n",
+      "relevance": 0.57608,
+      "count": 6
+    },
+    {
+      "text": "director de instituto acad\u00e9mico",
+      "relevance": 0.573896,
+      "count": 1
+    },
+    {
+      "text": "propuesta del consejo acad\u00e9mico",
+      "relevance": 0.564802,
+      "count": 2
+    },
+    {
+      "text": "actividades de docencia",
+      "relevance": 0.556947,
+      "count": 1
+    },
+    {
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.548465,
+      "count": 1
+    },
+    {
+      "text": "profesor em\u00e9rito",
+      "relevance": 0.544672,
+      "count": 7
+    },
+    {
+      "text": "profesor honorario",
+      "relevance": 0.542818,
+      "count": 5
+    },
+    {
+      "text": "profesor distinguido",
+      "relevance": 0.542646,
+      "count": 5
+    },
+    {
+      "text": "directores de seccional",
+      "relevance": 0.541131,
+      "count": 1
+    },
+    {
+      "text": "comunidad universitaria",
+      "relevance": 0.539676,
+      "count": 2
+    },
+    {
+      "text": "distinci6n",
+      "relevance": 0.536611,
+      "count": 3
+    },
+    {
+      "text": "acto solemne",
+      "relevance": 0.536453,
+      "count": 1
+    },
+    {
+      "text": "distinciones acad\u00e9micas otorgadas",
+      "relevance": 0.535322,
+      "count": 1
+    },
+    {
+      "text": "otorgamiento de la distincion",
+      "relevance": 0.535173,
+      "count": 4
+    },
+    {
+      "text": "campo artistico",
+      "relevance": 0.534471,
+      "count": 1
+    },
+    {
+      "text": "categoria de profesor titular",
+      "relevance": 0.533975,
+      "count": 3
+    },
+    {
+      "text": "categoria de profesor asociado",
+      "relevance": 0.533586,
+      "count": 1
+    },
+    {
+      "text": "resultado sobresaliente",
+      "relevance": 0.527958,
+      "count": 2
+    },
+    {
+      "text": "siguientes requisitos",
+      "relevance": 0.526964,
+      "count": 3
+    },
+    {
+      "text": "produccion acad\u00e9mica superior",
+      "relevance": 0.525572,
+      "count": 1
+    },
+    {
+      "text": "profesor titular",
+      "relevance": 0.524453,
+      "count": 1
+    },
+    {
+      "text": "profesores",
+      "relevance": 0.524109,
+      "count": 6
+    },
+    {
+      "text": "produccid\u00e9n intelectual",
+      "relevance": 0.523103,
+      "count": 1
+    },
+    {
+      "text": "formacid\u00e9n integral de los estudiantes",
+      "relevance": 0.520978,
+      "count": 1
+    },
+    {
+      "text": "anos de servicios continuos",
+      "relevance": 0.520438,
+      "count": 1
+    },
+    {
+      "text": "acto administrativo",
+      "relevance": 0.52027,
+      "count": 1
+    },
+    {
+      "text": "ambito nacional",
+      "relevance": 0.518963,
+      "count": 1
+    },
+    {
+      "text": "instituto acad\u00e9mico",
+      "relevance": 0.517707,
+      "count": 4
+    },
+    {
+      "text": "carrera docente",
+      "relevance": 0.517438,
+      "count": 5
+    },
+    {
+      "text": "logosimbolo de la universidad del valle",
+      "relevance": 0.517024,
+      "count": 3
+    },
+    {
+      "text": "consejo de facultad",
+      "relevance": 0.515353,
+      "count": 4
+    },
+    {
+      "text": "nota de estilo",
+      "relevance": 0.515164,
+      "count": 4
+    },
+    {
+      "text": "evaluacion de desempefo",
+      "relevance": 0.514655,
+      "count": 1
+    },
+    {
+      "text": "labor de los docentes",
+      "relevance": 0.51256,
+      "count": 1
+    },
+    {
+      "text": "t\u00e9rminos de la presente",
+      "relevance": 0.51156,
+      "count": 1
+    },
+    {
+      "text": "sustentaci\u00e9n acad\u00e9mica",
+      "relevance": 0.511333,
+      "count": 3
+    },
+    {
+      "text": "compromiso profesional",
+      "relevance": 0.510721,
+      "count": 1
+    },
+    {
+      "text": "campo de la ciencia",
+      "relevance": 0.509147,
+      "count": 1
+    },
+    {
+      "text": "direcci6\u00e9n acad\u00e9mica",
+      "relevance": 0.509142,
+      "count": 1
+    },
+    {
+      "text": "recomendacion del consejo acad\u00e9mico",
+      "relevance": 0.509005,
+      "count": 2
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.508724,
+      "count": 4
+    },
+    {
+      "text": "maestro universitario",
+      "relevance": 0.508528,
+      "count": 6
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.508361,
+      "count": 1
+    },
+    {
+      "text": "boton dorado",
+      "relevance": 0.508296,
+      "count": 2
+    },
+    {
+      "text": "requisitos establecidos",
+      "relevance": 0.508089,
+      "count": 2
+    },
+    {
+      "text": "servicios notables",
+      "relevance": 0.508013,
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 2,
+    "text_characters": 15033,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "distinciones acad\u00e9micas",
+      "relevance": 0.672712,
+      "count": 7
+    },
+    {
+      "text": "comunidad universitaria",
+      "relevance": 0.581862,
+      "count": 1
+    },
+    {
+      "text": "distincidn acad\u00e9mica",
+      "relevance": 0.57837,
+      "count": 3
+    },
+    {
+      "text": "calidad humana",
+      "relevance": 0.568967,
+      "count": 1
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.565719,
+      "count": 14
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.564748,
+      "count": 13
+    },
+    {
+      "text": "calidad sobresaliente",
+      "relevance": 0.563364,
+      "count": 1
+    },
+    {
+      "text": "proyeccidon social",
+      "relevance": 0.559829,
+      "count": 1
+    },
+    {
+      "text": "maestro universitario",
+      "relevance": 0.557747,
+      "count": 5
+    },
+    {
+      "text": "ejemplo de su vida docente",
+      "relevance": 0.554192,
+      "count": 1
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.554192,
+      "count": 10
+    },
+    {
+      "text": "distinciones acad\u00e9micas de los profesores",
+      "relevance": 0.549098,
+      "count": 1
+    },
+    {
+      "text": "profesor distinguido",
+      "relevance": 0.543653,
+      "count": 4
+    },
+    {
+      "text": "profesores",
+      "relevance": 0.534552,
+      "count": 12
+    },
+    {
+      "text": "profesor em\u00e9rito",
+      "relevance": 0.531209,
+      "count": 3
+    },
+    {
+      "text": "miembros de los consejo acad\u00e9mico",
+      "relevance": 0.528834,
+      "count": 1
+    },
+    {
+      "text": "trav\u00e9s de la docencia",
+      "relevance": 0.528497,
+      "count": 2
+    },
+    {
+      "text": "intermedio del consejo de facultad",
+      "relevance": 0.528112,
+      "count": 1
+    },
+    {
+      "text": "profesor honorifico",
+      "relevance": 0.527042,
+      "count": 6
+    },
+    {
+      "text": "ciencias sociales",
+      "relevance": 0.526709,
+      "count": 3
+    },
+    {
+      "text": "sobresaliente influencia",
+      "relevance": 0.526554,
+      "count": 1
+    },
+    {
+      "text": "trav\u00e9s de su obra",
+      "relevance": 0.526217,
+      "count": 1
+    },
+    {
+      "text": "proyeccidn social",
+      "relevance": 0.525537,
+      "count": 1
+    },
+    {
+      "text": "instituto acad\u00e9mico",
+      "relevance": 0.525278,
+      "count": 6
+    },
+    {
+      "text": "docente universitario",
+      "relevance": 0.52279,
+      "count": 1
+    },
+    {
+      "text": "base de los aspectos anteriores",
+      "relevance": 0.522347,
+      "count": 1
+    },
+    {
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.521582,
+      "count": 1
+    },
+    {
+      "text": "hoja de vida de cada candidato",
+      "relevance": 0.521011,
+      "count": 1
+    },
+    {
+      "text": "ideal de maestro",
+      "relevance": 0.517665,
+      "count": 1
+    },
+    {
+      "text": "trav\u00e9s de un documento escrito",
+      "relevance": 0.517616,
+      "count": 1
+    },
+    {
+      "text": "otorgamiento de las distinciones acad\u00e9micas",
+      "relevance": 0.51739,
+      "count": 3
+    },
+    {
+      "text": "obra de calidad",
+      "relevance": 0.517029,
+      "count": 1
+    },
+    {
+      "text": "distintas aptitudes",
+      "relevance": 0.516583,
+      "count": 1
+    },
+    {
+      "text": "mayor parte de su vida",
+      "relevance": 0.516248,
+      "count": 1
+    },
+    {
+      "text": "marco de los criterios",
+      "relevance": 0.515885,
+      "count": 1
+    },
+    {
+      "text": "proyeccid\u00e9n social",
+      "relevance": 0.515387,
+      "count": 1
+    },
+    {
+      "text": "candidatos",
+      "relevance": 0.515036,
+      "count": 6
+    },
+    {
+      "text": "siguientes cargos",
+      "relevance": 0.515035,
+      "count": 1
+    },
+    {
+      "text": "potencialidades del ser humano",
+      "relevance": 0.514253,
+      "count": 1
+    },
+    {
+      "text": "tarea de formacion universitaria",
+      "relevance": 0.51373,
+      "count": 1
+    },
+    {
+      "text": "formato de cumplimiento de requisitos",
+      "relevance": 0.513607,
+      "count": 1
+    },
+    {
+      "text": "ambito nacional",
+      "relevance": 0.513035,
+      "count": 1
+    },
+    {
+      "text": "planta de personal docente",
+      "relevance": 0.512566,
+      "count": 1
+    },
+    {
+      "text": "siguientes requisitos",
+      "relevance": 0.512046,
+      "count": 4
+    },
+    {
+      "text": "proyeccion social",
+      "relevance": 0.511715,
+      "count": 1
+    },
+    {
+      "text": "documento escrito",
+      "relevance": 0.511696,
+      "count": 1
+    },
+    {
+      "text": "nivel nacional",
+      "relevance": 0.511478,
+      "count": 1
+    },
+    {
+      "text": "forma continua",
+      "relevance": 0.511404,
+      "count": 1
+    },
+    {
+      "text": "leccidn de vida",
+      "relevance": 0.511316,
+      "count": 1
+    },
+    {
+      "text": "trav\u00e9s de su produccion intelectual",
+      "relevance": 0.511008,
+      "count": 1
+    }
+  ]
+}

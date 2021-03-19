@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 5959,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "calendario acad\u00e9mico",
+      "relevance": 0.735463,
+      "count": 2
+    },
+    {
+      "text": "fechas de entrega de documentos",
+      "relevance": 0.624619,
+      "count": 1
+    },
+    {
+      "text": "inscripciones ordinarias",
+      "relevance": 0.623831,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.613191,
+      "count": 1
+    },
+    {
+      "text": "registro acad\u00e9mico",
+      "relevance": 0.61319,
+      "count": 4
+    },
+    {
+      "text": "examen m\u00e9dico",
+      "relevance": 0.608912,
+      "count": 1
+    },
+    {
+      "text": "siguientes fechas",
+      "relevance": 0.576274,
+      "count": 1
+    },
+    {
+      "text": "uso de las atribuciones",
+      "relevance": 0.574004,
+      "count": 1
+    },
+    {
+      "text": "proceso de admision",
+      "relevance": 0.573176,
+      "count": 1
+    },
+    {
+      "text": "primer semestre",
+      "relevance": 0.564288,
+      "count": 2
+    },
+    {
+      "text": "direccion del programa",
+      "relevance": 0.555415,
+      "count": 1
+    },
+    {
+      "text": "idioma extranjero",
+      "relevance": 0.540857,
+      "count": 2
+    },
+    {
+      "text": "segundo ilamado adicional",
+      "relevance": 0.539887,
+      "count": 1
+    },
+    {
+      "text": "periodo enero",
+      "relevance": 0.538669,
+      "count": 1
+    },
+    {
+      "text": "examen de proficiencia",
+      "relevance": 0.532722,
+      "count": 2
+    },
+    {
+      "text": "pruebas adicionales de admision",
+      "relevance": 0.532122,
+      "count": 1
+    },
+    {
+      "text": "acad\u00e9mica de estudiantes",
+      "relevance": 0.530239,
+      "count": 1
+    },
+    {
+      "text": "direccion del programa acad\u00e9mico",
+      "relevance": 0.525801,
+      "count": 1
+    },
+    {
+      "text": "proceso de transferencia",
+      "relevance": 0.523332,
+      "count": 1
+    },
+    {
+      "text": "estudiantes de primer semestre",
+      "relevance": 0.519154,
+      "count": 1
+    },
+    {
+      "text": "junioentrega de documentacion",
+      "relevance": 0.517794,
+      "count": 1
+    },
+    {
+      "text": "acad\u00e9mica estudiantes antiguos",
+      "relevance": 0.516503,
+      "count": 1
+    },
+    {
+      "text": "venta de formularios de inscripcion",
+      "relevance": 0.516222,
+      "count": 1
+    },
+    {
+      "text": "fechas de entrega",
+      "relevance": 0.516099,
+      "count": 1
+    },
+    {
+      "text": "vicerrectoria de bienestar",
+      "relevance": 0.514328,
+      "count": 1
+    },
+    {
+      "text": "matricula ordinaria",
+      "relevance": 0.512171,
+      "count": 1
+    },
+    {
+      "text": "iniciacion de clases",
+      "relevance": 0.510565,
+      "count": 1
+    },
+    {
+      "text": "direccion de registro",
+      "relevance": 0.507983,
+      "count": 2
+    },
+    {
+      "text": "resultados de icfes",
+      "relevance": 0.507466,
+      "count": 2
+    },
+    {
+      "text": "estatuto general",
+      "relevance": 0.505814,
+      "count": 1
+    },
+    {
+      "text": "lopez pulecio",
+      "relevance": 0.505814,
+      "count": 1
+    },
+    {
+      "text": "enero de 2003entrega de calificaciones",
+      "relevance": 0.50412,
+      "count": 1
+    },
+    {
+      "text": "envio",
+      "relevance": 0.501369,
+      "count": 1
+    },
+    {
+      "text": "parte de los directores",
+      "relevance": 0.501069,
+      "count": 1
+    },
+    {
+      "text": "secretario general",
+      "relevance": 0.500388,
+      "count": 1
+    },
+    {
+      "text": "asignaturas electivas",
+      "relevance": 0.496908,
+      "count": 2
+    },
+    {
+      "text": "mes de marzo",
+      "relevance": 0.495552,
+      "count": 1
+    },
+    {
+      "text": "y4 de julio",
+      "relevance": 0.494385,
+      "count": 1
+    },
+    {
+      "text": "semestres superiores",
+      "relevance": 0.494104,
+      "count": 1
+    },
+    {
+      "text": "salon de reuniones del consejo acad\u00e9mico",
+      "relevance": 0.493106,
+      "count": 1
+    },
+    {
+      "text": "consejo academico de la universidad del valle",
+      "relevance": 0.492459,
+      "count": 1
+    },
+    {
+      "text": "diciembre",
+      "relevance": 0.489467,
+      "count": 6
+    },
+    {
+      "text": "admitidos",
+      "relevance": 0.487662,
+      "count": 6
+    },
+    {
+      "text": "acad\u00e9mica",
+      "relevance": 0.483861,
+      "count": 1
+    },
+    {
+      "text": "adicion",
+      "relevance": 0.480387,
+      "count": 1
+    },
+    {
+      "text": "agosto",
+      "relevance": 0.480035,
+      "count": 14
+    },
+    {
+      "text": "estudiantes",
+      "relevance": 0.477738,
+      "count": 1
+    },
+    {
+      "text": "venta",
+      "relevance": 0.477284,
+      "count": 1
+    },
+    {
+      "text": "junio",
+      "relevance": 0.475967,
+      "count": 17
+    },
+    {
+      "text": "calificaciones",
+      "relevance": 0.475028,
+      "count": 2
+    }
+  ]
+}

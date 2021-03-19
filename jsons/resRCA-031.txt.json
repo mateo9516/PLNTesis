@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 4,
+    "text_characters": 31542,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "acad\u00e9mica talentos pilos",
+      "relevance": 0.722197,
+      "count": 2
+    },
+    {
+      "text": "derechos del estudiante",
+      "relevance": 0.652948,
+      "count": 1
+    },
+    {
+      "text": "reglamento de permanencia del plan",
+      "relevance": 0.634169,
+      "count": 1
+    },
+    {
+      "text": "nivelacidn acad\u00e9mica",
+      "relevance": 0.592468,
+      "count": 1
+    },
+    {
+      "text": "asignaturas matriculadas",
+      "relevance": 0.567817,
+      "count": 2
+    },
+    {
+      "text": "plan talentos",
+      "relevance": 0.565462,
+      "count": 25
+    },
+    {
+      "text": "talentos pilos",
+      "relevance": 0.56267,
+      "count": 2
+    },
+    {
+      "text": "evaluacion de los procesos",
+      "relevance": 0.552661,
+      "count": 1
+    },
+    {
+      "text": "actividades acad\u00e9micas",
+      "relevance": 0.543202,
+      "count": 2
+    },
+    {
+      "text": "principios de la constitucidn",
+      "relevance": 0.541192,
+      "count": 1
+    },
+    {
+      "text": "deberes del estudiante",
+      "relevance": 0.534005,
+      "count": 1
+    },
+    {
+      "text": "asignaturas de acuerdo",
+      "relevance": 0.530209,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.527997,
+      "count": 2
+    },
+    {
+      "text": "estudiante del plan talentos",
+      "relevance": 0.527502,
+      "count": 2
+    },
+    {
+      "text": "siguientes actividades acad\u00e9micas",
+      "relevance": 0.526879,
+      "count": 1
+    },
+    {
+      "text": "calidad de estudiantes",
+      "relevance": 0.525547,
+      "count": 1
+    },
+    {
+      "text": "promedio ponderado",
+      "relevance": 0.525486,
+      "count": 2
+    },
+    {
+      "text": "formas de evaluacion",
+      "relevance": 0.524145,
+      "count": 1
+    },
+    {
+      "text": "admitido podra",
+      "relevance": 0.521513,
+      "count": 1
+    },
+    {
+      "text": "matricula financiera",
+      "relevance": 0.521005,
+      "count": 1
+    },
+    {
+      "text": "coordinador acad\u00e9mico",
+      "relevance": 0.520647,
+      "count": 8
+    },
+    {
+      "text": "meses siguientes",
+      "relevance": 0.520138,
+      "count": 1
+    },
+    {
+      "text": "amonestacion verbal",
+      "relevance": 0.51925,
+      "count": 3
+    },
+    {
+      "text": "nuevo calificador",
+      "relevance": 0.518654,
+      "count": 1
+    },
+    {
+      "text": "demas normas relativas",
+      "relevance": 0.518504,
+      "count": 1
+    },
+    {
+      "text": "casos especiales",
+      "relevance": 0.518443,
+      "count": 1
+    },
+    {
+      "text": "gestidn acad\u00e9mico-administrativa",
+      "relevance": 0.517951,
+      "count": 1
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.517624,
+      "count": 5
+    },
+    {
+      "text": "principios de equidad",
+      "relevance": 0.516767,
+      "count": 1
+    },
+    {
+      "text": "plazos establecidos previstos",
+      "relevance": 0.516762,
+      "count": 1
+    },
+    {
+      "text": "segundo semestre",
+      "relevance": 0.516688,
+      "count": 3
+    },
+    {
+      "text": "caso fortuito",
+      "relevance": 0.516558,
+      "count": 2
+    },
+    {
+      "text": "estrategia de la universidad",
+      "relevance": 0.516474,
+      "count": 1
+    },
+    {
+      "text": "resultado de las pruebas",
+      "relevance": 0.516348,
+      "count": 1
+    },
+    {
+      "text": "cumplimiento de sus procesos de formacion",
+      "relevance": 0.515312,
+      "count": 1
+    },
+    {
+      "text": "procesos de formacion acad\u00e9mica",
+      "relevance": 0.515105,
+      "count": 2
+    },
+    {
+      "text": "autoridad competente",
+      "relevance": 0.513987,
+      "count": 1
+    },
+    {
+      "text": "aspectos disciplinarios",
+      "relevance": 0.513815,
+      "count": 1
+    },
+    {
+      "text": "plan estrat\u00e9gico de desarrollo de la universidad",
+      "relevance": 0.513708,
+      "count": 1
+    },
+    {
+      "text": "plan talentos vigente",
+      "relevance": 0.513628,
+      "count": 1
+    },
+    {
+      "text": "primer semestre",
+      "relevance": 0.513314,
+      "count": 1
+    },
+    {
+      "text": "trabajos acad\u00e9micos",
+      "relevance": 0.512782,
+      "count": 1
+    },
+    {
+      "text": "proceso de evaluacion",
+      "relevance": 0.512676,
+      "count": 1
+    },
+    {
+      "text": "modificacion de asignaturas matriculadas",
+      "relevance": 0.512605,
+      "count": 1
+    },
+    {
+      "text": "servicios de bienestar universitario",
+      "relevance": 0.512365,
+      "count": 1
+    },
+    {
+      "text": "estudiantes de este plan de la universidad",
+      "relevance": 0.512175,
+      "count": 1
+    },
+    {
+      "text": "plan de nivelaci6n acad\u00e9mica",
+      "relevance": 0.512168,
+      "count": 1
+    },
+    {
+      "text": "rendimiento acad\u00e9mico",
+      "relevance": 0.512033,
+      "count": 5
+    },
+    {
+      "text": "desempefio de las actividades acad\u00e9micas",
+      "relevance": 0.511373,
+      "count": 1
+    },
+    {
+      "text": "condiciones necesarias",
+      "relevance": 0.511171,
+      "count": 1
+    }
+  ]
+}

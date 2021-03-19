@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2648,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "sindicato de trabajadores",
+      "relevance": 0.649502,
+      "count": 1
+    },
+    {
+      "text": "administrativos de la universidad del valle",
+      "relevance": 0.648426,
+      "count": 1
+    },
+    {
+      "text": "o5 de febrero",
+      "relevance": 0.614549,
+      "count": 1
+    },
+    {
+      "text": "acuerdos suscritos",
+      "relevance": 0.60532,
+      "count": 2
+    },
+    {
+      "text": "documento original",
+      "relevance": 0.601423,
+      "count": 1
+    },
+    {
+      "text": "secretario general",
+      "relevance": 0.595072,
+      "count": 1
+    },
+    {
+      "text": "pliego de solicitudes",
+      "relevance": 0.569049,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.564908,
+      "count": 1
+    },
+    {
+      "text": "presidencia de la republica",
+      "relevance": 0.559734,
+      "count": 2
+    },
+    {
+      "text": "temas tratados",
+      "relevance": 0.557916,
+      "count": 1
+    },
+    {
+      "text": "vigencia de este acuerdo colectivo",
+      "relevance": 0.553224,
+      "count": 1
+    },
+    {
+      "text": "administrativos contenidos",
+      "relevance": 0.538098,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.532762,
+      "count": 1
+    },
+    {
+      "text": "division de recursos humanos",
+      "relevance": 0.525984,
+      "count": 1
+    },
+    {
+      "text": "empleados",
+      "relevance": 0.524252,
+      "count": 6
+    },
+    {
+      "text": "vicerrectoria administrativa",
+      "relevance": 0.524045,
+      "count": 1
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.51809,
+      "count": 3
+    },
+    {
+      "text": "tramites de ley",
+      "relevance": 0.515816,
+      "count": 1
+    },
+    {
+      "text": "folios de fecha",
+      "relevance": 0.5137,
+      "count": 1
+    },
+    {
+      "text": "servicio de la institucion",
+      "relevance": 0.513634,
+      "count": 1
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.510156,
+      "count": 3
+    },
+    {
+      "text": "parte constitutiva",
+      "relevance": 0.508307,
+      "count": 1
+    },
+    {
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.501687,
+      "count": 1
+    },
+    {
+      "text": "valle",
+      "relevance": 0.501311,
+      "count": 3
+    },
+    {
+      "text": "dias de julio",
+      "relevance": 0.496421,
+      "count": 1
+    },
+    {
+      "text": "febrero",
+      "relevance": 0.488905,
+      "count": 1
+    },
+    {
+      "text": "acta final de acuerdo colectivo suscrita",
+      "relevance": 0.488007,
+      "count": 1
+    },
+    {
+      "text": "copia",
+      "relevance": 0.486909,
+      "count": 1
+    },
+    {
+      "text": "atribuciones",
+      "relevance": 0.483639,
+      "count": 1
+    },
+    {
+      "text": "convenio",
+      "relevance": 0.4799,
+      "count": 1
+    },
+    {
+      "text": "expedicion",
+      "relevance": 0.4799,
+      "count": 1
+    },
+    {
+      "text": "resolucion",
+      "relevance": 0.479605,
+      "count": 1
+    },
+    {
+      "text": "trabajadores",
+      "relevance": 0.478948,
+      "count": 1
+    },
+    {
+      "text": "original del acta final del acuerdo colectivo",
+      "relevance": 0.478712,
+      "count": 1
+    },
+    {
+      "text": "acta final del acuerdo colectivo",
+      "relevance": 0.478698,
+      "count": 1
+    },
+    {
+      "text": "administrativos",
+      "relevance": 0.476601,
+      "count": 1
+    },
+    {
+      "text": "acuerdos",
+      "relevance": 0.47636,
+      "count": 1
+    },
+    {
+      "text": "referentes",
+      "relevance": 0.475966,
+      "count": 1
+    },
+    {
+      "text": "partes",
+      "relevance": 0.472242,
+      "count": 1
+    },
+    {
+      "text": "reconocimientos",
+      "relevance": 0.471897,
+      "count": 1
+    },
+    {
+      "text": "desarrollo",
+      "relevance": 0.471823,
+      "count": 1
+    },
+    {
+      "text": "oit",
+      "relevance": 0.471823,
+      "count": 1
+    },
+    {
+      "text": "6n",
+      "relevance": 0.471823,
+      "count": 1
+    },
+    {
+      "text": "sindicato",
+      "relevance": 0.471819,
+      "count": 1
+    },
+    {
+      "text": "ley",
+      "relevance": 0.47151,
+      "count": 1
+    },
+    {
+      "text": "vigencia",
+      "relevance": 0.470936,
+      "count": 1
+    },
+    {
+      "text": "sera",
+      "relevance": 0.469961,
+      "count": 1
+    },
+    {
+      "text": "relativo",
+      "relevance": 0.468992,
+      "count": 1
+    },
+    {
+      "text": "controversias",
+      "relevance": 0.468992,
+      "count": 1
+    },
+    {
+      "text": "primero",
+      "relevance": 0.468992,
+      "count": 1
+    }
+  ]
+}

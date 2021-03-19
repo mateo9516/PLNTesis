@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2058,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "uso de las atribuciones",
+      "relevance": 0.723417,
+      "count": 1
+    },
+    {
+      "text": "administrativos de la universidad del valle",
+      "relevance": 0.669995,
+      "count": 1
+    },
+    {
+      "text": "temas tratados",
+      "relevance": 0.66392,
+      "count": 1
+    },
+    {
+      "text": "proceso de concertacion",
+      "relevance": 0.602217,
+      "count": 1
+    },
+    {
+      "text": "acta final",
+      "relevance": 0.588014,
+      "count": 1
+    },
+    {
+      "text": "personal de empleados",
+      "relevance": 0.578843,
+      "count": 1
+    },
+    {
+      "text": "seccional cali",
+      "relevance": 0.570856,
+      "count": 2
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.567342,
+      "count": 1
+    },
+    {
+      "text": "luis alberto herrera",
+      "relevance": 0.553552,
+      "count": 1
+    },
+    {
+      "text": "febrero del afio",
+      "relevance": 0.547919,
+      "count": 1
+    },
+    {
+      "text": "acta final del proceso",
+      "relevance": 0.546073,
+      "count": 1
+    },
+    {
+      "text": "acuerdos suscritos",
+      "relevance": 0.539654,
+      "count": 1
+    },
+    {
+      "text": "trabajadores de las universidades",
+      "relevance": 0.534141,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.522374,
+      "count": 1
+    },
+    {
+      "text": "sindicato mixto de trabajadores de las universidades",
+      "relevance": 0.521371,
+      "count": 1
+    },
+    {
+      "text": "torres institucional",
+      "relevance": 0.519544,
+      "count": 1
+    },
+    {
+      "text": "tramites de ley",
+      "relevance": 0.517015,
+      "count": 1
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.516429,
+      "count": 2
+    },
+    {
+      "text": "servicio de la institucion",
+      "relevance": 0.513891,
+      "count": 1
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.509362,
+      "count": 1
+    },
+    {
+      "text": "representante del presidente",
+      "relevance": 0.495382,
+      "count": 1
+    },
+    {
+      "text": "parte constitutiva",
+      "relevance": 0.494763,
+      "count": 1
+    },
+    {
+      "text": "estatuto general",
+      "relevance": 0.490591,
+      "count": 1
+    },
+    {
+      "text": "larreamendy joerns",
+      "relevance": 0.490591,
+      "count": 1
+    },
+    {
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.489694,
+      "count": 1
+    },
+    {
+      "text": "dias del mes",
+      "relevance": 0.485974,
+      "count": 1
+    },
+    {
+      "text": "acuerdos establecidos",
+      "relevance": 0.481466,
+      "count": 1
+    },
+    {
+      "text": "fecha de su expedici6",
+      "relevance": 0.475008,
+      "count": 1
+    },
+    {
+      "text": "reconocimientos",
+      "relevance": 0.471872,
+      "count": 1
+    },
+    {
+      "text": "paragrafo",
+      "relevance": 0.470396,
+      "count": 1
+    },
+    {
+      "text": "original del acta final del proceso",
+      "relevance": 0.468316,
+      "count": 1
+    },
+    {
+      "text": "marzo del ano",
+      "relevance": 0.466456,
+      "count": 1
+    },
+    {
+      "text": "resolucion",
+      "relevance": 0.462702,
+      "count": 1
+    },
+    {
+      "text": "partes",
+      "relevance": 0.457206,
+      "count": 1
+    },
+    {
+      "text": "empleados",
+      "relevance": 0.45618,
+      "count": 2
+    },
+    {
+      "text": "administrativos",
+      "relevance": 0.455496,
+      "count": 2
+    },
+    {
+      "text": "requerimientos",
+      "relevance": 0.4549,
+      "count": 1
+    },
+    {
+      "text": "vigencia",
+      "relevance": 0.454889,
+      "count": 1
+    },
+    {
+      "text": "contenidos",
+      "relevance": 0.453815,
+      "count": 2
+    },
+    {
+      "text": "acuerdos",
+      "relevance": 0.451312,
+      "count": 1
+    },
+    {
+      "text": "alos",
+      "relevance": 0.45124,
+      "count": 1
+    },
+    {
+      "text": "divisi\u00e9n",
+      "relevance": 0.450996,
+      "count": 1
+    },
+    {
+      "text": "disposiciones",
+      "relevance": 0.450996,
+      "count": 1
+    },
+    {
+      "text": "periodo",
+      "relevance": 0.450962,
+      "count": 1
+    },
+    {
+      "text": "copia",
+      "relevance": 0.45023,
+      "count": 1
+    },
+    {
+      "text": "comisiones",
+      "relevance": 0.449847,
+      "count": 1
+    },
+    {
+      "text": "anos",
+      "relevance": 0.449847,
+      "count": 1
+    },
+    {
+      "text": "fecha",
+      "relevance": 0.449847,
+      "count": 1
+    },
+    {
+      "text": "marzo",
+      "relevance": 0.449813,
+      "count": 1
+    },
+    {
+      "text": "folios",
+      "relevance": 0.449494,
+      "count": 1
+    }
+  ]
+}

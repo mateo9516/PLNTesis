@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 5764,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "facultades legales",
+      "relevance": 0.642647,
+      "count": 1
+    },
+    {
+      "text": "faltas disciplinarias",
+      "relevance": 0.622309,
+      "count": 3
+    },
+    {
+      "text": "corte constitucional",
+      "relevance": 0.59159,
+      "count": 1
+    },
+    {
+      "text": "demas normas de las universidad",
+      "relevance": 0.586452,
+      "count": 1
+    },
+    {
+      "text": "autonomia universitaria",
+      "relevance": 0.583549,
+      "count": 2
+    },
+    {
+      "text": "literal g",
+      "relevance": 0.572454,
+      "count": 1
+    },
+    {
+      "text": "citadas normas",
+      "relevance": 0.563228,
+      "count": 1
+    },
+    {
+      "text": "virtud de la ley",
+      "relevance": 0.559166,
+      "count": 1
+    },
+    {
+      "text": "aplicacion de la ley",
+      "relevance": 0.554139,
+      "count": 1
+    },
+    {
+      "text": "r\u00e9gimen especial disciplinario",
+      "relevance": 0.553647,
+      "count": 1
+    },
+    {
+      "text": "unico disciplinario",
+      "relevance": 0.552509,
+      "count": 1
+    },
+    {
+      "text": "perjuicio de la sujeci\u00e9n",
+      "relevance": 0.544653,
+      "count": 1
+    },
+    {
+      "text": "conflicto de intereses",
+      "relevance": 0.541983,
+      "count": 1
+    },
+    {
+      "text": "primera instancia",
+      "relevance": 0.541186,
+      "count": 1
+    },
+    {
+      "text": "violacion del r\u00e9gimen de inhabilidades",
+      "relevance": 0.539324,
+      "count": 1
+    },
+    {
+      "text": "orden interno",
+      "relevance": 0.539097,
+      "count": 1
+    },
+    {
+      "text": "gobernador del departamento del valle",
+      "relevance": 0.534249,
+      "count": 1
+    },
+    {
+      "text": "materia de regimenes",
+      "relevance": 0.534016,
+      "count": 1
+    },
+    {
+      "text": "docentes de la universidad",
+      "relevance": 0.532419,
+      "count": 2
+    },
+    {
+      "text": "demas leyes",
+      "relevance": 0.531875,
+      "count": 1
+    },
+    {
+      "text": "trabajo formal",
+      "relevance": 0.531378,
+      "count": 1
+    },
+    {
+      "text": "carta politica",
+      "relevance": 0.529742,
+      "count": 1
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.526292,
+      "count": 2
+    },
+    {
+      "text": "capacidad reglamentaria",
+      "relevance": 0.526263,
+      "count": 1
+    },
+    {
+      "text": "base de las recomendaciones",
+      "relevance": 0.524377,
+      "count": 1
+    },
+    {
+      "text": "c\u00e9digo disciplinario unico",
+      "relevance": 0.523521,
+      "count": 2
+    },
+    {
+      "text": "normas constitucionales",
+      "relevance": 0.52329,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.520238,
+      "count": 2
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.518345,
+      "count": 1
+    },
+    {
+      "text": "estatuto del docente",
+      "relevance": 0.515672,
+      "count": 1
+    },
+    {
+      "text": "personal administrativo",
+      "relevance": 0.515625,
+      "count": 1
+    },
+    {
+      "text": "misma norma superior",
+      "relevance": 0.514559,
+      "count": 1
+    },
+    {
+      "text": "estatuto general",
+      "relevance": 0.513762,
+      "count": 1
+    },
+    {
+      "text": "procedimiento disciplinario",
+      "relevance": 0.512653,
+      "count": 1
+    },
+    {
+      "text": "trabajadores oficiales",
+      "relevance": 0.510735,
+      "count": 2
+    },
+    {
+      "text": "materia disciplinaria",
+      "relevance": 0.51044,
+      "count": 1
+    },
+    {
+      "text": "servicio de la universidad",
+      "relevance": 0.508262,
+      "count": 1
+    },
+    {
+      "text": "presente resolucion",
+      "relevance": 0.507092,
+      "count": 1
+    },
+    {
+      "text": "perjuicio de la sujecion",
+      "relevance": 0.505446,
+      "count": 1
+    },
+    {
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.504824,
+      "count": 1
+    },
+    {
+      "text": "profesionales universitarios",
+      "relevance": 0.503964,
+      "count": 1
+    },
+    {
+      "text": "articulo",
+      "relevance": 0.502922,
+      "count": 5
+    },
+    {
+      "text": "acuerdos convencionales",
+      "relevance": 0.502094,
+      "count": 1
+    },
+    {
+      "text": "ejercicio de derechos",
+      "relevance": 0.501091,
+      "count": 1
+    },
+    {
+      "text": "empleados",
+      "relevance": 0.500773,
+      "count": 7
+    },
+    {
+      "text": "tal manera",
+      "relevance": 0.500626,
+      "count": 1
+    },
+    {
+      "text": "r\u00e9gimen de entes aut\u00e9nomos",
+      "relevance": 0.499482,
+      "count": 1
+    },
+    {
+      "text": "demas normas",
+      "relevance": 0.498565,
+      "count": 1
+    },
+    {
+      "text": "congreso de la republica expidio",
+      "relevance": 0.497834,
+      "count": 1
+    },
+    {
+      "text": "rector de la universidad",
+      "relevance": 0.497425,
+      "count": 1
+    }
+  ]
+}

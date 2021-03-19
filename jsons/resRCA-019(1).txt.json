@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 3,
+    "text_characters": 22806,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "misma area",
+      "relevance": 0.618449,
+      "count": 1
+    },
+    {
+      "text": "tiempo completo",
+      "relevance": 0.616477,
+      "count": 3
+    },
+    {
+      "text": "medio tiempo",
+      "relevance": 0.595639,
+      "count": 7
+    },
+    {
+      "text": "perfiles profesionales",
+      "relevance": 0.589983,
+      "count": 1
+    },
+    {
+      "text": "experiencia hora catedra",
+      "relevance": 0.570189,
+      "count": 1
+    },
+    {
+      "text": "quimica farmac\u00e9utica",
+      "relevance": 0.5689,
+      "count": 1
+    },
+    {
+      "text": "concurso publico de m\u00e9ritos",
+      "relevance": 0.564035,
+      "count": 2
+    },
+    {
+      "text": "convocatorias docentes",
+      "relevance": 0.55689,
+      "count": 1
+    },
+    {
+      "text": "lengua materna",
+      "relevance": 0.556813,
+      "count": 1
+    },
+    {
+      "text": "idioma extranjero",
+      "relevance": 0.554343,
+      "count": 1
+    },
+    {
+      "text": "experiencia profesional",
+      "relevance": 0.549523,
+      "count": 9
+    },
+    {
+      "text": "ciencias naturales",
+      "relevance": 0.548988,
+      "count": 1
+    },
+    {
+      "text": "titulo profesional",
+      "relevance": 0.548929,
+      "count": 1
+    },
+    {
+      "text": "caso de aspirantes",
+      "relevance": 0.545507,
+      "count": 1
+    },
+    {
+      "text": "institucion educativa",
+      "relevance": 0.544989,
+      "count": 1
+    },
+    {
+      "text": "mision social",
+      "relevance": 0.540153,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.538686,
+      "count": 4
+    },
+    {
+      "text": "vinculacion de docentes de carrera",
+      "relevance": 0.536042,
+      "count": 1
+    },
+    {
+      "text": "semestre tc",
+      "relevance": 0.531909,
+      "count": 1
+    },
+    {
+      "text": "equivalente de tiempo completo",
+      "relevance": 0.531267,
+      "count": 21
+    },
+    {
+      "text": "experiencia docente universitaria de minimo",
+      "relevance": 0.529378,
+      "count": 7
+    },
+    {
+      "text": "lengua extranjera",
+      "relevance": 0.528873,
+      "count": 2
+    },
+    {
+      "text": "planta de profesores nombrados",
+      "relevance": 0.526039,
+      "count": 1
+    },
+    {
+      "text": "ingeniero electricista",
+      "relevance": 0.525873,
+      "count": 1
+    },
+    {
+      "text": "concurso publico",
+      "relevance": 0.525244,
+      "count": 1
+    },
+    {
+      "text": "siguientes idiomas",
+      "relevance": 0.5241,
+      "count": 1
+    },
+    {
+      "text": "cupos de las escuelas de medicina",
+      "relevance": 0.523787,
+      "count": 1
+    },
+    {
+      "text": "investigacion social",
+      "relevance": 0.523602,
+      "count": 1
+    },
+    {
+      "text": "reuniones del consejo acad\u00e9mico",
+      "relevance": 0.522518,
+      "count": 1
+    },
+    {
+      "text": "selecci6n",
+      "relevance": 0.522373,
+      "count": 1
+    },
+    {
+      "text": "aspirantes",
+      "relevance": 0.522235,
+      "count": 9
+    },
+    {
+      "text": "perfil especifico de un concurso",
+      "relevance": 0.522182,
+      "count": 2
+    },
+    {
+      "text": "unidades acad\u00e9micas",
+      "relevance": 0.522178,
+      "count": 1
+    },
+    {
+      "text": "experiencia investigativa",
+      "relevance": 0.521958,
+      "count": 1
+    },
+    {
+      "text": "experiencia profesional de los ultimos",
+      "relevance": 0.520676,
+      "count": 2
+    },
+    {
+      "text": "profesores de tiempo completo",
+      "relevance": 0.520145,
+      "count": 1
+    },
+    {
+      "text": "experiencia docente universitaria",
+      "relevance": 0.520132,
+      "count": 12
+    },
+    {
+      "text": "trabajo de la convocatoria",
+      "relevance": 0.520119,
+      "count": 1
+    },
+    {
+      "text": "lenguas modernas",
+      "relevance": 0.519633,
+      "count": 3
+    },
+    {
+      "text": "ingeniero el\u00e9ctrico",
+      "relevance": 0.519168,
+      "count": 1
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.518631,
+      "count": 13
+    },
+    {
+      "text": "medio tiempo aspirantes",
+      "relevance": 0.518215,
+      "count": 1
+    },
+    {
+      "text": "aspirantes de los concursos de la escuela",
+      "relevance": 0.518063,
+      "count": 1
+    },
+    {
+      "text": "dominio de esta lengua",
+      "relevance": 0.517641,
+      "count": 1
+    },
+    {
+      "text": "departamento de matematicas",
+      "relevance": 0.517104,
+      "count": 1
+    },
+    {
+      "text": "politicas institucionales",
+      "relevance": 0.516992,
+      "count": 1
+    },
+    {
+      "text": "desarrollo comunitario",
+      "relevance": 0.516747,
+      "count": 1
+    },
+    {
+      "text": "servicio social",
+      "relevance": 0.515453,
+      "count": 1
+    },
+    {
+      "text": "seleccion de \u00e9stos",
+      "relevance": 0.515123,
+      "count": 1
+    },
+    {
+      "text": "nombramiento de profesores",
+      "relevance": 0.514823,
+      "count": 1
+    }
+  ]
+}

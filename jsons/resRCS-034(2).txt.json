@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 4125,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "programa acad\u00e9mico",
+      "relevance": 0.593686,
+      "count": 1
+    },
+    {
+      "text": "sera entregada",
+      "relevance": 0.581362,
+      "count": 1
+    },
+    {
+      "text": "bienestar universitario",
+      "relevance": 0.579706,
+      "count": 1
+    },
+    {
+      "text": "d\u00e9cada de los anos",
+      "relevance": 0.5785,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.563821,
+      "count": 2
+    },
+    {
+      "text": "profesor visitante",
+      "relevance": 0.563747,
+      "count": 1
+    },
+    {
+      "text": "trav\u00e9s de su vinculaci6",
+      "relevance": 0.562446,
+      "count": 1
+    },
+    {
+      "text": "medalla pendera de un cordon",
+      "relevance": 0.559351,
+      "count": 1
+    },
+    {
+      "text": "ceremonia acad\u00e9mica anual",
+      "relevance": 0.552249,
+      "count": 1
+    },
+    {
+      "text": "parte frontal",
+      "relevance": 0.551283,
+      "count": 1
+    },
+    {
+      "text": "materia de docencia",
+      "relevance": 0.54496,
+      "count": 1
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.5433,
+      "count": 4
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.542475,
+      "count": 1
+    },
+    {
+      "text": "victor javier saavedra",
+      "relevance": 0.539817,
+      "count": 1
+    },
+    {
+      "text": "luis alberto herrera",
+      "relevance": 0.539817,
+      "count": 1
+    },
+    {
+      "text": "colegio m\u00e9dico del valle",
+      "relevance": 0.539365,
+      "count": 1
+    },
+    {
+      "text": "colores rojo",
+      "relevance": 0.537313,
+      "count": 1
+    },
+    {
+      "text": "educacion del departamento del valle",
+      "relevance": 0.533819,
+      "count": 1
+    },
+    {
+      "text": "servidores de la universidad del valle",
+      "relevance": 0.530207,
+      "count": 1
+    },
+    {
+      "text": "alla del quehacer cotidiano",
+      "relevance": 0.525398,
+      "count": 1
+    },
+    {
+      "text": "personas naturales",
+      "relevance": 0.52351,
+      "count": 1
+    },
+    {
+      "text": "velasquez palau",
+      "relevance": 0.522858,
+      "count": 1
+    },
+    {
+      "text": "primer decano",
+      "relevance": 0.522776,
+      "count": 1
+    },
+    {
+      "text": "medicina del valle",
+      "relevance": 0.520966,
+      "count": 1
+    },
+    {
+      "text": "doctor gabriel velasquez palau",
+      "relevance": 0.520622,
+      "count": 1
+    },
+    {
+      "text": "nota de estilo",
+      "relevance": 0.519903,
+      "count": 1
+    },
+    {
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.519679,
+      "count": 1
+    },
+    {
+      "text": "proyectos de caracter docente",
+      "relevance": 0.517687,
+      "count": 1
+    },
+    {
+      "text": "medalla",
+      "relevance": 0.5097,
+      "count": 5
+    },
+    {
+      "text": "facultad de medicina de la universidad",
+      "relevance": 0.509365,
+      "count": 1
+    },
+    {
+      "text": "ministro de salud publica",
+      "relevance": 0.508715,
+      "count": 1
+    },
+    {
+      "text": "dias de mayo",
+      "relevance": 0.508331,
+      "count": 1
+    },
+    {
+      "text": "administracion publica",
+      "relevance": 0.508034,
+      "count": 1
+    },
+    {
+      "text": "profesores de la universidad del valle",
+      "relevance": 0.507243,
+      "count": 1
+    },
+    {
+      "text": "participacion ciudadana",
+      "relevance": 0.506791,
+      "count": 1
+    },
+    {
+      "text": "iniciativa propia",
+      "relevance": 0.505139,
+      "count": 1
+    },
+    {
+      "text": "logosimbolo de la universidad del valle",
+      "relevance": 0.50431,
+      "count": 1
+    },
+    {
+      "text": "m\u00e9rito gabriel",
+      "relevance": 0.502711,
+      "count": 2
+    },
+    {
+      "text": "condecoraci6n",
+      "relevance": 0.502473,
+      "count": 1
+    },
+    {
+      "text": "estatuto general",
+      "relevance": 0.502473,
+      "count": 1
+    },
+    {
+      "text": "escuela de medicina",
+      "relevance": 0.501727,
+      "count": 1
+    },
+    {
+      "text": "consolidacion de las politicas",
+      "relevance": 0.499736,
+      "count": 1
+    },
+    {
+      "text": "desarrollo de la institucion",
+      "relevance": 0.498089,
+      "count": 1
+    },
+    {
+      "text": "m\u00e9dico gabriel velasquez palau",
+      "relevance": 0.497573,
+      "count": 1
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.497525,
+      "count": 3
+    },
+    {
+      "text": "trabajo",
+      "relevance": 0.496292,
+      "count": 2
+    },
+    {
+      "text": "universidades de harvard",
+      "relevance": 0.494221,
+      "count": 1
+    },
+    {
+      "text": "actividades de la institucion",
+      "relevance": 0.493523,
+      "count": 1
+    },
+    {
+      "text": "efem\u00e9rides de la institucion",
+      "relevance": 0.492553,
+      "count": 1
+    },
+    {
+      "text": "rector de la universidad del valle",
+      "relevance": 0.491668,
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 2,
+    "text_characters": 16974,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "institutos acad\u00e9micos",
+      "relevance": 0.602002,
+      "count": 1
+    },
+    {
+      "text": "puntaje minimo de preseleccion",
+      "relevance": 0.590086,
+      "count": 1
+    },
+    {
+      "text": "caso de aspirantes",
+      "relevance": 0.586598,
+      "count": 2
+    },
+    {
+      "text": "base del maximo numero",
+      "relevance": 0.558265,
+      "count": 1
+    },
+    {
+      "text": "siguiente relacion",
+      "relevance": 0.556291,
+      "count": 2
+    },
+    {
+      "text": "cargos de profesores de tiempo",
+      "relevance": 0.555332,
+      "count": 1
+    },
+    {
+      "text": "evaluacion de los aspirantes",
+      "relevance": 0.547945,
+      "count": 1
+    },
+    {
+      "text": "certificacion de  proficiencia del idioma",
+      "relevance": 0.546006,
+      "count": 1
+    },
+    {
+      "text": "instituto acad\u00e9mico",
+      "relevance": 0.545858,
+      "count": 8
+    },
+    {
+      "text": "hoja de vida",
+      "relevance": 0.542427,
+      "count": 3
+    },
+    {
+      "text": "puntaje minimo",
+      "relevance": 0.539291,
+      "count": 3
+    },
+    {
+      "text": "puntos alcanzable",
+      "relevance": 0.538076,
+      "count": 1
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.537673,
+      "count": 1
+    },
+    {
+      "text": "criterios de seleccion",
+      "relevance": 0.537425,
+      "count": 1
+    },
+    {
+      "text": "especificidades de las diferentes facultades",
+      "relevance": 0.537169,
+      "count": 1
+    },
+    {
+      "text": "requisitos de inscripcion",
+      "relevance": 0.535873,
+      "count": 1
+    },
+    {
+      "text": "propuesta completa de un curso",
+      "relevance": 0.535089,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.533692,
+      "count": 2
+    },
+    {
+      "text": "cierre de inscripciones",
+      "relevance": 0.533504,
+      "count": 1
+    },
+    {
+      "text": "solicitudes de los candidatos",
+      "relevance": 0.532536,
+      "count": 1
+    },
+    {
+      "text": "tiempo completo",
+      "relevance": 0.532387,
+      "count": 2
+    },
+    {
+      "text": "experiencia profesional",
+      "relevance": 0.530176,
+      "count": 2
+    },
+    {
+      "text": "escuela de ciencias del lenguaje",
+      "relevance": 0.529997,
+      "count": 1
+    },
+    {
+      "text": "medio tiempo",
+      "relevance": 0.529586,
+      "count": 4
+    },
+    {
+      "text": "exposiciones individuales",
+      "relevance": 0.528392,
+      "count": 1
+    },
+    {
+      "text": "puntos",
+      "relevance": 0.526991,
+      "count": 42
+    },
+    {
+      "text": "convocatoria semestral",
+      "relevance": 0.526938,
+      "count": 1
+    },
+    {
+      "text": "experiencia docente universitaria",
+      "relevance": 0.526238,
+      "count": 1
+    },
+    {
+      "text": "fecha de grado del pregrado",
+      "relevance": 0.526144,
+      "count": 1
+    },
+    {
+      "text": "siguiente escala",
+      "relevance": 0.523562,
+      "count": 1
+    },
+    {
+      "text": "estudio de la hoja de vida",
+      "relevance": 0.523419,
+      "count": 2
+    },
+    {
+      "text": "siguientes conceptos",
+      "relevance": 0.522809,
+      "count": 1
+    },
+    {
+      "text": "autores de la publicacidn",
+      "relevance": 0.521712,
+      "count": 1
+    },
+    {
+      "text": "certificacion de proficiencia oral",
+      "relevance": 0.521489,
+      "count": 1
+    },
+    {
+      "text": "carta de presentacion",
+      "relevance": 0.52137,
+      "count": 1
+    },
+    {
+      "text": "recital de caracter nacional",
+      "relevance": 0.519344,
+      "count": 1
+    },
+    {
+      "text": "formacion pedagogica certificadas",
+      "relevance": 0.51927,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.518051,
+      "count": 1
+    },
+    {
+      "text": "trayectoria intelectual",
+      "relevance": 0.517836,
+      "count": 1
+    },
+    {
+      "text": "caso de empate",
+      "relevance": 0.5176,
+      "count": 1
+    },
+    {
+      "text": "maximo tope",
+      "relevance": 0.517526,
+      "count": 5
+    },
+    {
+      "text": "fecha de inicio",
+      "relevance": 0.517172,
+      "count": 1
+    },
+    {
+      "text": "premios internacionales",
+      "relevance": 0.515927,
+      "count": 1
+    },
+    {
+      "text": "lengua materna",
+      "relevance": 0.51576,
+      "count": 1
+    },
+    {
+      "text": "propuesta de investigacion",
+      "relevance": 0.515733,
+      "count": 2
+    },
+    {
+      "text": "actas de grado",
+      "relevance": 0.515233,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de junio",
+      "relevance": 0.515092,
+      "count": 1
+    },
+    {
+      "text": "nivel nacional",
+      "relevance": 0.512685,
+      "count": 1
+    },
+    {
+      "text": "experiencia investigativa",
+      "relevance": 0.512665,
+      "count": 1
+    },
+    {
+      "text": "parte de pares acad\u00e9micos",
+      "relevance": 0.512382,
+      "count": 1
+    }
+  ]
+}

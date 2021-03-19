@@ -1,0 +1,263 @@
+{
+  "usage": {
+    "text_units": 5,
+    "text_characters": 50000,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "estimulos acad\u00e9micos",
+      "relevance": 0.728932,
+      "count": 5
+    },
+    {
+      "text": "perfeccionamiento acad\u00e9micos",
+      "relevance": 0.617752,
+      "count": 1
+    },
+    {
+      "text": "profesores de la universidad",
+      "relevance": 0.607946,
+      "count": 2
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.591554,
+      "count": 14
+    },
+    {
+      "text": "asignacion de un tiempo",
+      "relevance": 0.578273,
+      "count": 1
+    },
+    {
+      "text": "comisi\u00e9n de estudios",
+      "relevance": 0.573932,
+      "count": 26
+    },
+    {
+      "text": "profesores de carrera consistentes",
+      "relevance": 0.570516,
+      "count": 1
+    },
+    {
+      "text": "area de trabajo del profesor",
+      "relevance": 0.553117,
+      "count": 1
+    },
+    {
+      "text": "comisiones acad\u00e9micas",
+      "relevance": 0.551543,
+      "count": 7
+    },
+    {
+      "text": "trav\u00e9s de estudios de posgrado",
+      "relevance": 0.550375,
+      "count": 1
+    },
+    {
+      "text": "director del instituto acad\u00e9mico",
+      "relevance": 0.549279,
+      "count": 2
+    },
+    {
+      "text": "materia de desarrollo acad\u00e9mico",
+      "relevance": 0.544229,
+      "count": 1
+    },
+    {
+      "text": "comit\u00e9 de estimulos acad\u00e9micos",
+      "relevance": 0.540817,
+      "count": 2
+    },
+    {
+      "text": "comisiones de estudio",
+      "relevance": 0.540202,
+      "count": 11
+    },
+    {
+      "text": "profesores de carrera",
+      "relevance": 0.53935,
+      "count": 5
+    },
+    {
+      "text": "profesores",
+      "relevance": 0.539147,
+      "count": 13
+    },
+    {
+      "text": "actividades acad\u00e9micas",
+      "relevance": 0.536595,
+      "count": 3
+    },
+    {
+      "text": "tiempo remunerado",
+      "relevance": 0.535775,
+      "count": 1
+    },
+    {
+      "text": "solicitud de la comisi\u00e9n de estudios",
+      "relevance": 0.5332,
+      "count": 1
+    },
+    {
+      "text": "consejo de facultad",
+      "relevance": 0.533159,
+      "count": 5
+    },
+    {
+      "text": "desarrollo profesoral",
+      "relevance": 0.532786,
+      "count": 2
+    },
+    {
+      "text": "profesores vinculados",
+      "relevance": 0.531693,
+      "count": 1
+    },
+    {
+      "text": "nivel internacional",
+      "relevance": 0.531346,
+      "count": 1
+    },
+    {
+      "text": "requisitos formales",
+      "relevance": 0.530461,
+      "count": 1
+    },
+    {
+      "text": "comisiones de estudios",
+      "relevance": 0.529244,
+      "count": 1
+    },
+    {
+      "text": "respectiva unidad acad\u00e9mica",
+      "relevance": 0.527174,
+      "count": 2
+    },
+    {
+      "text": "consejo directivo",
+      "relevance": 0.526931,
+      "count": 1
+    },
+    {
+      "text": "siguientes casos",
+      "relevance": 0.526912,
+      "count": 2
+    },
+    {
+      "text": "siguientes estimulos acad\u00e9micos",
+      "relevance": 0.526382,
+      "count": 1
+    },
+    {
+      "text": "tiempo total",
+      "relevance": 0.523529,
+      "count": 2
+    },
+    {
+      "text": "estatuto general de la universidad",
+      "relevance": 0.523499,
+      "count": 1
+    },
+    {
+      "text": "servicio activo",
+      "relevance": 0.521916,
+      "count": 1
+    },
+    {
+      "text": "instituto acad\u00e9mico",
+      "relevance": 0.52167,
+      "count": 19
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.521649,
+      "count": 5
+    },
+    {
+      "text": "salario de puntos",
+      "relevance": 0.521388,
+      "count": 2
+    },
+    {
+      "text": "cumplimiento de su misi\u00e9n",
+      "relevance": 0.521194,
+      "count": 1
+    },
+    {
+      "text": "literal p",
+      "relevance": 0.521165,
+      "count": 1
+    },
+    {
+      "text": "respectivo decano",
+      "relevance": 0.520969,
+      "count": 1
+    },
+    {
+      "text": "comisiones conducentes",
+      "relevance": 0.520801,
+      "count": 1
+    },
+    {
+      "text": "jefe de la unidad acad\u00e9mica",
+      "relevance": 0.51866,
+      "count": 6
+    },
+    {
+      "text": "respectivo jefe",
+      "relevance": 0.518311,
+      "count": 1
+    },
+    {
+      "text": "literal f",
+      "relevance": 0.518103,
+      "count": 1
+    },
+    {
+      "text": "condiciones econ\u00e9micas",
+      "relevance": 0.518023,
+      "count": 4
+    },
+    {
+      "text": "afio de comision de estudios",
+      "relevance": 0.517801,
+      "count": 1
+    },
+    {
+      "text": "unidades acad\u00e9micas",
+      "relevance": 0.517413,
+      "count": 2
+    },
+    {
+      "text": "publico docente",
+      "relevance": 0.516047,
+      "count": 2
+    },
+    {
+      "text": "estudio",
+      "relevance": 0.515703,
+      "count": 4
+    },
+    {
+      "text": "recursos propios",
+      "relevance": 0.515702,
+      "count": 1
+    },
+    {
+      "text": "comisiones",
+      "relevance": 0.515436,
+      "count": 13
+    },
+    {
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.515378,
+      "count": 1
+    }
+  ],
+  "warnings": [
+    "Text content exceeds 50000 character limit. Only first 50000 characters processed..."
+  ]
+}

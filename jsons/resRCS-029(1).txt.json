@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 2,
+    "text_characters": 10045,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "umidades acad\u00e9micas",
+      "relevance": 0.62359,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.578927,
+      "count": 2
+    },
+    {
+      "text": "docentes nombrados",
+      "relevance": 0.576011,
+      "count": 1
+    },
+    {
+      "text": "mantenimiento de las unidades acad\u00e9micas",
+      "relevance": 0.564783,
+      "count": 1
+    },
+    {
+      "text": "proyecto de investigacion",
+      "relevance": 0.564131,
+      "count": 1
+    },
+    {
+      "text": "servicios temporales",
+      "relevance": 0.563122,
+      "count": 1
+    },
+    {
+      "text": "actividades de docencia",
+      "relevance": 0.562729,
+      "count": 1
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.557013,
+      "count": 2
+    },
+    {
+      "text": "necesidades reales",
+      "relevance": 0.552764,
+      "count": 1
+    },
+    {
+      "text": "personal docente",
+      "relevance": 0.544763,
+      "count": 1
+    },
+    {
+      "text": "ningtin caso",
+      "relevance": 0.539943,
+      "count": 1
+    },
+    {
+      "text": "estatuto general de la universidad",
+      "relevance": 0.538238,
+      "count": 1
+    },
+    {
+      "text": "pago de salarios del personal",
+      "relevance": 0.537617,
+      "count": 1
+    },
+    {
+      "text": "beneficio acad\u00e9mico",
+      "relevance": 0.53278,
+      "count": 1
+    },
+    {
+      "text": "funciones correspondientes",
+      "relevance": 0.532279,
+      "count": 1
+    },
+    {
+      "text": "tel\u00e9fonos celulares",
+      "relevance": 0.530115,
+      "count": 1
+    },
+    {
+      "text": "excedentes de los fondos especiales",
+      "relevance": 0.529591,
+      "count": 1
+    },
+    {
+      "text": "servicios acad\u00e9micos",
+      "relevance": 0.527963,
+      "count": 1
+    },
+    {
+      "text": "recursos propios",
+      "relevance": 0.526821,
+      "count": 1
+    },
+    {
+      "text": "cursos generales de los ciclos",
+      "relevance": 0.526544,
+      "count": 1
+    },
+    {
+      "text": "previa evaluacion",
+      "relevance": 0.526491,
+      "count": 1
+    },
+    {
+      "text": "fecha mayo",
+      "relevance": 0.524351,
+      "count": 1
+    },
+    {
+      "text": "normas tendientes",
+      "relevance": 0.522038,
+      "count": 1
+    },
+    {
+      "text": "tiempo maximo",
+      "relevance": 0.521996,
+      "count": 1
+    },
+    {
+      "text": "mes de agosto",
+      "relevance": 0.521342,
+      "count": 4
+    },
+    {
+      "text": "caso especial",
+      "relevance": 0.520091,
+      "count": 1
+    },
+    {
+      "text": "disposiciones generales",
+      "relevance": 0.519735,
+      "count": 1
+    },
+    {
+      "text": "racionalizacion del gasto",
+      "relevance": 0.519605,
+      "count": 1
+    },
+    {
+      "text": "concepto de horas extras",
+      "relevance": 0.519415,
+      "count": 1
+    },
+    {
+      "text": "docencia directa",
+      "relevance": 0.518913,
+      "count": 1
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.5185,
+      "count": 1
+    },
+    {
+      "text": "otorgamiento de comisiones de estudio",
+      "relevance": 0.518371,
+      "count": 1
+    },
+    {
+      "text": "propdsitos del consejo superior",
+      "relevance": 0.517923,
+      "count": 1
+    },
+    {
+      "text": "apoyo de la actividad acad\u00e9mica",
+      "relevance": 0.517896,
+      "count": 1
+    },
+    {
+      "text": "programa acad\u00e9mico",
+      "relevance": 0.517691,
+      "count": 1
+    },
+    {
+      "text": "dedicacion exclusiva",
+      "relevance": 0.516628,
+      "count": 1
+    },
+    {
+      "text": "respectiva unidad acad\u00e9mica",
+      "relevance": 0.516177,
+      "count": 1
+    },
+    {
+      "text": "presente resolucion",
+      "relevance": 0.515526,
+      "count": 1
+    },
+    {
+      "text": "segundo semestre",
+      "relevance": 0.51548,
+      "count": 4
+    },
+    {
+      "text": "normas establecidas",
+      "relevance": 0.515185,
+      "count": 1
+    },
+    {
+      "text": "respectiva area",
+      "relevance": 0.5151,
+      "count": 1
+    },
+    {
+      "text": "presupuestos de cada proyecto",
+      "relevance": 0.514565,
+      "count": 1
+    },
+    {
+      "text": "labores del personal",
+      "relevance": 0.513431,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.512984,
+      "count": 1
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.512893,
+      "count": 13
+    },
+    {
+      "text": "presupuestos de gastos",
+      "relevance": 0.512618,
+      "count": 1
+    },
+    {
+      "text": "recargos nocturnos",
+      "relevance": 0.511775,
+      "count": 1
+    },
+    {
+      "text": "paragrafo",
+      "relevance": 0.511552,
+      "count": 6
+    },
+    {
+      "text": "docentes contratistas",
+      "relevance": 0.510879,
+      "count": 1
+    },
+    {
+      "text": "consejos de facultad",
+      "relevance": 0.51077,
+      "count": 2
+    }
+  ]
+}

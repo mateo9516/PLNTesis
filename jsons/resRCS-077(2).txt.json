@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 2,
+    "text_characters": 10842,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "desempefio de su personal acad\u00e9mico",
+      "relevance": 0.751482,
+      "count": 1
+    },
+    {
+      "text": "excelencia acad\u00e9mica",
+      "relevance": 0.64335,
+      "count": 1
+    },
+    {
+      "text": "propuesta de actividad",
+      "relevance": 0.624416,
+      "count": 1
+    },
+    {
+      "text": "dedicacion exclusiva",
+      "relevance": 0.607247,
+      "count": 3
+    },
+    {
+      "text": "dedicaci\u00e9n exclusiva de los profesores",
+      "relevance": 0.603946,
+      "count": 1
+    },
+    {
+      "text": "mayores puntajes",
+      "relevance": 0.599897,
+      "count": 1
+    },
+    {
+      "text": "plan de vida de los acad\u00e9micos",
+      "relevance": 0.58275,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.575329,
+      "count": 7
+    },
+    {
+      "text": "fortalecimiento de la producci\u00e9dn acad\u00e9mica",
+      "relevance": 0.556657,
+      "count": 1
+    },
+    {
+      "text": "instituto acad\u00e9mico",
+      "relevance": 0.555848,
+      "count": 4
+    },
+    {
+      "text": "trav\u00e9s de la unidad acad\u00e9mica",
+      "relevance": 0.552974,
+      "count": 1
+    },
+    {
+      "text": "mayor impacto institucional",
+      "relevance": 0.546639,
+      "count": 1
+    },
+    {
+      "text": "dedicaci\u00e9n exclusiva",
+      "relevance": 0.545507,
+      "count": 10
+    },
+    {
+      "text": "impacto institucional",
+      "relevance": 0.543452,
+      "count": 1
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.541483,
+      "count": 3
+    },
+    {
+      "text": "tiempo completo",
+      "relevance": 0.539369,
+      "count": 3
+    },
+    {
+      "text": "siguientes criterios",
+      "relevance": 0.538968,
+      "count": 1
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.53673,
+      "count": 9
+    },
+    {
+      "text": "desarrollo de la universidad",
+      "relevance": 0.535896,
+      "count": 1
+    },
+    {
+      "text": "logro de los objetivos propuestos",
+      "relevance": 0.533578,
+      "count": 2
+    },
+    {
+      "text": "consejos de facultad",
+      "relevance": 0.532335,
+      "count": 1
+    },
+    {
+      "text": "subdirecci\u00e9n acad\u00e9mica",
+      "relevance": 0.532189,
+      "count": 1
+    },
+    {
+      "text": "ejecuci\u00e9n de la propuesta",
+      "relevance": 0.530553,
+      "count": 1
+    },
+    {
+      "text": "estatuto profesoral",
+      "relevance": 0.527365,
+      "count": 3
+    },
+    {
+      "text": "institutos acad\u00e9micos",
+      "relevance": 0.526159,
+      "count": 1
+    },
+    {
+      "text": "cargos de rector",
+      "relevance": 0.524979,
+      "count": 1
+    },
+    {
+      "text": "incumplimiento de las obligaciones",
+      "relevance": 0.522355,
+      "count": 1
+    },
+    {
+      "text": "informe final",
+      "relevance": 0.520908,
+      "count": 2
+    },
+    {
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.519938,
+      "count": 1
+    },
+    {
+      "text": "mayor pertinencia",
+      "relevance": 0.51984,
+      "count": 1
+    },
+    {
+      "text": "comisi6n acad\u00e9mica",
+      "relevance": 0.519806,
+      "count": 1
+    },
+    {
+      "text": "campo de la propuesta",
+      "relevance": 0.518834,
+      "count": 1
+    },
+    {
+      "text": "econdmico equivalente",
+      "relevance": 0.518692,
+      "count": 1
+    },
+    {
+      "text": "calidades individuales de los profesores",
+      "relevance": 0.518369,
+      "count": 1
+    },
+    {
+      "text": "exigencias del desarrollo cientifico",
+      "relevance": 0.51822,
+      "count": 1
+    },
+    {
+      "text": "estatuto general",
+      "relevance": 0.516959,
+      "count": 1
+    },
+    {
+      "text": "universidades estatales",
+      "relevance": 0.516695,
+      "count": 1
+    },
+    {
+      "text": "vicerrectoria acad\u00e9mica",
+      "relevance": 0.516261,
+      "count": 1
+    },
+    {
+      "text": "profesores",
+      "relevance": 0.515223,
+      "count": 8
+    },
+    {
+      "text": "profesores de dedicacion exclusiva",
+      "relevance": 0.514975,
+      "count": 1
+    },
+    {
+      "text": "solicitud motivada del profesor",
+      "relevance": 0.514824,
+      "count": 1
+    },
+    {
+      "text": "desarrollo humano",
+      "relevance": 0.514676,
+      "count": 1
+    },
+    {
+      "text": "recursos provenientes de la estampilla",
+      "relevance": 0.514405,
+      "count": 2
+    },
+    {
+      "text": "vicerrectorias acad\u00e9mica",
+      "relevance": 0.514083,
+      "count": 1
+    },
+    {
+      "text": "consejo de facultad",
+      "relevance": 0.51259,
+      "count": 3
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.512538,
+      "count": 1
+    },
+    {
+      "text": "universidad nacional",
+      "relevance": 0.512338,
+      "count": 1
+    },
+    {
+      "text": "politica de desarrollo humano",
+      "relevance": 0.511387,
+      "count": 1
+    },
+    {
+      "text": "estimulo econdmico",
+      "relevance": 0.51135,
+      "count": 2
+    },
+    {
+      "text": "compromisos adquiridos",
+      "relevance": 0.51092,
+      "count": 2
+    }
+  ]
+}

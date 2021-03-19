@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2771,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "consejo superior de la universidad",
+      "relevance": 0.725821,
+      "count": 1
+    },
+    {
+      "text": "plan estrat\u00e9gico de desarrollo",
+      "relevance": 0.687561,
+      "count": 5
+    },
+    {
+      "text": "proxima reuni\u00e9dn de marzo",
+      "relevance": 0.61385,
+      "count": 1
+    },
+    {
+      "text": "sector publico",
+      "relevance": 0.612039,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.608385,
+      "count": 2
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.603325,
+      "count": 5
+    },
+    {
+      "text": "t\u00e9rminos de referencia",
+      "relevance": 0.590926,
+      "count": 1
+    },
+    {
+      "text": "programas acad\u00e9micos acreditados",
+      "relevance": 0.58845,
+      "count": 1
+    },
+    {
+      "text": "interior de la universidad",
+      "relevance": 0.574709,
+      "count": 1
+    },
+    {
+      "text": "desarrollo institucional",
+      "relevance": 0.574326,
+      "count": 1
+    },
+    {
+      "text": "informes de los pares del proceso",
+      "relevance": 0.565516,
+      "count": 1
+    },
+    {
+      "text": "actividades de disefo",
+      "relevance": 0.548008,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.545234,
+      "count": 1
+    },
+    {
+      "text": "instituciones gubernamentales",
+      "relevance": 0.541296,
+      "count": 1
+    },
+    {
+      "text": "oficina de planeacio\u00e9n",
+      "relevance": 0.536406,
+      "count": 1
+    },
+    {
+      "text": "plan estrat\u00e9gico",
+      "relevance": 0.535186,
+      "count": 1
+    },
+    {
+      "text": "direccion universitaria",
+      "relevance": 0.530014,
+      "count": 1
+    },
+    {
+      "text": "mapa de asuntos estrat\u00e9gicos",
+      "relevance": 0.525151,
+      "count": 1
+    },
+    {
+      "text": "sitio web de la universidad",
+      "relevance": 0.52474,
+      "count": 1
+    },
+    {
+      "text": "envio del documento",
+      "relevance": 0.523059,
+      "count": 1
+    },
+    {
+      "text": "construcci\u00e9n de los documentos",
+      "relevance": 0.52283,
+      "count": 1
+    },
+    {
+      "text": "agenda de acciones",
+      "relevance": 0.520436,
+      "count": 1
+    },
+    {
+      "text": "elaboracion del plan",
+      "relevance": 0.519493,
+      "count": 1
+    },
+    {
+      "text": "elaboraci\u00e9n de los planes",
+      "relevance": 0.519088,
+      "count": 1
+    },
+    {
+      "text": "sesidn de enero",
+      "relevance": 0.513526,
+      "count": 1
+    },
+    {
+      "text": "trav\u00e9s de entrevistas",
+      "relevance": 0.511977,
+      "count": 1
+    },
+    {
+      "text": "gobernador del departamento",
+      "relevance": 0.51074,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de mayo",
+      "relevance": 0.509477,
+      "count": 1
+    },
+    {
+      "text": "analisis de la situaci\u00e9n interna",
+      "relevance": 0.507804,
+      "count": 1
+    },
+    {
+      "text": "uso de sus atribuciones",
+      "relevance": 0.506511,
+      "count": 1
+    },
+    {
+      "text": "proyecto institucional",
+      "relevance": 0.49951,
+      "count": 1
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.498052,
+      "count": 2
+    },
+    {
+      "text": "amplia divulgacion",
+      "relevance": 0.493975,
+      "count": 1
+    },
+    {
+      "text": "actores regionales",
+      "relevance": 0.49252,
+      "count": 1
+    },
+    {
+      "text": "parte integral",
+      "relevance": 0.49252,
+      "count": 1
+    },
+    {
+      "text": "trat\u00e9gico de desarrollo",
+      "relevance": 0.490246,
+      "count": 1
+    },
+    {
+      "text": "desarrollo estrat\u00e9gico",
+      "relevance": 0.488174,
+      "count": 1
+    },
+    {
+      "text": "plan de desarrollo",
+      "relevance": 0.484962,
+      "count": 1
+    },
+    {
+      "text": "plan operativo",
+      "relevance": 0.483848,
+      "count": 1
+    },
+    {
+      "text": "plan de accion",
+      "relevance": 0.481889,
+      "count": 1
+    },
+    {
+      "text": "valle del cauca",
+      "relevance": 0.481052,
+      "count": 1
+    },
+    {
+      "text": "datos",
+      "relevance": 0.476227,
+      "count": 1
+    },
+    {
+      "text": "consejos",
+      "relevance": 0.474689,
+      "count": 1
+    },
+    {
+      "text": "gobernador",
+      "relevance": 0.472549,
+      "count": 1
+    },
+    {
+      "text": "entorno",
+      "relevance": 0.472153,
+      "count": 1
+    },
+    {
+      "text": "foros",
+      "relevance": 0.471803,
+      "count": 1
+    },
+    {
+      "text": "mismo",
+      "relevance": 0.471614,
+      "count": 1
+    },
+    {
+      "text": "comisiones",
+      "relevance": 0.467263,
+      "count": 1
+    },
+    {
+      "text": "sal6n de reuniones del despacho",
+      "relevance": 0.467071,
+      "count": 1
+    },
+    {
+      "text": "enero",
+      "relevance": 0.465411,
+      "count": 1
+    }
+  ]
+}

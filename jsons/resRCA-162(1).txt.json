@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 4108,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "director del programa acad\u00e9mico",
+      "relevance": 0.692311,
+      "count": 1
+    },
+    {
+      "text": "actividades de profesores consejeros",
+      "relevance": 0.676517,
+      "count": 1
+    },
+    {
+      "text": "consejeria estudiantil",
+      "relevance": 0.610835,
+      "count": 3
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.601706,
+      "count": 1
+    },
+    {
+      "text": "segundo semestre",
+      "relevance": 0.592058,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.584239,
+      "count": 1
+    },
+    {
+      "text": "desarrollo acad\u00e9mico",
+      "relevance": 0.577524,
+      "count": 1
+    },
+    {
+      "text": "orientacid\u00e9dn de los estudiantes",
+      "relevance": 0.57629,
+      "count": 1
+    },
+    {
+      "text": "papel del profesor consejero",
+      "relevance": 0.571052,
+      "count": 1
+    },
+    {
+      "text": "asistentes de docencia",
+      "relevance": 0.551546,
+      "count": 1
+    },
+    {
+      "text": "facultades podrdn",
+      "relevance": 0.550478,
+      "count": 1
+    },
+    {
+      "text": "actividades acad\u00e9micas",
+      "relevance": 0.54533,
+      "count": 1
+    },
+    {
+      "text": "sal\u00e9n de reuniones",
+      "relevance": 0.544324,
+      "count": 1
+    },
+    {
+      "text": "labor de consejeria serd",
+      "relevance": 0.541616,
+      "count": 1
+    },
+    {
+      "text": "periodos anteriores",
+      "relevance": 0.537972,
+      "count": 1
+    },
+    {
+      "text": "comienzo de cada periodo acad\u00e9mico",
+      "relevance": 0.535333,
+      "count": 1
+    },
+    {
+      "text": "atribuciones legales",
+      "relevance": 0.53425,
+      "count": 1
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.531604,
+      "count": 2
+    },
+    {
+      "text": "actividades de aprendizaje",
+      "relevance": 0.529343,
+      "count": 1
+    },
+    {
+      "text": "director del programa de acad\u00e9mico",
+      "relevance": 0.527619,
+      "count": 1
+    },
+    {
+      "text": "situacid\u00e9n acad\u00e9mica",
+      "relevance": 0.524764,
+      "count": 1
+    },
+    {
+      "text": "cambio de profesor consejero",
+      "relevance": 0.521868,
+      "count": 1
+    },
+    {
+      "text": "suficientes docentes nombrados",
+      "relevance": 0.521607,
+      "count": 1
+    },
+    {
+      "text": "seguimiento del desempejio",
+      "relevance": 0.520589,
+      "count": 1
+    },
+    {
+      "text": "casa de necesidad",
+      "relevance": 0.518612,
+      "count": 1
+    },
+    {
+      "text": "dulcey bonilla",
+      "relevance": 0.518612,
+      "count": 1
+    },
+    {
+      "text": "principios de la presente",
+      "relevance": 0.517359,
+      "count": 1
+    },
+    {
+      "text": "casos de fuerza mayor",
+      "relevance": 0.51616,
+      "count": 1
+    },
+    {
+      "text": "asistentes de consejeria",
+      "relevance": 0.513569,
+      "count": 1
+    },
+    {
+      "text": "profesores consejeros",
+      "relevance": 0.513188,
+      "count": 1
+    },
+    {
+      "text": "estudiante actividades",
+      "relevance": 0.508263,
+      "count": 1
+    },
+    {
+      "text": "semestre de consejeria",
+      "relevance": 0.507303,
+      "count": 1
+    },
+    {
+      "text": "estudiantes",
+      "relevance": 0.507013,
+      "count": 4
+    },
+    {
+      "text": "consejo academico de la universidad del valle",
+      "relevance": 0.506594,
+      "count": 1
+    },
+    {
+      "text": "efectos de asignacion de puntaje",
+      "relevance": 0.506029,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de noviembre",
+      "relevance": 0.505556,
+      "count": 1
+    },
+    {
+      "text": "director de programa acad\u00e9mico",
+      "relevance": 0.504955,
+      "count": 1
+    },
+    {
+      "text": "estudiante tendra",
+      "relevance": 0.503592,
+      "count": 1
+    },
+    {
+      "text": "conformaci6\u00e9n de su plan",
+      "relevance": 0.50302,
+      "count": 1
+    },
+    {
+      "text": "estudiantes nuevos",
+      "relevance": 0.502467,
+      "count": 1
+    },
+    {
+      "text": "servicio remunerado",
+      "relevance": 0.502113,
+      "count": 1
+    },
+    {
+      "text": "docentes contratistas",
+      "relevance": 0.502113,
+      "count": 1
+    },
+    {
+      "text": "rector encargado",
+      "relevance": 0.502113,
+      "count": 1
+    },
+    {
+      "text": "mejor desarrollo personal",
+      "relevance": 0.501516,
+      "count": 1
+    },
+    {
+      "text": "facultades tendradn",
+      "relevance": 0.500314,
+      "count": 1
+    },
+    {
+      "text": "profesor fijard",
+      "relevance": 0.498327,
+      "count": 1
+    },
+    {
+      "text": "cambio de ciclo",
+      "relevance": 0.494515,
+      "count": 1
+    },
+    {
+      "text": "estatuto general",
+      "relevance": 0.493323,
+      "count": 1
+    },
+    {
+      "text": "maximo permanente",
+      "relevance": 0.492302,
+      "count": 1
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.489118,
+      "count": 4
+    }
+  ]
+}

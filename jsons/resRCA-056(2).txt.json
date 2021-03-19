@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3929,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "programa de alternativa de grado",
+      "relevance": 0.639725,
+      "count": 1
+    },
+    {
+      "text": "acad\u00e9micos de postgrado",
+      "relevance": 0.623816,
+      "count": 1
+    },
+    {
+      "text": "programas acad\u00e9micos de maestria",
+      "relevance": 0.578022,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.575762,
+      "count": 3
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.572785,
+      "count": 1
+    },
+    {
+      "text": "asignaturas constitutivas del programa",
+      "relevance": 0.566083,
+      "count": 1
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.559487,
+      "count": 1
+    },
+    {
+      "text": "excepcion del trabajo de investigacion",
+      "relevance": 0.558055,
+      "count": 1
+    },
+    {
+      "text": "estudios vigente",
+      "relevance": 0.55415,
+      "count": 1
+    },
+    {
+      "text": "procedimiento institucional vigente",
+      "relevance": 0.551109,
+      "count": 1
+    },
+    {
+      "text": "homologaciones respectivas",
+      "relevance": 0.546404,
+      "count": 1
+    },
+    {
+      "text": "actividad profesional",
+      "relevance": 0.543261,
+      "count": 1
+    },
+    {
+      "text": "trabajo de grado",
+      "relevance": 0.539872,
+      "count": 1
+    },
+    {
+      "text": "plazo maximo",
+      "relevance": 0.53815,
+      "count": 1
+    },
+    {
+      "text": "programas acad\u00e9micos de pregrado",
+      "relevance": 0.536708,
+      "count": 1
+    },
+    {
+      "text": "asignatura pendiente",
+      "relevance": 0.534561,
+      "count": 1
+    },
+    {
+      "text": "campo del conocimiento del programa",
+      "relevance": 0.532238,
+      "count": 1
+    },
+    {
+      "text": "actividades acad\u00e9micas",
+      "relevance": 0.531716,
+      "count": 1
+    },
+    {
+      "text": "programa de alternativa",
+      "relevance": 0.53141,
+      "count": 1
+    },
+    {
+      "text": "caso de las maestrias",
+      "relevance": 0.530029,
+      "count": 1
+    },
+    {
+      "text": "salon de reuniones",
+      "relevance": 0.529971,
+      "count": 1
+    },
+    {
+      "text": "momento de su retiro de la universidad",
+      "relevance": 0.525567,
+      "count": 1
+    },
+    {
+      "text": "asignaturas",
+      "relevance": 0.525058,
+      "count": 1
+    },
+    {
+      "text": "comit\u00e9 de programa acad\u00e9mico",
+      "relevance": 0.524933,
+      "count": 1
+    },
+    {
+      "text": "grupo de profesionales",
+      "relevance": 0.522985,
+      "count": 1
+    },
+    {
+      "text": "solicitud motivada",
+      "relevance": 0.520954,
+      "count": 1
+    },
+    {
+      "text": "presente resolucion",
+      "relevance": 0.519398,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de mayo",
+      "relevance": 0.513093,
+      "count": 1
+    },
+    {
+      "text": "sola vez",
+      "relevance": 0.511713,
+      "count": 1
+    },
+    {
+      "text": "productos acad\u00e9micos homologables",
+      "relevance": 0.511205,
+      "count": 1
+    },
+    {
+      "text": "consejo academico de la universidad del valle",
+      "relevance": 0.510415,
+      "count": 1
+    },
+    {
+      "text": "derechos correspondientes",
+      "relevance": 0.509598,
+      "count": 1
+    },
+    {
+      "text": "secretario general",
+      "relevance": 0.509598,
+      "count": 1
+    },
+    {
+      "text": "referencia",
+      "relevance": 0.50503,
+      "count": 1
+    },
+    {
+      "text": "programas de especializacion",
+      "relevance": 0.503208,
+      "count": 1
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.502993,
+      "count": 1
+    },
+    {
+      "text": "participante evaluado",
+      "relevance": 0.502806,
+      "count": 1
+    },
+    {
+      "text": "lopez pulecio",
+      "relevance": 0.502806,
+      "count": 1
+    },
+    {
+      "text": "alternativa de grado",
+      "relevance": 0.502089,
+      "count": 2
+    },
+    {
+      "text": "alternativa sera",
+      "relevance": 0.499718,
+      "count": 1
+    },
+    {
+      "text": "caso de los programas de especializacion",
+      "relevance": 0.498807,
+      "count": 1
+    },
+    {
+      "text": "comit\u00e9 del programa",
+      "relevance": 0.497787,
+      "count": 1
+    },
+    {
+      "text": "asignatura",
+      "relevance": 0.497614,
+      "count": 1
+    },
+    {
+      "text": "caso tal",
+      "relevance": 0.496515,
+      "count": 1
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.494518,
+      "count": 4
+    },
+    {
+      "text": "trabajo de investigacion",
+      "relevance": 0.493753,
+      "count": 1
+    },
+    {
+      "text": "asignaturas matriculadas del programa vigente",
+      "relevance": 0.491631,
+      "count": 1
+    },
+    {
+      "text": "especializaciones",
+      "relevance": 0.491393,
+      "count": 1
+    },
+    {
+      "text": "coordinacion del programa acad\u00e9mico respectivo",
+      "relevance": 0.490429,
+      "count": 1
+    },
+    {
+      "text": "defecto",
+      "relevance": 0.484649,
+      "count": 1
+    }
+  ]
+}

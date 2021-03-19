@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3395,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "premio de estudios",
+      "relevance": 0.646501,
+      "count": 1
+    },
+    {
+      "text": "labor docente",
+      "relevance": 0.62042,
+      "count": 1
+    },
+    {
+      "text": "ceremonia especial",
+      "relevance": 0.591847,
+      "count": 1
+    },
+    {
+      "text": "trabajo creativo",
+      "relevance": 0.575639,
+      "count": 1
+    },
+    {
+      "text": "investigativa contribuy6",
+      "relevance": 0.558785,
+      "count": 1
+    },
+    {
+      "text": "motivo de orgullo",
+      "relevance": 0.555073,
+      "count": 1
+    },
+    {
+      "text": "sociedad justa",
+      "relevance": 0.554778,
+      "count": 1
+    },
+    {
+      "text": "produccion intelectual",
+      "relevance": 0.551607,
+      "count": 1
+    },
+    {
+      "text": "vasta obra investigativa",
+      "relevance": 0.549658,
+      "count": 1
+    },
+    {
+      "text": "docente de la universidad del valle",
+      "relevance": 0.5466,
+      "count": 1
+    },
+    {
+      "text": "navia velasco",
+      "relevance": 0.544832,
+      "count": 3
+    },
+    {
+      "text": "nacionalidad colombiana",
+      "relevance": 0.540741,
+      "count": 1
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.538317,
+      "count": 2
+    },
+    {
+      "text": "parte de la mision de la universidad",
+      "relevance": 0.536761,
+      "count": 1
+    },
+    {
+      "text": "escuela de estudios literarios",
+      "relevance": 0.535023,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.533314,
+      "count": 1
+    },
+    {
+      "text": "centro de su reflexion",
+      "relevance": 0.531798,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.531358,
+      "count": 2
+    },
+    {
+      "text": "articulos de difusion",
+      "relevance": 0.52929,
+      "count": 1
+    },
+    {
+      "text": "mujer protagonista",
+      "relevance": 0.52774,
+      "count": 1
+    },
+    {
+      "text": "6on literaria",
+      "relevance": 0.526912,
+      "count": 1
+    },
+    {
+      "text": "generaciones de escritores",
+      "relevance": 0.526008,
+      "count": 1
+    },
+    {
+      "text": "titulo de doctor honoris",
+      "relevance": 0.524655,
+      "count": 1
+    },
+    {
+      "text": "centro de estudios de g\u00e9nero",
+      "relevance": 0.519945,
+      "count": 1
+    },
+    {
+      "text": "narrativa colombiana",
+      "relevance": 0.517157,
+      "count": 1
+    },
+    {
+      "text": "miradas feministas",
+      "relevance": 0.512898,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de abril",
+      "relevance": 0.508175,
+      "count": 1
+    },
+    {
+      "text": "presente resoluci6",
+      "relevance": 0.507271,
+      "count": 1
+    },
+    {
+      "text": "universidades san",
+      "relevance": 0.506363,
+      "count": 1
+    },
+    {
+      "text": "salon de reuniones del despacho",
+      "relevance": 0.505928,
+      "count": 1
+    },
+    {
+      "text": "menci\u00e9n de honor",
+      "relevance": 0.505125,
+      "count": 1
+    },
+    {
+      "text": "literatura",
+      "relevance": 0.504694,
+      "count": 4
+    },
+    {
+      "text": "escritoras latinoamericanas",
+      "relevance": 0.503653,
+      "count": 1
+    },
+    {
+      "text": "representante del presidente",
+      "relevance": 0.502072,
+      "count": 1
+    },
+    {
+      "text": "aambito nacional",
+      "relevance": 0.500532,
+      "count": 1
+    },
+    {
+      "text": "larreamendy joerns",
+      "relevance": 0.499199,
+      "count": 1
+    },
+    {
+      "text": "narrativa femenina",
+      "relevance": 0.497723,
+      "count": 1
+    },
+    {
+      "text": "premio mundial de poesia mistica",
+      "relevance": 0.496692,
+      "count": 1
+    },
+    {
+      "text": "destacados hijos",
+      "relevance": 0.49643,
+      "count": 1
+    },
+    {
+      "text": "titulo doctor",
+      "relevance": 0.495802,
+      "count": 1
+    },
+    {
+      "text": "convicci6n",
+      "relevance": 0.495114,
+      "count": 1
+    },
+    {
+      "text": "claro testimonio de su permanente labor",
+      "relevance": 0.494979,
+      "count": 1
+    },
+    {
+      "text": "ambito nacional",
+      "relevance": 0.494774,
+      "count": 1
+    },
+    {
+      "text": "pais",
+      "relevance": 0.494615,
+      "count": 2
+    },
+    {
+      "text": "ciudad",
+      "relevance": 0.494305,
+      "count": 1
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.493963,
+      "count": 4
+    },
+    {
+      "text": "obra",
+      "relevance": 0.493642,
+      "count": 2
+    },
+    {
+      "text": "titulo correspondiente",
+      "relevance": 0.492518,
+      "count": 1
+    },
+    {
+      "text": "escritora",
+      "relevance": 0.49161,
+      "count": 4
+    },
+    {
+      "text": "mujer",
+      "relevance": 0.491292,
+      "count": 1
+    }
+  ]
+}

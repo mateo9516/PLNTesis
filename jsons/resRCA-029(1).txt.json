@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 4,
+    "text_characters": 38290,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "titulo profesional",
+      "relevance": 0.702907,
+      "count": 1
+    },
+    {
+      "text": "experiencia docente universitaria de minimo",
+      "relevance": 0.642299,
+      "count": 30
+    },
+    {
+      "text": "medio tiempo",
+      "relevance": 0.641197,
+      "count": 24
+    },
+    {
+      "text": "experiencia docente universitaria",
+      "relevance": 0.618308,
+      "count": 26
+    },
+    {
+      "text": "experiencia artistica de minimo",
+      "relevance": 0.60918,
+      "count": 1
+    },
+    {
+      "text": "experiencia profesional",
+      "relevance": 0.601487,
+      "count": 23
+    },
+    {
+      "text": "experiencia investigativa",
+      "relevance": 0.599006,
+      "count": 15
+    },
+    {
+      "text": "tiempo completo",
+      "relevance": 0.596049,
+      "count": 8
+    },
+    {
+      "text": "docentes de carrera de tiempo completo",
+      "relevance": 0.565586,
+      "count": 1
+    },
+    {
+      "text": "area de canto",
+      "relevance": 0.564672,
+      "count": 1
+    },
+    {
+      "text": "casos de experiencia hora catedra",
+      "relevance": 0.561055,
+      "count": 1
+    },
+    {
+      "text": "experiencia profesional de minimo",
+      "relevance": 0.554892,
+      "count": 4
+    },
+    {
+      "text": "cargos docentes",
+      "relevance": 0.547134,
+      "count": 7
+    },
+    {
+      "text": "afios de experiencia profesional",
+      "relevance": 0.541271,
+      "count": 1
+    },
+    {
+      "text": "equivalente de tiempo completo",
+      "relevance": 0.536112,
+      "count": 39
+    },
+    {
+      "text": "area de las artes",
+      "relevance": 0.534813,
+      "count": 1
+    },
+    {
+      "text": "area",
+      "relevance": 0.534784,
+      "count": 13
+    },
+    {
+      "text": "cupos docentes de tiempo completo",
+      "relevance": 0.534002,
+      "count": 1
+    },
+    {
+      "text": "planta de cargos de empleados",
+      "relevance": 0.532973,
+      "count": 1
+    },
+    {
+      "text": "perfil general",
+      "relevance": 0.532828,
+      "count": 1
+    },
+    {
+      "text": "lengua materna",
+      "relevance": 0.531097,
+      "count": 1
+    },
+    {
+      "text": "comunicaci6n social",
+      "relevance": 0.530406,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.529257,
+      "count": 4
+    },
+    {
+      "text": "areas de canto",
+      "relevance": 0.528604,
+      "count": 1
+    },
+    {
+      "text": "ciencias naturales",
+      "relevance": 0.527935,
+      "count": 2
+    },
+    {
+      "text": "experiencia",
+      "relevance": 0.527757,
+      "count": 6
+    },
+    {
+      "text": "afio de experiencia profesional",
+      "relevance": 0.527059,
+      "count": 2
+    },
+    {
+      "text": "cursos de pregrado",
+      "relevance": 0.52679,
+      "count": 3
+    },
+    {
+      "text": "ciencias sociales",
+      "relevance": 0.52479,
+      "count": 13
+    },
+    {
+      "text": "siguientes idiomas",
+      "relevance": 0.524594,
+      "count": 1
+    },
+    {
+      "text": "intervencion profesional",
+      "relevance": 0.522139,
+      "count": 1
+    },
+    {
+      "text": "experiencia docente",
+      "relevance": 0.522063,
+      "count": 3
+    },
+    {
+      "text": "equivalente",
+      "relevance": 0.51956,
+      "count": 13
+    },
+    {
+      "text": "escuela de medicina de la facultad",
+      "relevance": 0.518072,
+      "count": 1
+    },
+    {
+      "text": "unidades acad\u00e9micas",
+      "relevance": 0.518049,
+      "count": 1
+    },
+    {
+      "text": "area de mercadeo",
+      "relevance": 0.51799,
+      "count": 1
+    },
+    {
+      "text": "planta de profesores nombrados",
+      "relevance": 0.517658,
+      "count": 1
+    },
+    {
+      "text": "tiempo cronoldgico",
+      "relevance": 0.517296,
+      "count": 23
+    },
+    {
+      "text": "facultades de artes integradas",
+      "relevance": 0.51699,
+      "count": 1
+    },
+    {
+      "text": "efectos de esta convocatoria",
+      "relevance": 0.51672,
+      "count": 1
+    },
+    {
+      "text": "planes de desarrollo",
+      "relevance": 0.516286,
+      "count": 1
+    },
+    {
+      "text": "area de la convocatoria",
+      "relevance": 0.515195,
+      "count": 35
+    },
+    {
+      "text": "inteligencia artificial",
+      "relevance": 0.51503,
+      "count": 1
+    },
+    {
+      "text": "industrias culturales",
+      "relevance": 0.514345,
+      "count": 1
+    },
+    {
+      "text": "titulo de maestria",
+      "relevance": 0.514295,
+      "count": 4
+    },
+    {
+      "text": "artista plastico",
+      "relevance": 0.513863,
+      "count": 1
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.513619,
+      "count": 19
+    },
+    {
+      "text": "medios digitales",
+      "relevance": 0.513315,
+      "count": 2
+    },
+    {
+      "text": "cupos de salud",
+      "relevance": 0.512888,
+      "count": 1
+    },
+    {
+      "text": "productos naturales",
+      "relevance": 0.512641,
+      "count": 1
+    }
+  ]
+}

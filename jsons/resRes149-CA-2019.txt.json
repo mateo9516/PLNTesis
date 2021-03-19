@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 2,
+    "text_characters": 11934,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "programa acad\u00e9mico",
+      "relevance": 0.600261,
+      "count": 5
+    },
+    {
+      "text": "profesionales de manera",
+      "relevance": 0.585162,
+      "count": 1
+    },
+    {
+      "text": "total ciclo basico",
+      "relevance": 0.551585,
+      "count": 1
+    },
+    {
+      "text": "ciclo profesional",
+      "relevance": 0.551077,
+      "count": 2
+    },
+    {
+      "text": "departamento de administraci6n",
+      "relevance": 0.548557,
+      "count": 1
+    },
+    {
+      "text": "diferentes niveles",
+      "relevance": 0.548061,
+      "count": 2
+    },
+    {
+      "text": "abordaje de situaciones problematicas",
+      "relevance": 0.540606,
+      "count": 1
+    },
+    {
+      "text": "ministerio de educacion nacional",
+      "relevance": 0.540304,
+      "count": 1
+    },
+    {
+      "text": "reforma de los programas de formacion",
+      "relevance": 0.539451,
+      "count": 1
+    },
+    {
+      "text": "administracion publica",
+      "relevance": 0.537221,
+      "count": 2
+    },
+    {
+      "text": "profesional competente",
+      "relevance": 0.536762,
+      "count": 1
+    },
+    {
+      "text": "problematicas sociales",
+      "relevance": 0.535671,
+      "count": 1
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.535402,
+      "count": 10
+    },
+    {
+      "text": "problemas de alta complejidad",
+      "relevance": 0.534363,
+      "count": 1
+    },
+    {
+      "text": "organizaciones de la facultad de ciencias",
+      "relevance": 0.534356,
+      "count": 1
+    },
+    {
+      "text": "campos del saber",
+      "relevance": 0.532652,
+      "count": 1
+    },
+    {
+      "text": "facultades legales",
+      "relevance": 0.531334,
+      "count": 1
+    },
+    {
+      "text": "equipos de disefio de politicas",
+      "relevance": 0.531114,
+      "count": 1
+    },
+    {
+      "text": "componentes de la formacion general",
+      "relevance": 0.530726,
+      "count": 1
+    },
+    {
+      "text": "derecho internacional",
+      "relevance": 0.530302,
+      "count": 1
+    },
+    {
+      "text": "parte del estudiante de una pasantia",
+      "relevance": 0.529819,
+      "count": 1
+    },
+    {
+      "text": "sola vez",
+      "relevance": 0.524495,
+      "count": 2
+    },
+    {
+      "text": "asignaturas cr\u00e9ditos",
+      "relevance": 0.523972,
+      "count": 2
+    },
+    {
+      "text": "innovadora del quehacer",
+      "relevance": 0.523409,
+      "count": 1
+    },
+    {
+      "text": "titulo de administrador publico",
+      "relevance": 0.52295,
+      "count": 1
+    },
+    {
+      "text": "total ciclo profesional",
+      "relevance": 0.522816,
+      "count": 1
+    },
+    {
+      "text": "asignatura electiva",
+      "relevance": 0.522532,
+      "count": 1
+    },
+    {
+      "text": "participacion activa",
+      "relevance": 0.521082,
+      "count": 1
+    },
+    {
+      "text": "siguientes objetivos",
+      "relevance": 0.521007,
+      "count": 1
+    },
+    {
+      "text": "componente cientifico",
+      "relevance": 0.520467,
+      "count": 1
+    },
+    {
+      "text": "documento original",
+      "relevance": 0.518907,
+      "count": 1
+    },
+    {
+      "text": "presente resolucion",
+      "relevance": 0.518754,
+      "count": 1
+    },
+    {
+      "text": "formacion integral del estudiante",
+      "relevance": 0.518557,
+      "count": 1
+    },
+    {
+      "text": "gestion estrat\u00e9gica",
+      "relevance": 0.517494,
+      "count": 1
+    },
+    {
+      "text": "regulaciones de politica",
+      "relevance": 0.515708,
+      "count": 1
+    },
+    {
+      "text": "consejo de la facultad de ciencias",
+      "relevance": 0.515191,
+      "count": 1
+    },
+    {
+      "text": "toma de decisiones",
+      "relevance": 0.514708,
+      "count": 1
+    },
+    {
+      "text": "lenguaje ye",
+      "relevance": 0.514521,
+      "count": 1
+    },
+    {
+      "text": "quehacer de la administracion publica",
+      "relevance": 0.514115,
+      "count": 1
+    },
+    {
+      "text": "cupo maximo",
+      "relevance": 0.514096,
+      "count": 1
+    },
+    {
+      "text": "ciclo componentes",
+      "relevance": 0.513522,
+      "count": 1
+    },
+    {
+      "text": "vida universitaria",
+      "relevance": 0.513438,
+      "count": 1
+    },
+    {
+      "text": "funcionamiento del estado",
+      "relevance": 0.513166,
+      "count": 1
+    },
+    {
+      "text": "siguientes objetivos de formacion",
+      "relevance": 0.512502,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.512467,
+      "count": 1
+    },
+    {
+      "text": "diferentes tipos de organizaciones",
+      "relevance": 0.512457,
+      "count": 1
+    },
+    {
+      "text": "saber administrativo",
+      "relevance": 0.51208,
+      "count": 1
+    },
+    {
+      "text": "administrativo ptblico",
+      "relevance": 0.512045,
+      "count": 1
+    },
+    {
+      "text": "principios equidad",
+      "relevance": 0.511811,
+      "count": 1
+    },
+    {
+      "text": "organizaciones de naturaleza privada",
+      "relevance": 0.511403,
+      "count": 1
+    }
+  ]
+}

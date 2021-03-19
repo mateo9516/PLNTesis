@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 2,
+    "text_characters": 11536,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "programa de semilleros de docentes",
+      "relevance": 0.630542,
+      "count": 1
+    },
+    {
+      "text": "fortalecimiento acad\u00e9mico",
+      "relevance": 0.592325,
+      "count": 1
+    },
+    {
+      "text": "respectiva unidad acad\u00e9mica",
+      "relevance": 0.580265,
+      "count": 2
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.573541,
+      "count": 5
+    },
+    {
+      "text": "nuevos cupos de profesores",
+      "relevance": 0.573212,
+      "count": 1
+    },
+    {
+      "text": "planta docente",
+      "relevance": 0.567592,
+      "count": 1
+    },
+    {
+      "text": "siguiente manera",
+      "relevance": 0.566858,
+      "count": 1
+    },
+    {
+      "text": "unidades acad\u00e9micas",
+      "relevance": 0.558049,
+      "count": 1
+    },
+    {
+      "text": "semillero de docentes",
+      "relevance": 0.55259,
+      "count": 4
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.547737,
+      "count": 11
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.54463,
+      "count": 5
+    },
+    {
+      "text": "formacion de jovenes profesores",
+      "relevance": 0.543132,
+      "count": 1
+    },
+    {
+      "text": "estudios de posgrado",
+      "relevance": 0.541915,
+      "count": 1
+    },
+    {
+      "text": "lengua extranjera",
+      "relevance": 0.541864,
+      "count": 1
+    },
+    {
+      "text": "nueva generacion acad\u00e9mica",
+      "relevance": 0.540217,
+      "count": 1
+    },
+    {
+      "text": "caso de medicina",
+      "relevance": 0.538914,
+      "count": 1
+    },
+    {
+      "text": "efectos legales",
+      "relevance": 0.537169,
+      "count": 1
+    },
+    {
+      "text": "estudios doctorales",
+      "relevance": 0.536479,
+      "count": 2
+    },
+    {
+      "text": "excepcion de las artes",
+      "relevance": 0.534417,
+      "count": 1
+    },
+    {
+      "text": "alto nivel",
+      "relevance": 0.534007,
+      "count": 1
+    },
+    {
+      "text": "tal efecto",
+      "relevance": 0.533373,
+      "count": 1
+    },
+    {
+      "text": "cupo total del programa",
+      "relevance": 0.530541,
+      "count": 1
+    },
+    {
+      "text": "corto plazo",
+      "relevance": 0.528117,
+      "count": 1
+    },
+    {
+      "text": "nivel de maestria",
+      "relevance": 0.525811,
+      "count": 2
+    },
+    {
+      "text": "reglamentacion del semilleros",
+      "relevance": 0.525302,
+      "count": 1
+    },
+    {
+      "text": "artes visuales",
+      "relevance": 0.524282,
+      "count": 1
+    },
+    {
+      "text": "respectivos perfiles",
+      "relevance": 0.522813,
+      "count": 1
+    },
+    {
+      "text": "artes esc\u00e9nicas",
+      "relevance": 0.522295,
+      "count": 1
+    },
+    {
+      "text": "calidad de su planta docente",
+      "relevance": 0.521977,
+      "count": 1
+    },
+    {
+      "text": "carrera docente",
+      "relevance": 0.521962,
+      "count": 1
+    },
+    {
+      "text": "siguientes criterios",
+      "relevance": 0.521666,
+      "count": 1
+    },
+    {
+      "text": "uso de sus atribuciones legales",
+      "relevance": 0.519531,
+      "count": 1
+    },
+    {
+      "text": "programa de semilleros",
+      "relevance": 0.518746,
+      "count": 2
+    },
+    {
+      "text": "dara lugar",
+      "relevance": 0.518681,
+      "count": 1
+    },
+    {
+      "text": "terminaci6on del contrato",
+      "relevance": 0.517392,
+      "count": 1
+    },
+    {
+      "text": "triple del monto del beneficio",
+      "relevance": 0.516388,
+      "count": 1
+    },
+    {
+      "text": "siguiente ponderacion",
+      "relevance": 0.516012,
+      "count": 1
+    },
+    {
+      "text": "primera convocatoria",
+      "relevance": 0.515782,
+      "count": 1
+    },
+    {
+      "text": "segundo semestre",
+      "relevance": 0.5145,
+      "count": 2
+    },
+    {
+      "text": "formacion de posgrado",
+      "relevance": 0.514447,
+      "count": 1
+    },
+    {
+      "text": "revistas nacionales",
+      "relevance": 0.514392,
+      "count": 1
+    },
+    {
+      "text": "motivo de la celebracion",
+      "relevance": 0.514356,
+      "count": 1
+    },
+    {
+      "text": "alto nivel acad\u00e9mico",
+      "relevance": 0.514271,
+      "count": 1
+    },
+    {
+      "text": "semilleros de docentes",
+      "relevance": 0.514263,
+      "count": 3
+    },
+    {
+      "text": "unidad acad\u00e9mica",
+      "relevance": 0.514128,
+      "count": 1
+    },
+    {
+      "text": "cupos adicionales",
+      "relevance": 0.514022,
+      "count": 1
+    },
+    {
+      "text": "lengua materna",
+      "relevance": 0.512591,
+      "count": 1
+    },
+    {
+      "text": "evaluacion de los profesionales",
+      "relevance": 0.512525,
+      "count": 1
+    },
+    {
+      "text": "relevo generacional",
+      "relevance": 0.512386,
+      "count": 1
+    },
+    {
+      "text": "disposiciones generales",
+      "relevance": 0.512386,
+      "count": 1
+    }
+  ]
+}

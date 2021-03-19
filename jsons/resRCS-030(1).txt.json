@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 6437,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "jos\u00e9 maria",
+      "relevance": 0.609252,
+      "count": 1
+    },
+    {
+      "text": "alberto ramirez",
+      "relevance": 0.584447,
+      "count": 1
+    },
+    {
+      "text": "profesor distinguido",
+      "relevance": 0.57927,
+      "count": 1
+    },
+    {
+      "text": "facultad de ciencias naturales",
+      "relevance": 0.579151,
+      "count": 3
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.554787,
+      "count": 3
+    },
+    {
+      "text": "profesor honorario",
+      "relevance": 0.551228,
+      "count": 2
+    },
+    {
+      "text": "facultad de artes integradas",
+      "relevance": 0.550785,
+      "count": 2
+    },
+    {
+      "text": "facultad de ingenieria",
+      "relevance": 0.545475,
+      "count": 2
+    },
+    {
+      "text": "alfonso rubio",
+      "relevance": 0.542468,
+      "count": 1
+    },
+    {
+      "text": "profesor titular del departamento",
+      "relevance": 0.538556,
+      "count": 14
+    },
+    {
+      "text": "consejo superior de la universidad",
+      "relevance": 0.536016,
+      "count": 1
+    },
+    {
+      "text": "estatuto general",
+      "relevance": 0.535931,
+      "count": 1
+    },
+    {
+      "text": "alberto hernandez silva",
+      "relevance": 0.53582,
+      "count": 1
+    },
+    {
+      "text": "luz edith",
+      "relevance": 0.533089,
+      "count": 1
+    },
+    {
+      "text": "antonio p\u00e9rez",
+      "relevance": 0.532374,
+      "count": 1
+    },
+    {
+      "text": "artes visuales",
+      "relevance": 0.531924,
+      "count": 1
+    },
+    {
+      "text": "ceremonia de celebracion del aniversario",
+      "relevance": 0.530291,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.5294,
+      "count": 8
+    },
+    {
+      "text": "otorgamiento de las distinciones",
+      "relevance": 0.525669,
+      "count": 1
+    },
+    {
+      "text": "candidatos",
+      "relevance": 0.525386,
+      "count": 2
+    },
+    {
+      "text": "lista final de profesores",
+      "relevance": 0.524208,
+      "count": 1
+    },
+    {
+      "text": "cecilia g\u00e9mez pinilla",
+      "relevance": 0.523732,
+      "count": 1
+    },
+    {
+      "text": "profesora titular de la escuela",
+      "relevance": 0.523426,
+      "count": 6
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.523081,
+      "count": 1
+    },
+    {
+      "text": "artes esc\u00e9nicas",
+      "relevance": 0.522909,
+      "count": 1
+    },
+    {
+      "text": "distinciones acad\u00e9micas de profesor em\u00e9rito",
+      "relevance": 0.522403,
+      "count": 1
+    },
+    {
+      "text": "patricia p\u00e9rez de hood",
+      "relevance": 0.520758,
+      "count": 1
+    },
+    {
+      "text": "patricia torres",
+      "relevance": 0.517767,
+      "count": 1
+    },
+    {
+      "text": "facultad",
+      "relevance": 0.516563,
+      "count": 3
+    },
+    {
+      "text": "facultad de ciencias sociales",
+      "relevance": 0.516409,
+      "count": 1
+    },
+    {
+      "text": "boris salazar trujillo",
+      "relevance": 0.515039,
+      "count": 1
+    },
+    {
+      "text": "escuela de ingenieria de sistemas",
+      "relevance": 0.513801,
+      "count": 1
+    },
+    {
+      "text": "julio vidal holguin",
+      "relevance": 0.513686,
+      "count": 1
+    },
+    {
+      "text": "lucia vasquez truissi",
+      "relevance": 0.513686,
+      "count": 1
+    },
+    {
+      "text": "instituto de educacion",
+      "relevance": 0.513031,
+      "count": 2
+    },
+    {
+      "text": "presente resolucion",
+      "relevance": 0.513008,
+      "count": 1
+    },
+    {
+      "text": "profesor emerito",
+      "relevance": 0.512163,
+      "count": 1
+    },
+    {
+      "text": "claret zambrano",
+      "relevance": 0.511985,
+      "count": 1
+    },
+    {
+      "text": "ciencias sociales",
+      "relevance": 0.511188,
+      "count": 1
+    },
+    {
+      "text": "secretario general",
+      "relevance": 0.511149,
+      "count": 1
+    },
+    {
+      "text": "manuel barraza",
+      "relevance": 0.51062,
+      "count": 1
+    },
+    {
+      "text": "facultad de salud",
+      "relevance": 0.510479,
+      "count": 2
+    },
+    {
+      "text": "ignacio grueso",
+      "relevance": 0.510065,
+      "count": 1
+    },
+    {
+      "text": "maestro universitario",
+      "relevance": 0.509048,
+      "count": 2
+    },
+    {
+      "text": "instituto acad\u00e9mico",
+      "relevance": 0.509037,
+      "count": 1
+    },
+    {
+      "text": "facultad de humanidades",
+      "relevance": 0.508764,
+      "count": 1
+    },
+    {
+      "text": "cecilia aguilar de plata",
+      "relevance": 0.508745,
+      "count": 1
+    },
+    {
+      "text": "raul quintero",
+      "relevance": 0.508392,
+      "count": 1
+    },
+    {
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.507719,
+      "count": 1
+    },
+    {
+      "text": "sustentacion acad\u00e9mica",
+      "relevance": 0.507672,
+      "count": 1
+    }
+  ]
+}

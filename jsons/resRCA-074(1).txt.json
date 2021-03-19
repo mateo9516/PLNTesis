@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 7474,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "programas acad\u00e9micos",
+      "relevance": 0.673639,
+      "count": 1
+    },
+    {
+      "text": "modalidades de trabajo de grado",
+      "relevance": 0.669863,
+      "count": 2
+    },
+    {
+      "text": "asignaturas de maestria",
+      "relevance": 0.648122,
+      "count": 1
+    },
+    {
+      "text": "6n acad\u00e9mica del estudiante",
+      "relevance": 0.600306,
+      "count": 1
+    },
+    {
+      "text": "programa acad\u00e9mico",
+      "relevance": 0.579597,
+      "count": 4
+    },
+    {
+      "text": "procesos acad\u00e9micos",
+      "relevance": 0.569819,
+      "count": 1
+    },
+    {
+      "text": "marco de un proyecto de investigacion",
+      "relevance": 0.554474,
+      "count": 1
+    },
+    {
+      "text": "campo de formaci6",
+      "relevance": 0.552543,
+      "count": 1
+    },
+    {
+      "text": "trabajo de grado",
+      "relevance": 0.550132,
+      "count": 5
+    },
+    {
+      "text": "nota mayor",
+      "relevance": 0.548573,
+      "count": 1
+    },
+    {
+      "text": "realizacion de labores",
+      "relevance": 0.547876,
+      "count": 1
+    },
+    {
+      "text": "siguientes modalidades",
+      "relevance": 0.54785,
+      "count": 1
+    },
+    {
+      "text": "profundizacion especializada",
+      "relevance": 0.546585,
+      "count": 4
+    },
+    {
+      "text": "produccion cientifica",
+      "relevance": 0.546327,
+      "count": 1
+    },
+    {
+      "text": "facultad de ingenieria",
+      "relevance": 0.543121,
+      "count": 3
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.541077,
+      "count": 4
+    },
+    {
+      "text": "parte de las unidades acad\u00e9micas",
+      "relevance": 0.538546,
+      "count": 1
+    },
+    {
+      "text": "solucion de un determinado problema",
+      "relevance": 0.536723,
+      "count": 1
+    },
+    {
+      "text": "desarrollo de las funciones propias",
+      "relevance": 0.533831,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.532469,
+      "count": 1
+    },
+    {
+      "text": "elementos necesarios",
+      "relevance": 0.530329,
+      "count": 1
+    },
+    {
+      "text": "solucion de un problema de las areas",
+      "relevance": 0.530307,
+      "count": 1
+    },
+    {
+      "text": "trabajo profesional",
+      "relevance": 0.530176,
+      "count": 1
+    },
+    {
+      "text": "organizaciones gubernamentales",
+      "relevance": 0.529687,
+      "count": 1
+    },
+    {
+      "text": "reglamento de trabajo de grado",
+      "relevance": 0.529606,
+      "count": 1
+    },
+    {
+      "text": "muestra de forma ordenada",
+      "relevance": 0.528316,
+      "count": 1
+    },
+    {
+      "text": "conocimientos adquiridos",
+      "relevance": 0.527332,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.525499,
+      "count": 1
+    },
+    {
+      "text": "informaci6n",
+      "relevance": 0.52531,
+      "count": 1
+    },
+    {
+      "text": "propdsito de una revisi6",
+      "relevance": 0.524,
+      "count": 1
+    },
+    {
+      "text": "asignaturas viables",
+      "relevance": 0.523648,
+      "count": 1
+    },
+    {
+      "text": "respectivos comit\u00e9s",
+      "relevance": 0.523551,
+      "count": 1
+    },
+    {
+      "text": "unidad acad\u00e9mica",
+      "relevance": 0.522423,
+      "count": 1
+    },
+    {
+      "text": "proyecto de investigaci6",
+      "relevance": 0.519368,
+      "count": 1
+    },
+    {
+      "text": "evoluci6n",
+      "relevance": 0.519282,
+      "count": 1
+    },
+    {
+      "text": "grupo de investigacion",
+      "relevance": 0.51926,
+      "count": 1
+    },
+    {
+      "text": "proyecto de ingenieria de inter\u00e9s",
+      "relevance": 0.518991,
+      "count": 1
+    },
+    {
+      "text": "comprension de procesos",
+      "relevance": 0.518147,
+      "count": 1
+    },
+    {
+      "text": "realizacion de un estudio de factibilidad",
+      "relevance": 0.517014,
+      "count": 1
+    },
+    {
+      "text": "reglamento especifico",
+      "relevance": 0.516664,
+      "count": 1
+    },
+    {
+      "text": "trabajo de investigacion",
+      "relevance": 0.516617,
+      "count": 1
+    },
+    {
+      "text": "atribuciones legales",
+      "relevance": 0.514978,
+      "count": 1
+    },
+    {
+      "text": "modalidades de produccion cientifica",
+      "relevance": 0.514308,
+      "count": 1
+    },
+    {
+      "text": "costo adicional",
+      "relevance": 0.513726,
+      "count": 1
+    },
+    {
+      "text": "proceso de formacion del estudiante",
+      "relevance": 0.513261,
+      "count": 1
+    },
+    {
+      "text": "requisito parcial",
+      "relevance": 0.512315,
+      "count": 1
+    },
+    {
+      "text": "elementos conceptuales",
+      "relevance": 0.512194,
+      "count": 1
+    },
+    {
+      "text": "revista internacional",
+      "relevance": 0.511486,
+      "count": 1
+    },
+    {
+      "text": "iniciativa empresarial acorde",
+      "relevance": 0.508688,
+      "count": 1
+    },
+    {
+      "text": "desarrollo de alguna tecnologia",
+      "relevance": 0.508562,
+      "count": 1
+    }
+  ]
+}

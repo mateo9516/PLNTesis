@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 8622,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "produccion de software",
+      "relevance": 0.737413,
+      "count": 1
+    },
+    {
+      "text": "nuevos modelos de organizaciones",
+      "relevance": 0.661321,
+      "count": 1
+    },
+    {
+      "text": "producci\u00e9n de software",
+      "relevance": 0.616249,
+      "count": 2
+    },
+    {
+      "text": "resultado del desarrollo directo",
+      "relevance": 0.608615,
+      "count": 1
+    },
+    {
+      "text": "producto de software",
+      "relevance": 0.595509,
+      "count": 1
+    },
+    {
+      "text": "evaluaci6n",
+      "relevance": 0.582487,
+      "count": 2
+    },
+    {
+      "text": "productividad acad\u00e9mica",
+      "relevance": 0.578408,
+      "count": 2
+    },
+    {
+      "text": "nuevos modelos",
+      "relevance": 0.568971,
+      "count": 1
+    },
+    {
+      "text": "diverso grado de dificultad",
+      "relevance": 0.565534,
+      "count": 1
+    },
+    {
+      "text": "procesos de solucion de problemas",
+      "relevance": 0.564979,
+      "count": 1
+    },
+    {
+      "text": "metodologia de desarrollo de software",
+      "relevance": 0.553326,
+      "count": 1
+    },
+    {
+      "text": "desarrollo del software",
+      "relevance": 0.552459,
+      "count": 1
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.550747,
+      "count": 1
+    },
+    {
+      "text": "licencia comercial",
+      "relevance": 0.539843,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.539063,
+      "count": 1
+    },
+    {
+      "text": "morales de autor",
+      "relevance": 0.536749,
+      "count": 1
+    },
+    {
+      "text": "nuevo conocimiento",
+      "relevance": 0.530792,
+      "count": 1
+    },
+    {
+      "text": "productos de software",
+      "relevance": 0.529514,
+      "count": 1
+    },
+    {
+      "text": "software de producci6n",
+      "relevance": 0.529375,
+      "count": 1
+    },
+    {
+      "text": "operaciones de un sistema de c\u00e9mputo",
+      "relevance": 0.529228,
+      "count": 1
+    },
+    {
+      "text": "disefio conceptual",
+      "relevance": 0.527448,
+      "count": 1
+    },
+    {
+      "text": "grado de aporte",
+      "relevance": 0.523513,
+      "count": 1
+    },
+    {
+      "text": "6n t\u00e9cnica",
+      "relevance": 0.522645,
+      "count": 1
+    },
+    {
+      "text": "otorgamiento de puntos",
+      "relevance": 0.522306,
+      "count": 1
+    },
+    {
+      "text": "pares evaluadores",
+      "relevance": 0.520605,
+      "count": 1
+    },
+    {
+      "text": "producto de software desarrollado",
+      "relevance": 0.520459,
+      "count": 1
+    },
+    {
+      "text": "manuales t\u00e9cnicos",
+      "relevance": 0.520334,
+      "count": 1
+    },
+    {
+      "text": "software resultantes de actividades",
+      "relevance": 0.520243,
+      "count": 1
+    },
+    {
+      "text": "requerimientos de diferentes especialistas",
+      "relevance": 0.520155,
+      "count": 1
+    },
+    {
+      "text": "presente resolucion",
+      "relevance": 0.519862,
+      "count": 1
+    },
+    {
+      "text": "grado de participaci6n",
+      "relevance": 0.519795,
+      "count": 1
+    },
+    {
+      "text": "motor de una base de datos",
+      "relevance": 0.518643,
+      "count": 1
+    },
+    {
+      "text": "reconocimiento de los puntos salariales",
+      "relevance": 0.518635,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de marzo",
+      "relevance": 0.518621,
+      "count": 1
+    },
+    {
+      "text": "procesamiento de informacion",
+      "relevance": 0.517665,
+      "count": 1
+    },
+    {
+      "text": "alcance de la aplicaci\u00e9n",
+      "relevance": 0.517451,
+      "count": 1
+    },
+    {
+      "text": "nuevo modelo",
+      "relevance": 0.516988,
+      "count": 1
+    },
+    {
+      "text": "aspectos pertinentes del decreto",
+      "relevance": 0.515257,
+      "count": 1
+    },
+    {
+      "text": "resultado de un proceso",
+      "relevance": 0.515065,
+      "count": 1
+    },
+    {
+      "text": "r\u00e9gimen salarial",
+      "relevance": 0.514211,
+      "count": 1
+    },
+    {
+      "text": "consejo superior de cada universidad",
+      "relevance": 0.514148,
+      "count": 1
+    },
+    {
+      "text": "desarrollo de un producto",
+      "relevance": 0.513738,
+      "count": 1
+    },
+    {
+      "text": "nuevos modelos de la web",
+      "relevance": 0.513402,
+      "count": 1
+    },
+    {
+      "text": "mejoras significativas",
+      "relevance": 0.512897,
+      "count": 1
+    },
+    {
+      "text": "existencia de un numero",
+      "relevance": 0.512506,
+      "count": 1
+    },
+    {
+      "text": "produccion cientifica",
+      "relevance": 0.512237,
+      "count": 1
+    },
+    {
+      "text": "acad\u00e9mica del software",
+      "relevance": 0.510667,
+      "count": 1
+    },
+    {
+      "text": "confidencialidad respecto",
+      "relevance": 0.510523,
+      "count": 1
+    },
+    {
+      "text": "cd del sistema",
+      "relevance": 0.510353,
+      "count": 1
+    },
+    {
+      "text": "producci6n tecnold\u00e9gica",
+      "relevance": 0.508854,
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 6054,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "grupo de profesores",
+      "relevance": 0.678034,
+      "count": 1
+    },
+    {
+      "text": "puntaje de docencia",
+      "relevance": 0.64668,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.641453,
+      "count": 2
+    },
+    {
+      "text": "unidades acad\u00e9micas",
+      "relevance": 0.609518,
+      "count": 1
+    },
+    {
+      "text": "comit\u00e9 interno de acreditacion",
+      "relevance": 0.596873,
+      "count": 1
+    },
+    {
+      "text": "resultados de la evaluacion",
+      "relevance": 0.596368,
+      "count": 1
+    },
+    {
+      "text": "docencia de los profesores",
+      "relevance": 0.585935,
+      "count": 1
+    },
+    {
+      "text": "reconocimiento de los puntos",
+      "relevance": 0.5811,
+      "count": 1
+    },
+    {
+      "text": "efectos salariales",
+      "relevance": 0.574144,
+      "count": 2
+    },
+    {
+      "text": "resoluci6n",
+      "relevance": 0.565413,
+      "count": 1
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.560571,
+      "count": 2
+    },
+    {
+      "text": "calidad de la docencia",
+      "relevance": 0.556739,
+      "count": 1
+    },
+    {
+      "text": "mecanismos de evaluaci6n",
+      "relevance": 0.554844,
+      "count": 1
+    },
+    {
+      "text": "tope del puntaje de docencia",
+      "relevance": 0.551708,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.548425,
+      "count": 1
+    },
+    {
+      "text": "promedio de la ponderaci\u00e9n de los resultados",
+      "relevance": 0.547656,
+      "count": 1
+    },
+    {
+      "text": "literal b",
+      "relevance": 0.540048,
+      "count": 1
+    },
+    {
+      "text": "partes tendra",
+      "relevance": 0.538361,
+      "count": 1
+    },
+    {
+      "text": "comit\u00e9 central de credenciales",
+      "relevance": 0.537109,
+      "count": 1
+    },
+    {
+      "text": "totalidad de los cursos dictados",
+      "relevance": 0.533826,
+      "count": 1
+    },
+    {
+      "text": "efectos de reconocimiento",
+      "relevance": 0.533356,
+      "count": 1
+    },
+    {
+      "text": "reconocimiento de puntaje",
+      "relevance": 0.529292,
+      "count": 1
+    },
+    {
+      "text": "docente interesado",
+      "relevance": 0.521413,
+      "count": 1
+    },
+    {
+      "text": "reglamentacion continuo",
+      "relevance": 0.520009,
+      "count": 1
+    },
+    {
+      "text": "r\u00e9gimen salarial",
+      "relevance": 0.519383,
+      "count": 1
+    },
+    {
+      "text": "mencionada resoluci6\u00e9n",
+      "relevance": 0.518113,
+      "count": 1
+    },
+    {
+      "text": "misma resolucion",
+      "relevance": 0.516106,
+      "count": 1
+    },
+    {
+      "text": "consejos de facultad",
+      "relevance": 0.516065,
+      "count": 1
+    },
+    {
+      "text": "segin criterios",
+      "relevance": 0.514934,
+      "count": 1
+    },
+    {
+      "text": "certificaci6n",
+      "relevance": 0.514358,
+      "count": 1
+    },
+    {
+      "text": "instituto acad\u00e9mico",
+      "relevance": 0.513638,
+      "count": 1
+    },
+    {
+      "text": "comit\u00e9 de credenciales",
+      "relevance": 0.512472,
+      "count": 1
+    },
+    {
+      "text": "profesor tendra",
+      "relevance": 0.512328,
+      "count": 1
+    },
+    {
+      "text": "informacion recogida",
+      "relevance": 0.511274,
+      "count": 1
+    },
+    {
+      "text": "ponderaci\u00e9n de los resultados",
+      "relevance": 0.50809,
+      "count": 1
+    },
+    {
+      "text": "jefe del departamento",
+      "relevance": 0.507714,
+      "count": 1
+    },
+    {
+      "text": "paragrafo",
+      "relevance": 0.507577,
+      "count": 8
+    },
+    {
+      "text": "manejo de las credenciales",
+      "relevance": 0.506752,
+      "count": 1
+    },
+    {
+      "text": "articulo",
+      "relevance": 0.505953,
+      "count": 7
+    },
+    {
+      "text": "resolucion vigente",
+      "relevance": 0.505702,
+      "count": 2
+    },
+    {
+      "text": "calidad de la labor docente",
+      "relevance": 0.503816,
+      "count": 1
+    },
+    {
+      "text": "puntaje adicional",
+      "relevance": 0.503159,
+      "count": 1
+    },
+    {
+      "text": "incremento de los puntos",
+      "relevance": 0.502827,
+      "count": 1
+    },
+    {
+      "text": "resultado valoratorio de la evaluacion",
+      "relevance": 0.501631,
+      "count": 1
+    },
+    {
+      "text": "6n inferior",
+      "relevance": 0.500665,
+      "count": 1
+    },
+    {
+      "text": "resultados del proceso",
+      "relevance": 0.500506,
+      "count": 1
+    },
+    {
+      "text": "respectiva facultad",
+      "relevance": 0.499124,
+      "count": 1
+    },
+    {
+      "text": "tope de puntaje",
+      "relevance": 0.498588,
+      "count": 1
+    },
+    {
+      "text": "resultados de desempefio",
+      "relevance": 0.495152,
+      "count": 1
+    },
+    {
+      "text": "curso",
+      "relevance": 0.494965,
+      "count": 2
+    }
+  ]
+}

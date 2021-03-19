@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 4,
+    "text_characters": 33249,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "recursos de la estampilla",
+      "relevance": 0.885458,
+      "count": 1
+    },
+    {
+      "text": "recursos propios de la institucion",
+      "relevance": 0.75049,
+      "count": 1
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.674099,
+      "count": 12
+    },
+    {
+      "text": "proyeccion de los recursos de la estampilla",
+      "relevance": 0.662347,
+      "count": 1
+    },
+    {
+      "text": "recursos propios",
+      "relevance": 0.614021,
+      "count": 47
+    },
+    {
+      "text": "recursos estampilla",
+      "relevance": 0.604836,
+      "count": 1
+    },
+    {
+      "text": "conjunto de proyectos",
+      "relevance": 0.571794,
+      "count": 1
+    },
+    {
+      "text": "plan estrat\u00e9gico de desarrollo",
+      "relevance": 0.57162,
+      "count": 1
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.553017,
+      "count": 55
+    },
+    {
+      "text": "mejoramiento continuo de la universidad",
+      "relevance": 0.547854,
+      "count": 1
+    },
+    {
+      "text": "marco de acci6n",
+      "relevance": 0.543887,
+      "count": 1
+    },
+    {
+      "text": "presupuesto de inversion",
+      "relevance": 0.541025,
+      "count": 1
+    },
+    {
+      "text": "referente institucional de crecimiento",
+      "relevance": 0.54012,
+      "count": 1
+    },
+    {
+      "text": "plan programatico",
+      "relevance": 0.533094,
+      "count": 6
+    },
+    {
+      "text": "actividades estrat\u00e9gicas de la institucion",
+      "relevance": 0.533085,
+      "count": 1
+    },
+    {
+      "text": "recursos propios de la sede",
+      "relevance": 0.531326,
+      "count": 6
+    },
+    {
+      "text": "institutos acad\u00e9micos de la institucion",
+      "relevance": 0.530232,
+      "count": 1
+    },
+    {
+      "text": "inversion",
+      "relevance": 0.529909,
+      "count": 18
+    },
+    {
+      "text": "transformacion del sistema de regionalizacio6",
+      "relevance": 0.523603,
+      "count": 1
+    },
+    {
+      "text": "valores \u00e9ticos",
+      "relevance": 0.523311,
+      "count": 1
+    },
+    {
+      "text": "recursos bropios",
+      "relevance": 0.522914,
+      "count": 1
+    },
+    {
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.521734,
+      "count": 1
+    },
+    {
+      "text": "plan estrat\u00e9gico",
+      "relevance": 0.521634,
+      "count": 3
+    },
+    {
+      "text": "recursos",
+      "relevance": 0.520617,
+      "count": 9
+    },
+    {
+      "text": "procesos de investigaci6n",
+      "relevance": 0.520495,
+      "count": 2
+    },
+    {
+      "text": "adopcidn de programas concretos",
+      "relevance": 0.520418,
+      "count": 1
+    },
+    {
+      "text": "pro-universidad nacional",
+      "relevance": 0.51966,
+      "count": 1
+    },
+    {
+      "text": "mejor medicion de la gestion",
+      "relevance": 0.519144,
+      "count": 1
+    },
+    {
+      "text": "permitirauniversidad del valle",
+      "relevance": 0.518471,
+      "count": 1
+    },
+    {
+      "text": "plan operativo anual de inversiones",
+      "relevance": 0.518355,
+      "count": 6
+    },
+    {
+      "text": "respectivas metas",
+      "relevance": 0.517787,
+      "count": 1
+    },
+    {
+      "text": "recursos provios",
+      "relevance": 0.517664,
+      "count": 1
+    },
+    {
+      "text": "evaluaci6n",
+      "relevance": 0.517313,
+      "count": 1
+    },
+    {
+      "text": "materializacion de los recursos",
+      "relevance": 0.515909,
+      "count": 2
+    },
+    {
+      "text": "responsables institucionales",
+      "relevance": 0.515688,
+      "count": 1
+    },
+    {
+      "text": "estampilla prouniversidad",
+      "relevance": 0.514112,
+      "count": 2
+    },
+    {
+      "text": "administrativos del sistema",
+      "relevance": 0.513438,
+      "count": 1
+    },
+    {
+      "text": "desarrollo humano",
+      "relevance": 0.512923,
+      "count": 2
+    },
+    {
+      "text": "desarrollo regional",
+      "relevance": 0.512919,
+      "count": 1
+    },
+    {
+      "text": "gestion de proyectos",
+      "relevance": 0.512112,
+      "count": 1
+    },
+    {
+      "text": "apoyo t\u00e9cnico",
+      "relevance": 0.511973,
+      "count": 1
+    },
+    {
+      "text": "forma eficaz",
+      "relevance": 0.511953,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.511724,
+      "count": 17
+    },
+    {
+      "text": "planta fisica",
+      "relevance": 0.511487,
+      "count": 1
+    },
+    {
+      "text": "proyecto vigencia",
+      "relevance": 0.511183,
+      "count": 1
+    },
+    {
+      "text": "estampilla bro",
+      "relevance": 0.51117,
+      "count": 1
+    },
+    {
+      "text": "resolucion del consejo superior",
+      "relevance": 0.511114,
+      "count": 1
+    },
+    {
+      "text": "dotaci\u00e9n de espacios acad\u00e9micos",
+      "relevance": 0.510799,
+      "count": 1
+    },
+    {
+      "text": "reservas presupuestales",
+      "relevance": 0.510413,
+      "count": 1
+    },
+    {
+      "text": "labor misional",
+      "relevance": 0.510128,
+      "count": 1
+    }
+  ]
+}

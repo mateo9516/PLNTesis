@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 8895,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "vigencias futuras",
+      "relevance": 0.603321,
+      "count": 3
+    },
+    {
+      "text": "entidades territoriales",
+      "relevance": 0.588608,
+      "count": 2
+    },
+    {
+      "text": "recurso del valor del contrato",
+      "relevance": 0.584054,
+      "count": 1
+    },
+    {
+      "text": "pago de los compromisos",
+      "relevance": 0.561256,
+      "count": 1
+    },
+    {
+      "text": "recepci\u00e9n de los bienes",
+      "relevance": 0.557754,
+      "count": 1
+    },
+    {
+      "text": "estatuto organico del presupuesto",
+      "relevance": 0.555152,
+      "count": 1
+    },
+    {
+      "text": "periodo fiscal",
+      "relevance": 0.54865,
+      "count": 1
+    },
+    {
+      "text": "caso de la nacion",
+      "relevance": 0.546756,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.546674,
+      "count": 5
+    },
+    {
+      "text": "figura de la vigencia futura",
+      "relevance": 0.546382,
+      "count": 1
+    },
+    {
+      "text": "tal efecto",
+      "relevance": 0.545422,
+      "count": 2
+    },
+    {
+      "text": "estatuto general",
+      "relevance": 0.545222,
+      "count": 1
+    },
+    {
+      "text": "normas organicas del presupuesto",
+      "relevance": 0.535506,
+      "count": 1
+    },
+    {
+      "text": "asamblea departamental del valle",
+      "relevance": 0.53547,
+      "count": 1
+    },
+    {
+      "text": "oficina de informatica",
+      "relevance": 0.534174,
+      "count": 1
+    },
+    {
+      "text": "concejos municipales",
+      "relevance": 0.532995,
+      "count": 1
+    },
+    {
+      "text": "financiera territorial",
+      "relevance": 0.531198,
+      "count": 1
+    },
+    {
+      "text": "estatuto organico de presupuesto",
+      "relevance": 0.530481,
+      "count": 1
+    },
+    {
+      "text": "r\u00e9gimen especial",
+      "relevance": 0.528335,
+      "count": 1
+    },
+    {
+      "text": "fuente de financiaci6",
+      "relevance": 0.527744,
+      "count": 1
+    },
+    {
+      "text": "diferentes dependencias de la universidad",
+      "relevance": 0.527633,
+      "count": 1
+    },
+    {
+      "text": "mecanismo de vigencias futuras",
+      "relevance": 0.527539,
+      "count": 1
+    },
+    {
+      "text": "decreto nacional",
+      "relevance": 0.525611,
+      "count": 1
+    },
+    {
+      "text": "alquiler de equipos de copiado",
+      "relevance": 0.525449,
+      "count": 1
+    },
+    {
+      "text": "ministerio de hacienda",
+      "relevance": 0.523034,
+      "count": 3
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.521413,
+      "count": 1
+    },
+    {
+      "text": "recepci\u00e9n de bienes",
+      "relevance": 0.521029,
+      "count": 2
+    },
+    {
+      "text": "sefor rector",
+      "relevance": 0.520953,
+      "count": 1
+    },
+    {
+      "text": "clara luz",
+      "relevance": 0.519504,
+      "count": 1
+    },
+    {
+      "text": "presupuesto de gastos",
+      "relevance": 0.518271,
+      "count": 1
+    },
+    {
+      "text": "vigencias siguientes",
+      "relevance": 0.518262,
+      "count": 2
+    },
+    {
+      "text": "vicerrectoria administrativa",
+      "relevance": 0.515571,
+      "count": 1
+    },
+    {
+      "text": "ordenador del gasto",
+      "relevance": 0.515397,
+      "count": 1
+    },
+    {
+      "text": "tiempo de una partida",
+      "relevance": 0.515244,
+      "count": 1
+    },
+    {
+      "text": "apoyo fiscal",
+      "relevance": 0.51523,
+      "count": 1
+    },
+    {
+      "text": "satisfaccion del mismo",
+      "relevance": 0.51478,
+      "count": 1
+    },
+    {
+      "text": "documento original",
+      "relevance": 0.514766,
+      "count": 1
+    },
+    {
+      "text": "fondo especial",
+      "relevance": 0.51453,
+      "count": 1
+    },
+    {
+      "text": "ente universitario",
+      "relevance": 0.514375,
+      "count": 1
+    },
+    {
+      "text": "ejecucion de la obra",
+      "relevance": 0.514271,
+      "count": 1
+    },
+    {
+      "text": "presupuestos de vigencias futuras",
+      "relevance": 0.514033,
+      "count": 2
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.513906,
+      "count": 1
+    },
+    {
+      "text": "agilidad de la gesti\u00e9n administrativa",
+      "relevance": 0.51243,
+      "count": 1
+    },
+    {
+      "text": "fondo comtin",
+      "relevance": 0.512295,
+      "count": 1
+    },
+    {
+      "text": "modalidad de outsourcing",
+      "relevance": 0.512093,
+      "count": 1
+    },
+    {
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.511012,
+      "count": 2
+    },
+    {
+      "text": "legalidad del gasto publico",
+      "relevance": 0.509549,
+      "count": 1
+    },
+    {
+      "text": "presupuesto",
+      "relevance": 0.509427,
+      "count": 4
+    },
+    {
+      "text": "fecha de terminaci6\u00e9n",
+      "relevance": 0.508965,
+      "count": 1
+    },
+    {
+      "text": "cr\u00e9dito publico",
+      "relevance": 0.508292,
+      "count": 2
+    }
+  ]
+}

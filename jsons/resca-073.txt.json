@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 6389,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "instituto acad\u00e9mico",
+      "relevance": 0.647809,
+      "count": 4
+    },
+    {
+      "text": "comit\u00e9 de credenciales",
+      "relevance": 0.615385,
+      "count": 2
+    },
+    {
+      "text": "efectos del reconocimiento",
+      "relevance": 0.587733,
+      "count": 1
+    },
+    {
+      "text": "puntajes anuales",
+      "relevance": 0.584951,
+      "count": 1
+    },
+    {
+      "text": "jefe del departamento",
+      "relevance": 0.584019,
+      "count": 1
+    },
+    {
+      "text": "ei presente",
+      "relevance": 0.57727,
+      "count": 1
+    },
+    {
+      "text": "facultades legales",
+      "relevance": 0.566698,
+      "count": 1
+    },
+    {
+      "text": "respectiva facultad",
+      "relevance": 0.562462,
+      "count": 1
+    },
+    {
+      "text": "breve documento",
+      "relevance": 0.561969,
+      "count": 1
+    },
+    {
+      "text": "partes tendra",
+      "relevance": 0.558552,
+      "count": 1
+    },
+    {
+      "text": "labores de docencia",
+      "relevance": 0.552854,
+      "count": 2
+    },
+    {
+      "text": "evaluaci\u00e96n del desempejio",
+      "relevance": 0.552417,
+      "count": 1
+    },
+    {
+      "text": "asignaci6n acad\u00e9mica",
+      "relevance": 0.548362,
+      "count": 2
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.531569,
+      "count": 2
+    },
+    {
+      "text": "credenciales de la facultad",
+      "relevance": 0.52792,
+      "count": 1
+    },
+    {
+      "text": "promedio de la ponderaci\u00e9n de los resultados",
+      "relevance": 0.527832,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.527225,
+      "count": 1
+    },
+    {
+      "text": "medida de lo posible",
+      "relevance": 0.526569,
+      "count": 1
+    },
+    {
+      "text": "totalidad de los cursos dictados",
+      "relevance": 0.524338,
+      "count": 1
+    },
+    {
+      "text": "consejo superior de la universidad",
+      "relevance": 0.522289,
+      "count": 1
+    },
+    {
+      "text": "jefe inmediato del profesor",
+      "relevance": 0.522174,
+      "count": 1
+    },
+    {
+      "text": "profesores",
+      "relevance": 0.52217,
+      "count": 5
+    },
+    {
+      "text": "profesor contratista",
+      "relevance": 0.522012,
+      "count": 2
+    },
+    {
+      "text": "profesor titular",
+      "relevance": 0.520844,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.519693,
+      "count": 1
+    },
+    {
+      "text": "noviembre de cada ajio",
+      "relevance": 0.518698,
+      "count": 1
+    },
+    {
+      "text": "proceso de evaluaci6",
+      "relevance": 0.51804,
+      "count": 1
+    },
+    {
+      "text": "profesor tendra",
+      "relevance": 0.516508,
+      "count": 1
+    },
+    {
+      "text": "credenciales respectivo",
+      "relevance": 0.515843,
+      "count": 1
+    },
+    {
+      "text": "director de escuela",
+      "relevance": 0.515158,
+      "count": 1
+    },
+    {
+      "text": "direcci6n de trabajos",
+      "relevance": 0.513726,
+      "count": 1
+    },
+    {
+      "text": "claustro de la unidad acad\u00e9mica",
+      "relevance": 0.512763,
+      "count": 1
+    },
+    {
+      "text": "informacion recogida",
+      "relevance": 0.512435,
+      "count": 1
+    },
+    {
+      "text": "calidad de la labor docente",
+      "relevance": 0.51065,
+      "count": 1
+    },
+    {
+      "text": "factores de productividad acad\u00e9mica",
+      "relevance": 0.510485,
+      "count": 1
+    },
+    {
+      "text": "reconocimiento de la experiencia calificada",
+      "relevance": 0.50928,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de junio",
+      "relevance": 0.50913,
+      "count": 1
+    },
+    {
+      "text": "reconocimiento del desempejio",
+      "relevance": 0.507518,
+      "count": 1
+    },
+    {
+      "text": "ingresos adicionales",
+      "relevance": 0.506697,
+      "count": 1
+    },
+    {
+      "text": "actividad docente global",
+      "relevance": 0.506619,
+      "count": 1
+    },
+    {
+      "text": "director del programa",
+      "relevance": 0.506572,
+      "count": 1
+    },
+    {
+      "text": "ponderaci6n total",
+      "relevance": 0.504867,
+      "count": 1
+    },
+    {
+      "text": "relevancia acad\u00e9mica",
+      "relevance": 0.503708,
+      "count": 1
+    },
+    {
+      "text": "reconocimiento",
+      "relevance": 0.503639,
+      "count": 2
+    },
+    {
+      "text": "reconocimiento de los puntos",
+      "relevance": 0.502155,
+      "count": 2
+    },
+    {
+      "text": "numeral ii del articulo",
+      "relevance": 0.501445,
+      "count": 1
+    },
+    {
+      "text": "asignaci6n de puntos",
+      "relevance": 0.500576,
+      "count": 1
+    },
+    {
+      "text": "especificidad de los campos de conocimiento",
+      "relevance": 0.500006,
+      "count": 1
+    },
+    {
+      "text": "reconocimiento de actividades",
+      "relevance": 0.499393,
+      "count": 1
+    },
+    {
+      "text": "secretario general",
+      "relevance": 0.498806,
+      "count": 1
+    }
+  ]
+}

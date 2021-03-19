@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 4131,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "tiempo de permanencia",
+      "relevance": 0.835406,
+      "count": 1
+    },
+    {
+      "text": "comisiones acad\u00e9micas",
+      "relevance": 0.740851,
+      "count": 2
+    },
+    {
+      "text": "efecto del tiempo",
+      "relevance": 0.661845,
+      "count": 1
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.63708,
+      "count": 2
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.605958,
+      "count": 7
+    },
+    {
+      "text": "uso de las atribuciones",
+      "relevance": 0.588243,
+      "count": 1
+    },
+    {
+      "text": "duracion de las comisiones acad\u00e9micas",
+      "relevance": 0.58308,
+      "count": 1
+    },
+    {
+      "text": "profesores de carrera de la universidad",
+      "relevance": 0.582449,
+      "count": 1
+    },
+    {
+      "text": "oficina de relaciones internacionales",
+      "relevance": 0.544948,
+      "count": 2
+    },
+    {
+      "text": "requisitos establecidos",
+      "relevance": 0.53935,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.536812,
+      "count": 1
+    },
+    {
+      "text": "actividad adicional",
+      "relevance": 0.531902,
+      "count": 1
+    },
+    {
+      "text": "estatuto general",
+      "relevance": 0.527891,
+      "count": 1
+    },
+    {
+      "text": "informe de la comision",
+      "relevance": 0.525874,
+      "count": 1
+    },
+    {
+      "text": "mayor aprovechamiento del entrenamiento",
+      "relevance": 0.520337,
+      "count": 1
+    },
+    {
+      "text": "plan de trabajo",
+      "relevance": 0.518555,
+      "count": 1
+    },
+    {
+      "text": "dominio de una segunda lengua",
+      "relevance": 0.518377,
+      "count": 1
+    },
+    {
+      "text": "comision acad\u00e9mica",
+      "relevance": 0.516738,
+      "count": 1
+    },
+    {
+      "text": "salo6n de reuniones",
+      "relevance": 0.516034,
+      "count": 1
+    },
+    {
+      "text": "literal c",
+      "relevance": 0.510704,
+      "count": 1
+    },
+    {
+      "text": "nivel medio del idioma",
+      "relevance": 0.51059,
+      "count": 1
+    },
+    {
+      "text": "otorgamiento de dichas comisiones",
+      "relevance": 0.509641,
+      "count": 1
+    },
+    {
+      "text": "oferta de este tipo de cursos",
+      "relevance": 0.509506,
+      "count": 1
+    },
+    {
+      "text": "inmersidn total",
+      "relevance": 0.509215,
+      "count": 1
+    },
+    {
+      "text": "tiempo",
+      "relevance": 0.50906,
+      "count": 1
+    },
+    {
+      "text": "cursos de idiomas",
+      "relevance": 0.505025,
+      "count": 1
+    },
+    {
+      "text": "profesores beneficiarios",
+      "relevance": 0.503685,
+      "count": 1
+    },
+    {
+      "text": "secretario general",
+      "relevance": 0.501543,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de mayo",
+      "relevance": 0.499244,
+      "count": 1
+    },
+    {
+      "text": "jefe del departamento respectivo",
+      "relevance": 0.498129,
+      "count": 1
+    },
+    {
+      "text": "aplicacion de lo dispuesto",
+      "relevance": 0.497256,
+      "count": 1
+    },
+    {
+      "text": "parte integral",
+      "relevance": 0.497256,
+      "count": 1
+    },
+    {
+      "text": "tendra derecho",
+      "relevance": 0.496167,
+      "count": 1
+    },
+    {
+      "text": "articulo",
+      "relevance": 0.495095,
+      "count": 6
+    },
+    {
+      "text": "condiciones economicas",
+      "relevance": 0.493491,
+      "count": 1
+    },
+    {
+      "text": "lopez pulecio",
+      "relevance": 0.493491,
+      "count": 1
+    },
+    {
+      "text": "gestion permanente",
+      "relevance": 0.490743,
+      "count": 1
+    },
+    {
+      "text": "reglamentacion correspondiente",
+      "relevance": 0.490185,
+      "count": 1
+    },
+    {
+      "text": "forma de ensayo",
+      "relevance": 0.487957,
+      "count": 1
+    },
+    {
+      "text": "institucion respectiva",
+      "relevance": 0.485161,
+      "count": 1
+    },
+    {
+      "text": "consejo academico de la universidad del valle",
+      "relevance": 0.480819,
+      "count": 1
+    },
+    {
+      "text": "cursos",
+      "relevance": 0.479272,
+      "count": 1
+    },
+    {
+      "text": "programas",
+      "relevance": 0.478552,
+      "count": 1
+    },
+    {
+      "text": "casos",
+      "relevance": 0.478552,
+      "count": 1
+    },
+    {
+      "text": "totalidad",
+      "relevance": 0.478523,
+      "count": 1
+    },
+    {
+      "text": "resolucion",
+      "relevance": 0.478449,
+      "count": 8
+    },
+    {
+      "text": "perfeccionamiento del dominio de una segunda lengua",
+      "relevance": 0.478344,
+      "count": 2
+    },
+    {
+      "text": "abril",
+      "relevance": 0.477505,
+      "count": 2
+    },
+    {
+      "text": "certificacio\u00e9n",
+      "relevance": 0.477226,
+      "count": 1
+    },
+    {
+      "text": "profesor",
+      "relevance": 0.476654,
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,263 @@
+{
+  "usage": {
+    "text_units": 5,
+    "text_characters": 50000,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "facultad de ciencias sociales",
+      "relevance": 0.864402,
+      "count": 2
+    },
+    {
+      "text": "laboratorios de la facultad",
+      "relevance": 0.79168,
+      "count": 130
+    },
+    {
+      "text": "equipos de laboratorio",
+      "relevance": 0.686786,
+      "count": 1
+    },
+    {
+      "text": "ingenieria de laboratorio",
+      "relevance": 0.649267,
+      "count": 3
+    },
+    {
+      "text": "laboratorios",
+      "relevance": 0.61245,
+      "count": 4
+    },
+    {
+      "text": "salud de laboratorio",
+      "relevance": 0.603209,
+      "count": 2
+    },
+    {
+      "text": "aboratenes de ie faeuiog",
+      "relevance": 0.572528,
+      "count": 1
+    },
+    {
+      "text": "isica de la universidad del s200",
+      "relevance": 0.554284,
+      "count": 1
+    },
+    {
+      "text": "equipos activos de la red",
+      "relevance": 0.550531,
+      "count": 1
+    },
+    {
+      "text": "ciencias naturales",
+      "relevance": 0.548054,
+      "count": 46
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.543819,
+      "count": 23
+    },
+    {
+      "text": "aboratorios de la facultad",
+      "relevance": 0.541492,
+      "count": 3
+    },
+    {
+      "text": "humanidades de laboratorio",
+      "relevance": 0.536949,
+      "count": 1
+    },
+    {
+      "text": "ingenieria s",
+      "relevance": 0.5322,
+      "count": 1
+    },
+    {
+      "text": "laboratorios de la facultad micropipeta",
+      "relevance": 0.531197,
+      "count": 1
+    },
+    {
+      "text": "salud fisiologia humana",
+      "relevance": 0.530506,
+      "count": 1
+    },
+    {
+      "text": "laboratorios de la facultad fuente",
+      "relevance": 0.527502,
+      "count": 1
+    },
+    {
+      "text": "asamblea departamental del valle",
+      "relevance": 0.526486,
+      "count": 1
+    },
+    {
+      "text": "plan de inversiones",
+      "relevance": 0.526407,
+      "count": 2
+    },
+    {
+      "text": "sostenibilidad de la planta adecuaciones",
+      "relevance": 0.52425,
+      "count": 2
+    },
+    {
+      "text": "laboratorios de la facultad sistema",
+      "relevance": 0.523651,
+      "count": 1
+    },
+    {
+      "text": "aboratorios de la facultad refrigerado",
+      "relevance": 0.522653,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.522617,
+      "count": 31
+    },
+    {
+      "text": "cierre de la vigencia fiscal",
+      "relevance": 0.522191,
+      "count": 2
+    },
+    {
+      "text": "mantenimiento de la planta contrato",
+      "relevance": 0.520955,
+      "count": 1
+    },
+    {
+      "text": "s120 de siemens",
+      "relevance": 0.519118,
+      "count": 1
+    },
+    {
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.518494,
+      "count": 2
+    },
+    {
+      "text": "laboratorios de la facultad instrumentos",
+      "relevance": 0.518332,
+      "count": 1
+    },
+    {
+      "text": "recursos del balance",
+      "relevance": 0.518315,
+      "count": 3
+    },
+    {
+      "text": "recibo de bienes",
+      "relevance": 0.516463,
+      "count": 2
+    },
+    {
+      "text": "biblioteca de la sede buga",
+      "relevance": 0.515943,
+      "count": 1
+    },
+    {
+      "text": "r\u00e9gimen especial",
+      "relevance": 0.514956,
+      "count": 1
+    },
+    {
+      "text": "recaudo de la estampilla",
+      "relevance": 0.514485,
+      "count": 1
+    },
+    {
+      "text": "fecha posterior",
+      "relevance": 0.51411,
+      "count": 2
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.513066,
+      "count": 13
+    },
+    {
+      "text": "isica de la universidad",
+      "relevance": 0.512551,
+      "count": 3
+    },
+    {
+      "text": "segundo semestre del afio",
+      "relevance": 0.511977,
+      "count": 1
+    },
+    {
+      "text": "aboratorios de la facultad sbiema",
+      "relevance": 0.511214,
+      "count": 1
+    },
+    {
+      "text": "sefior rector",
+      "relevance": 0.510774,
+      "count": 1
+    },
+    {
+      "text": "planta fisica",
+      "relevance": 0.510612,
+      "count": 2
+    },
+    {
+      "text": "figura de la vigencia futura",
+      "relevance": 0.510175,
+      "count": 1
+    },
+    {
+      "text": "ente universitario",
+      "relevance": 0.50987,
+      "count": 1
+    },
+    {
+      "text": "laboratorios de la facultad equipo de filiracion",
+      "relevance": 0.509766,
+      "count": 1
+    },
+    {
+      "text": "sostenibilidad de la planta interventoria",
+      "relevance": 0.509675,
+      "count": 1
+    },
+    {
+      "text": "ingenieria posicionamiento",
+      "relevance": 0.509558,
+      "count": 1
+    },
+    {
+      "text": "ciudad universitaria",
+      "relevance": 0.509027,
+      "count": 2
+    },
+    {
+      "text": "concepto de recaudo de la estampilla",
+      "relevance": 0.508974,
+      "count": 1
+    },
+    {
+      "text": "fuente de poder dc",
+      "relevance": 0.508967,
+      "count": 1
+    },
+    {
+      "text": "inicio de procesos contractuales",
+      "relevance": 0.508701,
+      "count": 1
+    },
+    {
+      "text": "s0",
+      "relevance": 0.508516,
+      "count": 1
+    }
+  ],
+  "warnings": [
+    "Text content exceeds 50000 character limit. Only first 50000 characters processed..."
+  ]
+}

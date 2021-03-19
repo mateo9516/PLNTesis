@@ -1,0 +1,255 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1947,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.853602,
+      "count": 2
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.648325,
+      "count": 1
+    },
+    {
+      "text": "programas acad\u00e9micos",
+      "relevance": 0.629555,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de mayo",
+      "relevance": 0.577958,
+      "count": 1
+    },
+    {
+      "text": "finalizacion de clases",
+      "relevance": 0.563593,
+      "count": 1
+    },
+    {
+      "text": "periodo enero",
+      "relevance": 0.558465,
+      "count": 1
+    },
+    {
+      "text": "comision",
+      "relevance": 0.551651,
+      "count": 5
+    },
+    {
+      "text": "parte integral",
+      "relevance": 0.546182,
+      "count": 1
+    },
+    {
+      "text": "autonomia universitaria",
+      "relevance": 0.541887,
+      "count": 1
+    },
+    {
+      "text": "finalizacion del periodo",
+      "relevance": 0.522733,
+      "count": 1
+    },
+    {
+      "text": "secretario general",
+      "relevance": 0.522562,
+      "count": 1
+    },
+    {
+      "text": "lopez pulecio",
+      "relevance": 0.522003,
+      "count": 1
+    },
+    {
+      "text": "calendario acad\u00e9mico del periodo acad\u00e9mico",
+      "relevance": 0.520937,
+      "count": 1
+    },
+    {
+      "text": "julioconsejo academico",
+      "relevance": 0.512942,
+      "count": 1
+    },
+    {
+      "text": "comisiones tematicas del plan de desarrollo",
+      "relevance": 0.502787,
+      "count": 1
+    },
+    {
+      "text": "sal\u00e9n de sesiones del consejo acad\u00e9mico",
+      "relevance": 0.500769,
+      "count": 1
+    },
+    {
+      "text": "consejo academico de la universidad del valle",
+      "relevance": 0.490543,
+      "count": 1
+    },
+    {
+      "text": "cali",
+      "relevance": 0.486494,
+      "count": 1
+    },
+    {
+      "text": "mayo",
+      "relevance": 0.486114,
+      "count": 5
+    },
+    {
+      "text": "realizaci6n de jornadas de reflexion",
+      "relevance": 0.483246,
+      "count": 1
+    },
+    {
+      "text": "enero",
+      "relevance": 0.48261,
+      "count": 2
+    },
+    {
+      "text": "atribuciones",
+      "relevance": 0.478949,
+      "count": 1
+    },
+    {
+      "text": "estatuto general de la universidad del valle",
+      "relevance": 0.478163,
+      "count": 1
+    },
+    {
+      "text": "modernizacion",
+      "relevance": 0.469535,
+      "count": 1
+    },
+    {
+      "text": "comisiones",
+      "relevance": 0.468194,
+      "count": 1
+    },
+    {
+      "text": "viernes",
+      "relevance": 0.467779,
+      "count": 2
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.467278,
+      "count": 2
+    },
+    {
+      "text": "martes",
+      "relevance": 0.466803,
+      "count": 1
+    },
+    {
+      "text": "habilitaciones",
+      "relevance": 0.466573,
+      "count": 1
+    },
+    {
+      "text": "gobernabilidad",
+      "relevance": 0.466401,
+      "count": 1
+    },
+    {
+      "text": "calificaciones",
+      "relevance": 0.466338,
+      "count": 1
+    },
+    {
+      "text": "internacionalizacion",
+      "relevance": 0.464218,
+      "count": 1
+    },
+    {
+      "text": "sostenibilidad",
+      "relevance": 0.464204,
+      "count": 1
+    },
+    {
+      "text": "lunes",
+      "relevance": 0.464124,
+      "count": 1
+    },
+    {
+      "text": "junio",
+      "relevance": 0.463149,
+      "count": 7
+    },
+    {
+      "text": "cobertura",
+      "relevance": 0.463149,
+      "count": 1
+    },
+    {
+      "text": "participacion",
+      "relevance": 0.462008,
+      "count": 1
+    },
+    {
+      "text": "politicas",
+      "relevance": 0.461438,
+      "count": 1
+    },
+    {
+      "text": "finales",
+      "relevance": 0.460703,
+      "count": 1
+    },
+    {
+      "text": "mi\u00e9rcoles",
+      "relevance": 0.460703,
+      "count": 1
+    },
+    {
+      "text": "resolucion",
+      "relevance": 0.459728,
+      "count": 3
+    },
+    {
+      "text": "septiembre",
+      "relevance": 0.459728,
+      "count": 2
+    },
+    {
+      "text": "uso",
+      "relevance": 0.459728,
+      "count": 1
+    },
+    {
+      "text": "asi",
+      "relevance": 0.459728,
+      "count": 1
+    },
+    {
+      "text": "julio",
+      "relevance": 0.459728,
+      "count": 1
+    },
+    {
+      "text": "calidad",
+      "relevance": 0.459728,
+      "count": 1
+    },
+    {
+      "text": "proyecto",
+      "relevance": 0.459728,
+      "count": 1
+    },
+    {
+      "text": "conocimiento",
+      "relevance": 0.459728,
+      "count": 1
+    },
+    {
+      "text": "presidente",
+      "relevance": 0.459728,
+      "count": 1
+    }
+  ]
+}

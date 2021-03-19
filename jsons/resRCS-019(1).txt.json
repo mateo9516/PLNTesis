@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 4369,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "cierre de la vigencia fiscal",
+      "relevance": 0.67371,
+      "count": 1
+    },
+    {
+      "text": "asamblea departamental del valle",
+      "relevance": 0.633122,
+      "count": 1
+    },
+    {
+      "text": "r\u00e9gimen especial",
+      "relevance": 0.622262,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.597033,
+      "count": 2
+    },
+    {
+      "text": "figura de la vigencia futura",
+      "relevance": 0.586947,
+      "count": 1
+    },
+    {
+      "text": "fecha posterior",
+      "relevance": 0.583998,
+      "count": 2
+    },
+    {
+      "text": "senor rector",
+      "relevance": 0.575815,
+      "count": 1
+    },
+    {
+      "text": "sisterna general de regalias",
+      "relevance": 0.568696,
+      "count": 1
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.563218,
+      "count": 1
+    },
+    {
+      "text": "saldn de reuniones del despacho",
+      "relevance": 0.560477,
+      "count": 1
+    },
+    {
+      "text": "recibo de bienes",
+      "relevance": 0.560456,
+      "count": 2
+    },
+    {
+      "text": "plan de inversiones de la universidad",
+      "relevance": 0.557788,
+      "count": 1
+    },
+    {
+      "text": "estatuto general",
+      "relevance": 0.554678,
+      "count": 1
+    },
+    {
+      "text": "vigencias siguientes",
+      "relevance": 0.55326,
+      "count": 1
+    },
+    {
+      "text": "resolucidn de consejo superior",
+      "relevance": 0.550865,
+      "count": 1
+    },
+    {
+      "text": "pdgina web de la universidad",
+      "relevance": 0.548086,
+      "count": 1
+    },
+    {
+      "text": "consejo superior aprob6",
+      "relevance": 0.540802,
+      "count": 1
+    },
+    {
+      "text": "ordenador del gasto",
+      "relevance": 0.54014,
+      "count": 1
+    },
+    {
+      "text": "autorizaci\u00e9n de vigencias futuras",
+      "relevance": 0.537879,
+      "count": 1
+    },
+    {
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.537009,
+      "count": 2
+    },
+    {
+      "text": "sede zarzal",
+      "relevance": 0.531613,
+      "count": 3
+    },
+    {
+      "text": "recursos del fondo",
+      "relevance": 0.528779,
+      "count": 1
+    },
+    {
+      "text": "literal k",
+      "relevance": 0.526483,
+      "count": 1
+    },
+    {
+      "text": "plan de inversiones de la vigencia",
+      "relevance": 0.525291,
+      "count": 1
+    },
+    {
+      "text": "ente universitario",
+      "relevance": 0.524941,
+      "count": 1
+    },
+    {
+      "text": "estatuto orgdnico de presupuesto",
+      "relevance": 0.516462,
+      "count": 1
+    },
+    {
+      "text": "pago de los compromisos",
+      "relevance": 0.514352,
+      "count": 1
+    },
+    {
+      "text": "recepcid\u00e9n de bienes",
+      "relevance": 0.511195,
+      "count": 1
+    },
+    {
+      "text": "siguiente proyecto correspondientes",
+      "relevance": 0.509714,
+      "count": 1
+    },
+    {
+      "text": "recursos del impuesto",
+      "relevance": 0.508794,
+      "count": 1
+    },
+    {
+      "text": "infraestructura fisica",
+      "relevance": 0.508402,
+      "count": 1
+    },
+    {
+      "text": "vigencia fiscal",
+      "relevance": 0.503586,
+      "count": 1
+    },
+    {
+      "text": "proyecto",
+      "relevance": 0.503509,
+      "count": 6
+    },
+    {
+      "text": "presupuesto de gastos",
+      "relevance": 0.502223,
+      "count": 1
+    },
+    {
+      "text": "objeto recibo",
+      "relevance": 0.501538,
+      "count": 1
+    },
+    {
+      "text": "periodo fiscal",
+      "relevance": 0.499797,
+      "count": 1
+    },
+    {
+      "text": "valle del cauca",
+      "relevance": 0.498301,
+      "count": 1
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.497819,
+      "count": 2
+    },
+    {
+      "text": "pliego de condiciones",
+      "relevance": 0.496525,
+      "count": 1
+    },
+    {
+      "text": "santiago de calli",
+      "relevance": 0.495579,
+      "count": 1
+    },
+    {
+      "text": "personeria juridica",
+      "relevance": 0.495548,
+      "count": 1
+    },
+    {
+      "text": "condiciones de alta calidad",
+      "relevance": 0.495181,
+      "count": 1
+    },
+    {
+      "text": "uso de sus atribuciones",
+      "relevance": 0.493217,
+      "count": 1
+    },
+    {
+      "text": "patrimonio independiente",
+      "relevance": 0.493217,
+      "count": 1
+    },
+    {
+      "text": "principio de anualidad",
+      "relevance": 0.493217,
+      "count": 1
+    },
+    {
+      "text": "quedd incorporado",
+      "relevance": 0.493217,
+      "count": 1
+    },
+    {
+      "text": "municipio de zarzal",
+      "relevance": 0.489807,
+      "count": 1
+    },
+    {
+      "text": "senor rector de la universidad del valle",
+      "relevance": 0.486506,
+      "count": 1
+    },
+    {
+      "text": "obra",
+      "relevance": 0.485044,
+      "count": 2
+    },
+    {
+      "text": "serd",
+      "relevance": 0.483042,
+      "count": 1
+    }
+  ]
+}

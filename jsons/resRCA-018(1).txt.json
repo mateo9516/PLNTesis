@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 2,
+    "text_characters": 18575,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "puntaje minimo de preseleccion",
+      "relevance": 0.609857,
+      "count": 1
+    },
+    {
+      "text": "institutos acad\u00e9micos",
+      "relevance": 0.60297,
+      "count": 2
+    },
+    {
+      "text": "propuesta completa de un curso",
+      "relevance": 0.575446,
+      "count": 1
+    },
+    {
+      "text": "experiencia eee",
+      "relevance": 0.57292,
+      "count": 1
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.557562,
+      "count": 12
+    },
+    {
+      "text": "m\u00e9ritos de cada facultad",
+      "relevance": 0.555692,
+      "count": 1
+    },
+    {
+      "text": "hoja de vida",
+      "relevance": 0.551352,
+      "count": 4
+    },
+    {
+      "text": "puntaje minimo",
+      "relevance": 0.549865,
+      "count": 5
+    },
+    {
+      "text": "caso de aspirantes",
+      "relevance": 0.543707,
+      "count": 1
+    },
+    {
+      "text": "concurso publico",
+      "relevance": 0.542135,
+      "count": 1
+    },
+    {
+      "text": "cargos de profesores de tiempo",
+      "relevance": 0.539886,
+      "count": 1
+    },
+    {
+      "text": "experiencia experiencia",
+      "relevance": 0.539275,
+      "count": 1
+    },
+    {
+      "text": "docente profesional",
+      "relevance": 0.538691,
+      "count": 1
+    },
+    {
+      "text": "siguiente relacion",
+      "relevance": 0.538098,
+      "count": 2
+    },
+    {
+      "text": "literales g",
+      "relevance": 0.53514,
+      "count": 1
+    },
+    {
+      "text": "publicacion impresa",
+      "relevance": 0.5351,
+      "count": 1
+    },
+    {
+      "text": "propuesta de investigacion",
+      "relevance": 0.534345,
+      "count": 2
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.533902,
+      "count": 2
+    },
+    {
+      "text": "asignacion de puntaje",
+      "relevance": 0.530013,
+      "count": 1
+    },
+    {
+      "text": "ef artistica",
+      "relevance": 0.52909,
+      "count": 1
+    },
+    {
+      "text": "recepcion de las solicitudes de los candidatos",
+      "relevance": 0.52863,
+      "count": 1
+    },
+    {
+      "text": "acad\u00e9mica docente",
+      "relevance": 0.528073,
+      "count": 1
+    },
+    {
+      "text": "idioma extranjero de idiomas",
+      "relevance": 0.527281,
+      "count": 1
+    },
+    {
+      "text": "experiencia profesional",
+      "relevance": 0.527156,
+      "count": 2
+    },
+    {
+      "text": "caso de las licenciaturas",
+      "relevance": 0.525923,
+      "count": 1
+    },
+    {
+      "text": "evaluacion de los aspirantes",
+      "relevance": 0.525435,
+      "count": 1
+    },
+    {
+      "text": "formacion pedagogica certificadas",
+      "relevance": 0.524097,
+      "count": 1
+    },
+    {
+      "text": "mitad del puntaje",
+      "relevance": 0.523601,
+      "count": 1
+    },
+    {
+      "text": "investigacion posdoctoral certificada",
+      "relevance": 0.523209,
+      "count": 1
+    },
+    {
+      "text": "facultad de ciencias naturales",
+      "relevance": 0.522946,
+      "count": 1
+    },
+    {
+      "text": "exposicion oral",
+      "relevance": 0.522739,
+      "count": 4
+    },
+    {
+      "text": "titulo de pregrado",
+      "relevance": 0.52265,
+      "count": 1
+    },
+    {
+      "text": "estudio de la hoja de vida",
+      "relevance": 0.522485,
+      "count": 2
+    },
+    {
+      "text": "medio tiempo",
+      "relevance": 0.522434,
+      "count": 3
+    },
+    {
+      "text": "tiempo completo",
+      "relevance": 0.521644,
+      "count": 1
+    },
+    {
+      "text": "ejercicio profesional",
+      "relevance": 0.52163,
+      "count": 1
+    },
+    {
+      "text": "realizacion de una clase magistral",
+      "relevance": 0.520722,
+      "count": 1
+    },
+    {
+      "text": "experiencia investigativa",
+      "relevance": 0.520363,
+      "count": 1
+    },
+    {
+      "text": "convocatoria semestral",
+      "relevance": 0.519238,
+      "count": 1
+    },
+    {
+      "text": "maximo tope",
+      "relevance": 0.518162,
+      "count": 5
+    },
+    {
+      "text": "instituto acad\u00e9mico",
+      "relevance": 0.517763,
+      "count": 7
+    },
+    {
+      "text": "equivalente de tiempo completo",
+      "relevance": 0.517331,
+      "count": 1
+    },
+    {
+      "text": "casos de conciertos",
+      "relevance": 0.516369,
+      "count": 1
+    },
+    {
+      "text": "siguientes conceptos",
+      "relevance": 0.516183,
+      "count": 1
+    },
+    {
+      "text": "presentaci\u00e9n de una propuesta de produccion",
+      "relevance": 0.515143,
+      "count": 1
+    },
+    {
+      "text": "experiencia docente universitaria",
+      "relevance": 0.515054,
+      "count": 2
+    },
+    {
+      "text": "siguiente escala",
+      "relevance": 0.513732,
+      "count": 1
+    },
+    {
+      "text": "actividad docente",
+      "relevance": 0.512928,
+      "count": 1
+    },
+    {
+      "text": "exposiciones individuales",
+      "relevance": 0.512628,
+      "count": 1
+    },
+    {
+      "text": "programa de capacitacion certificado",
+      "relevance": 0.512207,
+      "count": 1
+    }
+  ]
+}

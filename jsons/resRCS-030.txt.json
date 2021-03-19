@@ -1,0 +1,225 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2171,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "consejo directivo",
+      "relevance": 0.83424,
+      "count": 3
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.699562,
+      "count": 1
+    },
+    {
+      "text": "atribuciones legales",
+      "relevance": 0.694122,
+      "count": 1
+    },
+    {
+      "text": "direccion de autoevaluaci6n",
+      "relevance": 0.664436,
+      "count": 1
+    },
+    {
+      "text": "titulo de especialista",
+      "relevance": 0.610341,
+      "count": 3
+    },
+    {
+      "text": "programa acad\u00e9mico",
+      "relevance": 0.60422,
+      "count": 2
+    },
+    {
+      "text": "calidad acad\u00e9mica",
+      "relevance": 0.587196,
+      "count": 1
+    },
+    {
+      "text": "medicina fisica",
+      "relevance": 0.587015,
+      "count": 5
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.583228,
+      "count": 1
+    },
+    {
+      "text": "planes de estudio",
+      "relevance": 0.574312,
+      "count": 1
+    },
+    {
+      "text": "medidas correctivas",
+      "relevance": 0.569872,
+      "count": 1
+    },
+    {
+      "text": "ministerio de educacion nacional",
+      "relevance": 0.565609,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.557353,
+      "count": 1
+    },
+    {
+      "text": "programa especialidad",
+      "relevance": 0.528415,
+      "count": 1
+    },
+    {
+      "text": "literal b",
+      "relevance": 0.522763,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de julio",
+      "relevance": 0.505336,
+      "count": 1
+    },
+    {
+      "text": "cargo de la division de salud",
+      "relevance": 0.498019,
+      "count": 2
+    },
+    {
+      "text": "estatuto general",
+      "relevance": 0.48644,
+      "count": 1
+    },
+    {
+      "text": "solicitud de registro",
+      "relevance": 0.482526,
+      "count": 1
+    },
+    {
+      "text": "planes de estudio de postgrado conducentes",
+      "relevance": 0.479315,
+      "count": 1
+    },
+    {
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.478897,
+      "count": 1
+    },
+    {
+      "text": "facultad de salud",
+      "relevance": 0.465196,
+      "count": 1
+    },
+    {
+      "text": "salon de reuniones de la torre institucional",
+      "relevance": 0.450758,
+      "count": 1
+    },
+    {
+      "text": "diciembre",
+      "relevance": 0.45001,
+      "count": 1
+    },
+    {
+      "text": "instancias",
+      "relevance": 0.442086,
+      "count": 1
+    },
+    {
+      "text": "unico",
+      "relevance": 0.440504,
+      "count": 1
+    },
+    {
+      "text": "rehabilitacion",
+      "relevance": 0.44027,
+      "count": 5
+    },
+    {
+      "text": "resolvi6",
+      "relevance": 0.43945,
+      "count": 1
+    },
+    {
+      "text": "especialista",
+      "relevance": 0.438585,
+      "count": 1
+    },
+    {
+      "text": "curriculo",
+      "relevance": 0.438432,
+      "count": 1
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.437603,
+      "count": 1
+    },
+    {
+      "text": "nombres",
+      "relevance": 0.436514,
+      "count": 1
+    },
+    {
+      "text": "resoluci6",
+      "relevance": 0.435758,
+      "count": 1
+    },
+    {
+      "text": "actualizaci6",
+      "relevance": 0.434417,
+      "count": 1
+    },
+    {
+      "text": "resolucion",
+      "relevance": 0.434417,
+      "count": 1
+    },
+    {
+      "text": "julio",
+      "relevance": 0.433842,
+      "count": 4
+    },
+    {
+      "text": "uso",
+      "relevance": 0.433842,
+      "count": 1
+    },
+    {
+      "text": "abril",
+      "relevance": 0.433842,
+      "count": 1
+    },
+    {
+      "text": "promociones",
+      "relevance": 0.433842,
+      "count": 1
+    },
+    {
+      "text": "noviembre",
+      "relevance": 0.433842,
+      "count": 1
+    },
+    {
+      "text": "resolucio\u00e9n",
+      "relevance": 0.433842,
+      "count": 1
+    },
+    {
+      "text": "especializacion",
+      "relevance": 0.433842,
+      "count": 2
+    },
+    {
+      "text": "presidente",
+      "relevance": 0.433842,
+      "count": 1
+    }
+  ]
+}

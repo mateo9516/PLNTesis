@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 6505,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "red de datos",
+      "relevance": 0.59946,
+      "count": 1
+    },
+    {
+      "text": "rector de la universidad del valle",
+      "relevance": 0.586516,
+      "count": 1
+    },
+    {
+      "text": "suministro de repuestos de la plataforma",
+      "relevance": 0.580563,
+      "count": 1
+    },
+    {
+      "text": "orden departamental",
+      "relevance": 0.562781,
+      "count": 1
+    },
+    {
+      "text": "comunidad universitaria",
+      "relevance": 0.561528,
+      "count": 1
+    },
+    {
+      "text": "mantenimiento de planta telefonica",
+      "relevance": 0.552627,
+      "count": 3
+    },
+    {
+      "text": "red inalambrica",
+      "relevance": 0.548332,
+      "count": 3
+    },
+    {
+      "text": "vigencias futuras",
+      "relevance": 0.547665,
+      "count": 2
+    },
+    {
+      "text": "equipos activos",
+      "relevance": 0.547225,
+      "count": 1
+    },
+    {
+      "text": "stock de repuestos",
+      "relevance": 0.546248,
+      "count": 2
+    },
+    {
+      "text": "principio de anualidad",
+      "relevance": 0.541612,
+      "count": 1
+    },
+    {
+      "text": "periodo fiscal",
+      "relevance": 0.540407,
+      "count": 1
+    },
+    {
+      "text": "servicio de alta disponibilidad",
+      "relevance": 0.539185,
+      "count": 1
+    },
+    {
+      "text": "ente universitario",
+      "relevance": 0.536453,
+      "count": 1
+    },
+    {
+      "text": "fin de poder",
+      "relevance": 0.53634,
+      "count": 1
+    },
+    {
+      "text": "plataforma de it institucional",
+      "relevance": 0.534466,
+      "count": 1
+    },
+    {
+      "text": "orden de necesidades",
+      "relevance": 0.53251,
+      "count": 1
+    },
+    {
+      "text": "educacion nacional",
+      "relevance": 0.53218,
+      "count": 1
+    },
+    {
+      "text": "equipos activos de la red",
+      "relevance": 0.53213,
+      "count": 2
+    },
+    {
+      "text": "literales k",
+      "relevance": 0.530605,
+      "count": 1
+    },
+    {
+      "text": "asamblea departamental del valle",
+      "relevance": 0.528665,
+      "count": 1
+    },
+    {
+      "text": "alta disponibilidad",
+      "relevance": 0.528441,
+      "count": 1
+    },
+    {
+      "text": "r\u00e9gimen especial",
+      "relevance": 0.527437,
+      "count": 1
+    },
+    {
+      "text": "figura de vigencia futura",
+      "relevance": 0.522468,
+      "count": 1
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.521696,
+      "count": 2
+    },
+    {
+      "text": "actualizaciones de version",
+      "relevance": 0.520595,
+      "count": 1
+    },
+    {
+      "text": "estatuto organico del presupuesto",
+      "relevance": 0.519344,
+      "count": 1
+    },
+    {
+      "text": "estatuto general",
+      "relevance": 0.517953,
+      "count": 1
+    },
+    {
+      "text": "uso de sus atribuciones",
+      "relevance": 0.517468,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.517014,
+      "count": 1
+    },
+    {
+      "text": "companias especializadas",
+      "relevance": 0.516874,
+      "count": 1
+    },
+    {
+      "text": "celebracion del compromiso",
+      "relevance": 0.515453,
+      "count": 1
+    },
+    {
+      "text": "software especializados",
+      "relevance": 0.513837,
+      "count": 1
+    },
+    {
+      "text": "estampilla de la vigencia fiscal",
+      "relevance": 0.512366,
+      "count": 1
+    },
+    {
+      "text": "universidades publica",
+      "relevance": 0.512157,
+      "count": 1
+    },
+    {
+      "text": "recepcion de bienes",
+      "relevance": 0.511994,
+      "count": 1
+    },
+    {
+      "text": "ordenador del gasto",
+      "relevance": 0.511811,
+      "count": 1
+    },
+    {
+      "text": "senor rector de la universidad",
+      "relevance": 0.511044,
+      "count": 1
+    },
+    {
+      "text": "fin de ano",
+      "relevance": 0.510703,
+      "count": 1
+    },
+    {
+      "text": "mantenimiento de equipos activos",
+      "relevance": 0.50942,
+      "count": 2
+    },
+    {
+      "text": "stock especializado",
+      "relevance": 0.508666,
+      "count": 1
+    },
+    {
+      "text": "recursos de inversion",
+      "relevance": 0.507175,
+      "count": 1
+    },
+    {
+      "text": "marco del proyecto de atencidn",
+      "relevance": 0.506504,
+      "count": 1
+    },
+    {
+      "text": "continuidad del servicio",
+      "relevance": 0.505915,
+      "count": 2
+    },
+    {
+      "text": "vigencias siguientes",
+      "relevance": 0.505835,
+      "count": 1
+    },
+    {
+      "text": "disponibilidad presupuestal correspondiente",
+      "relevance": 0.505131,
+      "count": 1
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.504814,
+      "count": 4
+    },
+    {
+      "text": "mantenimiento",
+      "relevance": 0.504085,
+      "count": 1
+    },
+    {
+      "text": "copias de respaldo",
+      "relevance": 0.50399,
+      "count": 1
+    },
+    {
+      "text": "gran importancia",
+      "relevance": 0.503783,
+      "count": 1
+    }
+  ]
+}

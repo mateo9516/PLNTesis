@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 8700,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "plan de becas",
+      "relevance": 0.661262,
+      "count": 3
+    },
+    {
+      "text": "condiciones acad\u00e9micas",
+      "relevance": 0.579897,
+      "count": 1
+    },
+    {
+      "text": "tercer semestre",
+      "relevance": 0.573397,
+      "count": 1
+    },
+    {
+      "text": "permanencia de los estudiantes",
+      "relevance": 0.572394,
+      "count": 1
+    },
+    {
+      "text": "plan de becas especiales",
+      "relevance": 0.571071,
+      "count": 1
+    },
+    {
+      "text": "plan estrat\u00e9gico de desarrollo",
+      "relevance": 0.560949,
+      "count": 1
+    },
+    {
+      "text": "fotocopias del documento",
+      "relevance": 0.55958,
+      "count": 1
+    },
+    {
+      "text": "solicitud escrita",
+      "relevance": 0.554139,
+      "count": 1
+    },
+    {
+      "text": "alfonso ocampo",
+      "relevance": 0.552587,
+      "count": 4
+    },
+    {
+      "text": "\u00e9xito acad\u00e9mico",
+      "relevance": 0.544864,
+      "count": 3
+    },
+    {
+      "text": "recibo de pago de la matricula",
+      "relevance": 0.542901,
+      "count": 1
+    },
+    {
+      "text": "pago de la matricula financiera",
+      "relevance": 0.542665,
+      "count": 1
+    },
+    {
+      "text": "origen nacional",
+      "relevance": 0.5364,
+      "count": 1
+    },
+    {
+      "text": "disponibilidad financiera",
+      "relevance": 0.535072,
+      "count": 1
+    },
+    {
+      "text": "estudiantes mujeres",
+      "relevance": 0.534442,
+      "count": 1
+    },
+    {
+      "text": "nivel acad\u00e9mico",
+      "relevance": 0.533542,
+      "count": 1
+    },
+    {
+      "text": "trato de las autoridades",
+      "relevance": 0.529357,
+      "count": 1
+    },
+    {
+      "text": "promedio de notas",
+      "relevance": 0.529011,
+      "count": 1
+    },
+    {
+      "text": "semestre anterior",
+      "relevance": 0.528503,
+      "count": 1
+    },
+    {
+      "text": "comit\u00e9 de asignaciones",
+      "relevance": 0.527587,
+      "count": 3
+    },
+    {
+      "text": "rendimiento acad\u00e9mico",
+      "relevance": 0.524058,
+      "count": 1
+    },
+    {
+      "text": "plan programatico",
+      "relevance": 0.523331,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.5231,
+      "count": 5
+    },
+    {
+      "text": "solicitudes de becas",
+      "relevance": 0.522959,
+      "count": 1
+    },
+    {
+      "text": "documento de consentimiento",
+      "relevance": 0.522881,
+      "count": 1
+    },
+    {
+      "text": "documento original",
+      "relevance": 0.522627,
+      "count": 1
+    },
+    {
+      "text": "graduacion de estudiantes afrocolombianas",
+      "relevance": 0.521968,
+      "count": 1
+    },
+    {
+      "text": "pagos de matriculas financieras",
+      "relevance": 0.52064,
+      "count": 1
+    },
+    {
+      "text": "fortalecimiento del desarrollo humano",
+      "relevance": 0.519534,
+      "count": 1
+    },
+    {
+      "text": "uso de sus atribuciones",
+      "relevance": 0.519033,
+      "count": 1
+    },
+    {
+      "text": "marco de las nuevas orientaciones",
+      "relevance": 0.518909,
+      "count": 1
+    },
+    {
+      "text": "estudiantes beneficiarias",
+      "relevance": 0.518722,
+      "count": 1
+    },
+    {
+      "text": "estudiante",
+      "relevance": 0.518283,
+      "count": 5
+    },
+    {
+      "text": "educaci6n superior",
+      "relevance": 0.517743,
+      "count": 1
+    },
+    {
+      "text": "calidad de vida",
+      "relevance": 0.517674,
+      "count": 1
+    },
+    {
+      "text": "desarrollo humano",
+      "relevance": 0.517471,
+      "count": 1
+    },
+    {
+      "text": "socio familiar",
+      "relevance": 0.517357,
+      "count": 1
+    },
+    {
+      "text": "diversidad \u00e9tnica",
+      "relevance": 0.516968,
+      "count": 1
+    },
+    {
+      "text": "estudiantes aprobadas",
+      "relevance": 0.516175,
+      "count": 1
+    },
+    {
+      "text": "formaci6n integral",
+      "relevance": 0.515444,
+      "count": 1
+    },
+    {
+      "text": "estudio socioecon\u00e9mico correspondiente",
+      "relevance": 0.514927,
+      "count": 1
+    },
+    {
+      "text": "necesidad de la beca",
+      "relevance": 0.514387,
+      "count": 1
+    },
+    {
+      "text": "alfonso ocampo london",
+      "relevance": 0.514282,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.514098,
+      "count": 1
+    },
+    {
+      "text": "proceso de selecci6n",
+      "relevance": 0.514021,
+      "count": 1
+    },
+    {
+      "text": "unica vez",
+      "relevance": 0.513177,
+      "count": 1
+    },
+    {
+      "text": "bienestar social de la comunidad",
+      "relevance": 0.512723,
+      "count": 1
+    },
+    {
+      "text": "disponibilidad financiera del programa",
+      "relevance": 0.5123,
+      "count": 1
+    },
+    {
+      "text": "otorgamiento de las becas",
+      "relevance": 0.511931,
+      "count": 1
+    },
+    {
+      "text": "mismos derechos",
+      "relevance": 0.51192,
+      "count": 1
+    }
+  ]
+}

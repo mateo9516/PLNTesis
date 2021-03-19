@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 6620,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "numero mayor de aspirantes",
+      "relevance": 0.75584,
+      "count": 1
+    },
+    {
+      "text": "numero de cupos",
+      "relevance": 0.613096,
+      "count": 1
+    },
+    {
+      "text": "condicid\u00e9n de excepcion",
+      "relevance": 0.593212,
+      "count": 1
+    },
+    {
+      "text": "examen de estado",
+      "relevance": 0.589505,
+      "count": 1
+    },
+    {
+      "text": "programa acad\u00e9mico",
+      "relevance": 0.589479,
+      "count": 4
+    },
+    {
+      "text": "periodo acad\u00e9mico",
+      "relevance": 0.574909,
+      "count": 1
+    },
+    {
+      "text": "resultados del examen de estado",
+      "relevance": 0.566662,
+      "count": 1
+    },
+    {
+      "text": "familias de ascendencia afrocolombiana",
+      "relevance": 0.550234,
+      "count": 1
+    },
+    {
+      "text": "razones de sexo",
+      "relevance": 0.544991,
+      "count": 1
+    },
+    {
+      "text": "representante legal",
+      "relevance": 0.544318,
+      "count": 1
+    },
+    {
+      "text": "origen nacional",
+      "relevance": 0.543626,
+      "count": 1
+    },
+    {
+      "text": "comunidad negra",
+      "relevance": 0.543354,
+      "count": 1
+    },
+    {
+      "text": "constitucion politica de colombia",
+      "relevance": 0.541404,
+      "count": 1
+    },
+    {
+      "text": "diversidad \u00e9tnica",
+      "relevance": 0.533335,
+      "count": 1
+    },
+    {
+      "text": "trabajo de grado",
+      "relevance": 0.532122,
+      "count": 1
+    },
+    {
+      "text": "corte inicial",
+      "relevance": 0.527451,
+      "count": 1
+    },
+    {
+      "text": "examen de estado anteriores",
+      "relevance": 0.526842,
+      "count": 1
+    },
+    {
+      "text": "demas regiones",
+      "relevance": 0.525958,
+      "count": 1
+    },
+    {
+      "text": "cuenca del pacifico",
+      "relevance": 0.525686,
+      "count": 2
+    },
+    {
+      "text": "nacion colombiana",
+      "relevance": 0.525116,
+      "count": 1
+    },
+    {
+      "text": "identidad cultural",
+      "relevance": 0.525005,
+      "count": 1
+    },
+    {
+      "text": "cupos reservados",
+      "relevance": 0.52434,
+      "count": 1
+    },
+    {
+      "text": "programas acad\u00e9micos",
+      "relevance": 0.523506,
+      "count": 1
+    },
+    {
+      "text": "primeros inscritos",
+      "relevance": 0.522016,
+      "count": 1
+    },
+    {
+      "text": "titulo de bachiller",
+      "relevance": 0.521806,
+      "count": 1
+    },
+    {
+      "text": "zonas rurales",
+      "relevance": 0.521591,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.52037,
+      "count": 1
+    },
+    {
+      "text": "comunidades afrocolombianas",
+      "relevance": 0.516492,
+      "count": 2
+    },
+    {
+      "text": "nacionalidad colombiana",
+      "relevance": 0.516118,
+      "count": 1
+    },
+    {
+      "text": "etapas del proceso de creacion",
+      "relevance": 0.515828,
+      "count": 1
+    },
+    {
+      "text": "estado colombiano",
+      "relevance": 0.515775,
+      "count": 1
+    },
+    {
+      "text": "miembro activo",
+      "relevance": 0.514864,
+      "count": 1
+    },
+    {
+      "text": "santa catalina",
+      "relevance": 0.514864,
+      "count": 1
+    },
+    {
+      "text": "estado",
+      "relevance": 0.514217,
+      "count": 4
+    },
+    {
+      "text": "siguientes grupos",
+      "relevance": 0.51265,
+      "count": 1
+    },
+    {
+      "text": "aspirantes",
+      "relevance": 0.511816,
+      "count": 3
+    },
+    {
+      "text": "grupos \u00e9tnicos",
+      "relevance": 0.511532,
+      "count": 1
+    },
+    {
+      "text": "san andr\u00e9s",
+      "relevance": 0.511504,
+      "count": 1
+    },
+    {
+      "text": "lugar de origen",
+      "relevance": 0.511455,
+      "count": 1
+    },
+    {
+      "text": "prueba adicional de caracter acad\u00e9mico",
+      "relevance": 0.510333,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de octubre",
+      "relevance": 0.509174,
+      "count": 1
+    },
+    {
+      "text": "favor de grupos discriminados",
+      "relevance": 0.508748,
+      "count": 1
+    },
+    {
+      "text": "integrantes de los grupos \u00e9tnicos",
+      "relevance": 0.507734,
+      "count": 1
+    },
+    {
+      "text": "condiciodn de excepci6",
+      "relevance": 0.507294,
+      "count": 1
+    },
+    {
+      "text": "comunidades negras",
+      "relevance": 0.507114,
+      "count": 1
+    },
+    {
+      "text": "trato de las autoridades",
+      "relevance": 0.506059,
+      "count": 1
+    },
+    {
+      "text": "ensefanza cientifica",
+      "relevance": 0.506059,
+      "count": 1
+    },
+    {
+      "text": "respectivo periodo acad\u00e9mico",
+      "relevance": 0.505913,
+      "count": 1
+    },
+    {
+      "text": "cultura propia",
+      "relevance": 0.504994,
+      "count": 1
+    },
+    {
+      "text": "representante de los consejos",
+      "relevance": 0.504941,
+      "count": 1
+    }
+  ]
+}

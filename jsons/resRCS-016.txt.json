@@ -1,0 +1,255 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1776,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "programa acad\u00e9mico",
+      "relevance": 0.775664,
+      "count": 1
+    },
+    {
+      "text": "atribuciones legales",
+      "relevance": 0.67531,
+      "count": 1
+    },
+    {
+      "text": "plan de estudios conducente",
+      "relevance": 0.629401,
+      "count": 1
+    },
+    {
+      "text": "consejo directivo",
+      "relevance": 0.621863,
+      "count": 1
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.614786,
+      "count": 1
+    },
+    {
+      "text": "estatuto general",
+      "relevance": 0.606504,
+      "count": 1
+    },
+    {
+      "text": "titulo acad\u00e9mico",
+      "relevance": 0.605017,
+      "count": 1
+    },
+    {
+      "text": "luis alberto herrera",
+      "relevance": 0.597119,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.587749,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.564086,
+      "count": 1
+    },
+    {
+      "text": "cirugia general",
+      "relevance": 0.553197,
+      "count": 3
+    },
+    {
+      "text": "programa acad\u00e9mico de especialidad",
+      "relevance": 0.541765,
+      "count": 1
+    },
+    {
+      "text": "salon de reuniones del despacho",
+      "relevance": 0.540783,
+      "count": 1
+    },
+    {
+      "text": "solicitud de registro calificado",
+      "relevance": 0.525026,
+      "count": 1
+    },
+    {
+      "text": "escuela de medicina de la facultad",
+      "relevance": 0.525026,
+      "count": 1
+    },
+    {
+      "text": "acad\u00e9mico de especializacion",
+      "relevance": 0.517747,
+      "count": 1
+    },
+    {
+      "text": "representante del presidente",
+      "relevance": 0.513295,
+      "count": 1
+    },
+    {
+      "text": "literal b",
+      "relevance": 0.512868,
+      "count": 1
+    },
+    {
+      "text": "programas de acuerdo",
+      "relevance": 0.506342,
+      "count": 1
+    },
+    {
+      "text": "larreamendy joerns",
+      "relevance": 0.506313,
+      "count": 1
+    },
+    {
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.49912,
+      "count": 1
+    },
+    {
+      "text": "titulo de especialista",
+      "relevance": 0.498975,
+      "count": 1
+    },
+    {
+      "text": "dia de marzo",
+      "relevance": 0.497135,
+      "count": 1
+    },
+    {
+      "text": "junio",
+      "relevance": 0.469727,
+      "count": 1
+    },
+    {
+      "text": "salud",
+      "relevance": 0.468083,
+      "count": 1
+    },
+    {
+      "text": "unico",
+      "relevance": 0.457006,
+      "count": 1
+    },
+    {
+      "text": "ministerio",
+      "relevance": 0.455017,
+      "count": 1
+    },
+    {
+      "text": "adscrito",
+      "relevance": 0.454814,
+      "count": 1
+    },
+    {
+      "text": "modificd",
+      "relevance": 0.451916,
+      "count": 1
+    },
+    {
+      "text": "t\u00e9rmino",
+      "relevance": 0.451916,
+      "count": 1
+    },
+    {
+      "text": "especialista",
+      "relevance": 0.451439,
+      "count": 1
+    },
+    {
+      "text": "denominacion",
+      "relevance": 0.451038,
+      "count": 2
+    },
+    {
+      "text": "ajustes",
+      "relevance": 0.449779,
+      "count": 1
+    },
+    {
+      "text": "especialidad",
+      "relevance": 0.448535,
+      "count": 1
+    },
+    {
+      "text": "marzo",
+      "relevance": 0.445223,
+      "count": 1
+    },
+    {
+      "text": "adscripcion",
+      "relevance": 0.445223,
+      "count": 1
+    },
+    {
+      "text": "gene",
+      "relevance": 0.445223,
+      "count": 1
+    },
+    {
+      "text": "uso",
+      "relevance": 0.445223,
+      "count": 1
+    },
+    {
+      "text": "articulo",
+      "relevance": 0.445223,
+      "count": 1
+    },
+    {
+      "text": "resoluci6",
+      "relevance": 0.445223,
+      "count": 1
+    },
+    {
+      "text": "julio",
+      "relevance": 0.445223,
+      "count": 1
+    },
+    {
+      "text": "resolucion",
+      "relevance": 0.445223,
+      "count": 2
+    },
+    {
+      "text": "enero",
+      "relevance": 0.445223,
+      "count": 1
+    },
+    {
+      "text": "actualiz6",
+      "relevance": 0.445223,
+      "count": 1
+    },
+    {
+      "text": "octubre",
+      "relevance": 0.445223,
+      "count": 1
+    },
+    {
+      "text": "anos",
+      "relevance": 0.445223,
+      "count": 1
+    },
+    {
+      "text": "presidente",
+      "relevance": 0.445223,
+      "count": 1
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.444988,
+      "count": 2
+    },
+    {
+      "text": "especializacion",
+      "relevance": 0.443254,
+      "count": 1
+    }
+  ]
+}

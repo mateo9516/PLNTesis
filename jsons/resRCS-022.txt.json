@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3337,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "embajada de francia",
+      "relevance": 0.661209,
+      "count": 3
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.640969,
+      "count": 5
+    },
+    {
+      "text": "alianza francesa de cali",
+      "relevance": 0.633256,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.604843,
+      "count": 2
+    },
+    {
+      "text": "6n de profesores",
+      "relevance": 0.593495,
+      "count": 1
+    },
+    {
+      "text": "trav\u00e9s de su vinculaci\u00e9n",
+      "relevance": 0.570925,
+      "count": 1
+    },
+    {
+      "text": "escuela francesa",
+      "relevance": 0.56973,
+      "count": 1
+    },
+    {
+      "text": "presente resoluci6n",
+      "relevance": 0.563847,
+      "count": 1
+    },
+    {
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.556625,
+      "count": 1
+    },
+    {
+      "text": "caso particular",
+      "relevance": 0.549104,
+      "count": 1
+    },
+    {
+      "text": "cultura francesa",
+      "relevance": 0.545801,
+      "count": 1
+    },
+    {
+      "text": "instituciones francesas",
+      "relevance": 0.54283,
+      "count": 1
+    },
+    {
+      "text": "embajador de francia",
+      "relevance": 0.542318,
+      "count": 1
+    },
+    {
+      "text": "personas naturales",
+      "relevance": 0.535813,
+      "count": 1
+    },
+    {
+      "text": "excelencia de la universidad del valle",
+      "relevance": 0.533043,
+      "count": 1
+    },
+    {
+      "text": "trav\u00e9s del convenio",
+      "relevance": 0.530232,
+      "count": 1
+    },
+    {
+      "text": "estudios cartesianos",
+      "relevance": 0.529802,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.528485,
+      "count": 1
+    },
+    {
+      "text": "actividades de la universidad",
+      "relevance": 0.526709,
+      "count": 1
+    },
+    {
+      "text": "ceremonia solemne",
+      "relevance": 0.525415,
+      "count": 1
+    },
+    {
+      "text": "estudiantes de franc\u00e9s de la escuela",
+      "relevance": 0.524137,
+      "count": 1
+    },
+    {
+      "text": "benefactores",
+      "relevance": 0.520085,
+      "count": 1
+    },
+    {
+      "text": "desarrollo de la universidad del valle",
+      "relevance": 0.518188,
+      "count": 1
+    },
+    {
+      "text": "estatuto general",
+      "relevance": 0.515728,
+      "count": 1
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.51099,
+      "count": 4
+    },
+    {
+      "text": "proyectos de caracter docente",
+      "relevance": 0.509755,
+      "count": 1
+    },
+    {
+      "text": "gestion de las dobles titulaciones",
+      "relevance": 0.509755,
+      "count": 1
+    },
+    {
+      "text": "literal q",
+      "relevance": 0.508862,
+      "count": 1
+    },
+    {
+      "text": "marco del convenio de colaboraci6n",
+      "relevance": 0.508633,
+      "count": 1
+    },
+    {
+      "text": "lazos de amistad",
+      "relevance": 0.506493,
+      "count": 1
+    },
+    {
+      "text": "excelentisimo sefor",
+      "relevance": 0.505274,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de mayo",
+      "relevance": 0.503519,
+      "count": 1
+    },
+    {
+      "text": "condecoraci6on",
+      "relevance": 0.502278,
+      "count": 1
+    },
+    {
+      "text": "altos intereses",
+      "relevance": 0.502278,
+      "count": 1
+    },
+    {
+      "text": "relaciones acad\u00e9micas",
+      "relevance": 0.502278,
+      "count": 1
+    },
+    {
+      "text": "larreamendy joerns",
+      "relevance": 0.502278,
+      "count": 1
+    },
+    {
+      "text": "universidades francesas",
+      "relevance": 0.500679,
+      "count": 1
+    },
+    {
+      "text": "marcha de las secciones",
+      "relevance": 0.499201,
+      "count": 1
+    },
+    {
+      "text": "ciencias del lenguaje",
+      "relevance": 0.499201,
+      "count": 1
+    },
+    {
+      "text": "corporaci6\u00e9n",
+      "relevance": 0.499201,
+      "count": 1
+    },
+    {
+      "text": "nota de estilo",
+      "relevance": 0.499201,
+      "count": 1
+    },
+    {
+      "text": "representante del presidente",
+      "relevance": 0.498083,
+      "count": 1
+    },
+    {
+      "text": "colombia",
+      "relevance": 0.494356,
+      "count": 3
+    },
+    {
+      "text": "valle",
+      "relevance": 0.492054,
+      "count": 4
+    },
+    {
+      "text": "estudios",
+      "relevance": 0.489182,
+      "count": 1
+    },
+    {
+      "text": "colegios",
+      "relevance": 0.486953,
+      "count": 1
+    },
+    {
+      "text": "estudiantes",
+      "relevance": 0.485676,
+      "count": 1
+    },
+    {
+      "text": "hermanamiento",
+      "relevance": 0.485544,
+      "count": 1
+    },
+    {
+      "text": "acto de inauguracion del primer encuentro",
+      "relevance": 0.484862,
+      "count": 1
+    },
+    {
+      "text": "atribuciones",
+      "relevance": 0.482931,
+      "count": 1
+    }
+  ]
+}

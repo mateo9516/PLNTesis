@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 4456,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "especalzacion total de la calidad",
+      "relevance": 0.611753,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.601437,
+      "count": 2
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.5998,
+      "count": 2
+    },
+    {
+      "text": "capitulo iii del acuerdo",
+      "relevance": 0.575141,
+      "count": 1
+    },
+    {
+      "text": "principio de anualidad",
+      "relevance": 0.573034,
+      "count": 1
+    },
+    {
+      "text": "asamblea departamental del valle",
+      "relevance": 0.572864,
+      "count": 1
+    },
+    {
+      "text": "r\u00e9gimen especial",
+      "relevance": 0.569014,
+      "count": 1
+    },
+    {
+      "text": "estatuto organico del presupuesto",
+      "relevance": 0.561783,
+      "count": 1
+    },
+    {
+      "text": "fecha posterior",
+      "relevance": 0.561587,
+      "count": 1
+    },
+    {
+      "text": "diplomado virtual",
+      "relevance": 0.553376,
+      "count": 1
+    },
+    {
+      "text": "recursos del balance",
+      "relevance": 0.552554,
+      "count": 2
+    },
+    {
+      "text": "entorno virtual",
+      "relevance": 0.551513,
+      "count": 2
+    },
+    {
+      "text": "salud facultad de salud",
+      "relevance": 0.550381,
+      "count": 1
+    },
+    {
+      "text": "senor rector",
+      "relevance": 0.546327,
+      "count": 1
+    },
+    {
+      "text": "recibo de bienes",
+      "relevance": 0.540688,
+      "count": 2
+    },
+    {
+      "text": "rectoria expidi6",
+      "relevance": 0.537953,
+      "count": 1
+    },
+    {
+      "text": "espacios acad\u00e9micos",
+      "relevance": 0.53742,
+      "count": 1
+    },
+    {
+      "text": "cierre de la vigencia fiscal",
+      "relevance": 0.536621,
+      "count": 2
+    },
+    {
+      "text": "gobernador del departamento del valle",
+      "relevance": 0.5339,
+      "count": 1
+    },
+    {
+      "text": "ordenador del gasto",
+      "relevance": 0.533278,
+      "count": 1
+    },
+    {
+      "text": "ente universitario",
+      "relevance": 0.52864,
+      "count": 1
+    },
+    {
+      "text": "adecuacion del sal\u00e9n del obra",
+      "relevance": 0.528007,
+      "count": 1
+    },
+    {
+      "text": "dependencia facultad",
+      "relevance": 0.526236,
+      "count": 1
+    },
+    {
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.525596,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.524324,
+      "count": 1
+    },
+    {
+      "text": "sistema de calidad",
+      "relevance": 0.524285,
+      "count": 1
+    },
+    {
+      "text": "estatuto general",
+      "relevance": 0.522017,
+      "count": 1
+    },
+    {
+      "text": "diplomado virtual docencia",
+      "relevance": 0.521532,
+      "count": 1
+    },
+    {
+      "text": "diplomados gerencia",
+      "relevance": 0.519958,
+      "count": 1
+    },
+    {
+      "text": "celebraci6n del compromiso",
+      "relevance": 0.519602,
+      "count": 1
+    },
+    {
+      "text": "hospital universitario del valleuniversidad",
+      "relevance": 0.519305,
+      "count": 1
+    },
+    {
+      "text": "siguientes proyectos",
+      "relevance": 0.514319,
+      "count": 1
+    },
+    {
+      "text": "ugieacin gel domate",
+      "relevance": 0.511989,
+      "count": 1
+    },
+    {
+      "text": "baseen interventoria correspondiente",
+      "relevance": 0.511989,
+      "count": 1
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.509012,
+      "count": 2
+    },
+    {
+      "text": "tiempo de una partida",
+      "relevance": 0.508608,
+      "count": 1
+    },
+    {
+      "text": "ejecucion de la obra",
+      "relevance": 0.505489,
+      "count": 1
+    },
+    {
+      "text": "ministerio de educacion nacional",
+      "relevance": 0.504001,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de agosto",
+      "relevance": 0.504001,
+      "count": 1
+    },
+    {
+      "text": "periodo fiscal",
+      "relevance": 0.503183,
+      "count": 1
+    },
+    {
+      "text": "vigencias siguientes",
+      "relevance": 0.502672,
+      "count": 1
+    },
+    {
+      "text": "acad\u00e9mica",
+      "relevance": 0.502656,
+      "count": 1
+    },
+    {
+      "text": "recursos del balance de la estampilla",
+      "relevance": 0.502582,
+      "count": 1
+    },
+    {
+      "text": "vigencia futura",
+      "relevance": 0.502019,
+      "count": 1
+    },
+    {
+      "text": "pago de los compromisos",
+      "relevance": 0.50104,
+      "count": 1
+    },
+    {
+      "text": "proyectos de inversi6n",
+      "relevance": 0.500325,
+      "count": 1
+    },
+    {
+      "text": "literal k",
+      "relevance": 0.500283,
+      "count": 1
+    },
+    {
+      "text": "personeria juridica",
+      "relevance": 0.500283,
+      "count": 1
+    },
+    {
+      "text": "recepcion de bienes",
+      "relevance": 0.500221,
+      "count": 1
+    },
+    {
+      "text": "presupuesto de gastos",
+      "relevance": 0.499273,
+      "count": 1
+    }
+  ]
+}

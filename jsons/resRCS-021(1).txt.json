@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 5066,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "independencia de la republica de colombia",
+      "relevance": 0.677391,
+      "count": 2
+    },
+    {
+      "text": "ganadores de los concursos de ensayo",
+      "relevance": 0.632267,
+      "count": 1
+    },
+    {
+      "text": "creacion del departamento del valle",
+      "relevance": 0.630959,
+      "count": 2
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.584768,
+      "count": 2
+    },
+    {
+      "text": "orden nacional",
+      "relevance": 0.581693,
+      "count": 1
+    },
+    {
+      "text": "carrera respectiva",
+      "relevance": 0.581185,
+      "count": 2
+    },
+    {
+      "text": "sola vez exenciones",
+      "relevance": 0.577455,
+      "count": 1
+    },
+    {
+      "text": "estudiantes universitarios",
+      "relevance": 0.575211,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.566675,
+      "count": 4
+    },
+    {
+      "text": "promedio semestral",
+      "relevance": 0.566435,
+      "count": 2
+    },
+    {
+      "text": "programas conmemorativos",
+      "relevance": 0.564155,
+      "count": 1
+    },
+    {
+      "text": "desarrollo de nuestra nacion",
+      "relevance": 0.560517,
+      "count": 1
+    },
+    {
+      "text": "misma manera",
+      "relevance": 0.557312,
+      "count": 1
+    },
+    {
+      "text": "realizacion de un concurso de ensayos",
+      "relevance": 0.54927,
+      "count": 1
+    },
+    {
+      "text": "premio unico",
+      "relevance": 0.548048,
+      "count": 2
+    },
+    {
+      "text": "diversidad \u00e9tnica",
+      "relevance": 0.544934,
+      "count": 1
+    },
+    {
+      "text": "presente resolucion",
+      "relevance": 0.543501,
+      "count": 2
+    },
+    {
+      "text": "motivo de estas efem\u00e9rides",
+      "relevance": 0.538018,
+      "count": 1
+    },
+    {
+      "text": "ambitos de la ciencia",
+      "relevance": 0.538018,
+      "count": 1
+    },
+    {
+      "text": "afios de creacion de la universidad",
+      "relevance": 0.537248,
+      "count": 1
+    },
+    {
+      "text": "valle del cauca",
+      "relevance": 0.534847,
+      "count": 1
+    },
+    {
+      "text": "bicentenario de la independencia",
+      "relevance": 0.531641,
+      "count": 3
+    },
+    {
+      "text": "conmemoracion del bicentenario de creacion",
+      "relevance": 0.52998,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de abril",
+      "relevance": 0.529052,
+      "count": 1
+    },
+    {
+      "text": "centenario de la creacion del departamento",
+      "relevance": 0.5283,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.524703,
+      "count": 1
+    },
+    {
+      "text": "expresiones del proceso de construccion",
+      "relevance": 0.524057,
+      "count": 1
+    },
+    {
+      "text": "posgrado de acuerdo",
+      "relevance": 0.52301,
+      "count": 1
+    },
+    {
+      "text": "etapa de elaboracion de trabajo",
+      "relevance": 0.51458,
+      "count": 1
+    },
+    {
+      "text": "parte de la vinculaciodn de la universidad",
+      "relevance": 0.514209,
+      "count": 1
+    },
+    {
+      "text": "departamento del valle del cauca",
+      "relevance": 0.513503,
+      "count": 1
+    },
+    {
+      "text": "otorgamiento de exenciones",
+      "relevance": 0.511302,
+      "count": 1
+    },
+    {
+      "text": "espacio de reflexion",
+      "relevance": 0.508993,
+      "count": 1
+    },
+    {
+      "text": "consejo acad\u00e9mico de la universidad",
+      "relevance": 0.508681,
+      "count": 2
+    },
+    {
+      "text": "estudiante ganador de la misma",
+      "relevance": 0.505907,
+      "count": 2
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.505544,
+      "count": 4
+    },
+    {
+      "text": "programas de pregrado",
+      "relevance": 0.503811,
+      "count": 1
+    },
+    {
+      "text": "primeros semestres de pregrado",
+      "relevance": 0.503224,
+      "count": 1
+    },
+    {
+      "text": "cr\u00e9ditos correspondientes del semestre",
+      "relevance": 0.502256,
+      "count": 1
+    },
+    {
+      "text": "programas de posgrado",
+      "relevance": 0.50219,
+      "count": 1
+    },
+    {
+      "text": "numero de semestres",
+      "relevance": 0.501223,
+      "count": 2
+    },
+    {
+      "text": "anos de creacion de la universidad",
+      "relevance": 0.5012,
+      "count": 1
+    },
+    {
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.500832,
+      "count": 1
+    },
+    {
+      "text": "valle",
+      "relevance": 0.500566,
+      "count": 8
+    },
+    {
+      "text": "reglamentacion respectiva",
+      "relevance": 0.499517,
+      "count": 1
+    },
+    {
+      "text": "celebracion del centenario",
+      "relevance": 0.499362,
+      "count": 1
+    },
+    {
+      "text": "atribuciones estatutarias",
+      "relevance": 0.497949,
+      "count": 1
+    },
+    {
+      "text": "secretario general",
+      "relevance": 0.497949,
+      "count": 1
+    },
+    {
+      "text": "numero de cr\u00e9ditos respectivos",
+      "relevance": 0.497545,
+      "count": 1
+    },
+    {
+      "text": "acad\u00e9micos especificos",
+      "relevance": 0.496931,
+      "count": 1
+    }
+  ]
+}

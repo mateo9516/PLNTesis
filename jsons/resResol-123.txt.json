@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 4428,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "altos puntajes",
+      "relevance": 0.664178,
+      "count": 3
+    },
+    {
+      "text": "condicion de excepcion",
+      "relevance": 0.623028,
+      "count": 5
+    },
+    {
+      "text": "cupo de cada programa acad\u00e9mico",
+      "relevance": 0.622557,
+      "count": 1
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.614596,
+      "count": 4
+    },
+    {
+      "text": "literal f",
+      "relevance": 0.592165,
+      "count": 1
+    },
+    {
+      "text": "instituto colombiano",
+      "relevance": 0.58858,
+      "count": 1
+    },
+    {
+      "text": "mejores bachilleres",
+      "relevance": 0.558106,
+      "count": 1
+    },
+    {
+      "text": "facultad de salud",
+      "relevance": 0.554845,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.553581,
+      "count": 2
+    },
+    {
+      "text": "porcentaje de cupo",
+      "relevance": 0.551496,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.549483,
+      "count": 1
+    },
+    {
+      "text": "demas continua vigente",
+      "relevance": 0.54,
+      "count": 1
+    },
+    {
+      "text": "admisidn anual",
+      "relevance": 0.535302,
+      "count": 1
+    },
+    {
+      "text": "literal c",
+      "relevance": 0.527548,
+      "count": 1
+    },
+    {
+      "text": "nivel del departamento del valle",
+      "relevance": 0.527299,
+      "count": 1
+    },
+    {
+      "text": "proceso de admision",
+      "relevance": 0.524712,
+      "count": 1
+    },
+    {
+      "text": "parte de las actividades",
+      "relevance": 0.524478,
+      "count": 1
+    },
+    {
+      "text": "secretario general",
+      "relevance": 0.523332,
+      "count": 1
+    },
+    {
+      "text": "presente resolucion",
+      "relevance": 0.521033,
+      "count": 1
+    },
+    {
+      "text": "municipios del departamento del valle",
+      "relevance": 0.520767,
+      "count": 3
+    },
+    {
+      "text": "examen de estado",
+      "relevance": 0.518612,
+      "count": 3
+    },
+    {
+      "text": "programa de trabajo",
+      "relevance": 0.518131,
+      "count": 1
+    },
+    {
+      "text": "salon de reuniones del consejo",
+      "relevance": 0.517845,
+      "count": 1
+    },
+    {
+      "text": "colegios oficiales",
+      "relevance": 0.516754,
+      "count": 1
+    },
+    {
+      "text": "programas acad\u00e9micos",
+      "relevance": 0.516383,
+      "count": 2
+    },
+    {
+      "text": "bachilleres de los colegios oficiales",
+      "relevance": 0.516229,
+      "count": 1
+    },
+    {
+      "text": "divisi\u00e9n de admisiones",
+      "relevance": 0.515704,
+      "count": 1
+    },
+    {
+      "text": "fomento de la educaci\u00e9n superior",
+      "relevance": 0.512497,
+      "count": 1
+    },
+    {
+      "text": "abril",
+      "relevance": 0.509799,
+      "count": 6
+    },
+    {
+      "text": "periodo agostodiciembre",
+      "relevance": 0.508149,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de noviembre",
+      "relevance": 0.506855,
+      "count": 1
+    },
+    {
+      "text": "colegios oficiales del departamento",
+      "relevance": 0.505512,
+      "count": 1
+    },
+    {
+      "text": "cumplimiento del plan de trabajo",
+      "relevance": 0.504694,
+      "count": 1
+    },
+    {
+      "text": "lopez pulecio",
+      "relevance": 0.501458,
+      "count": 1
+    },
+    {
+      "text": "periodo agosto",
+      "relevance": 0.501261,
+      "count": 1
+    },
+    {
+      "text": "examen de estado de los colegios oficiales",
+      "relevance": 0.500574,
+      "count": 3
+    },
+    {
+      "text": "plan de trabajo",
+      "relevance": 0.499477,
+      "count": 1
+    },
+    {
+      "text": "matricula basica",
+      "relevance": 0.498355,
+      "count": 1
+    },
+    {
+      "text": "colegios",
+      "relevance": 0.494941,
+      "count": 1
+    },
+    {
+      "text": "admision del periodo agosto",
+      "relevance": 0.494777,
+      "count": 1
+    },
+    {
+      "text": "segundo semestre del ano anterior",
+      "relevance": 0.493606,
+      "count": 1
+    },
+    {
+      "text": "estatuto general de la universidad del valle",
+      "relevance": 0.493449,
+      "count": 1
+    },
+    {
+      "text": "registro acad\u00e9mico",
+      "relevance": 0.491364,
+      "count": 1
+    },
+    {
+      "text": "consejo academico de la universidad del valle",
+      "relevance": 0.49112,
+      "count": 1
+    },
+    {
+      "text": "departamento del valle del cauca",
+      "relevance": 0.490868,
+      "count": 1
+    },
+    {
+      "text": "cre6",
+      "relevance": 0.490655,
+      "count": 1
+    },
+    {
+      "text": "universidad publica",
+      "relevance": 0.48999,
+      "count": 1
+    },
+    {
+      "text": "porcentaje",
+      "relevance": 0.487313,
+      "count": 2
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.486286,
+      "count": 1
+    },
+    {
+      "text": "estudiantes",
+      "relevance": 0.483489,
+      "count": 3
+    }
+  ]
+}

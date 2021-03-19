@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3506,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "investigacion de la universidad del valle",
+      "relevance": 0.683542,
+      "count": 1
+    },
+    {
+      "text": "reconocimiento acad\u00e9mico",
+      "relevance": 0.632064,
+      "count": 4
+    },
+    {
+      "text": "instituto de investigacion",
+      "relevance": 0.603803,
+      "count": 3
+    },
+    {
+      "text": "investigador activo",
+      "relevance": 0.586014,
+      "count": 1
+    },
+    {
+      "text": "6n de conocimientos",
+      "relevance": 0.568677,
+      "count": 1
+    },
+    {
+      "text": "busqueda de equilibrio",
+      "relevance": 0.564304,
+      "count": 1
+    },
+    {
+      "text": "trayectoria acad\u00e9mica",
+      "relevance": 0.557694,
+      "count": 2
+    },
+    {
+      "text": "cuenta de la formacion",
+      "relevance": 0.556893,
+      "count": 1
+    },
+    {
+      "text": "documento original",
+      "relevance": 0.556132,
+      "count": 1
+    },
+    {
+      "text": "atribuciones legales",
+      "relevance": 0.552574,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.541286,
+      "count": 1
+    },
+    {
+      "text": "investigaci6n",
+      "relevance": 0.539527,
+      "count": 1
+    },
+    {
+      "text": "forma organizativa",
+      "relevance": 0.537329,
+      "count": 1
+    },
+    {
+      "text": "clara luz",
+      "relevance": 0.537329,
+      "count": 1
+    },
+    {
+      "text": "referido acuerdo",
+      "relevance": 0.536891,
+      "count": 1
+    },
+    {
+      "text": "6\u00e9n de doctorado",
+      "relevance": 0.531394,
+      "count": 1
+    },
+    {
+      "text": "principios \u00e9ticos",
+      "relevance": 0.52953,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.526815,
+      "count": 1
+    },
+    {
+      "text": "estatuto general de la universidad",
+      "relevance": 0.525161,
+      "count": 1
+    },
+    {
+      "text": "hoja de vida del profesor",
+      "relevance": 0.525058,
+      "count": 1
+    },
+    {
+      "text": "sistema nacional",
+      "relevance": 0.521984,
+      "count": 1
+    },
+    {
+      "text": "proceso de relevancia social",
+      "relevance": 0.520873,
+      "count": 1
+    },
+    {
+      "text": "cargo de director",
+      "relevance": 0.520368,
+      "count": 1
+    },
+    {
+      "text": "desarrollo del pensamiento",
+      "relevance": 0.516008,
+      "count": 1
+    },
+    {
+      "text": "caracter estrat\u00e9gico",
+      "relevance": 0.516008,
+      "count": 1
+    },
+    {
+      "text": "profesor de carrera",
+      "relevance": 0.513467,
+      "count": 1
+    },
+    {
+      "text": "gestion de la investigaci6n",
+      "relevance": 0.512649,
+      "count": 1
+    },
+    {
+      "text": "cargo de director de instituto",
+      "relevance": 0.507489,
+      "count": 1
+    },
+    {
+      "text": "jose echeverry",
+      "relevance": 0.507084,
+      "count": 1
+    },
+    {
+      "text": "sera de competencia",
+      "relevance": 0.502253,
+      "count": 1
+    },
+    {
+      "text": "rector de la universidad",
+      "relevance": 0.502229,
+      "count": 1
+    },
+    {
+      "text": "reglamentacion externa",
+      "relevance": 0.502166,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de septiembre",
+      "relevance": 0.502119,
+      "count": 1
+    },
+    {
+      "text": "director de instituto de investigacion",
+      "relevance": 0.499432,
+      "count": 1
+    },
+    {
+      "text": "articulo",
+      "relevance": 0.498374,
+      "count": 4
+    },
+    {
+      "text": "categoria de profesor asociado",
+      "relevance": 0.498287,
+      "count": 1
+    },
+    {
+      "text": "demas disposiciones",
+      "relevance": 0.495663,
+      "count": 1
+    },
+    {
+      "text": "cultura contemporaneos",
+      "relevance": 0.494624,
+      "count": 1
+    },
+    {
+      "text": "agenda investigativa",
+      "relevance": 0.494624,
+      "count": 1
+    },
+    {
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.49195,
+      "count": 1
+    },
+    {
+      "text": "valle del cauca",
+      "relevance": 0.48894,
+      "count": 1
+    },
+    {
+      "text": "investigaci6",
+      "relevance": 0.487568,
+      "count": 2
+    },
+    {
+      "text": "investigacion",
+      "relevance": 0.487547,
+      "count": 6
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.486127,
+      "count": 2
+    },
+    {
+      "text": "informe",
+      "relevance": 0.485619,
+      "count": 2
+    },
+    {
+      "text": "trayectoria",
+      "relevance": 0.484537,
+      "count": 1
+    },
+    {
+      "text": "experiencia",
+      "relevance": 0.483274,
+      "count": 2
+    },
+    {
+      "text": "acuerdo",
+      "relevance": 0.482377,
+      "count": 5
+    },
+    {
+      "text": "formacion",
+      "relevance": 0.480661,
+      "count": 1
+    },
+    {
+      "text": "construccion",
+      "relevance": 0.480501,
+      "count": 1
+    }
+  ]
+}

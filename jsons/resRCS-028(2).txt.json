@@ -1,0 +1,225 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1997,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "denominacion del programa acad\u00e9mico",
+      "relevance": 0.722922,
+      "count": 2
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.654086,
+      "count": 1
+    },
+    {
+      "text": "programa acad\u00e9mico",
+      "relevance": 0.63615,
+      "count": 4
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.636071,
+      "count": 2
+    },
+    {
+      "text": "salon de la torres institucional",
+      "relevance": 0.630643,
+      "count": 1
+    },
+    {
+      "text": "victor javier saavedra",
+      "relevance": 0.591606,
+      "count": 1
+    },
+    {
+      "text": "luis alberto herrera",
+      "relevance": 0.591606,
+      "count": 1
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.589856,
+      "count": 1
+    },
+    {
+      "text": "dias del mes mayo",
+      "relevance": 0.567175,
+      "count": 1
+    },
+    {
+      "text": "literal b",
+      "relevance": 0.545965,
+      "count": 1
+    },
+    {
+      "text": "medicina geriatrica",
+      "relevance": 0.544299,
+      "count": 4
+    },
+    {
+      "text": "escuela de medicina de la facultad",
+      "relevance": 0.523137,
+      "count": 1
+    },
+    {
+      "text": "uso de sus atribuciones legales",
+      "relevance": 0.522119,
+      "count": 1
+    },
+    {
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.515022,
+      "count": 1
+    },
+    {
+      "text": "comision intersectorial de talento humano",
+      "relevance": 0.509886,
+      "count": 1
+    },
+    {
+      "text": "estatuto general",
+      "relevance": 0.499407,
+      "count": 1
+    },
+    {
+      "text": "programas existentes",
+      "relevance": 0.498813,
+      "count": 1
+    },
+    {
+      "text": "mayo",
+      "relevance": 0.470026,
+      "count": 1
+    },
+    {
+      "text": "proceso",
+      "relevance": 0.469795,
+      "count": 1
+    },
+    {
+      "text": "especializacion",
+      "relevance": 0.466629,
+      "count": 7
+    },
+    {
+      "text": "medicina",
+      "relevance": 0.465766,
+      "count": 1
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.461256,
+      "count": 1
+    },
+    {
+      "text": "fin",
+      "relevance": 0.460301,
+      "count": 1
+    },
+    {
+      "text": "estructura",
+      "relevance": 0.459633,
+      "count": 2
+    },
+    {
+      "text": "registro",
+      "relevance": 0.457267,
+      "count": 1
+    },
+    {
+      "text": "unico",
+      "relevance": 0.457257,
+      "count": 1
+    },
+    {
+      "text": "especialista",
+      "relevance": 0.456961,
+      "count": 1
+    },
+    {
+      "text": "salud",
+      "relevance": 0.456789,
+      "count": 2
+    },
+    {
+      "text": "agosto",
+      "relevance": 0.456174,
+      "count": 1
+    },
+    {
+      "text": "junio",
+      "relevance": 0.456174,
+      "count": 1
+    },
+    {
+      "text": "geriatria",
+      "relevance": 0.455402,
+      "count": 3
+    },
+    {
+      "text": "articulo",
+      "relevance": 0.453002,
+      "count": 1
+    },
+    {
+      "text": "programa",
+      "relevance": 0.452708,
+      "count": 1
+    },
+    {
+      "text": "denominacion",
+      "relevance": 0.452692,
+      "count": 2
+    },
+    {
+      "text": "estudiantes",
+      "relevance": 0.452569,
+      "count": 1
+    },
+    {
+      "text": "ministerio",
+      "relevance": 0.451488,
+      "count": 1
+    },
+    {
+      "text": "resolucidn",
+      "relevance": 0.449927,
+      "count": 1
+    },
+    {
+      "text": "aprobo",
+      "relevance": 0.449927,
+      "count": 1
+    },
+    {
+      "text": "resoluci\u00e9dn",
+      "relevance": 0.449927,
+      "count": 1
+    },
+    {
+      "text": "pais",
+      "relevance": 0.449927,
+      "count": 1
+    },
+    {
+      "text": "titulo",
+      "relevance": 0.449927,
+      "count": 1
+    },
+    {
+      "text": "presidente",
+      "relevance": 0.449927,
+      "count": 1
+    },
+    {
+      "text": "ministra",
+      "relevance": 0.449927,
+      "count": 1
+    }
+  ]
+}

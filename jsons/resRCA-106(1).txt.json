@@ -1,0 +1,130 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 862,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "santiago de cali",
+      "relevance": 0.745481,
+      "count": 1
+    },
+    {
+      "text": "presente resolucion",
+      "relevance": 0.696716,
+      "count": 1
+    },
+    {
+      "text": "uso de sus atribuciones legales",
+      "relevance": 0.624163,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de agosto",
+      "relevance": 0.624163,
+      "count": 1
+    },
+    {
+      "text": "asignatura ingl\u00e9s",
+      "relevance": 0.617885,
+      "count": 2
+    },
+    {
+      "text": "programa acad\u00e9mico",
+      "relevance": 0.612566,
+      "count": 1
+    },
+    {
+      "text": "examen de proficiencia",
+      "relevance": 0.59373,
+      "count": 1
+    },
+    {
+      "text": "secretario general",
+      "relevance": 0.548074,
+      "count": 1
+    },
+    {
+      "text": "caracter obligatorio",
+      "relevance": 0.533491,
+      "count": 1
+    },
+    {
+      "text": "lopez pulecio",
+      "relevance": 0.521267,
+      "count": 1
+    },
+    {
+      "text": "consejo academico de la universidad del valle",
+      "relevance": 0.469151,
+      "count": 1
+    },
+    {
+      "text": "asignatura de ingl\u00e9s",
+      "relevance": 0.467919,
+      "count": 1
+    },
+    {
+      "text": "salon de reuniones del consejo acad\u00e9mico",
+      "relevance": 0.457576,
+      "count": 1
+    },
+    {
+      "text": "estudiantes",
+      "relevance": 0.455498,
+      "count": 2
+    },
+    {
+      "text": "resolucion",
+      "relevance": 0.425302,
+      "count": 1
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.413816,
+      "count": 1
+    },
+    {
+      "text": "ramos",
+      "relevance": 0.413816,
+      "count": 1
+    },
+    {
+      "text": "proficiencia",
+      "relevance": 0.409098,
+      "count": 1
+    },
+    {
+      "text": "curriculo",
+      "relevance": 0.407693,
+      "count": 1
+    },
+    {
+      "text": "fecha",
+      "relevance": 0.407693,
+      "count": 1
+    },
+    {
+      "text": "aprobacion",
+      "relevance": 0.407693,
+      "count": 1
+    },
+    {
+      "text": "presidente",
+      "relevance": 0.407693,
+      "count": 1
+    },
+    {
+      "text": "rector",
+      "relevance": 0.407693,
+      "count": 1
+    },
+    {
+      "text": "examen",
+      "relevance": 0.404979,
+      "count": 1
+    }
+  ]
+}

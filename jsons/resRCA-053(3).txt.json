@@ -1,0 +1,155 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1171,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "programas acad\u00e9micos",
+      "relevance": 0.766115,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.705985,
+      "count": 1
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.641122,
+      "count": 1
+    },
+    {
+      "text": "alternativa de grado",
+      "relevance": 0.605854,
+      "count": 1
+    },
+    {
+      "text": "solo programa  acad\u00e9mico",
+      "relevance": 0.595574,
+      "count": 1
+    },
+    {
+      "text": "salon de reuniones",
+      "relevance": 0.588366,
+      "count": 1
+    },
+    {
+      "text": "siguientes requisitos",
+      "relevance": 0.583191,
+      "count": 1
+    },
+    {
+      "text": "uso de sus atribuciones",
+      "relevance": 0.544226,
+      "count": 1
+    },
+    {
+      "text": "secretario general",
+      "relevance": 0.544226,
+      "count": 1
+    },
+    {
+      "text": "siguiente manera",
+      "relevance": 0.536393,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de abril",
+      "relevance": 0.532604,
+      "count": 1
+    },
+    {
+      "text": "mecanismos regulares",
+      "relevance": 0.521208,
+      "count": 1
+    },
+    {
+      "text": "lopez pulecio",
+      "relevance": 0.521208,
+      "count": 1
+    },
+    {
+      "text": "fecha de la presente",
+      "relevance": 0.510417,
+      "count": 1
+    },
+    {
+      "text": "consejo academico de la universidad del valle",
+      "relevance": 0.476203,
+      "count": 1
+    },
+    {
+      "text": "estado desvinculado del programa respectivo",
+      "relevance": 0.46443,
+      "count": 1
+    },
+    {
+      "text": "anos",
+      "relevance": 0.462523,
+      "count": 1
+    },
+    {
+      "text": "aspirantes",
+      "relevance": 0.439331,
+      "count": 1
+    },
+    {
+      "text": "alos",
+      "relevance": 0.437715,
+      "count": 1
+    },
+    {
+      "text": "ramos",
+      "relevance": 0.428752,
+      "count": 1
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.427689,
+      "count": 2
+    },
+    {
+      "text": "alternativa",
+      "relevance": 0.426757,
+      "count": 1
+    },
+    {
+      "text": "valle",
+      "relevance": 0.423444,
+      "count": 1
+    },
+    {
+      "text": "resolucion",
+      "relevance": 0.423444,
+      "count": 2
+    },
+    {
+      "text": "abril",
+      "relevance": 0.423444,
+      "count": 3
+    },
+    {
+      "text": "posgrado",
+      "relevance": 0.423444,
+      "count": 1
+    },
+    {
+      "text": "maximo",
+      "relevance": 0.423444,
+      "count": 1
+    },
+    {
+      "text": "presidente",
+      "relevance": 0.423444,
+      "count": 1
+    },
+    {
+      "text": "rector",
+      "relevance": 0.423444,
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 5626,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "trabajos de investigacion",
+      "relevance": 0.668463,
+      "count": 2
+    },
+    {
+      "text": "presente resolucion",
+      "relevance": 0.605845,
+      "count": 1
+    },
+    {
+      "text": "numero total",
+      "relevance": 0.593191,
+      "count": 1
+    },
+    {
+      "text": "atribuciones legales",
+      "relevance": 0.585487,
+      "count": 1
+    },
+    {
+      "text": "trabajos de investigacion de maestria",
+      "relevance": 0.58524,
+      "count": 1
+    },
+    {
+      "text": "sustentacion oral",
+      "relevance": 0.58467,
+      "count": 1
+    },
+    {
+      "text": "tesis de doctorado",
+      "relevance": 0.583999,
+      "count": 3
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.581148,
+      "count": 2
+    },
+    {
+      "text": "literal c",
+      "relevance": 0.568957,
+      "count": 1
+    },
+    {
+      "text": "siguientes requisitos",
+      "relevance": 0.563567,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.55561,
+      "count": 1
+    },
+    {
+      "text": "facultad de ciencias de la administraci\u00e9n",
+      "relevance": 0.55513,
+      "count": 1
+    },
+    {
+      "text": "publicacion de resultados de investigacion",
+      "relevance": 0.546111,
+      "count": 1
+    },
+    {
+      "text": "tipo de publicaciones",
+      "relevance": 0.540951,
+      "count": 1
+    },
+    {
+      "text": "acta de sustentacion de la tesis",
+      "relevance": 0.539364,
+      "count": 1
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.537355,
+      "count": 1
+    },
+    {
+      "text": "consejo de facultad de ciencias",
+      "relevance": 0.536735,
+      "count": 1
+    },
+    {
+      "text": "sectores productivos",
+      "relevance": 0.534461,
+      "count": 1
+    },
+    {
+      "text": "comit\u00e9 de investigaciones",
+      "relevance": 0.533776,
+      "count": 1
+    },
+    {
+      "text": "requisitos exigidos",
+      "relevance": 0.533181,
+      "count": 1
+    },
+    {
+      "text": "caso de ambas menciones",
+      "relevance": 0.532835,
+      "count": 1
+    },
+    {
+      "text": "sustentacion de la tesis",
+      "relevance": 0.532232,
+      "count": 1
+    },
+    {
+      "text": "investigacion de maestria",
+      "relevance": 0.531873,
+      "count": 1
+    },
+    {
+      "text": "siguientes criterios",
+      "relevance": 0.531738,
+      "count": 1
+    },
+    {
+      "text": "concepto argumentado",
+      "relevance": 0.531475,
+      "count": 1
+    },
+    {
+      "text": "fecha de sustentacion del trabajo",
+      "relevance": 0.530804,
+      "count": 1
+    },
+    {
+      "text": "revista nacional",
+      "relevance": 0.529085,
+      "count": 1
+    },
+    {
+      "text": "trabajos de investigaci6n de maestria",
+      "relevance": 0.528904,
+      "count": 1
+    },
+    {
+      "text": "trabajo de investigacion",
+      "relevance": 0.526749,
+      "count": 1
+    },
+    {
+      "text": "impacto social",
+      "relevance": 0.524262,
+      "count": 1
+    },
+    {
+      "text": "estandares de calidad",
+      "relevance": 0.521632,
+      "count": 1
+    },
+    {
+      "text": "principal indicador",
+      "relevance": 0.520786,
+      "count": 1
+    },
+    {
+      "text": "salon de reuniones",
+      "relevance": 0.520555,
+      "count": 1
+    },
+    {
+      "text": "copia de los resumenes",
+      "relevance": 0.520297,
+      "count": 1
+    },
+    {
+      "text": "presentacion de trabajos de investigacion",
+      "relevance": 0.51997,
+      "count": 1
+    },
+    {
+      "text": "mencion de meritoria",
+      "relevance": 0.519725,
+      "count": 3
+    },
+    {
+      "text": "menci6n meritoria",
+      "relevance": 0.519596,
+      "count": 1
+    },
+    {
+      "text": "trabajo escrito",
+      "relevance": 0.518478,
+      "count": 1
+    },
+    {
+      "text": "aut6nomo",
+      "relevance": 0.518461,
+      "count": 1
+    },
+    {
+      "text": "calidad de la discusion de resultados",
+      "relevance": 0.515573,
+      "count": 1
+    },
+    {
+      "text": "concepto del comit\u00e9 de investigacion",
+      "relevance": 0.515148,
+      "count": 1
+    },
+    {
+      "text": "resolucion motivada",
+      "relevance": 0.514178,
+      "count": 1
+    },
+    {
+      "text": "registro acad\u00e9mico",
+      "relevance": 0.513123,
+      "count": 1
+    },
+    {
+      "text": "revistas nacionales",
+      "relevance": 0.512888,
+      "count": 1
+    },
+    {
+      "text": "facultad de administracion",
+      "relevance": 0.511944,
+      "count": 1
+    },
+    {
+      "text": "consejo academico de la universidad del valle",
+      "relevance": 0.511043,
+      "count": 1
+    },
+    {
+      "text": "postulaci6\u00e9n",
+      "relevance": 0.509818,
+      "count": 1
+    },
+    {
+      "text": "director del respectivo programa acad\u00e9mico",
+      "relevance": 0.509593,
+      "count": 1
+    },
+    {
+      "text": "universidad del valle podra",
+      "relevance": 0.509163,
+      "count": 1
+    },
+    {
+      "text": "calidad del disefo experimental",
+      "relevance": 0.505981,
+      "count": 1
+    }
+  ]
+}

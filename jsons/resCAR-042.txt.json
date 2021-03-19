@@ -1,0 +1,120 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 713,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "santiago de cali",
+      "relevance": 0.716394,
+      "count": 1
+    },
+    {
+      "text": "consejos de facultad",
+      "relevance": 0.713252,
+      "count": 2
+    },
+    {
+      "text": "sedes regionales",
+      "relevance": 0.67937,
+      "count": 1
+    },
+    {
+      "text": "salon de reuniones del consejo",
+      "relevance": 0.607347,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de febrero",
+      "relevance": 0.59777,
+      "count": 1
+    },
+    {
+      "text": "uso de sus atribuciones",
+      "relevance": 0.581668,
+      "count": 1
+    },
+    {
+      "text": "secretario general",
+      "relevance": 0.581668,
+      "count": 1
+    },
+    {
+      "text": "lopez pulecio",
+      "relevance": 0.539829,
+      "count": 1
+    },
+    {
+      "text": "modificaciones de notas de los programas acad\u00e9micos",
+      "relevance": 0.507676,
+      "count": 1
+    },
+    {
+      "text": "consejo academico de la universidad del valle",
+      "relevance": 0.458081,
+      "count": 1
+    },
+    {
+      "text": "salud",
+      "relevance": 0.455207,
+      "count": 1
+    },
+    {
+      "text": "rector",
+      "relevance": 0.455207,
+      "count": 1
+    },
+    {
+      "text": "unico",
+      "relevance": 0.431171,
+      "count": 1
+    },
+    {
+      "text": "ramos",
+      "relevance": 0.428214,
+      "count": 1
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.4208,
+      "count": 1
+    },
+    {
+      "text": "comit\u00e9",
+      "relevance": 0.4208,
+      "count": 1
+    },
+    {
+      "text": "autorizaci6",
+      "relevance": 0.420658,
+      "count": 1
+    },
+    {
+      "text": "resolucion",
+      "relevance": 0.413421,
+      "count": 1
+    },
+    {
+      "text": "febrero",
+      "relevance": 0.413421,
+      "count": 1
+    },
+    {
+      "text": "manejo",
+      "relevance": 0.413421,
+      "count": 1
+    },
+    {
+      "text": "presidente",
+      "relevance": 0.413421,
+      "count": 1
+    },
+    {
+      "text": "facultad",
+      "relevance": 0.401925,
+      "count": 1
+    }
+  ]
+}

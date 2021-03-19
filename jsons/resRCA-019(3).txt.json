@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 6100,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "funcionamiento de los centros de documentacion",
+      "relevance": 0.70951,
+      "count": 1
+    },
+    {
+      "text": "promulgacion de la presente",
+      "relevance": 0.607091,
+      "count": 1
+    },
+    {
+      "text": "diferentes unidades acad\u00e9micas",
+      "relevance": 0.59222,
+      "count": 1
+    },
+    {
+      "text": "consejo academico",
+      "relevance": 0.578338,
+      "count": 1
+    },
+    {
+      "text": "reorganizacion de los centros",
+      "relevance": 0.572373,
+      "count": 1
+    },
+    {
+      "text": "presente resoluci6n",
+      "relevance": 0.56441,
+      "count": 1
+    },
+    {
+      "text": "creaci\u00e9n de los centros de documentacion",
+      "relevance": 0.561906,
+      "count": 1
+    },
+    {
+      "text": "comit\u00e9 central de bibliotecas",
+      "relevance": 0.558394,
+      "count": 2
+    },
+    {
+      "text": "consejo directivo",
+      "relevance": 0.552807,
+      "count": 1
+    },
+    {
+      "text": "ratifiacion de los centros existentes",
+      "relevance": 0.551391,
+      "count": 1
+    },
+    {
+      "text": "division de bibliotecas",
+      "relevance": 0.543524,
+      "count": 4
+    },
+    {
+      "text": "diferentes campos",
+      "relevance": 0.54138,
+      "count": 1
+    },
+    {
+      "text": "manera agil",
+      "relevance": 0.536593,
+      "count": 1
+    },
+    {
+      "text": "reglamentaci6n",
+      "relevance": 0.536237,
+      "count": 1
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.535276,
+      "count": 4
+    },
+    {
+      "text": "unidad acad\u00e9mica",
+      "relevance": 0.534972,
+      "count": 1
+    },
+    {
+      "text": "asignacion de los recursos respectivos",
+      "relevance": 0.533868,
+      "count": 1
+    },
+    {
+      "text": "caso positivo",
+      "relevance": 0.533125,
+      "count": 1
+    },
+    {
+      "text": "centros de documentacion",
+      "relevance": 0.530656,
+      "count": 3
+    },
+    {
+      "text": "desarrollo de recursos",
+      "relevance": 0.526526,
+      "count": 1
+    },
+    {
+      "text": "unidad acad\u00e9mica de la universidad",
+      "relevance": 0.525821,
+      "count": 1
+    },
+    {
+      "text": "normas t\u00e9cnicas",
+      "relevance": 0.52499,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.524987,
+      "count": 1
+    },
+    {
+      "text": "siguientes funciones",
+      "relevance": 0.52357,
+      "count": 1
+    },
+    {
+      "text": "procesamiento tecnico de informacidn",
+      "relevance": 0.519042,
+      "count": 1
+    },
+    {
+      "text": "correcto funcionamiento",
+      "relevance": 0.518874,
+      "count": 1
+    },
+    {
+      "text": "siguientes pasos",
+      "relevance": 0.518195,
+      "count": 1
+    },
+    {
+      "text": "campo especifico",
+      "relevance": 0.518008,
+      "count": 1
+    },
+    {
+      "text": "asesoria t\u00e9cnica",
+      "relevance": 0.516207,
+      "count": 1
+    },
+    {
+      "text": "realizaci\u00e9n de trabajos de investigacion",
+      "relevance": 0.515785,
+      "count": 1
+    },
+    {
+      "text": "presencia de profesores",
+      "relevance": 0.515674,
+      "count": 1
+    },
+    {
+      "text": "recursos humanos",
+      "relevance": 0.514611,
+      "count": 1
+    },
+    {
+      "text": "disefio de vocabularios controlados",
+      "relevance": 0.513773,
+      "count": 1
+    },
+    {
+      "text": "hara recomendaciones",
+      "relevance": 0.512499,
+      "count": 1
+    },
+    {
+      "text": "evaluaci\u00e9n de revistas",
+      "relevance": 0.511035,
+      "count": 1
+    },
+    {
+      "text": "cumplimiento de la normatividad estipulada",
+      "relevance": 0.510785,
+      "count": 1
+    },
+    {
+      "text": "necesidades de informacion",
+      "relevance": 0.510006,
+      "count": 1
+    },
+    {
+      "text": "material bibliografico",
+      "relevance": 0.509296,
+      "count": 1
+    },
+    {
+      "text": "reuniones trimetrales",
+      "relevance": 0.508723,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de febrero",
+      "relevance": 0.508067,
+      "count": 1
+    },
+    {
+      "text": "trabajos cooperativos",
+      "relevance": 0.507013,
+      "count": 1
+    },
+    {
+      "text": "uso adecuado de los recursos",
+      "relevance": 0.504852,
+      "count": 1
+    },
+    {
+      "text": "registros documentales",
+      "relevance": 0.504037,
+      "count": 1
+    },
+    {
+      "text": "parte de redes",
+      "relevance": 0.50375,
+      "count": 1
+    },
+    {
+      "text": "creacidn de un centro",
+      "relevance": 0.503714,
+      "count": 1
+    },
+    {
+      "text": "formacion de los usuarios",
+      "relevance": 0.503218,
+      "count": 1
+    },
+    {
+      "text": "caracter t\u00e9cnico",
+      "relevance": 0.502757,
+      "count": 1
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.501956,
+      "count": 3
+    },
+    {
+      "text": "bibliotec\u00e9logo adscrito",
+      "relevance": 0.50168,
+      "count": 1
+    },
+    {
+      "text": "documento marco",
+      "relevance": 0.501017,
+      "count": 1
+    }
+  ]
+}

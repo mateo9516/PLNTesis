@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 3,
+    "text_characters": 20977,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "periodo acad\u00e9mico",
+      "relevance": 0.687444,
+      "count": 2
+    },
+    {
+      "text": "programas acad\u00e9micos de pregrado",
+      "relevance": 0.646378,
+      "count": 2
+    },
+    {
+      "text": "resultados del examen de estado",
+      "relevance": 0.599923,
+      "count": 2
+    },
+    {
+      "text": "programas acad\u00e9micos",
+      "relevance": 0.579075,
+      "count": 8
+    },
+    {
+      "text": "ingenieria industrial",
+      "relevance": 0.570878,
+      "count": 3
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.562713,
+      "count": 8
+    },
+    {
+      "text": "programa acad\u00e9mico de tecnologia",
+      "relevance": 0.56046,
+      "count": 2
+    },
+    {
+      "text": "diferentes comit\u00e9s de programa",
+      "relevance": 0.558481,
+      "count": 1
+    },
+    {
+      "text": "reconocimiento de cada estudiante",
+      "relevance": 0.55814,
+      "count": 1
+    },
+    {
+      "text": "criterios de admision",
+      "relevance": 0.552365,
+      "count": 1
+    },
+    {
+      "text": "grado de bachiller",
+      "relevance": 0.544227,
+      "count": 1
+    },
+    {
+      "text": "siguientes puntajes",
+      "relevance": 0.540084,
+      "count": 1
+    },
+    {
+      "text": "puntaje minimo",
+      "relevance": 0.538614,
+      "count": 3
+    },
+    {
+      "text": "grado de educaci\u00e9dn media",
+      "relevance": 0.537737,
+      "count": 1
+    },
+    {
+      "text": "prueba electiva del icfes",
+      "relevance": 0.537139,
+      "count": 1
+    },
+    {
+      "text": "numero de cupos",
+      "relevance": 0.533991,
+      "count": 3
+    },
+    {
+      "text": "altos puntajes",
+      "relevance": 0.531218,
+      "count": 4
+    },
+    {
+      "text": "instituto colombiano",
+      "relevance": 0.530954,
+      "count": 1
+    },
+    {
+      "text": "examen de estado",
+      "relevance": 0.53003,
+      "count": 9
+    },
+    {
+      "text": "siguientes condiciones",
+      "relevance": 0.526587,
+      "count": 1
+    },
+    {
+      "text": "demas programas ofrecidos",
+      "relevance": 0.526509,
+      "count": 1
+    },
+    {
+      "text": "servicio militar obligatorio",
+      "relevance": 0.526096,
+      "count": 4
+    },
+    {
+      "text": "estudiantes admitidos",
+      "relevance": 0.525982,
+      "count": 1
+    },
+    {
+      "text": "ingenieria de sistemas",
+      "relevance": 0.525156,
+      "count": 3
+    },
+    {
+      "text": "sedes regionales",
+      "relevance": 0.5242,
+      "count": 3
+    },
+    {
+      "text": "trav\u00e9s de una tercera persona",
+      "relevance": 0.523722,
+      "count": 1
+    },
+    {
+      "text": "programa acad\u00e9mico",
+      "relevance": 0.521243,
+      "count": 8
+    },
+    {
+      "text": "ciencias naturales",
+      "relevance": 0.519971,
+      "count": 4
+    },
+    {
+      "text": "und\u00e9cimo grado",
+      "relevance": 0.51945,
+      "count": 1
+    },
+    {
+      "text": "colegios oficiales",
+      "relevance": 0.518671,
+      "count": 2
+    },
+    {
+      "text": "criterios de admisidn",
+      "relevance": 0.51858,
+      "count": 1
+    },
+    {
+      "text": "siguientes requisitos",
+      "relevance": 0.518248,
+      "count": 2
+    },
+    {
+      "text": "puntaje minimo de inscripcidn",
+      "relevance": 0.518077,
+      "count": 1
+    },
+    {
+      "text": "cuadro del articulo",
+      "relevance": 0.517049,
+      "count": 1
+    },
+    {
+      "text": "rendimiento acad\u00e9mico",
+      "relevance": 0.516961,
+      "count": 1
+    },
+    {
+      "text": "periodo agosto-diciembre",
+      "relevance": 0.515946,
+      "count": 2
+    },
+    {
+      "text": "total de cupos",
+      "relevance": 0.515836,
+      "count": 1
+    },
+    {
+      "text": "nuevo examen de estado",
+      "relevance": 0.514651,
+      "count": 4
+    },
+    {
+      "text": "6n ambiental",
+      "relevance": 0.514163,
+      "count": 1
+    },
+    {
+      "text": "prueba adicional",
+      "relevance": 0.513489,
+      "count": 1
+    },
+    {
+      "text": "constancia de pertenencia",
+      "relevance": 0.513424,
+      "count": 1
+    },
+    {
+      "text": "quebrantos de salud",
+      "relevance": 0.512533,
+      "count": 1
+    },
+    {
+      "text": "afio anterior",
+      "relevance": 0.511209,
+      "count": 1
+    },
+    {
+      "text": "sistema de regionalizacion",
+      "relevance": 0.510423,
+      "count": 1
+    },
+    {
+      "text": "uso de sus atribuciones",
+      "relevance": 0.51026,
+      "count": 1
+    },
+    {
+      "text": "porcentaje de reserva de cupo",
+      "relevance": 0.510121,
+      "count": 1
+    },
+    {
+      "text": "cupos",
+      "relevance": 0.509987,
+      "count": 3
+    },
+    {
+      "text": "competencias psicosociales",
+      "relevance": 0.509981,
+      "count": 2
+    },
+    {
+      "text": "forma continua",
+      "relevance": 0.509772,
+      "count": 1
+    },
+    {
+      "text": "excepcidn de la sede de cali",
+      "relevance": 0.509583,
+      "count": 1
+    }
+  ]
+}

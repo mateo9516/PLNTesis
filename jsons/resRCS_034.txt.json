@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 4122,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "suministro de papeleria",
+      "relevance": 0.653597,
+      "count": 2
+    },
+    {
+      "text": "vigencias futuras",
+      "relevance": 0.634434,
+      "count": 1
+    },
+    {
+      "text": "periodo fiscal",
+      "relevance": 0.60177,
+      "count": 1
+    },
+    {
+      "text": "estatuto organico del presupuesto",
+      "relevance": 0.59562,
+      "count": 1
+    },
+    {
+      "text": "r\u00e9gimen especial",
+      "relevance": 0.58444,
+      "count": 1
+    },
+    {
+      "text": "fondo especial",
+      "relevance": 0.576282,
+      "count": 1
+    },
+    {
+      "text": "asamblea departamental del valle",
+      "relevance": 0.575938,
+      "count": 1
+    },
+    {
+      "text": "cubrimiento del suministro",
+      "relevance": 0.570498,
+      "count": 1
+    },
+    {
+      "text": "pago de los compromisos",
+      "relevance": 0.561856,
+      "count": 1
+    },
+    {
+      "text": "sefior rector",
+      "relevance": 0.559487,
+      "count": 1
+    },
+    {
+      "text": "estatuto general",
+      "relevance": 0.55659,
+      "count": 1
+    },
+    {
+      "text": "vigencia futura",
+      "relevance": 0.551684,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de mayo",
+      "relevance": 0.550006,
+      "count": 1
+    },
+    {
+      "text": "tiempo de una partida",
+      "relevance": 0.547161,
+      "count": 1
+    },
+    {
+      "text": "ejecuci\u00e9n de la obra",
+      "relevance": 0.540685,
+      "count": 1
+    },
+    {
+      "text": "principio de anualidad",
+      "relevance": 0.538865,
+      "count": 1
+    },
+    {
+      "text": "mecanismo de las vigencias futuras",
+      "relevance": 0.538641,
+      "count": 1
+    },
+    {
+      "text": "ordenador del gasto",
+      "relevance": 0.536294,
+      "count": 1
+    },
+    {
+      "text": "estatuto organico de presupuesto",
+      "relevance": 0.534201,
+      "count": 1
+    },
+    {
+      "text": "ente universitario",
+      "relevance": 0.533654,
+      "count": 1
+    },
+    {
+      "text": "ciudad de buga",
+      "relevance": 0.533034,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.527479,
+      "count": 2
+    },
+    {
+      "text": "divisi\u00e9n financiera de la universidad",
+      "relevance": 0.526135,
+      "count": 1
+    },
+    {
+      "text": "economia procesal",
+      "relevance": 0.519583,
+      "count": 1
+    },
+    {
+      "text": "mejores condiciones de mercado",
+      "relevance": 0.518221,
+      "count": 1
+    },
+    {
+      "text": "objeto presupuesto",
+      "relevance": 0.516741,
+      "count": 1
+    },
+    {
+      "text": "diferentes dependencias de la universidad",
+      "relevance": 0.514344,
+      "count": 2
+    },
+    {
+      "text": "presupuesto de gastos",
+      "relevance": 0.51226,
+      "count": 1
+    },
+    {
+      "text": "vigencias futuras del afio",
+      "relevance": 0.511773,
+      "count": 1
+    },
+    {
+      "text": "presupuesto de la vigencia fiscal",
+      "relevance": 0.50315,
+      "count": 1
+    },
+    {
+      "text": "certificados de disponibilidad",
+      "relevance": 0.502984,
+      "count": 1
+    },
+    {
+      "text": "ejecuci\u00e9n proyectada",
+      "relevance": 0.49998,
+      "count": 1
+    },
+    {
+      "text": "recursos",
+      "relevance": 0.499902,
+      "count": 2
+    },
+    {
+      "text": "representante del presidente",
+      "relevance": 0.499695,
+      "count": 1
+    },
+    {
+      "text": "literal k",
+      "relevance": 0.499506,
+      "count": 1
+    },
+    {
+      "text": "personeria juridica",
+      "relevance": 0.499506,
+      "count": 1
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.499223,
+      "count": 1
+    },
+    {
+      "text": "numeral anterior",
+      "relevance": 0.496601,
+      "count": 1
+    },
+    {
+      "text": "corchuelo marmolejo",
+      "relevance": 0.496601,
+      "count": 1
+    },
+    {
+      "text": "correspondiente",
+      "relevance": 0.495679,
+      "count": 1
+    },
+    {
+      "text": "castillo gomez",
+      "relevance": 0.494593,
+      "count": 1
+    },
+    {
+      "text": "patrimonio independiente",
+      "relevance": 0.493619,
+      "count": 1
+    },
+    {
+      "text": "servicio continuo",
+      "relevance": 0.493619,
+      "count": 1
+    },
+    {
+      "text": "secretario general",
+      "relevance": 0.492536,
+      "count": 1
+    },
+    {
+      "text": "valor total",
+      "relevance": 0.489928,
+      "count": 1
+    },
+    {
+      "text": "meses",
+      "relevance": 0.485825,
+      "count": 1
+    },
+    {
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.485626,
+      "count": 1
+    },
+    {
+      "text": "unico",
+      "relevance": 0.483808,
+      "count": 1
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.481966,
+      "count": 5
+    },
+    {
+      "text": "principio de la legalidad del gasto publico",
+      "relevance": 0.481145,
+      "count": 1
+    }
+  ]
+}

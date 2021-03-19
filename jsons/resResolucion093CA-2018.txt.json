@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 3,
+    "text_characters": 22053,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "fotografia reciente",
+      "relevance": 0.584619,
+      "count": 3
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.579679,
+      "count": 13
+    },
+    {
+      "text": "solo periodo acad\u00e9mico",
+      "relevance": 0.553556,
+      "count": 2
+    },
+    {
+      "text": "fondo blanco",
+      "relevance": 0.54308,
+      "count": 8
+    },
+    {
+      "text": "direcci\u00e9n de asuntos indigenas",
+      "relevance": 0.541987,
+      "count": 1
+    },
+    {
+      "text": "comunidades negras",
+      "relevance": 0.539237,
+      "count": 3
+    },
+    {
+      "text": "ministerio del interior",
+      "relevance": 0.536448,
+      "count": 5
+    },
+    {
+      "text": "fecha reciente",
+      "relevance": 0.533833,
+      "count": 2
+    },
+    {
+      "text": "presente resolucid\u00e9n",
+      "relevance": 0.532507,
+      "count": 1
+    },
+    {
+      "text": "miembro activo de una comunidad",
+      "relevance": 0.532106,
+      "count": 1
+    },
+    {
+      "text": "oficina del alto comisionado",
+      "relevance": 0.530244,
+      "count": 2
+    },
+    {
+      "text": "municipios del departamento",
+      "relevance": 0.528981,
+      "count": 1
+    },
+    {
+      "text": "documentos exigidos",
+      "relevance": 0.528566,
+      "count": 10
+    },
+    {
+      "text": "diversidad \u00e9tnica",
+      "relevance": 0.528094,
+      "count": 1
+    },
+    {
+      "text": "representante legal",
+      "relevance": 0.526493,
+      "count": 2
+    },
+    {
+      "text": "6n media",
+      "relevance": 0.52632,
+      "count": 1
+    },
+    {
+      "text": "pagina web del area",
+      "relevance": 0.525739,
+      "count": 1
+    },
+    {
+      "text": "demas requisitos",
+      "relevance": 0.521427,
+      "count": 1
+    },
+    {
+      "text": "literal g",
+      "relevance": 0.521222,
+      "count": 1
+    },
+    {
+      "text": "pruebas adicionales",
+      "relevance": 0.520334,
+      "count": 1
+    },
+    {
+      "text": "miembro activo",
+      "relevance": 0.520121,
+      "count": 1
+    },
+    {
+      "text": "instancia gubernamental designada",
+      "relevance": 0.518548,
+      "count": 1
+    },
+    {
+      "text": "correo electr\u00e9nico de la oficina",
+      "relevance": 0.517608,
+      "count": 1
+    },
+    {
+      "text": "ministerio de defensa nacional",
+      "relevance": 0.517254,
+      "count": 2
+    },
+    {
+      "text": "web del area de admisiones",
+      "relevance": 0.516813,
+      "count": 5
+    },
+    {
+      "text": "constancia de vecindad",
+      "relevance": 0.516539,
+      "count": 2
+    },
+    {
+      "text": "gobierno nacional",
+      "relevance": 0.516473,
+      "count": 2
+    },
+    {
+      "text": "cupo total del programa",
+      "relevance": 0.516242,
+      "count": 9
+    },
+    {
+      "text": "colegios oficiales",
+      "relevance": 0.515594,
+      "count": 2
+    },
+    {
+      "text": "division de admisiones",
+      "relevance": 0.514997,
+      "count": 6
+    },
+    {
+      "text": "altos puntajes",
+      "relevance": 0.514792,
+      "count": 4
+    },
+    {
+      "text": "nombre completo",
+      "relevance": 0.514236,
+      "count": 1
+    },
+    {
+      "text": "instituto colombiano",
+      "relevance": 0.513949,
+      "count": 2
+    },
+    {
+      "text": "lecto-escritura",
+      "relevance": 0.513884,
+      "count": 1
+    },
+    {
+      "text": "cuenca del pacifico",
+      "relevance": 0.513581,
+      "count": 2
+    },
+    {
+      "text": "periodo febrero",
+      "relevance": 0.513562,
+      "count": 3
+    },
+    {
+      "text": "constancia",
+      "relevance": 0.512798,
+      "count": 7
+    },
+    {
+      "text": "6n social",
+      "relevance": 0.51256,
+      "count": 1
+    },
+    {
+      "text": "direcci6\u00e9n",
+      "relevance": 0.512172,
+      "count": 1
+    },
+    {
+      "text": "estudiantes de grado",
+      "relevance": 0.512147,
+      "count": 1
+    },
+    {
+      "text": "aspirante",
+      "relevance": 0.51206,
+      "count": 16
+    },
+    {
+      "text": "problemas de orden publico",
+      "relevance": 0.511858,
+      "count": 1
+    },
+    {
+      "text": "cupo",
+      "relevance": 0.511842,
+      "count": 14
+    },
+    {
+      "text": "derechos humanos",
+      "relevance": 0.511699,
+      "count": 1
+    },
+    {
+      "text": "sistema nacional",
+      "relevance": 0.511402,
+      "count": 1
+    },
+    {
+      "text": "programa acad\u00e9mico",
+      "relevance": 0.511355,
+      "count": 1
+    },
+    {
+      "text": "uso de sus atribuciones",
+      "relevance": 0.510943,
+      "count": 1
+    },
+    {
+      "text": "programa de reinsercion",
+      "relevance": 0.510773,
+      "count": 1
+    },
+    {
+      "text": "caso de los consejos comunitarios",
+      "relevance": 0.510326,
+      "count": 1
+    },
+    {
+      "text": "convocatoria de admisi6n",
+      "relevance": 0.509875,
+      "count": 1
+    }
+  ]
+}

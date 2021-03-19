@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 3,
+    "text_characters": 23141,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "programas acad\u00e9micos de pregrado",
+      "relevance": 0.637486,
+      "count": 1
+    },
+    {
+      "text": "resultados del examen de estado",
+      "relevance": 0.625024,
+      "count": 3
+    },
+    {
+      "text": "periodo acad\u00e9mico",
+      "relevance": 0.609653,
+      "count": 1
+    },
+    {
+      "text": "nota total",
+      "relevance": 0.594095,
+      "count": 1
+    },
+    {
+      "text": "nimero de cupos",
+      "relevance": 0.57703,
+      "count": 1
+    },
+    {
+      "text": "programas acad\u00e9micos",
+      "relevance": 0.575257,
+      "count": 12
+    },
+    {
+      "text": "siguientes programas acad\u00e9micos",
+      "relevance": 0.564307,
+      "count": 4
+    },
+    {
+      "text": "criterios de admision",
+      "relevance": 0.546798,
+      "count": 1
+    },
+    {
+      "text": "puntaje total",
+      "relevance": 0.543347,
+      "count": 2
+    },
+    {
+      "text": "facultad de ciencias",
+      "relevance": 0.542925,
+      "count": 2
+    },
+    {
+      "text": "pruebas del icfes",
+      "relevance": 0.542583,
+      "count": 1
+    },
+    {
+      "text": "tecnologia quimica",
+      "relevance": 0.541824,
+      "count": 2
+    },
+    {
+      "text": "condiciones de excepcion",
+      "relevance": 0.541497,
+      "count": 1
+    },
+    {
+      "text": "6n anteriores",
+      "relevance": 0.535952,
+      "count": 1
+    },
+    {
+      "text": "facultad de ingenieria",
+      "relevance": 0.532718,
+      "count": 3
+    },
+    {
+      "text": "inscripci6n",
+      "relevance": 0.531481,
+      "count": 2
+    },
+    {
+      "text": "resultados del examen",
+      "relevance": 0.529319,
+      "count": 2
+    },
+    {
+      "text": "nota total del examen",
+      "relevance": 0.527935,
+      "count": 1
+    },
+    {
+      "text": "siguientes pruebas",
+      "relevance": 0.527698,
+      "count": 1
+    },
+    {
+      "text": "icfes nuevo",
+      "relevance": 0.525891,
+      "count": 2
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.525623,
+      "count": 5
+    },
+    {
+      "text": "reconocimiento de cada estudiante",
+      "relevance": 0.524707,
+      "count": 1
+    },
+    {
+      "text": "nota obtenida",
+      "relevance": 0.523095,
+      "count": 1
+    },
+    {
+      "text": "servicio militar",
+      "relevance": 0.522721,
+      "count": 1
+    },
+    {
+      "text": "siguientes condiciones",
+      "relevance": 0.521618,
+      "count": 1
+    },
+    {
+      "text": "reinserci6n",
+      "relevance": 0.519959,
+      "count": 1
+    },
+    {
+      "text": "estricto orden descendente",
+      "relevance": 0.519088,
+      "count": 1
+    },
+    {
+      "text": "ordenamiento de menor",
+      "relevance": 0.519058,
+      "count": 1
+    },
+    {
+      "text": "aspirante",
+      "relevance": 0.518951,
+      "count": 4
+    },
+    {
+      "text": "examen de estado",
+      "relevance": 0.518882,
+      "count": 6
+    },
+    {
+      "text": "sola vez",
+      "relevance": 0.518254,
+      "count": 1
+    },
+    {
+      "text": "prueba adicional complementaria",
+      "relevance": 0.517272,
+      "count": 1
+    },
+    {
+      "text": "cartas de respuesta",
+      "relevance": 0.51717,
+      "count": 1
+    },
+    {
+      "text": "porcentaje de reserva de cupo",
+      "relevance": 0.516657,
+      "count": 1
+    },
+    {
+      "text": "facultad de humanidades",
+      "relevance": 0.515549,
+      "count": 1
+    },
+    {
+      "text": "misma nota ponderada",
+      "relevance": 0.515404,
+      "count": 1
+    },
+    {
+      "text": "puntaje de la electiva",
+      "relevance": 0.515383,
+      "count": 1
+    },
+    {
+      "text": "icfes antiguo",
+      "relevance": 0.514959,
+      "count": 4
+    },
+    {
+      "text": "trav\u00e9s de una tercera persona",
+      "relevance": 0.51483,
+      "count": 1
+    },
+    {
+      "text": "educacion basica",
+      "relevance": 0.514172,
+      "count": 4
+    },
+    {
+      "text": "nucleo comin",
+      "relevance": 0.514103,
+      "count": 1
+    },
+    {
+      "text": "grado de bachiller",
+      "relevance": 0.514004,
+      "count": 1
+    },
+    {
+      "text": "lenguas extranjeras",
+      "relevance": 0.513711,
+      "count": 5
+    },
+    {
+      "text": "nota de admisi6n",
+      "relevance": 0.513452,
+      "count": 2
+    },
+    {
+      "text": "siguientes requisitos",
+      "relevance": 0.51336,
+      "count": 1
+    },
+    {
+      "text": "programa acad\u00e9mico",
+      "relevance": 0.512684,
+      "count": 7
+    },
+    {
+      "text": "servicio militar obligatorio",
+      "relevance": 0.512437,
+      "count": 2
+    },
+    {
+      "text": "plan de paz del gobierno",
+      "relevance": 0.51171,
+      "count": 1
+    },
+    {
+      "text": "6n social",
+      "relevance": 0.511631,
+      "count": 2
+    },
+    {
+      "text": "nuevo examen de estado",
+      "relevance": 0.511469,
+      "count": 6
+    }
+  ]
+}

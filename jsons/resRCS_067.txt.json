@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 4942,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "plan financiero",
+      "relevance": 0.620118,
+      "count": 5
+    },
+    {
+      "text": "previsiones de ingresos",
+      "relevance": 0.61144,
+      "count": 3
+    },
+    {
+      "text": "cumplimiento de las metas",
+      "relevance": 0.577833,
+      "count": 1
+    },
+    {
+      "text": "recurso ampilla",
+      "relevance": 0.553803,
+      "count": 1
+    },
+    {
+      "text": "plan financiero de la universidad del valle",
+      "relevance": 0.552537,
+      "count": 2
+    },
+    {
+      "text": "procesos de planificacion estrat\u00e9gica",
+      "relevance": 0.549705,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.543264,
+      "count": 1
+    },
+    {
+      "text": "aporte fondo de pensiones",
+      "relevance": 0.542689,
+      "count": 1
+    },
+    {
+      "text": "documento original",
+      "relevance": 0.542683,
+      "count": 1
+    },
+    {
+      "text": "unidades acad\u00e9mico-administrativas",
+      "relevance": 0.541171,
+      "count": 1
+    },
+    {
+      "text": "mediano plazo",
+      "relevance": 0.5386,
+      "count": 1
+    },
+    {
+      "text": "presente resolucion",
+      "relevance": 0.537488,
+      "count": 1
+    },
+    {
+      "text": "plan programatico",
+      "relevance": 0.534824,
+      "count": 2
+    },
+    {
+      "text": "flujo disponible",
+      "relevance": 0.531755,
+      "count": 1
+    },
+    {
+      "text": "herramienta indicativa",
+      "relevance": 0.527559,
+      "count": 1
+    },
+    {
+      "text": "componente del sistema presupuestal de la institucion",
+      "relevance": 0.527447,
+      "count": 1
+    },
+    {
+      "text": "condiciones cambiantes",
+      "relevance": 0.525962,
+      "count": 1
+    },
+    {
+      "text": "gobierno nacional",
+      "relevance": 0.524836,
+      "count": 1
+    },
+    {
+      "text": "programa anual",
+      "relevance": 0.524273,
+      "count": 1
+    },
+    {
+      "text": "servicios personales indirectos",
+      "relevance": 0.523603,
+      "count": 1
+    },
+    {
+      "text": "proyecciones de ingresos",
+      "relevance": 0.523152,
+      "count": 1
+    },
+    {
+      "text": "plan estrat\u00e9gico de desarrollo",
+      "relevance": 0.521881,
+      "count": 1
+    },
+    {
+      "text": "servicio de la deuda",
+      "relevance": 0.521556,
+      "count": 1
+    },
+    {
+      "text": "indicadores de resultado",
+      "relevance": 0.519865,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.518826,
+      "count": 4
+    },
+    {
+      "text": "dias del mes de diciembre",
+      "relevance": 0.518678,
+      "count": 1
+    },
+    {
+      "text": "veces de instrumento",
+      "relevance": 0.517528,
+      "count": 1
+    },
+    {
+      "text": "parte de unas premisas",
+      "relevance": 0.517019,
+      "count": 1
+    },
+    {
+      "text": "recursos de fomento",
+      "relevance": 0.516575,
+      "count": 1
+    },
+    {
+      "text": "plan financiero de la universidad",
+      "relevance": 0.51217,
+      "count": 2
+    },
+    {
+      "text": "gesti\u00e9dn financiera",
+      "relevance": 0.51198,
+      "count": 1
+    },
+    {
+      "text": "reuniones del despacho de la gobernadora",
+      "relevance": 0.511834,
+      "count": 1
+    },
+    {
+      "text": "componente del presupuesto general de la universidad",
+      "relevance": 0.511079,
+      "count": 1
+    },
+    {
+      "text": "aportes parafiscales",
+      "relevance": 0.509803,
+      "count": 1
+    },
+    {
+      "text": "deudas aos anteriores",
+      "relevance": 0.509414,
+      "count": 1
+    },
+    {
+      "text": "intereses c",
+      "relevance": 0.508785,
+      "count": 1
+    },
+    {
+      "text": "uso de sus atribuciones",
+      "relevance": 0.506913,
+      "count": 1
+    },
+    {
+      "text": "descuento de votaciones",
+      "relevance": 0.506913,
+      "count": 1
+    },
+    {
+      "text": "trabajadores oficiales",
+      "relevance": 0.506913,
+      "count": 1
+    },
+    {
+      "text": "prevision social",
+      "relevance": 0.506913,
+      "count": 1
+    },
+    {
+      "text": "recuts05 props",
+      "relevance": 0.506913,
+      "count": 1
+    },
+    {
+      "text": "operaciones efectivas",
+      "relevance": 0.505265,
+      "count": 1
+    },
+    {
+      "text": "sector ptblico",
+      "relevance": 0.505265,
+      "count": 1
+    },
+    {
+      "text": "departamento del valle",
+      "relevance": 0.503256,
+      "count": 1
+    },
+    {
+      "text": "termino fijo",
+      "relevance": 0.501744,
+      "count": 1
+    },
+    {
+      "text": "castillo gomez",
+      "relevance": 0.500117,
+      "count": 1
+    },
+    {
+      "text": "servicio medco",
+      "relevance": 0.499789,
+      "count": 1
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.499746,
+      "count": 5
+    },
+    {
+      "text": "respectiva financiacion",
+      "relevance": 0.499328,
+      "count": 1
+    },
+    {
+      "text": "capacidad de inversion",
+      "relevance": 0.499328,
+      "count": 1
+    }
+  ]
+}

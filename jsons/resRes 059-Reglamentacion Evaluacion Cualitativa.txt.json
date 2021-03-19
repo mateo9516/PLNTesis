@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 2,
+    "text_characters": 17245,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "periodos acad\u00e9micos",
+      "relevance": 0.681547,
+      "count": 5
+    },
+    {
+      "text": "necesidad de la presencialidad de los estudiantes",
+      "relevance": 0.657328,
+      "count": 1
+    },
+    {
+      "text": "juicio del docente de la asignatura",
+      "relevance": 0.594902,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.590972,
+      "count": 4
+    },
+    {
+      "text": "programas acad\u00e9micos de pregrado",
+      "relevance": 0.588328,
+      "count": 3
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.564789,
+      "count": 10
+    },
+    {
+      "text": "promedio semestral",
+      "relevance": 0.563913,
+      "count": 4
+    },
+    {
+      "text": "redes sociales",
+      "relevance": 0.560745,
+      "count": 2
+    },
+    {
+      "text": "ministerio de salud",
+      "relevance": 0.547068,
+      "count": 1
+    },
+    {
+      "text": "historial acad\u00e9mico",
+      "relevance": 0.54237,
+      "count": 4
+    },
+    {
+      "text": "forma transitoria",
+      "relevance": 0.539086,
+      "count": 4
+    },
+    {
+      "text": "registro de promedio",
+      "relevance": 0.537556,
+      "count": 1
+    },
+    {
+      "text": "funcion del consejo acad\u00e9mico",
+      "relevance": 0.536303,
+      "count": 1
+    },
+    {
+      "text": "territorio nacional",
+      "relevance": 0.532642,
+      "count": 1
+    },
+    {
+      "text": "facultades extraordinarias",
+      "relevance": 0.532387,
+      "count": 1
+    },
+    {
+      "text": "orden de aislamiento social",
+      "relevance": 0.530236,
+      "count": 1
+    },
+    {
+      "text": "actividad acad\u00e9mica",
+      "relevance": 0.529937,
+      "count": 1
+    },
+    {
+      "text": "emergencia sanitaria",
+      "relevance": 0.527938,
+      "count": 2
+    },
+    {
+      "text": "sola vez",
+      "relevance": 0.527798,
+      "count": 3
+    },
+    {
+      "text": "promedio ponderado",
+      "relevance": 0.527376,
+      "count": 3
+    },
+    {
+      "text": "tabla anterior",
+      "relevance": 0.526422,
+      "count": 2
+    },
+    {
+      "text": "constancia de promedio acumulado semestral",
+      "relevance": 0.52618,
+      "count": 1
+    },
+    {
+      "text": "nota definitiva",
+      "relevance": 0.524822,
+      "count": 1
+    },
+    {
+      "text": "semestres superiores",
+      "relevance": 0.524013,
+      "count": 1
+    },
+    {
+      "text": "sede cali",
+      "relevance": 0.52195,
+      "count": 4
+    },
+    {
+      "text": "medicion cualitativa del cumplimiento",
+      "relevance": 0.521831,
+      "count": 1
+    },
+    {
+      "text": "bajos rendimientos",
+      "relevance": 0.520516,
+      "count": 2
+    },
+    {
+      "text": "historial acad\u00e9mico del estudiante",
+      "relevance": 0.520197,
+      "count": 1
+    },
+    {
+      "text": "maximo organismo de la universidad",
+      "relevance": 0.520032,
+      "count": 1
+    },
+    {
+      "text": "plazo adicional",
+      "relevance": 0.519459,
+      "count": 1
+    },
+    {
+      "text": "virus covid-19",
+      "relevance": 0.519397,
+      "count": 2
+    },
+    {
+      "text": "estado de emergencia economica",
+      "relevance": 0.517897,
+      "count": 1
+    },
+    {
+      "text": "estudiantes de primer semestre",
+      "relevance": 0.51673,
+      "count": 5
+    },
+    {
+      "text": "personas residentes",
+      "relevance": 0.516093,
+      "count": 1
+    },
+    {
+      "text": "constitucion politica",
+      "relevance": 0.515862,
+      "count": 1
+    },
+    {
+      "text": "pendiente sera",
+      "relevance": 0.515433,
+      "count": 1
+    },
+    {
+      "text": "evento masivo",
+      "relevance": 0.515159,
+      "count": 1
+    },
+    {
+      "text": "efectos de certificaciones",
+      "relevance": 0.514868,
+      "count": 1
+    },
+    {
+      "text": "c\u00e9digo contencioso administrativo",
+      "relevance": 0.514105,
+      "count": 1
+    },
+    {
+      "text": "competencia del estudiante",
+      "relevance": 0.513583,
+      "count": 1
+    },
+    {
+      "text": "actividades acad\u00e9micas",
+      "relevance": 0.513538,
+      "count": 1
+    },
+    {
+      "text": "posibilidad de extension",
+      "relevance": 0.513397,
+      "count": 1
+    },
+    {
+      "text": "promedio acad\u00e9mico",
+      "relevance": 0.513227,
+      "count": 1
+    },
+    {
+      "text": "gobierno nacional",
+      "relevance": 0.512705,
+      "count": 1
+    },
+    {
+      "text": "medidas de contencion",
+      "relevance": 0.512338,
+      "count": 1
+    },
+    {
+      "text": "planes de estudio",
+      "relevance": 0.512312,
+      "count": 1
+    },
+    {
+      "text": "desarrollo de los programas",
+      "relevance": 0.511234,
+      "count": 1
+    },
+    {
+      "text": "siguientes condiciones",
+      "relevance": 0.510659,
+      "count": 1
+    },
+    {
+      "text": "instituciones de educacion superior",
+      "relevance": 0.510603,
+      "count": 1
+    },
+    {
+      "text": "denominacion de la calificacion",
+      "relevance": 0.510308,
+      "count": 1
+    }
+  ]
+}

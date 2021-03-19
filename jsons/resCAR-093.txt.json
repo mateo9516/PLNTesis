@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 4136,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.762711,
+      "count": 2
+    },
+    {
+      "text": "programas de diplomado",
+      "relevance": 0.617567,
+      "count": 2
+    },
+    {
+      "text": "nuevas politicas acad\u00e9mico",
+      "relevance": 0.60505,
+      "count": 1
+    },
+    {
+      "text": "intensidad horaria total",
+      "relevance": 0.600985,
+      "count": 1
+    },
+    {
+      "text": "postgradual de un area profesional",
+      "relevance": 0.584406,
+      "count": 1
+    },
+    {
+      "text": "conjunto de actividades acad\u00e9micas",
+      "relevance": 0.58213,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.574826,
+      "count": 1
+    },
+    {
+      "text": "unidad acad\u00e9mica",
+      "relevance": 0.567843,
+      "count": 1
+    },
+    {
+      "text": "consejos de facultad",
+      "relevance": 0.563154,
+      "count": 1
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.560249,
+      "count": 2
+    },
+    {
+      "text": "evaluacion del mismo",
+      "relevance": 0.557682,
+      "count": 1
+    },
+    {
+      "text": "intermedio de los decanos",
+      "relevance": 0.553796,
+      "count": 1
+    },
+    {
+      "text": "trabajo presencial",
+      "relevance": 0.55349,
+      "count": 2
+    },
+    {
+      "text": "medio de sus secretarias acad\u00e9micas",
+      "relevance": 0.552494,
+      "count": 1
+    },
+    {
+      "text": "registro general",
+      "relevance": 0.540894,
+      "count": 1
+    },
+    {
+      "text": "instituto de educacion",
+      "relevance": 0.534314,
+      "count": 1
+    },
+    {
+      "text": "actividades acad\u00e9micas",
+      "relevance": 0.534214,
+      "count": 1
+    },
+    {
+      "text": "comit\u00e9s de programas acad\u00e9micos",
+      "relevance": 0.532376,
+      "count": 1
+    },
+    {
+      "text": "consejo academico de la universidad del valle",
+      "relevance": 0.53119,
+      "count": 1
+    },
+    {
+      "text": "forma precisa",
+      "relevance": 0.526952,
+      "count": 1
+    },
+    {
+      "text": "consejo de facultad",
+      "relevance": 0.526708,
+      "count": 1
+    },
+    {
+      "text": "programas formales de postgrado",
+      "relevance": 0.525831,
+      "count": 1
+    },
+    {
+      "text": "programa de diplomado tendra",
+      "relevance": 0.525696,
+      "count": 1
+    },
+    {
+      "text": "objeto del diplomado",
+      "relevance": 0.524646,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de agosto",
+      "relevance": 0.520588,
+      "count": 1
+    },
+    {
+      "text": "actividades de los programas acad\u00e9micos",
+      "relevance": 0.516532,
+      "count": 1
+    },
+    {
+      "text": "estrategias de evaluacion de las asignaturas",
+      "relevance": 0.513947,
+      "count": 1
+    },
+    {
+      "text": "intermedio de sus coordinaciones administrativas",
+      "relevance": 0.513048,
+      "count": 1
+    },
+    {
+      "text": "areas docentes",
+      "relevance": 0.512867,
+      "count": 1
+    },
+    {
+      "text": "diplomados",
+      "relevance": 0.512466,
+      "count": 5
+    },
+    {
+      "text": "catalogo de oferta acad\u00e9mica",
+      "relevance": 0.511506,
+      "count": 1
+    },
+    {
+      "text": "tipo de diplomado",
+      "relevance": 0.507845,
+      "count": 1
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.503107,
+      "count": 4
+    },
+    {
+      "text": "parte de programas",
+      "relevance": 0.50251,
+      "count": 1
+    },
+    {
+      "text": "uso de sus atribuciones",
+      "relevance": 0.502468,
+      "count": 1
+    },
+    {
+      "text": "secretario general",
+      "relevance": 0.499565,
+      "count": 1
+    },
+    {
+      "text": "criterios de coherencia",
+      "relevance": 0.499081,
+      "count": 1
+    },
+    {
+      "text": "comit\u00e9 de curriculo",
+      "relevance": 0.496415,
+      "count": 1
+    },
+    {
+      "text": "lopez pulecio",
+      "relevance": 0.496253,
+      "count": 1
+    },
+    {
+      "text": "institutos",
+      "relevance": 0.495035,
+      "count": 1
+    },
+    {
+      "text": "evaluaci\u00e9n de las propuestas",
+      "relevance": 0.494297,
+      "count": 1
+    },
+    {
+      "text": "educaci\u00e9n permanente",
+      "relevance": 0.493348,
+      "count": 1
+    },
+    {
+      "text": "proceso financiero",
+      "relevance": 0.492019,
+      "count": 1
+    },
+    {
+      "text": "expedicion de certificados",
+      "relevance": 0.491968,
+      "count": 1
+    },
+    {
+      "text": "facultades",
+      "relevance": 0.488045,
+      "count": 3
+    },
+    {
+      "text": "encargado del control acad\u00e9mico de los diplomados",
+      "relevance": 0.485289,
+      "count": 1
+    },
+    {
+      "text": "salon de reuniones del consejo acad\u00e9mico",
+      "relevance": 0.485271,
+      "count": 1
+    },
+    {
+      "text": "pedagogia",
+      "relevance": 0.484983,
+      "count": 3
+    },
+    {
+      "text": "sustentacion",
+      "relevance": 0.484404,
+      "count": 1
+    },
+    {
+      "text": "funciones",
+      "relevance": 0.483591,
+      "count": 1
+    }
+  ]
+}

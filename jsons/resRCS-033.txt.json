@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 5,
+    "text_characters": 40701,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "dotacion del area de recaudo",
+      "relevance": 0.672323,
+      "count": 1
+    },
+    {
+      "text": "plan de inversiones",
+      "relevance": 0.66267,
+      "count": 1
+    },
+    {
+      "text": "facultad de artes integradas",
+      "relevance": 0.645909,
+      "count": 5
+    },
+    {
+      "text": "laboratorio de la facultad de ciencias",
+      "relevance": 0.640239,
+      "count": 3
+    },
+    {
+      "text": "ge eduipos",
+      "relevance": 0.613278,
+      "count": 1
+    },
+    {
+      "text": "ejecucion de la obra",
+      "relevance": 0.565797,
+      "count": 1
+    },
+    {
+      "text": "adecuacion de laboratorios de la hterventoria administrativa",
+      "relevance": 0.559076,
+      "count": 1
+    },
+    {
+      "text": "mesas de laboratorio",
+      "relevance": 0.555738,
+      "count": 1
+    },
+    {
+      "text": "desarrollo de sistema",
+      "relevance": 0.537885,
+      "count": 2
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.536827,
+      "count": 4
+    },
+    {
+      "text": "plan de desarrollo fisico",
+      "relevance": 0.533703,
+      "count": 2
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.532575,
+      "count": 13
+    },
+    {
+      "text": "cableado obras de cableado",
+      "relevance": 0.531327,
+      "count": 1
+    },
+    {
+      "text": "sistema de seguridad",
+      "relevance": 0.531158,
+      "count": 1
+    },
+    {
+      "text": "planta fisica",
+      "relevance": 0.530586,
+      "count": 4
+    },
+    {
+      "text": "apoyo lc",
+      "relevance": 0.529512,
+      "count": 1
+    },
+    {
+      "text": "facultad de ingenieria",
+      "relevance": 0.528598,
+      "count": 34
+    },
+    {
+      "text": "adecuacion de latioratorts",
+      "relevance": 0.528126,
+      "count": 1
+    },
+    {
+      "text": "mejoramiento de salones",
+      "relevance": 0.527454,
+      "count": 3
+    },
+    {
+      "text": "archivo rodante",
+      "relevance": 0.526312,
+      "count": 1
+    },
+    {
+      "text": "biblioteca de la interventotia administraiiva",
+      "relevance": 0.525513,
+      "count": 1
+    },
+    {
+      "text": "facultad de humanidades",
+      "relevance": 0.524247,
+      "count": 7
+    },
+    {
+      "text": "mejoramiento de aulas primer",
+      "relevance": 0.523678,
+      "count": 1
+    },
+    {
+      "text": "ente universitario",
+      "relevance": 0.523275,
+      "count": 1
+    },
+    {
+      "text": "adecuacion de laboratorios",
+      "relevance": 0.521955,
+      "count": 9
+    },
+    {
+      "text": "apoyo",
+      "relevance": 0.521498,
+      "count": 4
+    },
+    {
+      "text": "facultad de salud",
+      "relevance": 0.521312,
+      "count": 11
+    },
+    {
+      "text": "planta fisica de la universidad del valle",
+      "relevance": 0.52124,
+      "count": 18
+    },
+    {
+      "text": "adquisicion de bienes",
+      "relevance": 0.519028,
+      "count": 8
+    },
+    {
+      "text": "facultad de ingenieriauniversidad",
+      "relevance": 0.518939,
+      "count": 1
+    },
+    {
+      "text": "mejoramiento de salas de sistemas",
+      "relevance": 0.518672,
+      "count": 5
+    },
+    {
+      "text": "segundo pisos",
+      "relevance": 0.518486,
+      "count": 2
+    },
+    {
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.518448,
+      "count": 1
+    },
+    {
+      "text": "apoyo ala",
+      "relevance": 0.51834,
+      "count": 2
+    },
+    {
+      "text": "petacidn del laboratorio de alimentos",
+      "relevance": 0.51832,
+      "count": 1
+    },
+    {
+      "text": "facultad de ciencias sociales",
+      "relevance": 0.51776,
+      "count": 3
+    },
+    {
+      "text": "asamblea departamental del valle",
+      "relevance": 0.517486,
+      "count": 1
+    },
+    {
+      "text": "obra de cableado",
+      "relevance": 0.517359,
+      "count": 1
+    },
+    {
+      "text": "consejo superior aprobo",
+      "relevance": 0.517123,
+      "count": 1
+    },
+    {
+      "text": "adecuacion de laboratorios de la adquisicion",
+      "relevance": 0.516711,
+      "count": 2
+    },
+    {
+      "text": "edificio del herbario cuvc del departamento",
+      "relevance": 0.515478,
+      "count": 3
+    },
+    {
+      "text": "pago de los compromisos",
+      "relevance": 0.515442,
+      "count": 1
+    },
+    {
+      "text": "dovaciony adesuacion de lehoratorios",
+      "relevance": 0.515121,
+      "count": 1
+    },
+    {
+      "text": "doiaciony adecuarion de laboratorios",
+      "relevance": 0.515099,
+      "count": 1
+    },
+    {
+      "text": "facultad de ciencias de la administraci\u00e9n",
+      "relevance": 0.514474,
+      "count": 2
+    },
+    {
+      "text": "fecha posterior",
+      "relevance": 0.513802,
+      "count": 2
+    },
+    {
+      "text": "funcionamiento de la revista sociedad",
+      "relevance": 0.513595,
+      "count": 5
+    },
+    {
+      "text": "pregrado de la sede",
+      "relevance": 0.513142,
+      "count": 1
+    },
+    {
+      "text": "oy fisico",
+      "relevance": 0.512924,
+      "count": 1
+    },
+    {
+      "text": "cuartos de refrigeracion",
+      "relevance": 0.512656,
+      "count": 1
+    }
+  ]
+}

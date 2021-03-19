@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3125,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "plan estrat\u00e9gico de desarrollo",
+      "relevance": 0.720761,
+      "count": 1
+    },
+    {
+      "text": "sedes regionales",
+      "relevance": 0.6677,
+      "count": 8
+    },
+    {
+      "text": "demas estratos",
+      "relevance": 0.648567,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.613868,
+      "count": 1
+    },
+    {
+      "text": "estratos ly",
+      "relevance": 0.613681,
+      "count": 1
+    },
+    {
+      "text": "desarrollo del plan estrat\u00e9gico",
+      "relevance": 0.566547,
+      "count": 1
+    },
+    {
+      "text": "gobernacion del departamento",
+      "relevance": 0.566221,
+      "count": 2
+    },
+    {
+      "text": "sede de cali",
+      "relevance": 0.550267,
+      "count": 2
+    },
+    {
+      "text": "efecto de la aplicacion de la tabla",
+      "relevance": 0.550172,
+      "count": 1
+    },
+    {
+      "text": "recursos necesarios",
+      "relevance": 0.539648,
+      "count": 1
+    },
+    {
+      "text": "valle del cauca",
+      "relevance": 0.534221,
+      "count": 1
+    },
+    {
+      "text": "solicitudes estudiantiles",
+      "relevance": 0.534211,
+      "count": 1
+    },
+    {
+      "text": "parte del presupuesto de aportes",
+      "relevance": 0.52454,
+      "count": 1
+    },
+    {
+      "text": "proyecto de presupuesto",
+      "relevance": 0.521518,
+      "count": 1
+    },
+    {
+      "text": "recursos adicionales provistos",
+      "relevance": 0.520375,
+      "count": 1
+    },
+    {
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.519994,
+      "count": 1
+    },
+    {
+      "text": "departamento del valle",
+      "relevance": 0.511971,
+      "count": 1
+    },
+    {
+      "text": "siguientes partidas",
+      "relevance": 0.510135,
+      "count": 1
+    },
+    {
+      "text": "sumas mencionadas",
+      "relevance": 0.509569,
+      "count": 1
+    },
+    {
+      "text": "desmonte de los derechos especiales",
+      "relevance": 0.509352,
+      "count": 1
+    },
+    {
+      "text": "funcionamiento de la universidad",
+      "relevance": 0.506566,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.505591,
+      "count": 1
+    },
+    {
+      "text": "enero",
+      "relevance": 0.502781,
+      "count": 2
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.500394,
+      "count": 7
+    },
+    {
+      "text": "sefior gobernador del departamento del valle",
+      "relevance": 0.499782,
+      "count": 1
+    },
+    {
+      "text": "salon de reuniones del despacho",
+      "relevance": 0.497716,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de mayo",
+      "relevance": 0.497309,
+      "count": 1
+    },
+    {
+      "text": "uso de sus atribuciones",
+      "relevance": 0.496622,
+      "count": 1
+    },
+    {
+      "text": "derechos especiales",
+      "relevance": 0.495514,
+      "count": 2
+    },
+    {
+      "text": "condiciones de equidad",
+      "relevance": 0.491504,
+      "count": 1
+    },
+    {
+      "text": "desmonte gradual",
+      "relevance": 0.488647,
+      "count": 1
+    },
+    {
+      "text": "lopez pulecio",
+      "relevance": 0.488554,
+      "count": 1
+    },
+    {
+      "text": "desmonte gradual de los derechos especiales",
+      "relevance": 0.485335,
+      "count": 1
+    },
+    {
+      "text": "o15 de mayo",
+      "relevance": 0.48143,
+      "count": 1
+    },
+    {
+      "text": "presupuesto general",
+      "relevance": 0.479787,
+      "count": 1
+    },
+    {
+      "text": "secretario general",
+      "relevance": 0.478125,
+      "count": 1
+    },
+    {
+      "text": "desarrollo",
+      "relevance": 0.472079,
+      "count": 1
+    },
+    {
+      "text": "ano",
+      "relevance": 0.468688,
+      "count": 2
+    },
+    {
+      "text": "propositos",
+      "relevance": 0.466803,
+      "count": 1
+    },
+    {
+      "text": "paragrafo",
+      "relevance": 0.465221,
+      "count": 2
+    },
+    {
+      "text": "destinacion",
+      "relevance": 0.464581,
+      "count": 1
+    },
+    {
+      "text": "tabla",
+      "relevance": 0.462972,
+      "count": 3
+    },
+    {
+      "text": "pesos",
+      "relevance": 0.462946,
+      "count": 3
+    },
+    {
+      "text": "resolucion",
+      "relevance": 0.461582,
+      "count": 2
+    },
+    {
+      "text": "afio",
+      "relevance": 0.461178,
+      "count": 2
+    },
+    {
+      "text": "gobernador",
+      "relevance": 0.459862,
+      "count": 1
+    },
+    {
+      "text": "diciembre",
+      "relevance": 0.459648,
+      "count": 1
+    },
+    {
+      "text": "agosto",
+      "relevance": 0.459433,
+      "count": 3
+    },
+    {
+      "text": "cali",
+      "relevance": 0.458615,
+      "count": 1
+    },
+    {
+      "text": "aho",
+      "relevance": 0.458148,
+      "count": 1
+    }
+  ]
+}

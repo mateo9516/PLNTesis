@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 5,
+    "text_characters": 46102,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "responsabilidad del consejo acad\u00e9mico",
+      "relevance": 0.725838,
+      "count": 1
+    },
+    {
+      "text": "perfil profesional",
+      "relevance": 0.684646,
+      "count": 54
+    },
+    {
+      "text": "perfil acad\u00e9mico",
+      "relevance": 0.67458,
+      "count": 45
+    },
+    {
+      "text": "experiencia profesional",
+      "relevance": 0.649529,
+      "count": 12
+    },
+    {
+      "text": "perfil ocupacional",
+      "relevance": 0.6374,
+      "count": 40
+    },
+    {
+      "text": "area de acondicionamiento ambiental",
+      "relevance": 0.62285,
+      "count": 1
+    },
+    {
+      "text": "unidades acad\u00e9micas",
+      "relevance": 0.620424,
+      "count": 1
+    },
+    {
+      "text": "perfiles",
+      "relevance": 0.598812,
+      "count": 3
+    },
+    {
+      "text": "quimica organica inorganica",
+      "relevance": 0.574617,
+      "count": 1
+    },
+    {
+      "text": "calidad de los procesos acad\u00e9micos",
+      "relevance": 0.573588,
+      "count": 1
+    },
+    {
+      "text": "departamento de quimica",
+      "relevance": 0.571531,
+      "count": 1
+    },
+    {
+      "text": "experiencia profesional certificada",
+      "relevance": 0.568849,
+      "count": 1
+    },
+    {
+      "text": "apertura de convocatorias",
+      "relevance": 0.564672,
+      "count": 1
+    },
+    {
+      "text": "area tedrica",
+      "relevance": 0.558613,
+      "count": 1
+    },
+    {
+      "text": "escuela de arquitectura",
+      "relevance": 0.547864,
+      "count": 3
+    },
+    {
+      "text": "nivel de maestria",
+      "relevance": 0.547423,
+      "count": 3
+    },
+    {
+      "text": "area de talleres del programa",
+      "relevance": 0.545748,
+      "count": 1
+    },
+    {
+      "text": "area",
+      "relevance": 0.545142,
+      "count": 30
+    },
+    {
+      "text": "cursos tedricos",
+      "relevance": 0.540223,
+      "count": 1
+    },
+    {
+      "text": "carreras afines",
+      "relevance": 0.539909,
+      "count": 3
+    },
+    {
+      "text": "areas de quimica computacional",
+      "relevance": 0.537363,
+      "count": 1
+    },
+    {
+      "text": "experiencia docente",
+      "relevance": 0.535097,
+      "count": 22
+    },
+    {
+      "text": "cronograma de actividades",
+      "relevance": 0.532051,
+      "count": 1
+    },
+    {
+      "text": "proceso de convocatoria",
+      "relevance": 0.531896,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.530803,
+      "count": 2
+    },
+    {
+      "text": "cirugia general",
+      "relevance": 0.529085,
+      "count": 2
+    },
+    {
+      "text": "pregrado de licenciado",
+      "relevance": 0.528412,
+      "count": 1
+    },
+    {
+      "text": "programa de disefio",
+      "relevance": 0.527298,
+      "count": 1
+    },
+    {
+      "text": "ciencias sociales",
+      "relevance": 0.526675,
+      "count": 7
+    },
+    {
+      "text": "quimica organica",
+      "relevance": 0.526664,
+      "count": 2
+    },
+    {
+      "text": "capacidad de gestion",
+      "relevance": 0.524566,
+      "count": 1
+    },
+    {
+      "text": "actividades acad\u00e9mico",
+      "relevance": 0.523459,
+      "count": 1
+    },
+    {
+      "text": "areas afines",
+      "relevance": 0.523212,
+      "count": 12
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.5217,
+      "count": 1
+    },
+    {
+      "text": "soporte basico de vida",
+      "relevance": 0.521188,
+      "count": 1
+    },
+    {
+      "text": "departamento de disefio",
+      "relevance": 0.521178,
+      "count": 1
+    },
+    {
+      "text": "ciencias naturales",
+      "relevance": 0.519535,
+      "count": 3
+    },
+    {
+      "text": "titulo de posgrado",
+      "relevance": 0.519379,
+      "count": 4
+    },
+    {
+      "text": "lengua extranjera",
+      "relevance": 0.519219,
+      "count": 6
+    },
+    {
+      "text": "afios de experiencia profesional",
+      "relevance": 0.518767,
+      "count": 4
+    },
+    {
+      "text": "ingenieria industrial",
+      "relevance": 0.518144,
+      "count": 3
+    },
+    {
+      "text": "perfil academ\u00e9mico",
+      "relevance": 0.518056,
+      "count": 1
+    },
+    {
+      "text": "manejo de poesia",
+      "relevance": 0.51789,
+      "count": 1
+    },
+    {
+      "text": "cargos",
+      "relevance": 0.517828,
+      "count": 4
+    },
+    {
+      "text": "servicio de urgencias",
+      "relevance": 0.516065,
+      "count": 1
+    },
+    {
+      "text": "ingeniero sanitario",
+      "relevance": 0.515808,
+      "count": 1
+    },
+    {
+      "text": "universitaria certificada",
+      "relevance": 0.515453,
+      "count": 1
+    },
+    {
+      "text": "dominio de un idioma extranjero",
+      "relevance": 0.515082,
+      "count": 1
+    },
+    {
+      "text": "buena aptitud",
+      "relevance": 0.514412,
+      "count": 8
+    },
+    {
+      "text": "area contable",
+      "relevance": 0.51437,
+      "count": 2
+    }
+  ]
+}

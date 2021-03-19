@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 4766,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "valor del mencionado proceso",
+      "relevance": 0.628411,
+      "count": 1
+    },
+    {
+      "text": "servicio de salud",
+      "relevance": 0.600263,
+      "count": 2
+    },
+    {
+      "text": "uso de sus atribuciones",
+      "relevance": 0.597367,
+      "count": 1
+    },
+    {
+      "text": "suministros m\u00e9dicos",
+      "relevance": 0.585893,
+      "count": 3
+    },
+    {
+      "text": "ordenador del gasto",
+      "relevance": 0.58,
+      "count": 1
+    },
+    {
+      "text": "vicerrectoria de bienestar universitario",
+      "relevance": 0.577614,
+      "count": 1
+    },
+    {
+      "text": "despacho de medicamentos",
+      "relevance": 0.567466,
+      "count": 1
+    },
+    {
+      "text": "asunci6n del compromiso",
+      "relevance": 0.565428,
+      "count": 1
+    },
+    {
+      "text": "legalidad del gasto publico",
+      "relevance": 0.555507,
+      "count": 1
+    },
+    {
+      "text": "ente universitario",
+      "relevance": 0.5551,
+      "count": 1
+    },
+    {
+      "text": "siguientes conceptos",
+      "relevance": 0.552645,
+      "count": 1
+    },
+    {
+      "text": "vigencias futuras",
+      "relevance": 0.549235,
+      "count": 1
+    },
+    {
+      "text": "estatuto organico del presupuesto",
+      "relevance": 0.547916,
+      "count": 1
+    },
+    {
+      "text": "estatuto general",
+      "relevance": 0.540454,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.539826,
+      "count": 1
+    },
+    {
+      "text": "patrimonio independiente",
+      "relevance": 0.538201,
+      "count": 1
+    },
+    {
+      "text": "servicio continuo",
+      "relevance": 0.534816,
+      "count": 1
+    },
+    {
+      "text": "atencidn m\u00e9dica integral",
+      "relevance": 0.533855,
+      "count": 1
+    },
+    {
+      "text": "educacion nacional",
+      "relevance": 0.533584,
+      "count": 1
+    },
+    {
+      "text": "sefior rector",
+      "relevance": 0.533405,
+      "count": 1
+    },
+    {
+      "text": "autorizaci6n correspondiente",
+      "relevance": 0.533269,
+      "count": 1
+    },
+    {
+      "text": "presupuesto de gasto",
+      "relevance": 0.528052,
+      "count": 1
+    },
+    {
+      "text": "tramite de contratacidn de prestacidn",
+      "relevance": 0.52689,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.52359,
+      "count": 3
+    },
+    {
+      "text": "figura de vigencia futura",
+      "relevance": 0.522058,
+      "count": 1
+    },
+    {
+      "text": "pago de los compromisos",
+      "relevance": 0.515801,
+      "count": 1
+    },
+    {
+      "text": "mejores servicios",
+      "relevance": 0.514679,
+      "count": 1
+    },
+    {
+      "text": "mayor capacidad de negociacidn",
+      "relevance": 0.514622,
+      "count": 1
+    },
+    {
+      "text": "cumplimiento del estatuto",
+      "relevance": 0.514155,
+      "count": 1
+    },
+    {
+      "text": "periodo fiscal",
+      "relevance": 0.514082,
+      "count": 1
+    },
+    {
+      "text": "personeria juridica",
+      "relevance": 0.5127,
+      "count": 1
+    },
+    {
+      "text": "mecanismo de las vigencias futuras",
+      "relevance": 0.51157,
+      "count": 1
+    },
+    {
+      "text": "representante del presidente",
+      "relevance": 0.508597,
+      "count": 1
+    },
+    {
+      "text": "asamblea departamental del valle",
+      "relevance": 0.507087,
+      "count": 1
+    },
+    {
+      "text": "ejecucidn proyectada",
+      "relevance": 0.504205,
+      "count": 1
+    },
+    {
+      "text": "autonomia acad\u00e9mica",
+      "relevance": 0.503739,
+      "count": 1
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.502905,
+      "count": 1
+    },
+    {
+      "text": "procesos de contratacion requeridos",
+      "relevance": 0.50187,
+      "count": 1
+    },
+    {
+      "text": "presupuesto de la vigencia fiscal",
+      "relevance": 0.498057,
+      "count": 1
+    },
+    {
+      "text": "mes de octubre",
+      "relevance": 0.498044,
+      "count": 1
+    },
+    {
+      "text": "presupuesto",
+      "relevance": 0.495844,
+      "count": 2
+    },
+    {
+      "text": "corchuelo marmolejo",
+      "relevance": 0.49577,
+      "count": 1
+    },
+    {
+      "text": "contrataci6n de medicamentos de uso humano",
+      "relevance": 0.494878,
+      "count": 1
+    },
+    {
+      "text": "subgrupo centro de costos valor",
+      "relevance": 0.494844,
+      "count": 1
+    },
+    {
+      "text": "pesos",
+      "relevance": 0.494498,
+      "count": 3
+    },
+    {
+      "text": "objeto del compromiso",
+      "relevance": 0.494473,
+      "count": 1
+    },
+    {
+      "text": "literales k",
+      "relevance": 0.493578,
+      "count": 1
+    },
+    {
+      "text": "principio de anualidad",
+      "relevance": 0.493578,
+      "count": 1
+    },
+    {
+      "text": "vigencia futura del afio",
+      "relevance": 0.49266,
+      "count": 1
+    },
+    {
+      "text": "vida de sus usuarios",
+      "relevance": 0.492536,
+      "count": 1
+    }
+  ]
+}

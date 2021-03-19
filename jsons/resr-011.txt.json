@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2198,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "universidad del valle",
+      "relevance": 0.673933,
+      "count": 6
+    },
+    {
+      "text": "resultados sobresalientes",
+      "relevance": 0.615066,
+      "count": 1
+    },
+    {
+      "text": "situaciones de atraso",
+      "relevance": 0.615066,
+      "count": 1
+    },
+    {
+      "text": "galard6\u00e9n",
+      "relevance": 0.608095,
+      "count": 1
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.575242,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.568974,
+      "count": 1
+    },
+    {
+      "text": "marzo de cada ano",
+      "relevance": 0.56776,
+      "count": 1
+    },
+    {
+      "text": "siguientes modalidades",
+      "relevance": 0.542985,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de febrero",
+      "relevance": 0.534894,
+      "count": 1
+    },
+    {
+      "text": "mujer trabajadora",
+      "relevance": 0.533332,
+      "count": 1
+    },
+    {
+      "text": "t\u00e9rminos de los acuerdos convencionales",
+      "relevance": 0.531906,
+      "count": 1
+    },
+    {
+      "text": "salon de reuniones del despacho",
+      "relevance": 0.53016,
+      "count": 1
+    },
+    {
+      "text": "desarrollo de la comunidad",
+      "relevance": 0.528464,
+      "count": 1
+    },
+    {
+      "text": "estamento correspondiente",
+      "relevance": 0.528464,
+      "count": 1
+    },
+    {
+      "text": "distintos ambitos",
+      "relevance": 0.523963,
+      "count": 1
+    },
+    {
+      "text": "capacidad de liderazgo",
+      "relevance": 0.523963,
+      "count": 1
+    },
+    {
+      "text": "anteriores modalidades",
+      "relevance": 0.52297,
+      "count": 1
+    },
+    {
+      "text": "estatuto general",
+      "relevance": 0.515947,
+      "count": 1
+    },
+    {
+      "text": "lopez pulecio",
+      "relevance": 0.515947,
+      "count": 1
+    },
+    {
+      "text": "labor de los servidores",
+      "relevance": 0.510091,
+      "count": 1
+    },
+    {
+      "text": "secretario general",
+      "relevance": 0.507961,
+      "count": 1
+    },
+    {
+      "text": "mujer",
+      "relevance": 0.507913,
+      "count": 3
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.507553,
+      "count": 2
+    },
+    {
+      "text": "empleada de la universidad del valle",
+      "relevance": 0.498249,
+      "count": 1
+    },
+    {
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.497229,
+      "count": 1
+    },
+    {
+      "text": "paragrafo",
+      "relevance": 0.494819,
+      "count": 1
+    },
+    {
+      "text": "valle del cauca",
+      "relevance": 0.493098,
+      "count": 1
+    },
+    {
+      "text": "estudiantes",
+      "relevance": 0.485311,
+      "count": 2
+    },
+    {
+      "text": "gobernador",
+      "relevance": 0.484983,
+      "count": 1
+    },
+    {
+      "text": "atribuciones",
+      "relevance": 0.484076,
+      "count": 1
+    },
+    {
+      "text": "participacion",
+      "relevance": 0.479103,
+      "count": 1
+    },
+    {
+      "text": "mujeres",
+      "relevance": 0.4731,
+      "count": 2
+    },
+    {
+      "text": "mujer estudiante de la universidad del valle",
+      "relevance": 0.472,
+      "count": 1
+    },
+    {
+      "text": "mujer trabajadora de la universidad del valle",
+      "relevance": 0.471244,
+      "count": 1
+    },
+    {
+      "text": "mujer profesora de la universidad del valle",
+      "relevance": 0.469999,
+      "count": 1
+    },
+    {
+      "text": "construccion",
+      "relevance": 0.468365,
+      "count": 1
+    },
+    {
+      "text": "profesoras",
+      "relevance": 0.468246,
+      "count": 1
+    },
+    {
+      "text": "6on",
+      "relevance": 0.467409,
+      "count": 1
+    },
+    {
+      "text": "galard\u00e9n",
+      "relevance": 0.467305,
+      "count": 2
+    },
+    {
+      "text": "injusticia",
+      "relevance": 0.466484,
+      "count": 1
+    },
+    {
+      "text": "empleadas",
+      "relevance": 0.466431,
+      "count": 1
+    },
+    {
+      "text": "marzo",
+      "relevance": 0.465821,
+      "count": 1
+    },
+    {
+      "text": "trabajadoras",
+      "relevance": 0.465594,
+      "count": 1
+    },
+    {
+      "text": "acuerdo",
+      "relevance": 0.465581,
+      "count": 1
+    },
+    {
+      "text": "dignificacio\u00e9n",
+      "relevance": 0.464604,
+      "count": 1
+    },
+    {
+      "text": "articulo",
+      "relevance": 0.464116,
+      "count": 1
+    },
+    {
+      "text": "resolucion",
+      "relevance": 0.462652,
+      "count": 1
+    },
+    {
+      "text": "febrero",
+      "relevance": 0.462652,
+      "count": 1
+    },
+    {
+      "text": "disposiciones",
+      "relevance": 0.462652,
+      "count": 1
+    },
+    {
+      "text": "uso",
+      "relevance": 0.462652,
+      "count": 1
+    }
+  ]
+}

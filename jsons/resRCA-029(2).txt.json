@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 7270,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "programas acad\u00e9micos",
+      "relevance": 0.74193,
+      "count": 1
+    },
+    {
+      "text": "programa de alternativa de grado",
+      "relevance": 0.706165,
+      "count": 2
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.58154,
+      "count": 4
+    },
+    {
+      "text": "actividades acad\u00e9micas",
+      "relevance": 0.575921,
+      "count": 2
+    },
+    {
+      "text": "trabajo de grado",
+      "relevance": 0.563593,
+      "count": 2
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.563004,
+      "count": 5
+    },
+    {
+      "text": "respectivo programa acad\u00e9mico",
+      "relevance": 0.559972,
+      "count": 1
+    },
+    {
+      "text": "plazo maximo",
+      "relevance": 0.559063,
+      "count": 2
+    },
+    {
+      "text": "rendimiento acad\u00e9mico",
+      "relevance": 0.556151,
+      "count": 2
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.544154,
+      "count": 1
+    },
+    {
+      "text": "obtencion del titulo",
+      "relevance": 0.543036,
+      "count": 1
+    },
+    {
+      "text": "carrera profesional",
+      "relevance": 0.536728,
+      "count": 1
+    },
+    {
+      "text": "grupo de personas",
+      "relevance": 0.534936,
+      "count": 1
+    },
+    {
+      "text": "nombre completo",
+      "relevance": 0.529128,
+      "count": 1
+    },
+    {
+      "text": "programa acad\u00e9mico",
+      "relevance": 0.52734,
+      "count": 3
+    },
+    {
+      "text": "mecanismos regulares",
+      "relevance": 0.524549,
+      "count": 1
+    },
+    {
+      "text": "certificaciones acad\u00e9micas",
+      "relevance": 0.524448,
+      "count": 1
+    },
+    {
+      "text": "competencias propias de su profesion",
+      "relevance": 0.523252,
+      "count": 1
+    },
+    {
+      "text": "segunda instancia",
+      "relevance": 0.522205,
+      "count": 1
+    },
+    {
+      "text": "razones distintas",
+      "relevance": 0.521282,
+      "count": 2
+    },
+    {
+      "text": "primer periodo del ano",
+      "relevance": 0.520825,
+      "count": 1
+    },
+    {
+      "text": "programa de alternativa",
+      "relevance": 0.520653,
+      "count": 1
+    },
+    {
+      "text": "curriculo de la respectiva facultad",
+      "relevance": 0.519847,
+      "count": 1
+    },
+    {
+      "text": "anterior solicitud",
+      "relevance": 0.519283,
+      "count": 1
+    },
+    {
+      "text": "requisitos de grado",
+      "relevance": 0.518831,
+      "count": 1
+    },
+    {
+      "text": "siguientes requisitos",
+      "relevance": 0.51773,
+      "count": 1
+    },
+    {
+      "text": "consejo academico de la universidad del valle",
+      "relevance": 0.517681,
+      "count": 1
+    },
+    {
+      "text": "salon de reuniones",
+      "relevance": 0.51656,
+      "count": 1
+    },
+    {
+      "text": "programas acad\u00e9micos de pregrado de la universidad",
+      "relevance": 0.516017,
+      "count": 1
+    },
+    {
+      "text": "reglamentacion vigente",
+      "relevance": 0.515618,
+      "count": 2
+    },
+    {
+      "text": "dedicacion de tiempo completo",
+      "relevance": 0.515528,
+      "count": 1
+    },
+    {
+      "text": "primera instancia",
+      "relevance": 0.515527,
+      "count": 1
+    },
+    {
+      "text": "campos afines",
+      "relevance": 0.514891,
+      "count": 1
+    },
+    {
+      "text": "requerimientos acad\u00e9micos",
+      "relevance": 0.514491,
+      "count": 1
+    },
+    {
+      "text": "presente resolucion",
+      "relevance": 0.51367,
+      "count": 2
+    },
+    {
+      "text": "afios de la universidad del valle",
+      "relevance": 0.512847,
+      "count": 1
+    },
+    {
+      "text": "sola vez",
+      "relevance": 0.512754,
+      "count": 1
+    },
+    {
+      "text": "momento de su retiro de la universidad",
+      "relevance": 0.512272,
+      "count": 1
+    },
+    {
+      "text": "caracteristicas del informe acad\u00e9mico",
+      "relevance": 0.511595,
+      "count": 1
+    },
+    {
+      "text": "excepcion de trabajo de grado",
+      "relevance": 0.510411,
+      "count": 2
+    },
+    {
+      "text": "informe acad\u00e9mico",
+      "relevance": 0.510363,
+      "count": 1
+    },
+    {
+      "text": "programas de pregrado",
+      "relevance": 0.510075,
+      "count": 3
+    },
+    {
+      "text": "casos de reclamaciones",
+      "relevance": 0.509695,
+      "count": 1
+    },
+    {
+      "text": "podra",
+      "relevance": 0.507845,
+      "count": 2
+    },
+    {
+      "text": "asignaturas constitutivas del programa",
+      "relevance": 0.507721,
+      "count": 1
+    },
+    {
+      "text": "alternativa de grado",
+      "relevance": 0.506001,
+      "count": 4
+    },
+    {
+      "text": "pasos correspondientes",
+      "relevance": 0.505779,
+      "count": 1
+    },
+    {
+      "text": "respectivo programa",
+      "relevance": 0.505189,
+      "count": 1
+    },
+    {
+      "text": "ministerio de educacion nacional",
+      "relevance": 0.504491,
+      "count": 1
+    },
+    {
+      "text": "estudios vigente",
+      "relevance": 0.503793,
+      "count": 1
+    }
+  ]
+}

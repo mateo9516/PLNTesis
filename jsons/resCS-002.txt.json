@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 2,
+    "text_characters": 14737,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "categorias acad\u00e9micas",
+      "relevance": 0.597679,
+      "count": 1
+    },
+    {
+      "text": "t\u00e9rminos de los factores de puntaje",
+      "relevance": 0.578855,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.576535,
+      "count": 10
+    },
+    {
+      "text": "escalaf6\u00e9n docente",
+      "relevance": 0.569716,
+      "count": 1
+    },
+    {
+      "text": "ascenso de los profesores de la universidad",
+      "relevance": 0.569113,
+      "count": 1
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.562182,
+      "count": 3
+    },
+    {
+      "text": "escalaf\u00e9n docente",
+      "relevance": 0.560797,
+      "count": 2
+    },
+    {
+      "text": "credenciales de facultad",
+      "relevance": 0.553977,
+      "count": 1
+    },
+    {
+      "text": "estudios universitarios",
+      "relevance": 0.549414,
+      "count": 1
+    },
+    {
+      "text": "escalafon del profesor universitario",
+      "relevance": 0.547521,
+      "count": 1
+    },
+    {
+      "text": "efectos del escalaf\u00e9n",
+      "relevance": 0.543495,
+      "count": 1
+    },
+    {
+      "text": "requisitos de ingreso",
+      "relevance": 0.541846,
+      "count": 1
+    },
+    {
+      "text": "experiencia calificada",
+      "relevance": 0.541091,
+      "count": 1
+    },
+    {
+      "text": "caso necesario",
+      "relevance": 0.537732,
+      "count": 1
+    },
+    {
+      "text": "ayuda de especialistas",
+      "relevance": 0.536837,
+      "count": 1
+    },
+    {
+      "text": "decretos reglamentarios",
+      "relevance": 0.532563,
+      "count": 5
+    },
+    {
+      "text": "acreditaci6n de m\u00e9ritos de los profesores",
+      "relevance": 0.531388,
+      "count": 1
+    },
+    {
+      "text": "estatuto profesoral de la universidad",
+      "relevance": 0.528678,
+      "count": 1
+    },
+    {
+      "text": "profesor titular",
+      "relevance": 0.52769,
+      "count": 2
+    },
+    {
+      "text": "productividad acad\u00e9mica",
+      "relevance": 0.527679,
+      "count": 2
+    },
+    {
+      "text": "grupo de profesores",
+      "relevance": 0.527187,
+      "count": 1
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.526919,
+      "count": 9
+    },
+    {
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.526382,
+      "count": 2
+    },
+    {
+      "text": "6n de evaluadores externos",
+      "relevance": 0.524903,
+      "count": 1
+    },
+    {
+      "text": "marco legal",
+      "relevance": 0.524622,
+      "count": 1
+    },
+    {
+      "text": "representantes profesorales",
+      "relevance": 0.523135,
+      "count": 1
+    },
+    {
+      "text": "unidad acad\u00e9mica correspondiente",
+      "relevance": 0.522524,
+      "count": 1
+    },
+    {
+      "text": "profesor asistente",
+      "relevance": 0.520944,
+      "count": 3
+    },
+    {
+      "text": "solicitudes de actualizaci6",
+      "relevance": 0.520888,
+      "count": 1
+    },
+    {
+      "text": "asignaci\u00e9n de puntaje",
+      "relevance": 0.520202,
+      "count": 2
+    },
+    {
+      "text": "profesor asociado",
+      "relevance": 0.51952,
+      "count": 4
+    },
+    {
+      "text": "calidad de asesores permanentes",
+      "relevance": 0.519216,
+      "count": 1
+    },
+    {
+      "text": "previo estudio",
+      "relevance": 0.518422,
+      "count": 1
+    },
+    {
+      "text": "profesor auxiliar",
+      "relevance": 0.518386,
+      "count": 2
+    },
+    {
+      "text": "titulos correspondientes",
+      "relevance": 0.516642,
+      "count": 1
+    },
+    {
+      "text": "excelencia de los profesores",
+      "relevance": 0.516463,
+      "count": 1
+    },
+    {
+      "text": "escalaf\u00e9n profesoral",
+      "relevance": 0.51569,
+      "count": 3
+    },
+    {
+      "text": "presidentes de los comit\u00e9s de credenciales",
+      "relevance": 0.515595,
+      "count": 1
+    },
+    {
+      "text": "efectos de la presente",
+      "relevance": 0.514937,
+      "count": 1
+    },
+    {
+      "text": "excelencia acad\u00e9mica",
+      "relevance": 0.51403,
+      "count": 1
+    },
+    {
+      "text": "organismos encargados",
+      "relevance": 0.513387,
+      "count": 1
+    },
+    {
+      "text": "puntaje tendra",
+      "relevance": 0.512926,
+      "count": 1
+    },
+    {
+      "text": "comit\u00e9s de credenciales de facultad",
+      "relevance": 0.512529,
+      "count": 1
+    },
+    {
+      "text": "autoridad competente",
+      "relevance": 0.512383,
+      "count": 1
+    },
+    {
+      "text": "trabajos publicados",
+      "relevance": 0.512374,
+      "count": 2
+    },
+    {
+      "text": "forma individual",
+      "relevance": 0.511963,
+      "count": 1
+    },
+    {
+      "text": "difusi\u00e9n de la actividad intelectual",
+      "relevance": 0.5119,
+      "count": 1
+    },
+    {
+      "text": "escalafo\u00e9n profesoral",
+      "relevance": 0.511818,
+      "count": 1
+    },
+    {
+      "text": "pares acad\u00e9micos",
+      "relevance": 0.511524,
+      "count": 1
+    },
+    {
+      "text": "actividad intelectual",
+      "relevance": 0.511193,
+      "count": 1
+    }
+  ]
+}

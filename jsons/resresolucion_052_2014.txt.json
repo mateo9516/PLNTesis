@@ -1,0 +1,263 @@
+{
+  "usage": {
+    "text_units": 5,
+    "text_characters": 50000,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "control interno",
+      "relevance": 0.663187,
+      "count": 41
+    },
+    {
+      "text": "cumplimiento de sus objetivos",
+      "relevance": 0.601883,
+      "count": 2
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.598685,
+      "count": 33
+    },
+    {
+      "text": "ejecucion de los procesos",
+      "relevance": 0.577196,
+      "count": 1
+    },
+    {
+      "text": "cumplimiento del articulo",
+      "relevance": 0.5612,
+      "count": 1
+    },
+    {
+      "text": "responsabilidad del control interno",
+      "relevance": 0.553825,
+      "count": 1
+    },
+    {
+      "text": "mejoramiento continuo",
+      "relevance": 0.549998,
+      "count": 2
+    },
+    {
+      "text": "fluidez de la informacion",
+      "relevance": 0.548965,
+      "count": 1
+    },
+    {
+      "text": "objetivo general del modelo",
+      "relevance": 0.548523,
+      "count": 1
+    },
+    {
+      "text": "presidencia de la republica",
+      "relevance": 0.54773,
+      "count": 4
+    },
+    {
+      "text": "posibles riesgos",
+      "relevance": 0.542009,
+      "count": 1
+    },
+    {
+      "text": "naturaleza de sus funciones",
+      "relevance": 0.536022,
+      "count": 1
+    },
+    {
+      "text": "componente talento humano",
+      "relevance": 0.534919,
+      "count": 3
+    },
+    {
+      "text": "gestion de la organizaci6n",
+      "relevance": 0.533505,
+      "count": 1
+    },
+    {
+      "text": "manera oportuna",
+      "relevance": 0.53134,
+      "count": 1
+    },
+    {
+      "text": "fortalecimiento continuo del modelo",
+      "relevance": 0.52942,
+      "count": 6
+    },
+    {
+      "text": "estandar de conducta de los servidores",
+      "relevance": 0.529206,
+      "count": 1
+    },
+    {
+      "text": "desarrollo del sistema",
+      "relevance": 0.528857,
+      "count": 1
+    },
+    {
+      "text": "coordinacion de las acciones",
+      "relevance": 0.528236,
+      "count": 1
+    },
+    {
+      "text": "obligatorio cumplimiento",
+      "relevance": 0.527911,
+      "count": 1
+    },
+    {
+      "text": "planes de mejoramiento",
+      "relevance": 0.527478,
+      "count": 3
+    },
+    {
+      "text": "elementos necesarios",
+      "relevance": 0.5265,
+      "count": 1
+    },
+    {
+      "text": "objetivos institucionales",
+      "relevance": 0.525594,
+      "count": 7
+    },
+    {
+      "text": "regional segun",
+      "relevance": 0.523793,
+      "count": 1
+    },
+    {
+      "text": "servidor publico",
+      "relevance": 0.52372,
+      "count": 1
+    },
+    {
+      "text": "mejoramiento continuo de la administraci6",
+      "relevance": 0.523631,
+      "count": 1
+    },
+    {
+      "text": "eje transversal",
+      "relevance": 0.523281,
+      "count": 3
+    },
+    {
+      "text": "componente direccionamiento estrategico",
+      "relevance": 0.521731,
+      "count": 1
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.521723,
+      "count": 31
+    },
+    {
+      "text": "ley n",
+      "relevance": 0.52135,
+      "count": 2
+    },
+    {
+      "text": "fines esenciales del estado",
+      "relevance": 0.52114,
+      "count": 1
+    },
+    {
+      "text": "distintas dependencias de las entidades",
+      "relevance": 0.520976,
+      "count": 1
+    },
+    {
+      "text": "recursos de la organizacion",
+      "relevance": 0.520436,
+      "count": 1
+    },
+    {
+      "text": "forma eficiente",
+      "relevance": 0.518423,
+      "count": 1
+    },
+    {
+      "text": "objetivos de control de cumplimiento",
+      "relevance": 0.518349,
+      "count": 1
+    },
+    {
+      "text": "tiempo real",
+      "relevance": 0.51796,
+      "count": 2
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.51764,
+      "count": 25
+    },
+    {
+      "text": "objetivos principales de este modulo",
+      "relevance": 0.517298,
+      "count": 1
+    },
+    {
+      "text": "alcance del control interno",
+      "relevance": 0.516327,
+      "count": 1
+    },
+    {
+      "text": "componente autoevaluacion institucional",
+      "relevance": 0.515537,
+      "count": 1
+    },
+    {
+      "text": "disefio de los lineamientos estrat\u00e9gicos",
+      "relevance": 0.515177,
+      "count": 1
+    },
+    {
+      "text": "elementos interrelacionados",
+      "relevance": 0.515026,
+      "count": 1
+    },
+    {
+      "text": "partes interesadas",
+      "relevance": 0.514282,
+      "count": 3
+    },
+    {
+      "text": "autoridades correspondientes",
+      "relevance": 0.514042,
+      "count": 1
+    },
+    {
+      "text": "independencia frente",
+      "relevance": 0.513984,
+      "count": 1
+    },
+    {
+      "text": "componente planes de mejoramiento",
+      "relevance": 0.513902,
+      "count": 2
+    },
+    {
+      "text": "adecuado cumplimiento",
+      "relevance": 0.513832,
+      "count": 2
+    },
+    {
+      "text": "correctivos de manera oportuna",
+      "relevance": 0.513526,
+      "count": 1
+    },
+    {
+      "text": "recursos humanos",
+      "relevance": 0.513363,
+      "count": 2
+    },
+    {
+      "text": "sistema de control interno",
+      "relevance": 0.513338,
+      "count": 2
+    }
+  ],
+  "warnings": [
+    "Text content exceeds 50000 character limit. Only first 50000 characters processed..."
+  ]
+}

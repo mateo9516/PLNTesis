@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 7564,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "programa acad\u00e9mico",
+      "relevance": 0.663958,
+      "count": 7
+    },
+    {
+      "text": "campo de la especializacion",
+      "relevance": 0.647345,
+      "count": 1
+    },
+    {
+      "text": "cr\u00e9ditos requeridos",
+      "relevance": 0.597596,
+      "count": 1
+    },
+    {
+      "text": "educacion superior",
+      "relevance": 0.597595,
+      "count": 1
+    },
+    {
+      "text": "consejo de facultad de ingenieria",
+      "relevance": 0.571956,
+      "count": 1
+    },
+    {
+      "text": "diferentes niveles",
+      "relevance": 0.565616,
+      "count": 1
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.565506,
+      "count": 5
+    },
+    {
+      "text": "escuela de ingenieria civil",
+      "relevance": 0.561708,
+      "count": 2
+    },
+    {
+      "text": "alto nivel",
+      "relevance": 0.561036,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.559247,
+      "count": 2
+    },
+    {
+      "text": "facultades legales",
+      "relevance": 0.546882,
+      "count": 1
+    },
+    {
+      "text": "nivel de especializacion",
+      "relevance": 0.540223,
+      "count": 1
+    },
+    {
+      "text": "construcci6on",
+      "relevance": 0.537181,
+      "count": 1
+    },
+    {
+      "text": "nivel t\u00e9cnico",
+      "relevance": 0.535387,
+      "count": 1
+    },
+    {
+      "text": "demas normas de la universidad",
+      "relevance": 0.534951,
+      "count": 1
+    },
+    {
+      "text": "ingenieros civiles",
+      "relevance": 0.532856,
+      "count": 1
+    },
+    {
+      "text": "normativa nacional",
+      "relevance": 0.532603,
+      "count": 1
+    },
+    {
+      "text": "comit\u00e9 central de curriculo",
+      "relevance": 0.528937,
+      "count": 1
+    },
+    {
+      "text": "casos especiales",
+      "relevance": 0.528374,
+      "count": 1
+    },
+    {
+      "text": "siguientes objetivos",
+      "relevance": 0.526984,
+      "count": 1
+    },
+    {
+      "text": "requisito de grado",
+      "relevance": 0.522455,
+      "count": 1
+    },
+    {
+      "text": "geotecnia",
+      "relevance": 0.520945,
+      "count": 15
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.520666,
+      "count": 1
+    },
+    {
+      "text": "cr\u00e9ditos acad\u00e9micos",
+      "relevance": 0.518233,
+      "count": 1
+    },
+    {
+      "text": "titulo de posgrado",
+      "relevance": 0.518086,
+      "count": 1
+    },
+    {
+      "text": "alcance de los programas",
+      "relevance": 0.515944,
+      "count": 1
+    },
+    {
+      "text": "soluciones creativas",
+      "relevance": 0.515438,
+      "count": 1
+    },
+    {
+      "text": "m\u00e9todos de analisis dinamico",
+      "relevance": 0.514896,
+      "count": 1
+    },
+    {
+      "text": "facultad de ingenieria",
+      "relevance": 0.514694,
+      "count": 1
+    },
+    {
+      "text": "ingenieria sismo-geot\u00e9cnica",
+      "relevance": 0.513039,
+      "count": 2
+    },
+    {
+      "text": "consejo academico de la universidad del valle",
+      "relevance": 0.512036,
+      "count": 1
+    },
+    {
+      "text": "pruebas avanzadas de campo",
+      "relevance": 0.511095,
+      "count": 1
+    },
+    {
+      "text": "titulo de especialista",
+      "relevance": 0.51086,
+      "count": 2
+    },
+    {
+      "text": "salon de reuniones de la rectoria",
+      "relevance": 0.510418,
+      "count": 1
+    },
+    {
+      "text": "perfil del egresado",
+      "relevance": 0.510401,
+      "count": 1
+    },
+    {
+      "text": "dominio de lengua extranjera",
+      "relevance": 0.510373,
+      "count": 1
+    },
+    {
+      "text": "aprobaci\u00e9n de la modificacidn",
+      "relevance": 0.509814,
+      "count": 1
+    },
+    {
+      "text": "ingenieria civil",
+      "relevance": 0.509619,
+      "count": 1
+    },
+    {
+      "text": "condiciones de calidad",
+      "relevance": 0.508923,
+      "count": 1
+    },
+    {
+      "text": "funciones delegadas",
+      "relevance": 0.50884,
+      "count": 1
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.50701,
+      "count": 1
+    },
+    {
+      "text": "especificas de la facultad de ingenieria",
+      "relevance": 0.505939,
+      "count": 1
+    },
+    {
+      "text": "formacion profesional de ingenieria",
+      "relevance": 0.504981,
+      "count": 1
+    },
+    {
+      "text": "laboratorio de geotecnia",
+      "relevance": 0.504494,
+      "count": 1
+    },
+    {
+      "text": "posgrados de la escuela",
+      "relevance": 0.504157,
+      "count": 1
+    },
+    {
+      "text": "componente asignatura",
+      "relevance": 0.503777,
+      "count": 1
+    },
+    {
+      "text": "cupo maximo",
+      "relevance": 0.503418,
+      "count": 1
+    },
+    {
+      "text": "tratamientos especializados",
+      "relevance": 0.503254,
+      "count": 1
+    },
+    {
+      "text": "metodologia presencial",
+      "relevance": 0.50313,
+      "count": 1
+    },
+    {
+      "text": "cursos electivos de profundizacion",
+      "relevance": 0.503089,
+      "count": 1
+    }
+  ]
+}

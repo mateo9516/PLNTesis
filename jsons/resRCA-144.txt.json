@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 5209,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "centro de investigaciones",
+      "relevance": 0.691752,
+      "count": 4
+    },
+    {
+      "text": "estudios de g\u00e9nero",
+      "relevance": 0.624098,
+      "count": 4
+    },
+    {
+      "text": "centros de investigacion",
+      "relevance": 0.577328,
+      "count": 1
+    },
+    {
+      "text": "larga trayectoria",
+      "relevance": 0.573914,
+      "count": 1
+    },
+    {
+      "text": "centro de estudios de g\u00e9nero",
+      "relevance": 0.566149,
+      "count": 2
+    },
+    {
+      "text": "literal f",
+      "relevance": 0.560976,
+      "count": 1
+    },
+    {
+      "text": "clase social",
+      "relevance": 0.551896,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.550861,
+      "count": 4
+    },
+    {
+      "text": "comit\u00e9 central de investigaciones",
+      "relevance": 0.54842,
+      "count": 1
+    },
+    {
+      "text": "ciencias de la administracion",
+      "relevance": 0.546917,
+      "count": 1
+    },
+    {
+      "text": "comit\u00e9 coordinador",
+      "relevance": 0.543125,
+      "count": 1
+    },
+    {
+      "text": "cumplimiento de lo dispuesto",
+      "relevance": 0.541994,
+      "count": 1
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.541801,
+      "count": 5
+    },
+    {
+      "text": "nivel regional",
+      "relevance": 0.540936,
+      "count": 1
+    },
+    {
+      "text": "par externo",
+      "relevance": 0.537382,
+      "count": 1
+    },
+    {
+      "text": "vida cotidiana",
+      "relevance": 0.53696,
+      "count": 1
+    },
+    {
+      "text": "materia de estudios de g\u00e9nero",
+      "relevance": 0.533685,
+      "count": 1
+    },
+    {
+      "text": "incorporacion transversal de la perspectiva",
+      "relevance": 0.533526,
+      "count": 1
+    },
+    {
+      "text": "consejo de la facultad de humanidades",
+      "relevance": 0.53286,
+      "count": 1
+    },
+    {
+      "text": "paragrafo",
+      "relevance": 0.527001,
+      "count": 4
+    },
+    {
+      "text": "presente resoluci6",
+      "relevance": 0.526639,
+      "count": 1
+    },
+    {
+      "text": "resultados de las investigaciones",
+      "relevance": 0.526225,
+      "count": 1
+    },
+    {
+      "text": "estructura organica de la universidad",
+      "relevance": 0.526145,
+      "count": 1
+    },
+    {
+      "text": "universidad del valle definio",
+      "relevance": 0.524473,
+      "count": 1
+    },
+    {
+      "text": "cargo del director de centro",
+      "relevance": 0.524374,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.523311,
+      "count": 1
+    },
+    {
+      "text": "rector previo",
+      "relevance": 0.522876,
+      "count": 1
+    },
+    {
+      "text": "objetivos del centro",
+      "relevance": 0.522736,
+      "count": 2
+    },
+    {
+      "text": "informe anual",
+      "relevance": 0.52147,
+      "count": 1
+    },
+    {
+      "text": "categorias de andalisis",
+      "relevance": 0.521117,
+      "count": 1
+    },
+    {
+      "text": "conformacion de este comit\u00e9",
+      "relevance": 0.518283,
+      "count": 1
+    },
+    {
+      "text": "cumplimiento de las funciones",
+      "relevance": 0.51616,
+      "count": 1
+    },
+    {
+      "text": "forma organizativa",
+      "relevance": 0.514908,
+      "count": 1
+    },
+    {
+      "text": "unidad de la facultad de humanidades",
+      "relevance": 0.514827,
+      "count": 1
+    },
+    {
+      "text": "ejecucion de politicas de equidad",
+      "relevance": 0.513724,
+      "count": 1
+    },
+    {
+      "text": "espacios de reflexion",
+      "relevance": 0.508952,
+      "count": 1
+    },
+    {
+      "text": "dinamicas propias de su desarrollo",
+      "relevance": 0.50884,
+      "count": 1
+    },
+    {
+      "text": "sistema de investigacion",
+      "relevance": 0.507598,
+      "count": 1
+    },
+    {
+      "text": "consejo academico de la universidad del valle",
+      "relevance": 0.5062,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de noviembre",
+      "relevance": 0.504239,
+      "count": 1
+    },
+    {
+      "text": "uso de sus atribuciones",
+      "relevance": 0.504129,
+      "count": 1
+    },
+    {
+      "text": "salon de graduados",
+      "relevance": 0.503203,
+      "count": 1
+    },
+    {
+      "text": "ambitos local",
+      "relevance": 0.501998,
+      "count": 1
+    },
+    {
+      "text": "incorporacion de la perspectiva de g\u00e9nero",
+      "relevance": 0.501727,
+      "count": 1
+    },
+    {
+      "text": "desempefio del centro",
+      "relevance": 0.501617,
+      "count": 1
+    },
+    {
+      "text": "secretario general",
+      "relevance": 0.501427,
+      "count": 1
+    },
+    {
+      "text": "programas acad\u00e9micos de la universidad",
+      "relevance": 0.501105,
+      "count": 1
+    },
+    {
+      "text": "conformidad",
+      "relevance": 0.500686,
+      "count": 2
+    },
+    {
+      "text": "perspectiva de g\u00e9nero",
+      "relevance": 0.500166,
+      "count": 1
+    },
+    {
+      "text": "senor rector",
+      "relevance": 0.499685,
+      "count": 1
+    }
+  ]
+}

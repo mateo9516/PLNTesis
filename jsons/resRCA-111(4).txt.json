@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 7897,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "asignaturas de un programa acad\u00e9mico",
+      "relevance": 0.684813,
+      "count": 1
+    },
+    {
+      "text": "estudiante visitante",
+      "relevance": 0.62836,
+      "count": 3
+    },
+    {
+      "text": "movilidad de estudiantes",
+      "relevance": 0.627224,
+      "count": 1
+    },
+    {
+      "text": "programas de cooperacion",
+      "relevance": 0.595747,
+      "count": 2
+    },
+    {
+      "text": "presente resolucion",
+      "relevance": 0.581925,
+      "count": 1
+    },
+    {
+      "text": "periodos acad\u00e9micos",
+      "relevance": 0.578575,
+      "count": 2
+    },
+    {
+      "text": "programas acad\u00e9micos de la facultad",
+      "relevance": 0.575663,
+      "count": 1
+    },
+    {
+      "text": "programa acad\u00e9mico",
+      "relevance": 0.553033,
+      "count": 1
+    },
+    {
+      "text": "estudiantes extranjeros",
+      "relevance": 0.552723,
+      "count": 1
+    },
+    {
+      "text": "respectivos carn\u00e9s",
+      "relevance": 0.552439,
+      "count": 1
+    },
+    {
+      "text": "estudiantes visitantes",
+      "relevance": 0.548395,
+      "count": 3
+    },
+    {
+      "text": "ambito nacional",
+      "relevance": 0.548316,
+      "count": 1
+    },
+    {
+      "text": "unidad acad\u00e9mica",
+      "relevance": 0.547399,
+      "count": 1
+    },
+    {
+      "text": "seguro m\u00e9dico internacional",
+      "relevance": 0.544861,
+      "count": 1
+    },
+    {
+      "text": "registro de los estudiantes nacionales",
+      "relevance": 0.543437,
+      "count": 1
+    },
+    {
+      "text": "division de admisiones yuniversidad",
+      "relevance": 0.542097,
+      "count": 1
+    },
+    {
+      "text": "calidad acad\u00e9mica",
+      "relevance": 0.537641,
+      "count": 1
+    },
+    {
+      "text": "identificacion de sus estudiantes visitantes",
+      "relevance": 0.532076,
+      "count": 1
+    },
+    {
+      "text": "registro acad\u00e9mico",
+      "relevance": 0.531471,
+      "count": 6
+    },
+    {
+      "text": "facultad de salud",
+      "relevance": 0.531379,
+      "count": 3
+    },
+    {
+      "text": "relaciones internacionales",
+      "relevance": 0.530543,
+      "count": 2
+    },
+    {
+      "text": "relaciones internacional",
+      "relevance": 0.530503,
+      "count": 1
+    },
+    {
+      "text": "area de registro acad\u00e9mico",
+      "relevance": 0.528334,
+      "count": 2
+    },
+    {
+      "text": "estudiantes de pregrado",
+      "relevance": 0.528205,
+      "count": 1
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.52817,
+      "count": 5
+    },
+    {
+      "text": "derechos econ\u00e9micos",
+      "relevance": 0.521932,
+      "count": 1
+    },
+    {
+      "text": "personal docente",
+      "relevance": 0.520002,
+      "count": 1
+    },
+    {
+      "text": "cooperacion institucionales",
+      "relevance": 0.518661,
+      "count": 1
+    },
+    {
+      "text": "convenios nacionales",
+      "relevance": 0.518308,
+      "count": 1
+    },
+    {
+      "text": "valor fijado",
+      "relevance": 0.517541,
+      "count": 1
+    },
+    {
+      "text": "siguiente informacion",
+      "relevance": 0.517475,
+      "count": 1
+    },
+    {
+      "text": "previo cumplimiento",
+      "relevance": 0.515667,
+      "count": 1
+    },
+    {
+      "text": "convenios interinstitucionales nacionales",
+      "relevance": 0.514407,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.511192,
+      "count": 1
+    },
+    {
+      "text": "acuerdos suscritos",
+      "relevance": 0.510314,
+      "count": 1
+    },
+    {
+      "text": "proceso de admision",
+      "relevance": 0.509654,
+      "count": 1
+    },
+    {
+      "text": "servicio m\u00e9dico",
+      "relevance": 0.509531,
+      "count": 1
+    },
+    {
+      "text": "direccion de autoevaluacion acad\u00e9mica",
+      "relevance": 0.509324,
+      "count": 1
+    },
+    {
+      "text": "division de admisiones",
+      "relevance": 0.508778,
+      "count": 4
+    },
+    {
+      "text": "estadia de los participantes",
+      "relevance": 0.508693,
+      "count": 1
+    },
+    {
+      "text": "presentacion podra",
+      "relevance": 0.507958,
+      "count": 1
+    },
+    {
+      "text": "pago de los derechos",
+      "relevance": 0.506952,
+      "count": 1
+    },
+    {
+      "text": "certificado oficial de calificaciones",
+      "relevance": 0.506741,
+      "count": 1
+    },
+    {
+      "text": "universidad extranjera",
+      "relevance": 0.50669,
+      "count": 1
+    },
+    {
+      "text": "carn\u00e9 de estudiante visitante",
+      "relevance": 0.506359,
+      "count": 4
+    },
+    {
+      "text": "paragrafo",
+      "relevance": 0.505908,
+      "count": 6
+    },
+    {
+      "text": "nombres completos",
+      "relevance": 0.505883,
+      "count": 1
+    },
+    {
+      "text": "dominio del idioma",
+      "relevance": 0.504971,
+      "count": 1
+    },
+    {
+      "text": "entidad competente",
+      "relevance": 0.504599,
+      "count": 1
+    },
+    {
+      "text": "cddigo de acuerdo",
+      "relevance": 0.503836,
+      "count": 1
+    }
+  ]
+}

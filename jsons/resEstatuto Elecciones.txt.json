@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 2,
+    "text_characters": 17223,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "secretaria general",
+      "relevance": 0.618886,
+      "count": 12
+    },
+    {
+      "text": "primer escrutinio",
+      "relevance": 0.609404,
+      "count": 2
+    },
+    {
+      "text": "numero de papeletas",
+      "relevance": 0.598761,
+      "count": 5
+    },
+    {
+      "text": "secretarias acad\u00e9micas de las facultades",
+      "relevance": 0.591978,
+      "count": 1
+    },
+    {
+      "text": "eleccidn de los representantes de los profesores",
+      "relevance": 0.584005,
+      "count": 1
+    },
+    {
+      "text": "unidades acad\u00e9micas",
+      "relevance": 0.582849,
+      "count": 2
+    },
+    {
+      "text": "comit\u00e9 de honor",
+      "relevance": 0.580988,
+      "count": 10
+    },
+    {
+      "text": "estatuto general",
+      "relevance": 0.56572,
+      "count": 3
+    },
+    {
+      "text": "claustro de profesores",
+      "relevance": 0.563706,
+      "count": 1
+    },
+    {
+      "text": "recursos humanos",
+      "relevance": 0.561753,
+      "count": 1
+    },
+    {
+      "text": "representaciones de los directores de programas",
+      "relevance": 0.553236,
+      "count": 1
+    },
+    {
+      "text": "votacion directa",
+      "relevance": 0.54809,
+      "count": 2
+    },
+    {
+      "text": "personas inscritas",
+      "relevance": 0.547423,
+      "count": 1
+    },
+    {
+      "text": "numero de votantes firmantes",
+      "relevance": 0.546643,
+      "count": 3
+    },
+    {
+      "text": "papeletas de votacion",
+      "relevance": 0.543027,
+      "count": 4
+    },
+    {
+      "text": "normas generales",
+      "relevance": 0.54095,
+      "count": 1
+    },
+    {
+      "text": "elecci\u00e9n de los representantes de los directores",
+      "relevance": 0.539001,
+      "count": 1
+    },
+    {
+      "text": "escrutinio definitivo",
+      "relevance": 0.53678,
+      "count": 1
+    },
+    {
+      "text": "secretario del comit\u00e9 de honor",
+      "relevance": 0.534411,
+      "count": 3
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.529233,
+      "count": 3
+    },
+    {
+      "text": "paragrafo",
+      "relevance": 0.528495,
+      "count": 20
+    },
+    {
+      "text": "respectiva facultad",
+      "relevance": 0.526604,
+      "count": 5
+    },
+    {
+      "text": "listas de los profesores",
+      "relevance": 0.525392,
+      "count": 1
+    },
+    {
+      "text": "planes nocturnos",
+      "relevance": 0.524129,
+      "count": 1
+    },
+    {
+      "text": "mayor numero de votos",
+      "relevance": 0.522291,
+      "count": 1
+    },
+    {
+      "text": "inscripcion de los candidatos",
+      "relevance": 0.521855,
+      "count": 1
+    },
+    {
+      "text": "presente resolucion",
+      "relevance": 0.521712,
+      "count": 1
+    },
+    {
+      "text": "elecciones directas",
+      "relevance": 0.521411,
+      "count": 4
+    },
+    {
+      "text": "secretaria acad\u00e9mica",
+      "relevance": 0.521111,
+      "count": 3
+    },
+    {
+      "text": "representantes estudiantiles",
+      "relevance": 0.520786,
+      "count": 2
+    },
+    {
+      "text": "diferentes cuerpos colegiados",
+      "relevance": 0.520361,
+      "count": 2
+    },
+    {
+      "text": "consejos superior",
+      "relevance": 0.518169,
+      "count": 6
+    },
+    {
+      "text": "acta de inscripcion",
+      "relevance": 0.518145,
+      "count": 1
+    },
+    {
+      "text": "sustentacion del mismo",
+      "relevance": 0.516414,
+      "count": 1
+    },
+    {
+      "text": "numero de representantes principales",
+      "relevance": 0.51617,
+      "count": 1
+    },
+    {
+      "text": "numero de firmantes",
+      "relevance": 0.514644,
+      "count": 3
+    },
+    {
+      "text": "representantes profesorales",
+      "relevance": 0.514569,
+      "count": 3
+    },
+    {
+      "text": "juan manuel",
+      "relevance": 0.514428,
+      "count": 1
+    },
+    {
+      "text": "secretarias acad\u00e9micas",
+      "relevance": 0.514212,
+      "count": 2
+    },
+    {
+      "text": "votos nulos",
+      "relevance": 0.51419,
+      "count": 1
+    },
+    {
+      "text": "secreta de los profesores nombrados",
+      "relevance": 0.513716,
+      "count": 1
+    },
+    {
+      "text": "copia de este documento",
+      "relevance": 0.513553,
+      "count": 1
+    },
+    {
+      "text": "apellido completos del candidato",
+      "relevance": 0.513361,
+      "count": 2
+    },
+    {
+      "text": "uso de sus atribuciones legales",
+      "relevance": 0.513078,
+      "count": 1
+    },
+    {
+      "text": "comunidad universitaria",
+      "relevance": 0.512007,
+      "count": 1
+    },
+    {
+      "text": "marcados segun",
+      "relevance": 0.51157,
+      "count": 1
+    },
+    {
+      "text": "representaciones de los directores",
+      "relevance": 0.510928,
+      "count": 1
+    },
+    {
+      "text": "voto",
+      "relevance": 0.510554,
+      "count": 2
+    },
+    {
+      "text": "dia siguiente",
+      "relevance": 0.510494,
+      "count": 1
+    },
+    {
+      "text": "director de plan de estudios",
+      "relevance": 0.510337,
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2988,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "programa acad\u00e9mico",
+      "relevance": 0.698059,
+      "count": 4
+    },
+    {
+      "text": "trabajo social",
+      "relevance": 0.602537,
+      "count": 4
+    },
+    {
+      "text": "servicio social",
+      "relevance": 0.593751,
+      "count": 1
+    },
+    {
+      "text": "atribuciones legales",
+      "relevance": 0.586289,
+      "count": 1
+    },
+    {
+      "text": "reuniones de la rectoria",
+      "relevance": 0.584535,
+      "count": 1
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.58125,
+      "count": 4
+    },
+    {
+      "text": "consejo directivo",
+      "relevance": 0.579334,
+      "count": 2
+    },
+    {
+      "text": "documento original",
+      "relevance": 0.574946,
+      "count": 1
+    },
+    {
+      "text": "sede de zarzal de la universidad",
+      "relevance": 0.572775,
+      "count": 1
+    },
+    {
+      "text": "educaci6\u00e9n superior",
+      "relevance": 0.559189,
+      "count": 1
+    },
+    {
+      "text": "escuela de trabajo social",
+      "relevance": 0.554715,
+      "count": 1
+    },
+    {
+      "text": "plataforma del sistema de aseguramiento",
+      "relevance": 0.553781,
+      "count": 1
+    },
+    {
+      "text": "plan de estudios",
+      "relevance": 0.553159,
+      "count": 1
+    },
+    {
+      "text": "ministerio de educacion nacional",
+      "relevance": 0.550882,
+      "count": 2
+    },
+    {
+      "text": "extension de varios programas acad\u00e9micos",
+      "relevance": 0.549789,
+      "count": 1
+    },
+    {
+      "text": "divisi6n de humanidades",
+      "relevance": 0.548294,
+      "count": 1
+    },
+    {
+      "text": "metodologia presencial",
+      "relevance": 0.54685,
+      "count": 1
+    },
+    {
+      "text": "estado de radicacion",
+      "relevance": 0.544023,
+      "count": 1
+    },
+    {
+      "text": "solicitud de renovacio\u00e9n de registro",
+      "relevance": 0.538759,
+      "count": 1
+    },
+    {
+      "text": "sistema de regionalizacion de la universidad",
+      "relevance": 0.527011,
+      "count": 1
+    },
+    {
+      "text": "desarrollo humano de la facultad",
+      "relevance": 0.522046,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.521871,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de enero",
+      "relevance": 0.51362,
+      "count": 1
+    },
+    {
+      "text": "sede zarzal",
+      "relevance": 0.511356,
+      "count": 1
+    },
+    {
+      "text": "facultad de servicio social de cali",
+      "relevance": 0.510136,
+      "count": 1
+    },
+    {
+      "text": "julio",
+      "relevance": 0.501297,
+      "count": 2
+    },
+    {
+      "text": "fierro perez",
+      "relevance": 0.497296,
+      "count": 1
+    },
+    {
+      "text": "estatuto general",
+      "relevance": 0.494425,
+      "count": 1
+    },
+    {
+      "text": "t\u00e9rminos resolutivos",
+      "relevance": 0.494425,
+      "count": 1
+    },
+    {
+      "text": "codigo de proceso",
+      "relevance": 0.494425,
+      "count": 1
+    },
+    {
+      "text": "literal b",
+      "relevance": 0.492213,
+      "count": 1
+    },
+    {
+      "text": "sede de zarzal",
+      "relevance": 0.492049,
+      "count": 2
+    },
+    {
+      "text": "renovacion del registro",
+      "relevance": 0.491769,
+      "count": 1
+    },
+    {
+      "text": "consejo academico de la universidad del valle",
+      "relevance": 0.491304,
+      "count": 1
+    },
+    {
+      "text": "secretario general",
+      "relevance": 0.488137,
+      "count": 1
+    },
+    {
+      "text": "valle del cauca",
+      "relevance": 0.485323,
+      "count": 1
+    },
+    {
+      "text": "calidad",
+      "relevance": 0.480561,
+      "count": 1
+    },
+    {
+      "text": "resolucion",
+      "relevance": 0.47505,
+      "count": 5
+    },
+    {
+      "text": "snies",
+      "relevance": 0.47477,
+      "count": 1
+    },
+    {
+      "text": "diciembre",
+      "relevance": 0.47454,
+      "count": 2
+    },
+    {
+      "text": "abril",
+      "relevance": 0.474134,
+      "count": 3
+    },
+    {
+      "text": "zarzal de la universidad del valle",
+      "relevance": 0.472306,
+      "count": 1
+    },
+    {
+      "text": "aprobo",
+      "relevance": 0.470514,
+      "count": 1
+    },
+    {
+      "text": "unico",
+      "relevance": 0.468243,
+      "count": 1
+    },
+    {
+      "text": "programa trabajo social de la universidad del valle",
+      "relevance": 0.468079,
+      "count": 1
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.466604,
+      "count": 1
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.465778,
+      "count": 2
+    },
+    {
+      "text": "valle",
+      "relevance": 0.46519,
+      "count": 2
+    },
+    {
+      "text": "resolvio",
+      "relevance": 0.464667,
+      "count": 1
+    },
+    {
+      "text": "facultad",
+      "relevance": 0.464501,
+      "count": 1
+    }
+  ]
+}

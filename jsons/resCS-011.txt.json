@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 2,
+    "text_characters": 14059,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "proyectos estrat\u00e9gicos del sistema",
+      "relevance": 0.646782,
+      "count": 1
+    },
+    {
+      "text": "recursos de estampilla",
+      "relevance": 0.608692,
+      "count": 1
+    },
+    {
+      "text": "proyectos institucionales de apoyo",
+      "relevance": 0.607492,
+      "count": 1
+    },
+    {
+      "text": "mejoramiento de los programas acad\u00e9micos",
+      "relevance": 0.592313,
+      "count": 1
+    },
+    {
+      "text": "vicerrectoria de investigaciones",
+      "relevance": 0.568382,
+      "count": 1
+    },
+    {
+      "text": "fortalecimiento del sistema de regionalizacidn",
+      "relevance": 0.563026,
+      "count": 1
+    },
+    {
+      "text": "proceso de acreditacion",
+      "relevance": 0.562211,
+      "count": 3
+    },
+    {
+      "text": "cielo raso",
+      "relevance": 0.558886,
+      "count": 1
+    },
+    {
+      "text": "recursos provenientes de la estampilla",
+      "relevance": 0.549288,
+      "count": 1
+    },
+    {
+      "text": "siguientes proyectos de inversi\u00e9dn",
+      "relevance": 0.547514,
+      "count": 1
+    },
+    {
+      "text": "6n de calidad",
+      "relevance": 0.542064,
+      "count": 2
+    },
+    {
+      "text": "mejoramiento de programas acad\u00e9micos",
+      "relevance": 0.539641,
+      "count": 3
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.536591,
+      "count": 6
+    },
+    {
+      "text": "fortalecimiento del sistema de regionalizacion",
+      "relevance": 0.536538,
+      "count": 3
+    },
+    {
+      "text": "sistema de informacion institucional",
+      "relevance": 0.536002,
+      "count": 4
+    },
+    {
+      "text": "proyectos de investigacion",
+      "relevance": 0.532058,
+      "count": 3
+    },
+    {
+      "text": "proyectos",
+      "relevance": 0.531976,
+      "count": 3
+    },
+    {
+      "text": "estrategia de mejoramiento",
+      "relevance": 0.531636,
+      "count": 1
+    },
+    {
+      "text": "montos de inversion",
+      "relevance": 0.528992,
+      "count": 1
+    },
+    {
+      "text": "plan de inversiones",
+      "relevance": 0.527737,
+      "count": 1
+    },
+    {
+      "text": "proyecto de recubrimientos duros",
+      "relevance": 0.527404,
+      "count": 3
+    },
+    {
+      "text": "siguientes proyectos",
+      "relevance": 0.523482,
+      "count": 1
+    },
+    {
+      "text": "explicaci\u00e9n de cada proyecto",
+      "relevance": 0.522479,
+      "count": 1
+    },
+    {
+      "text": "vital importancia",
+      "relevance": 0.521269,
+      "count": 1
+    },
+    {
+      "text": "autoevaluaci6n",
+      "relevance": 0.520322,
+      "count": 1
+    },
+    {
+      "text": "cumplimiento de este propdsito",
+      "relevance": 0.519959,
+      "count": 1
+    },
+    {
+      "text": "disponibilidad de recursos",
+      "relevance": 0.51992,
+      "count": 1
+    },
+    {
+      "text": "red farallones",
+      "relevance": 0.519847,
+      "count": 4
+    },
+    {
+      "text": "renovacion de laboratorios",
+      "relevance": 0.519684,
+      "count": 1
+    },
+    {
+      "text": "condiciones necesarias",
+      "relevance": 0.519309,
+      "count": 1
+    },
+    {
+      "text": "cielo raso descolgados",
+      "relevance": 0.519264,
+      "count": 1
+    },
+    {
+      "text": "recursos humanos",
+      "relevance": 0.518997,
+      "count": 1
+    },
+    {
+      "text": "administraci\u00e9n de la universidad del valle",
+      "relevance": 0.517371,
+      "count": 1
+    },
+    {
+      "text": "marco del proceso",
+      "relevance": 0.516993,
+      "count": 1
+    },
+    {
+      "text": "molde plan de inversiones",
+      "relevance": 0.516873,
+      "count": 1
+    },
+    {
+      "text": "inversi6n",
+      "relevance": 0.516662,
+      "count": 1
+    },
+    {
+      "text": "mejoramiento de condiciones iniciales",
+      "relevance": 0.516654,
+      "count": 3
+    },
+    {
+      "text": "mayo del afio",
+      "relevance": 0.516378,
+      "count": 1
+    },
+    {
+      "text": "sistemas el\u00e9ctricos",
+      "relevance": 0.516097,
+      "count": 1
+    },
+    {
+      "text": "gran espacio serviria",
+      "relevance": 0.515783,
+      "count": 1
+    },
+    {
+      "text": "compromisos de deuda",
+      "relevance": 0.515254,
+      "count": 1
+    },
+    {
+      "text": "6n de cuentas",
+      "relevance": 0.515213,
+      "count": 1
+    },
+    {
+      "text": "mejoramiento de programas acreditados",
+      "relevance": 0.514947,
+      "count": 3
+    },
+    {
+      "text": "sedes regionales",
+      "relevance": 0.5146,
+      "count": 2
+    },
+    {
+      "text": "proyecto presentado",
+      "relevance": 0.51349,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.513246,
+      "count": 1
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.512947,
+      "count": 12
+    },
+    {
+      "text": "distintas convocatorias",
+      "relevance": 0.512614,
+      "count": 1
+    },
+    {
+      "text": "propdsito de este proyecto",
+      "relevance": 0.512123,
+      "count": 1
+    },
+    {
+      "text": "doble proposito",
+      "relevance": 0.511659,
+      "count": 1
+    }
+  ]
+}

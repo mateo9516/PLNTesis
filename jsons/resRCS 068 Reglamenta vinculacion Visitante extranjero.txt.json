@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 2,
+    "text_characters": 15233,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "vinculaci\u00e9n de visitantes extranjeros",
+      "relevance": 0.67243,
+      "count": 1
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.609977,
+      "count": 20
+    },
+    {
+      "text": "procesos de formacion",
+      "relevance": 0.590016,
+      "count": 2
+    },
+    {
+      "text": "presente resolucion",
+      "relevance": 0.58105,
+      "count": 5
+    },
+    {
+      "text": "profesores extranjeros",
+      "relevance": 0.562832,
+      "count": 1
+    },
+    {
+      "text": "modalidad profesor visitante",
+      "relevance": 0.560094,
+      "count": 1
+    },
+    {
+      "text": "parte de los procesos misionales",
+      "relevance": 0.5581,
+      "count": 1
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.557736,
+      "count": 2
+    },
+    {
+      "text": "manual de procesos",
+      "relevance": 0.550459,
+      "count": 2
+    },
+    {
+      "text": "vinculacion de los distintos visitantes",
+      "relevance": 0.550032,
+      "count": 1
+    },
+    {
+      "text": "relaciones exteriores",
+      "relevance": 0.540629,
+      "count": 1
+    },
+    {
+      "text": "visitantes extranjeros",
+      "relevance": 0.538103,
+      "count": 5
+    },
+    {
+      "text": "migracion colombia",
+      "relevance": 0.53744,
+      "count": 1
+    },
+    {
+      "text": "vinculaci\u00e9n de visitante extranjero",
+      "relevance": 0.536568,
+      "count": 1
+    },
+    {
+      "text": "procesos internos",
+      "relevance": 0.534383,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.532816,
+      "count": 10
+    },
+    {
+      "text": "vinculaci6n",
+      "relevance": 0.532329,
+      "count": 1
+    },
+    {
+      "text": "disposiciones contenidas",
+      "relevance": 0.531546,
+      "count": 1
+    },
+    {
+      "text": "tramites migratorios",
+      "relevance": 0.531276,
+      "count": 1
+    },
+    {
+      "text": "requisitos reglamentarios",
+      "relevance": 0.531235,
+      "count": 1
+    },
+    {
+      "text": "servicio t\u00e9cnico",
+      "relevance": 0.530608,
+      "count": 2
+    },
+    {
+      "text": "fines de la universidad",
+      "relevance": 0.530007,
+      "count": 1
+    },
+    {
+      "text": "marco normativo",
+      "relevance": 0.529455,
+      "count": 4
+    },
+    {
+      "text": "director del instituto acad\u00e9mico",
+      "relevance": 0.52821,
+      "count": 1
+    },
+    {
+      "text": "nombre completo",
+      "relevance": 0.525944,
+      "count": 2
+    },
+    {
+      "text": "tipos de visitantes extranjeros",
+      "relevance": 0.525179,
+      "count": 1
+    },
+    {
+      "text": "ejercicio de docencia",
+      "relevance": 0.524394,
+      "count": 1
+    },
+    {
+      "text": "corta duraci6n",
+      "relevance": 0.524217,
+      "count": 1
+    },
+    {
+      "text": "calidad de visitante",
+      "relevance": 0.523587,
+      "count": 2
+    },
+    {
+      "text": "pasante de docencia",
+      "relevance": 0.523483,
+      "count": 1
+    },
+    {
+      "text": "relaciones nacionales",
+      "relevance": 0.522123,
+      "count": 1
+    },
+    {
+      "text": "elaboracion del acto administrativo",
+      "relevance": 0.521686,
+      "count": 1
+    },
+    {
+      "text": "permanencia del visitante extranjero",
+      "relevance": 0.520339,
+      "count": 1
+    },
+    {
+      "text": "asistente de idiomas",
+      "relevance": 0.520332,
+      "count": 1
+    },
+    {
+      "text": "decano de la facultad",
+      "relevance": 0.518928,
+      "count": 3
+    },
+    {
+      "text": "invitacion de una unidad acad\u00e9mica",
+      "relevance": 0.518722,
+      "count": 1
+    },
+    {
+      "text": "presente campo",
+      "relevance": 0.517843,
+      "count": 1
+    },
+    {
+      "text": "produccion cientifica",
+      "relevance": 0.516178,
+      "count": 1
+    },
+    {
+      "text": "realizacion de proyectos",
+      "relevance": 0.516013,
+      "count": 1
+    },
+    {
+      "text": "comunidad universitaria",
+      "relevance": 0.51592,
+      "count": 2
+    },
+    {
+      "text": "formaci6n acad\u00e9mica",
+      "relevance": 0.515841,
+      "count": 1
+    },
+    {
+      "text": "diferentes dependencias",
+      "relevance": 0.515652,
+      "count": 1
+    },
+    {
+      "text": "parte de esta oferta educativa",
+      "relevance": 0.515188,
+      "count": 1
+    },
+    {
+      "text": "supervisor de tesis",
+      "relevance": 0.514906,
+      "count": 1
+    },
+    {
+      "text": "deberes del visitante extranjero",
+      "relevance": 0.514771,
+      "count": 1
+    },
+    {
+      "text": "habilidades t\u00e9cnicas",
+      "relevance": 0.514516,
+      "count": 1
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.514002,
+      "count": 13
+    },
+    {
+      "text": "procedimiento",
+      "relevance": 0.513638,
+      "count": 1
+    },
+    {
+      "text": "actualizacion del manual",
+      "relevance": 0.513551,
+      "count": 1
+    },
+    {
+      "text": "parte de grupos",
+      "relevance": 0.512529,
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2563,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "mejores escuelas",
+      "relevance": 0.622881,
+      "count": 1
+    },
+    {
+      "text": "alianza francesa de cali",
+      "relevance": 0.590464,
+      "count": 1
+    },
+    {
+      "text": "estudiantes colombianos",
+      "relevance": 0.566394,
+      "count": 1
+    },
+    {
+      "text": "embajada de francia",
+      "relevance": 0.563932,
+      "count": 1
+    },
+    {
+      "text": "sola vez",
+      "relevance": 0.55385,
+      "count": 1
+    },
+    {
+      "text": "programas acad\u00e9micos de maestria",
+      "relevance": 0.552489,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.550094,
+      "count": 1
+    },
+    {
+      "text": "convenio de doble titulacion",
+      "relevance": 0.546828,
+      "count": 1
+    },
+    {
+      "text": "universidad segtn",
+      "relevance": 0.544259,
+      "count": 1
+    },
+    {
+      "text": "apoyo financiero",
+      "relevance": 0.538454,
+      "count": 1
+    },
+    {
+      "text": "beca cef",
+      "relevance": 0.537449,
+      "count": 2
+    },
+    {
+      "text": "reglamento interno",
+      "relevance": 0.537152,
+      "count": 1
+    },
+    {
+      "text": "estudiantes de la universidad del valle becarios",
+      "relevance": 0.531985,
+      "count": 1
+    },
+    {
+      "text": "programa de secciones",
+      "relevance": 0.529796,
+      "count": 1
+    },
+    {
+      "text": "representante del presidente de la republica",
+      "relevance": 0.52928,
+      "count": 1
+    },
+    {
+      "text": "universidades de educacion superior",
+      "relevance": 0.529275,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.528486,
+      "count": 1
+    },
+    {
+      "text": "proyecto estrat\u00e9gico",
+      "relevance": 0.526547,
+      "count": 1
+    },
+    {
+      "text": "plan de acci6\u00e9n",
+      "relevance": 0.52393,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de mayo",
+      "relevance": 0.518401,
+      "count": 1
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.516514,
+      "count": 3
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.515126,
+      "count": 2
+    },
+    {
+      "text": "estudiantes favorecidos",
+      "relevance": 0.513193,
+      "count": 1
+    },
+    {
+      "text": "salon de reuniones del despacho",
+      "relevance": 0.511406,
+      "count": 1
+    },
+    {
+      "text": "uso de sus atribuciones",
+      "relevance": 0.510243,
+      "count": 1
+    },
+    {
+      "text": "secretario general",
+      "relevance": 0.510243,
+      "count": 1
+    },
+    {
+      "text": "futuro de colombia",
+      "relevance": 0.507198,
+      "count": 1
+    },
+    {
+      "text": "estudios de posgrado",
+      "relevance": 0.504116,
+      "count": 1
+    },
+    {
+      "text": "doble titulacion",
+      "relevance": 0.503302,
+      "count": 1
+    },
+    {
+      "text": "francia",
+      "relevance": 0.501839,
+      "count": 7
+    },
+    {
+      "text": "larreamendy joerns",
+      "relevance": 0.501669,
+      "count": 1
+    },
+    {
+      "text": "lopez pulecio",
+      "relevance": 0.501669,
+      "count": 1
+    },
+    {
+      "text": "corporacion",
+      "relevance": 0.498561,
+      "count": 2
+    },
+    {
+      "text": "acuerdo de colaboracion",
+      "relevance": 0.497662,
+      "count": 1
+    },
+    {
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.497084,
+      "count": 1
+    },
+    {
+      "text": "programas de maestria",
+      "relevance": 0.492948,
+      "count": 1
+    },
+    {
+      "text": "estudios",
+      "relevance": 0.4898,
+      "count": 4
+    },
+    {
+      "text": "euros",
+      "relevance": 0.4888,
+      "count": 1
+    },
+    {
+      "text": "recursos",
+      "relevance": 0.48699,
+      "count": 1
+    },
+    {
+      "text": "valle",
+      "relevance": 0.486587,
+      "count": 1
+    },
+    {
+      "text": "programas",
+      "relevance": 0.486534,
+      "count": 1
+    },
+    {
+      "text": "exenciones",
+      "relevance": 0.485317,
+      "count": 1
+    },
+    {
+      "text": "recursos propios de la universidad del valle",
+      "relevance": 0.483204,
+      "count": 1
+    },
+    {
+      "text": "medio",
+      "relevance": 0.482892,
+      "count": 2
+    },
+    {
+      "text": "formaci6n de jovenes colombianos",
+      "relevance": 0.482511,
+      "count": 1
+    },
+    {
+      "text": "resolucion",
+      "relevance": 0.480397,
+      "count": 1
+    },
+    {
+      "text": "parte del programa de seccion francofona",
+      "relevance": 0.479237,
+      "count": 1
+    },
+    {
+      "text": "colombia",
+      "relevance": 0.479067,
+      "count": 2
+    },
+    {
+      "text": "doble",
+      "relevance": 0.478859,
+      "count": 1
+    },
+    {
+      "text": "colfuturo",
+      "relevance": 0.477549,
+      "count": 1
+    }
+  ]
+}

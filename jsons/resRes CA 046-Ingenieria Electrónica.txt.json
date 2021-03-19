@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 2,
+    "text_characters": 17115,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.580156,
+      "count": 15
+    },
+    {
+      "text": "profesionales integros",
+      "relevance": 0.57957,
+      "count": 1
+    },
+    {
+      "text": "consejo de la facultad de ingenieria",
+      "relevance": 0.563349,
+      "count": 1
+    },
+    {
+      "text": "titulo de ingeniero electronico",
+      "relevance": 0.550365,
+      "count": 1
+    },
+    {
+      "text": "ciclo de asignaturas",
+      "relevance": 0.548223,
+      "count": 1
+    },
+    {
+      "text": "distribucion de los cr\u00e9ditos acad\u00e9micos",
+      "relevance": 0.546992,
+      "count": 1
+    },
+    {
+      "text": "ciclo profesional",
+      "relevance": 0.540249,
+      "count": 3
+    },
+    {
+      "text": "aplicaciones industriales",
+      "relevance": 0.539403,
+      "count": 2
+    },
+    {
+      "text": "programa acad\u00e9mico de ingenieria electronica",
+      "relevance": 0.537642,
+      "count": 2
+    },
+    {
+      "text": "ingenieria electronica",
+      "relevance": 0.537196,
+      "count": 5
+    },
+    {
+      "text": "buenas practicas de diseno",
+      "relevance": 0.535226,
+      "count": 2
+    },
+    {
+      "text": "facultades legales",
+      "relevance": 0.535184,
+      "count": 1
+    },
+    {
+      "text": "taller de ingenieria iii",
+      "relevance": 0.535166,
+      "count": 1
+    },
+    {
+      "text": "condiciones de calidad del programa",
+      "relevance": 0.532632,
+      "count": 1
+    },
+    {
+      "text": "discapacidad auditiva",
+      "relevance": 0.531565,
+      "count": 1
+    },
+    {
+      "text": "taller de ingenieria",
+      "relevance": 0.529265,
+      "count": 7
+    },
+    {
+      "text": "cr\u00e9ditos cr\u00e9ditos",
+      "relevance": 0.52699,
+      "count": 1
+    },
+    {
+      "text": "metodologias formales",
+      "relevance": 0.525811,
+      "count": 2
+    },
+    {
+      "text": "proyectos de ingenieria",
+      "relevance": 0.525796,
+      "count": 3
+    },
+    {
+      "text": "pensamiento critico",
+      "relevance": 0.522763,
+      "count": 2
+    },
+    {
+      "text": "normas t\u00e9cnicas",
+      "relevance": 0.522602,
+      "count": 1
+    },
+    {
+      "text": "ingeniera electronica",
+      "relevance": 0.522044,
+      "count": 2
+    },
+    {
+      "text": "capacidad de aprendizaje",
+      "relevance": 0.521863,
+      "count": 1
+    },
+    {
+      "text": "vida universitaria",
+      "relevance": 0.520867,
+      "count": 2
+    },
+    {
+      "text": "electronica de la facultad de ingenieria",
+      "relevance": 0.520674,
+      "count": 1
+    },
+    {
+      "text": "escuela de ingenieria el\u00e9ctrica",
+      "relevance": 0.519772,
+      "count": 1
+    },
+    {
+      "text": "ciclo basico",
+      "relevance": 0.519715,
+      "count": 2
+    },
+    {
+      "text": "sede cali",
+      "relevance": 0.519249,
+      "count": 1
+    },
+    {
+      "text": "cursos programados",
+      "relevance": 0.518604,
+      "count": 1
+    },
+    {
+      "text": "impactos de las soluciones de ingenieria",
+      "relevance": 0.517792,
+      "count": 1
+    },
+    {
+      "text": "soluci\u00e9n de problemas de la sociedad",
+      "relevance": 0.517746,
+      "count": 1
+    },
+    {
+      "text": "comit\u00e9 central de curriculo",
+      "relevance": 0.517684,
+      "count": 1
+    },
+    {
+      "text": "cohortes anteriores",
+      "relevance": 0.517184,
+      "count": 1
+    },
+    {
+      "text": "trabajo de grado",
+      "relevance": 0.516673,
+      "count": 4
+    },
+    {
+      "text": "impactos ambientales",
+      "relevance": 0.516495,
+      "count": 1
+    },
+    {
+      "text": "aprendizaje de forma autonoma",
+      "relevance": 0.516427,
+      "count": 1
+    },
+    {
+      "text": "soluciones electr\u00e9nicas",
+      "relevance": 0.516337,
+      "count": 1
+    },
+    {
+      "text": "seminario de trabajo",
+      "relevance": 0.51539,
+      "count": 1
+    },
+    {
+      "text": "admisi6n anual",
+      "relevance": 0.515379,
+      "count": 1
+    },
+    {
+      "text": "presente resolucion",
+      "relevance": 0.515109,
+      "count": 2
+    },
+    {
+      "text": "sentido \u00e9tico",
+      "relevance": 0.514549,
+      "count": 1
+    },
+    {
+      "text": "programa acad\u00e9mico",
+      "relevance": 0.514256,
+      "count": 6
+    },
+    {
+      "text": "lengua extranjera",
+      "relevance": 0.513713,
+      "count": 2
+    },
+    {
+      "text": "senal mixta",
+      "relevance": 0.51361,
+      "count": 1
+    },
+    {
+      "text": "documento original",
+      "relevance": 0.513357,
+      "count": 1
+    },
+    {
+      "text": "electronicas innovadoras",
+      "relevance": 0.513303,
+      "count": 1
+    },
+    {
+      "text": "tabla anterior",
+      "relevance": 0.513191,
+      "count": 1
+    },
+    {
+      "text": "sector econ\u00e9mico de la sociedad",
+      "relevance": 0.512737,
+      "count": 1
+    },
+    {
+      "text": "estatuto general",
+      "relevance": 0.512446,
+      "count": 1
+    },
+    {
+      "text": "sesi6n",
+      "relevance": 0.512344,
+      "count": 1
+    }
+  ]
+}

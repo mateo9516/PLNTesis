@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3558,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "sedes regionales",
+      "relevance": 0.724186,
+      "count": 2
+    },
+    {
+      "text": "tecnologia quimica",
+      "relevance": 0.606253,
+      "count": 2
+    },
+    {
+      "text": "extensi\u00e9n de programas acad\u00e9micos",
+      "relevance": 0.599764,
+      "count": 1
+    },
+    {
+      "text": "busqueda de soluciones concertadas",
+      "relevance": 0.596444,
+      "count": 1
+    },
+    {
+      "text": "educacion basica",
+      "relevance": 0.593202,
+      "count": 2
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.587414,
+      "count": 3
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.578633,
+      "count": 1
+    },
+    {
+      "text": "facultades legales",
+      "relevance": 0.576051,
+      "count": 1
+    },
+    {
+      "text": "desarrollo regional",
+      "relevance": 0.558713,
+      "count": 1
+    },
+    {
+      "text": "oferta acad\u00e9mica",
+      "relevance": 0.551149,
+      "count": 1
+    },
+    {
+      "text": "sede regional",
+      "relevance": 0.550625,
+      "count": 1
+    },
+    {
+      "text": "mejoramiento de las condiciones de vida",
+      "relevance": 0.547106,
+      "count": 1
+    },
+    {
+      "text": "lenguas extranjeras",
+      "relevance": 0.546344,
+      "count": 3
+    },
+    {
+      "text": "problemas regionales",
+      "relevance": 0.541762,
+      "count": 1
+    },
+    {
+      "text": "proceso de desarrollo",
+      "relevance": 0.540147,
+      "count": 1
+    },
+    {
+      "text": "ciencias naturales",
+      "relevance": 0.539562,
+      "count": 1
+    },
+    {
+      "text": "tecnologia agroambiental",
+      "relevance": 0.53679,
+      "count": 1
+    },
+    {
+      "text": "busqueda de solucidn",
+      "relevance": 0.536301,
+      "count": 1
+    },
+    {
+      "text": "artes visuales",
+      "relevance": 0.536154,
+      "count": 1
+    },
+    {
+      "text": "nuevos retos",
+      "relevance": 0.534469,
+      "count": 1
+    },
+    {
+      "text": "programa acad\u00e9mico",
+      "relevance": 0.532375,
+      "count": 1
+    },
+    {
+      "text": "dinamicas subregionales",
+      "relevance": 0.529629,
+      "count": 1
+    },
+    {
+      "text": "ingenieria industrial",
+      "relevance": 0.525226,
+      "count": 1
+    },
+    {
+      "text": "extensi\u00e9n de los siguientes programas",
+      "relevance": 0.522455,
+      "count": 1
+    },
+    {
+      "text": "programas acad\u00e9micos",
+      "relevance": 0.522062,
+      "count": 1
+    },
+    {
+      "text": "plan de desarrollo",
+      "relevance": 0.519354,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.514378,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de abril",
+      "relevance": 0.510531,
+      "count": 1
+    },
+    {
+      "text": "departamento del valle",
+      "relevance": 0.510445,
+      "count": 1
+    },
+    {
+      "text": "respuesta oportuna",
+      "relevance": 0.508608,
+      "count": 1
+    },
+    {
+      "text": "sede de cali",
+      "relevance": 0.507477,
+      "count": 1
+    },
+    {
+      "text": "sistema",
+      "relevance": 0.504396,
+      "count": 6
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.503156,
+      "count": 5
+    },
+    {
+      "text": "consejo academico de la universidad del valle",
+      "relevance": 0.503093,
+      "count": 1
+    },
+    {
+      "text": "curriculo de los programas",
+      "relevance": 0.502736,
+      "count": 1
+    },
+    {
+      "text": "salon de reuniones",
+      "relevance": 0.50255,
+      "count": 1
+    },
+    {
+      "text": "licenciatura",
+      "relevance": 0.501206,
+      "count": 4
+    },
+    {
+      "text": "arte dramatico",
+      "relevance": 0.499122,
+      "count": 1
+    },
+    {
+      "text": "lopez pulecio",
+      "relevance": 0.499122,
+      "count": 1
+    },
+    {
+      "text": "estatuto general",
+      "relevance": 0.496752,
+      "count": 1
+    },
+    {
+      "text": "literal c",
+      "relevance": 0.495603,
+      "count": 1
+    },
+    {
+      "text": "actor fundamental",
+      "relevance": 0.495603,
+      "count": 1
+    },
+    {
+      "text": "ejecuci\u00e9n de estrategias",
+      "relevance": 0.495603,
+      "count": 1
+    },
+    {
+      "text": "secretario general",
+      "relevance": 0.491559,
+      "count": 1
+    },
+    {
+      "text": "procesos acad\u00e9micos",
+      "relevance": 0.491145,
+      "count": 1
+    },
+    {
+      "text": "oferta diversificada",
+      "relevance": 0.487907,
+      "count": 1
+    },
+    {
+      "text": "demandas",
+      "relevance": 0.48053,
+      "count": 1
+    },
+    {
+      "text": "ejes estrat\u00e9gicos del desarrollo local",
+      "relevance": 0.479151,
+      "count": 1
+    },
+    {
+      "text": "estaria",
+      "relevance": 0.4786,
+      "count": 1
+    },
+    {
+      "text": "extensidn",
+      "relevance": 0.478294,
+      "count": 1
+    }
+  ]
+}

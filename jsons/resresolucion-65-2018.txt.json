@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 5,
+    "text_characters": 41344,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "perfiles profesionales",
+      "relevance": 0.644777,
+      "count": 1
+    },
+    {
+      "text": "medio tiempo",
+      "relevance": 0.62673,
+      "count": 22
+    },
+    {
+      "text": "convocatorias docentes",
+      "relevance": 0.591577,
+      "count": 1
+    },
+    {
+      "text": "titulo profesional",
+      "relevance": 0.587112,
+      "count": 4
+    },
+    {
+      "text": "area musica",
+      "relevance": 0.570082,
+      "count": 2
+    },
+    {
+      "text": "planta de profesores nombrados",
+      "relevance": 0.568777,
+      "count": 1
+    },
+    {
+      "text": "tiempo completo",
+      "relevance": 0.568409,
+      "count": 3
+    },
+    {
+      "text": "experiencia profesional",
+      "relevance": 0.556482,
+      "count": 32
+    },
+    {
+      "text": "docentes de carrera de tiempo completo",
+      "relevance": 0.54805,
+      "count": 1
+    },
+    {
+      "text": "profesores de tiempo completo",
+      "relevance": 0.545347,
+      "count": 1
+    },
+    {
+      "text": "misi6n social",
+      "relevance": 0.545322,
+      "count": 1
+    },
+    {
+      "text": "solicitud expresa del profesor",
+      "relevance": 0.53435,
+      "count": 1
+    },
+    {
+      "text": "experiencia docente universitaria de minimo",
+      "relevance": 0.534187,
+      "count": 41
+    },
+    {
+      "text": "aspirante adelant6",
+      "relevance": 0.532148,
+      "count": 1
+    },
+    {
+      "text": "area de musica-vientos madera",
+      "relevance": 0.531607,
+      "count": 1
+    },
+    {
+      "text": "area de atencion",
+      "relevance": 0.531605,
+      "count": 1
+    },
+    {
+      "text": "facultades de artes integradas",
+      "relevance": 0.53063,
+      "count": 1
+    },
+    {
+      "text": "titulo de posgrado correspondiente",
+      "relevance": 0.530336,
+      "count": 1
+    },
+    {
+      "text": "fuerza mayor",
+      "relevance": 0.529423,
+      "count": 1
+    },
+    {
+      "text": "titulo de doctorado",
+      "relevance": 0.528148,
+      "count": 2
+    },
+    {
+      "text": "caso de aspirantes",
+      "relevance": 0.527458,
+      "count": 1
+    },
+    {
+      "text": "concurso publico de m\u00e9ritos",
+      "relevance": 0.527165,
+      "count": 2
+    },
+    {
+      "text": "perfil general",
+      "relevance": 0.527101,
+      "count": 1
+    },
+    {
+      "text": "sera equivalente",
+      "relevance": 0.525702,
+      "count": 1
+    },
+    {
+      "text": "ciencias de la administracion",
+      "relevance": 0.525497,
+      "count": 1
+    },
+    {
+      "text": "area de administracion",
+      "relevance": 0.523765,
+      "count": 1
+    },
+    {
+      "text": "siguiente cronograma",
+      "relevance": 0.52248,
+      "count": 1
+    },
+    {
+      "text": "equivalente de tiempo completo",
+      "relevance": 0.5222,
+      "count": 32
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.521553,
+      "count": 6
+    },
+    {
+      "text": "siguientes idiomas",
+      "relevance": 0.520397,
+      "count": 1
+    },
+    {
+      "text": "unidades acad\u00e9micas",
+      "relevance": 0.519821,
+      "count": 1
+    },
+    {
+      "text": "perfil especifico",
+      "relevance": 0.519611,
+      "count": 4
+    },
+    {
+      "text": "experiencia investigativa",
+      "relevance": 0.51926,
+      "count": 2
+    },
+    {
+      "text": "lengua materna",
+      "relevance": 0.518684,
+      "count": 1
+    },
+    {
+      "text": "tiempo cronoldgico",
+      "relevance": 0.518042,
+      "count": 5
+    },
+    {
+      "text": "cupos de la escuela",
+      "relevance": 0.518018,
+      "count": 1
+    },
+    {
+      "text": "ciencias naturales",
+      "relevance": 0.518005,
+      "count": 1
+    },
+    {
+      "text": "ingenieria civil",
+      "relevance": 0.51732,
+      "count": 3
+    },
+    {
+      "text": "casos de experiencia hora catedra",
+      "relevance": 0.517206,
+      "count": 1
+    },
+    {
+      "text": "planes de desarrollo de estas unidades",
+      "relevance": 0.517053,
+      "count": 1
+    },
+    {
+      "text": "dedicacion perfil",
+      "relevance": 0.517031,
+      "count": 21
+    },
+    {
+      "text": "seleccio6n",
+      "relevance": 0.516825,
+      "count": 1
+    },
+    {
+      "text": "estatuto profesoral",
+      "relevance": 0.51666,
+      "count": 2
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.515833,
+      "count": 24
+    },
+    {
+      "text": "estudios conducentes",
+      "relevance": 0.515737,
+      "count": 1
+    },
+    {
+      "text": "afio de tiempo completo",
+      "relevance": 0.515136,
+      "count": 1
+    },
+    {
+      "text": "lugar de trabajo",
+      "relevance": 0.515017,
+      "count": 1
+    },
+    {
+      "text": "convocatoria docente",
+      "relevance": 0.514347,
+      "count": 1
+    },
+    {
+      "text": "nombramiento de profesores",
+      "relevance": 0.513611,
+      "count": 1
+    },
+    {
+      "text": "normas legales",
+      "relevance": 0.513564,
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3095,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "marco de intercambios estudiantiles",
+      "relevance": 0.681561,
+      "count": 1
+    },
+    {
+      "text": "ejercicio de las actividades",
+      "relevance": 0.661934,
+      "count": 1
+    },
+    {
+      "text": "estudiante podra",
+      "relevance": 0.624035,
+      "count": 1
+    },
+    {
+      "text": "busqueda de estos propodsitos",
+      "relevance": 0.595788,
+      "count": 1
+    },
+    {
+      "text": "parte del jefe inmediato",
+      "relevance": 0.594201,
+      "count": 1
+    },
+    {
+      "text": "apoyo personal",
+      "relevance": 0.589585,
+      "count": 1
+    },
+    {
+      "text": "monitorias estudiantiles",
+      "relevance": 0.578859,
+      "count": 1
+    },
+    {
+      "text": "disminucion de la deserci6",
+      "relevance": 0.562684,
+      "count": 1
+    },
+    {
+      "text": "literal i",
+      "relevance": 0.552521,
+      "count": 1
+    },
+    {
+      "text": "uso de sus atribuciones",
+      "relevance": 0.54775,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.546489,
+      "count": 1
+    },
+    {
+      "text": "factor importante",
+      "relevance": 0.545768,
+      "count": 1
+    },
+    {
+      "text": "estudiantes de otras instituciones",
+      "relevance": 0.54555,
+      "count": 1
+    },
+    {
+      "text": "presente resolucion",
+      "relevance": 0.543773,
+      "count": 1
+    },
+    {
+      "text": "intercambio  estudiantil",
+      "relevance": 0.526566,
+      "count": 1
+    },
+    {
+      "text": "entrenamiento especial",
+      "relevance": 0.523103,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de febrero",
+      "relevance": 0.517555,
+      "count": 1
+    },
+    {
+      "text": "estudiante podrd",
+      "relevance": 0.515546,
+      "count": 1
+    },
+    {
+      "text": "salon de reuniones del despacho",
+      "relevance": 0.51355,
+      "count": 1
+    },
+    {
+      "text": "misma modalidad",
+      "relevance": 0.512116,
+      "count": 1
+    },
+    {
+      "text": "estudiantes de otras universidades",
+      "relevance": 0.50805,
+      "count": 1
+    },
+    {
+      "text": "beneficiario de una monitoria",
+      "relevance": 0.50795,
+      "count": 1
+    },
+    {
+      "text": "representante del presidente",
+      "relevance": 0.506669,
+      "count": 1
+    },
+    {
+      "text": "reglamentacion vigente",
+      "relevance": 0.50624,
+      "count": 1
+    },
+    {
+      "text": "siguiente manera",
+      "relevance": 0.50541,
+      "count": 2
+    },
+    {
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.50291,
+      "count": 1
+    },
+    {
+      "text": "monitorias especiales",
+      "relevance": 0.502246,
+      "count": 1
+    },
+    {
+      "text": "politica interinstitucional",
+      "relevance": 0.501545,
+      "count": 1
+    },
+    {
+      "text": "moreno montalvo",
+      "relevance": 0.501545,
+      "count": 1
+    },
+    {
+      "text": "lopez pulecio",
+      "relevance": 0.501545,
+      "count": 1
+    },
+    {
+      "text": "estatuto general",
+      "relevance": 0.495654,
+      "count": 1
+    },
+    {
+      "text": "estudiantes discapacitados",
+      "relevance": 0.495639,
+      "count": 1
+    },
+    {
+      "text": "julio",
+      "relevance": 0.493872,
+      "count": 6
+    },
+    {
+      "text": "secretario general",
+      "relevance": 0.487866,
+      "count": 1
+    },
+    {
+      "text": "monitorias",
+      "relevance": 0.483748,
+      "count": 2
+    },
+    {
+      "text": "beneficiario de monitoria",
+      "relevance": 0.479341,
+      "count": 1
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.472248,
+      "count": 3
+    },
+    {
+      "text": "gobernador",
+      "relevance": 0.470502,
+      "count": 1
+    },
+    {
+      "text": "reglamentacion",
+      "relevance": 0.469639,
+      "count": 1
+    },
+    {
+      "text": "siguiente paragrafo",
+      "relevance": 0.468958,
+      "count": 1
+    },
+    {
+      "text": "contrarias",
+      "relevance": 0.46858,
+      "count": 1
+    },
+    {
+      "text": "consejo",
+      "relevance": 0.46776,
+      "count": 3
+    },
+    {
+      "text": "maximo",
+      "relevance": 0.467341,
+      "count": 1
+    },
+    {
+      "text": "consonancia",
+      "relevance": 0.466157,
+      "count": 1
+    },
+    {
+      "text": "expedicion",
+      "relevance": 0.466157,
+      "count": 1
+    },
+    {
+      "text": "resolucion",
+      "relevance": 0.463722,
+      "count": 4
+    },
+    {
+      "text": "semestres",
+      "relevance": 0.463415,
+      "count": 3
+    },
+    {
+      "text": "actividades",
+      "relevance": 0.463049,
+      "count": 1
+    },
+    {
+      "text": "reglamento",
+      "relevance": 0.462521,
+      "count": 1
+    },
+    {
+      "text": "casos",
+      "relevance": 0.461597,
+      "count": 1
+    }
+  ]
+}

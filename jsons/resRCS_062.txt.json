@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3351,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "ministerio de educacion nacional",
+      "relevance": 0.793414,
+      "count": 2
+    },
+    {
+      "text": "programa acad\u00e9mico",
+      "relevance": 0.716737,
+      "count": 5
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.603163,
+      "count": 4
+    },
+    {
+      "text": "comit\u00e9 del programa acad\u00e9mico",
+      "relevance": 0.599108,
+      "count": 1
+    },
+    {
+      "text": "atribuciones legales",
+      "relevance": 0.591556,
+      "count": 1
+    },
+    {
+      "text": "documento original",
+      "relevance": 0.573522,
+      "count": 1
+    },
+    {
+      "text": "curriculo del programa acad\u00e9mico",
+      "relevance": 0.570617,
+      "count": 1
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.563638,
+      "count": 4
+    },
+    {
+      "text": "fisica de la universidad",
+      "relevance": 0.542842,
+      "count": 1
+    },
+    {
+      "text": "reuniones del despacho de la gobernadora",
+      "relevance": 0.535476,
+      "count": 1
+    },
+    {
+      "text": "ciudad de cali-valle",
+      "relevance": 0.533631,
+      "count": 1
+    },
+    {
+      "text": "educacion nacional",
+      "relevance": 0.530341,
+      "count": 1
+    },
+    {
+      "text": "proceso de autoevaluacion",
+      "relevance": 0.530016,
+      "count": 1
+    },
+    {
+      "text": "acreditacion institucional de alta calidad",
+      "relevance": 0.52737,
+      "count": 1
+    },
+    {
+      "text": "acreditacion previa",
+      "relevance": 0.524279,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.520046,
+      "count": 1
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.510444,
+      "count": 1
+    },
+    {
+      "text": "fisica de la universidad del valle",
+      "relevance": 0.505716,
+      "count": 1
+    },
+    {
+      "text": "ministerio de educaci6n nacional",
+      "relevance": 0.502654,
+      "count": 1
+    },
+    {
+      "text": "estatuto general",
+      "relevance": 0.500484,
+      "count": 1
+    },
+    {
+      "text": "parte del ministerio de educacion nacional",
+      "relevance": 0.499011,
+      "count": 1
+    },
+    {
+      "text": "titulo de licenciado",
+      "relevance": 0.497668,
+      "count": 1
+    },
+    {
+      "text": "castillo gomez",
+      "relevance": 0.497668,
+      "count": 1
+    },
+    {
+      "text": "dias de noviembre",
+      "relevance": 0.496762,
+      "count": 1
+    },
+    {
+      "text": "literal b",
+      "relevance": 0.496302,
+      "count": 1
+    },
+    {
+      "text": "fecha de aprobacion",
+      "relevance": 0.496302,
+      "count": 1
+    },
+    {
+      "text": "secretario general",
+      "relevance": 0.494783,
+      "count": 1
+    },
+    {
+      "text": "licenciatura",
+      "relevance": 0.491159,
+      "count": 12
+    },
+    {
+      "text": "resolucion",
+      "relevance": 0.491144,
+      "count": 4
+    },
+    {
+      "text": "resoluci6n",
+      "relevance": 0.486195,
+      "count": 1
+    },
+    {
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.485331,
+      "count": 1
+    },
+    {
+      "text": "denominacion del programa acad\u00e9mico",
+      "relevance": 0.483888,
+      "count": 1
+    },
+    {
+      "text": "comit\u00e9 central de curriculo de la universidad",
+      "relevance": 0.483012,
+      "count": 1
+    },
+    {
+      "text": "matematicas",
+      "relevance": 0.482236,
+      "count": 10
+    },
+    {
+      "text": "diciembre",
+      "relevance": 0.48139,
+      "count": 1
+    },
+    {
+      "text": "marzo",
+      "relevance": 0.480521,
+      "count": 1
+    },
+    {
+      "text": "resoluci\u00e9n",
+      "relevance": 0.475643,
+      "count": 1
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.475305,
+      "count": 2
+    },
+    {
+      "text": "febrero",
+      "relevance": 0.474825,
+      "count": 1
+    },
+    {
+      "text": "cambio de denominacion del programa acad\u00e9mico",
+      "relevance": 0.474456,
+      "count": 1
+    },
+    {
+      "text": "pedagogia",
+      "relevance": 0.474208,
+      "count": 1
+    },
+    {
+      "text": "octubre",
+      "relevance": 0.473362,
+      "count": 2
+    },
+    {
+      "text": "ministerio",
+      "relevance": 0.472077,
+      "count": 1
+    },
+    {
+      "text": "abril",
+      "relevance": 0.468775,
+      "count": 4
+    },
+    {
+      "text": "t\u00e9rmino",
+      "relevance": 0.466656,
+      "count": 1
+    },
+    {
+      "text": "registro",
+      "relevance": 0.466614,
+      "count": 1
+    },
+    {
+      "text": "septiembre",
+      "relevance": 0.466216,
+      "count": 2
+    },
+    {
+      "text": "recomend6",
+      "relevance": 0.466095,
+      "count": 1
+    },
+    {
+      "text": "definio",
+      "relevance": 0.465201,
+      "count": 1
+    },
+    {
+      "text": "estructura",
+      "relevance": 0.465122,
+      "count": 1
+    }
+  ]
+}

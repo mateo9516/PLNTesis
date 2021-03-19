@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 2,
+    "text_characters": 15859,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "puntaje minimo de preseleccion",
+      "relevance": 0.638517,
+      "count": 1
+    },
+    {
+      "text": "institutos acad\u00e9micos",
+      "relevance": 0.635777,
+      "count": 2
+    },
+    {
+      "text": "propuesta completa de un curso",
+      "relevance": 0.610829,
+      "count": 1
+    },
+    {
+      "text": "evaluacion de los candidatos",
+      "relevance": 0.61065,
+      "count": 1
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.573158,
+      "count": 10
+    },
+    {
+      "text": "concurso publico de m\u00e9ritos",
+      "relevance": 0.572226,
+      "count": 1
+    },
+    {
+      "text": "puntaje minimo",
+      "relevance": 0.562983,
+      "count": 3
+    },
+    {
+      "text": "experiencia docente universitaria",
+      "relevance": 0.560444,
+      "count": 1
+    },
+    {
+      "text": "publicacion impresa",
+      "relevance": 0.556799,
+      "count": 1
+    },
+    {
+      "text": "especificidades de las diferentes facultades",
+      "relevance": 0.553867,
+      "count": 1
+    },
+    {
+      "text": "experiencia profesional",
+      "relevance": 0.553756,
+      "count": 3
+    },
+    {
+      "text": "tipo de presentaciones",
+      "relevance": 0.552922,
+      "count": 1
+    },
+    {
+      "text": "evaluacion de m\u00e9ritos",
+      "relevance": 0.550363,
+      "count": 1
+    },
+    {
+      "text": "evaluacion de las pruebas acad\u00e9micas",
+      "relevance": 0.547988,
+      "count": 1
+    },
+    {
+      "text": "exposicion oral",
+      "relevance": 0.546827,
+      "count": 3
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.543469,
+      "count": 2
+    },
+    {
+      "text": "caso de las licenciaturas",
+      "relevance": 0.541518,
+      "count": 1
+    },
+    {
+      "text": "propuesta de investigacion",
+      "relevance": 0.5414,
+      "count": 2
+    },
+    {
+      "text": "presentacion oral",
+      "relevance": 0.536022,
+      "count": 1
+    },
+    {
+      "text": "tipo de publicacion",
+      "relevance": 0.534209,
+      "count": 1
+    },
+    {
+      "text": "propuesta de curso",
+      "relevance": 0.533895,
+      "count": 1
+    },
+    {
+      "text": "siguiente base",
+      "relevance": 0.529869,
+      "count": 1
+    },
+    {
+      "text": "sistematizacion del conocimiento",
+      "relevance": 0.529825,
+      "count": 1
+    },
+    {
+      "text": "misma dedicacion",
+      "relevance": 0.529163,
+      "count": 1
+    },
+    {
+      "text": "caso de empate",
+      "relevance": 0.528822,
+      "count": 1
+    },
+    {
+      "text": "primer puesto",
+      "relevance": 0.526309,
+      "count": 2
+    },
+    {
+      "text": "hoja de vida",
+      "relevance": 0.525313,
+      "count": 2
+    },
+    {
+      "text": "exposiciones individuales",
+      "relevance": 0.524562,
+      "count": 1
+    },
+    {
+      "text": "puntaje determinado",
+      "relevance": 0.524323,
+      "count": 1
+    },
+    {
+      "text": "efectos de asignacion",
+      "relevance": 0.523391,
+      "count": 1
+    },
+    {
+      "text": "realizacion de una clase magistral",
+      "relevance": 0.522813,
+      "count": 1
+    },
+    {
+      "text": "evaluacion de m\u00e9ritos podra",
+      "relevance": 0.522002,
+      "count": 1
+    },
+    {
+      "text": "realizacion de las pruebas acad\u00e9micas",
+      "relevance": 0.521272,
+      "count": 1
+    },
+    {
+      "text": "instituto acad\u00e9mico",
+      "relevance": 0.521042,
+      "count": 2
+    },
+    {
+      "text": "nombramiento de profesores de tiempo",
+      "relevance": 0.520452,
+      "count": 1
+    },
+    {
+      "text": "area de la convocatoria",
+      "relevance": 0.519793,
+      "count": 1
+    },
+    {
+      "text": "experiencia investigativa",
+      "relevance": 0.518228,
+      "count": 2
+    },
+    {
+      "text": "clase magistral",
+      "relevance": 0.517979,
+      "count": 2
+    },
+    {
+      "text": "cargo de la comision",
+      "relevance": 0.516377,
+      "count": 1
+    },
+    {
+      "text": "perfil acad\u00e9mico",
+      "relevance": 0.515835,
+      "count": 1
+    },
+    {
+      "text": "medicina humana",
+      "relevance": 0.515377,
+      "count": 1
+    },
+    {
+      "text": "actividad docente",
+      "relevance": 0.515198,
+      "count": 1
+    },
+    {
+      "text": "mitad del puntaje",
+      "relevance": 0.514658,
+      "count": 1
+    },
+    {
+      "text": "programa de semilleros docentes",
+      "relevance": 0.514621,
+      "count": 1
+    },
+    {
+      "text": "casos de exposiciones",
+      "relevance": 0.514398,
+      "count": 1
+    },
+    {
+      "text": "primer criterio de desempate",
+      "relevance": 0.514385,
+      "count": 2
+    },
+    {
+      "text": "comision de evaluacion de m\u00e9ritos",
+      "relevance": 0.514326,
+      "count": 2
+    },
+    {
+      "text": "instituciones de educacion basica",
+      "relevance": 0.514144,
+      "count": 1
+    },
+    {
+      "text": "presente articulo",
+      "relevance": 0.514127,
+      "count": 1
+    },
+    {
+      "text": "premios internacionales",
+      "relevance": 0.51408,
+      "count": 1
+    }
+  ]
+}

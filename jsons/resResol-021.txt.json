@@ -1,0 +1,255 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2158,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "febrero del afio",
+      "relevance": 0.736908,
+      "count": 1
+    },
+    {
+      "text": "sistema de m\u00e9ritos",
+      "relevance": 0.710149,
+      "count": 3
+    },
+    {
+      "text": "febrero del presente afio",
+      "relevance": 0.646258,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.602727,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.590601,
+      "count": 2
+    },
+    {
+      "text": "vacantes de la planta",
+      "relevance": 0.586695,
+      "count": 1
+    },
+    {
+      "text": "nombramiento provisional",
+      "relevance": 0.565071,
+      "count": 2
+    },
+    {
+      "text": "concurso correspondiente",
+      "relevance": 0.558605,
+      "count": 1
+    },
+    {
+      "text": "salon del consejo acad\u00e9mico",
+      "relevance": 0.550391,
+      "count": 1
+    },
+    {
+      "text": "vacantes de la planta de empleados",
+      "relevance": 0.53312,
+      "count": 1
+    },
+    {
+      "text": "presente resolucion",
+      "relevance": 0.516677,
+      "count": 1
+    },
+    {
+      "text": "concursos internos",
+      "relevance": 0.509505,
+      "count": 2
+    },
+    {
+      "text": "dias del mes de marzo",
+      "relevance": 0.509399,
+      "count": 1
+    },
+    {
+      "text": "contrato definitivo",
+      "relevance": 0.505579,
+      "count": 1
+    },
+    {
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.503396,
+      "count": 2
+    },
+    {
+      "text": "estatuto general",
+      "relevance": 0.502508,
+      "count": 1
+    },
+    {
+      "text": "lopez pulecio",
+      "relevance": 0.502508,
+      "count": 1
+    },
+    {
+      "text": "secretario general",
+      "relevance": 0.495573,
+      "count": 1
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.489093,
+      "count": 3
+    },
+    {
+      "text": "atribuciones",
+      "relevance": 0.478667,
+      "count": 1
+    },
+    {
+      "text": "empleados",
+      "relevance": 0.478125,
+      "count": 2
+    },
+    {
+      "text": "seleccion",
+      "relevance": 0.478033,
+      "count": 1
+    },
+    {
+      "text": "paragrafo",
+      "relevance": 0.476362,
+      "count": 1
+    },
+    {
+      "text": "nuevos nombramientos provisionales de conformidad",
+      "relevance": 0.47354,
+      "count": 1
+    },
+    {
+      "text": "sefior rector de la universidad del valle",
+      "relevance": 0.471797,
+      "count": 1
+    },
+    {
+      "text": "cargo",
+      "relevance": 0.47103,
+      "count": 1
+    },
+    {
+      "text": "expedicion",
+      "relevance": 0.470549,
+      "count": 1
+    },
+    {
+      "text": "funcionarios",
+      "relevance": 0.469777,
+      "count": 2
+    },
+    {
+      "text": "ei",
+      "relevance": 0.465566,
+      "count": 1
+    },
+    {
+      "text": "personas",
+      "relevance": 0.464381,
+      "count": 1
+    },
+    {
+      "text": "resolucion",
+      "relevance": 0.463571,
+      "count": 3
+    },
+    {
+      "text": "articulo",
+      "relevance": 0.462645,
+      "count": 2
+    },
+    {
+      "text": "trabajo",
+      "relevance": 0.462442,
+      "count": 1
+    },
+    {
+      "text": "concursos",
+      "relevance": 0.460702,
+      "count": 1
+    },
+    {
+      "text": "requisitos",
+      "relevance": 0.459105,
+      "count": 1
+    },
+    {
+      "text": "docentes",
+      "relevance": 0.459105,
+      "count": 1
+    },
+    {
+      "text": "disposiciones",
+      "relevance": 0.45799,
+      "count": 1
+    },
+    {
+      "text": "t\u00e9rmino",
+      "relevance": 0.456875,
+      "count": 1
+    },
+    {
+      "text": "marzo",
+      "relevance": 0.456299,
+      "count": 1
+    },
+    {
+      "text": "procedimiento",
+      "relevance": 0.456299,
+      "count": 1
+    },
+    {
+      "text": "uso",
+      "relevance": 0.456299,
+      "count": 1
+    },
+    {
+      "text": "acuerdo",
+      "relevance": 0.456299,
+      "count": 1
+    },
+    {
+      "text": "desempefio",
+      "relevance": 0.456299,
+      "count": 1
+    },
+    {
+      "text": "habilitadas",
+      "relevance": 0.456299,
+      "count": 1
+    },
+    {
+      "text": "fecha",
+      "relevance": 0.456299,
+      "count": 1
+    },
+    {
+      "text": "presidente",
+      "relevance": 0.456299,
+      "count": 2
+    },
+    {
+      "text": "republica",
+      "relevance": 0.456299,
+      "count": 1
+    },
+    {
+      "text": "contrato",
+      "relevance": 0.454575,
+      "count": 1
+    },
+    {
+      "text": "valle",
+      "relevance": 0.452706,
+      "count": 1
+    }
+  ]
+}

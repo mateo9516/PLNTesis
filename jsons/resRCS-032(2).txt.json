@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3094,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "programa acad\u00e9mico",
+      "relevance": 0.751118,
+      "count": 3
+    },
+    {
+      "text": "redes de comunicacion",
+      "relevance": 0.724018,
+      "count": 7
+    },
+    {
+      "text": "escuela de ingenieria el\u00e9ctrica",
+      "relevance": 0.661647,
+      "count": 1
+    },
+    {
+      "text": "estudios de especializacion",
+      "relevance": 0.629651,
+      "count": 1
+    },
+    {
+      "text": "denominaciodn del programa acad\u00e9mico",
+      "relevance": 0.59912,
+      "count": 1
+    },
+    {
+      "text": "cobro de los derechos",
+      "relevance": 0.581279,
+      "count": 2
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.565174,
+      "count": 2
+    },
+    {
+      "text": "curriculo del programa acad\u00e9mico",
+      "relevance": 0.562185,
+      "count": 1
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.557522,
+      "count": 2
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.553967,
+      "count": 1
+    },
+    {
+      "text": "victor javier saavedra",
+      "relevance": 0.54127,
+      "count": 1
+    },
+    {
+      "text": "vez costos diferentes",
+      "relevance": 0.539601,
+      "count": 1
+    },
+    {
+      "text": "programa de posgrado",
+      "relevance": 0.518477,
+      "count": 1
+    },
+    {
+      "text": "seminarios de investigacidn",
+      "relevance": 0.517694,
+      "count": 1
+    },
+    {
+      "text": "modificacion del programa acad\u00e9mico",
+      "relevance": 0.51678,
+      "count": 1
+    },
+    {
+      "text": "literal m",
+      "relevance": 0.513664,
+      "count": 1
+    },
+    {
+      "text": "normas reglamentarias de la universidad",
+      "relevance": 0.513166,
+      "count": 1
+    },
+    {
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.505623,
+      "count": 1
+    },
+    {
+      "text": "demas conceptos establecidos",
+      "relevance": 0.502364,
+      "count": 1
+    },
+    {
+      "text": "consejo superior de la universidad",
+      "relevance": 0.501848,
+      "count": 1
+    },
+    {
+      "text": "ministerio de educacion nacional",
+      "relevance": 0.501017,
+      "count": 1
+    },
+    {
+      "text": "uso de sus atribuciones",
+      "relevance": 0.493888,
+      "count": 1
+    },
+    {
+      "text": "t\u00e9rminos de asignaturas",
+      "relevance": 0.490465,
+      "count": 1
+    },
+    {
+      "text": "dias del mes",
+      "relevance": 0.490465,
+      "count": 1
+    },
+    {
+      "text": "estatuto general",
+      "relevance": 0.489798,
+      "count": 1
+    },
+    {
+      "text": "electronica de la facultad",
+      "relevance": 0.488817,
+      "count": 1
+    },
+    {
+      "text": "marzo",
+      "relevance": 0.48861,
+      "count": 2
+    },
+    {
+      "text": "punto",
+      "relevance": 0.480109,
+      "count": 1
+    },
+    {
+      "text": "noviembre",
+      "relevance": 0.47969,
+      "count": 2
+    },
+    {
+      "text": "saldn de reuniones de la torre institucional",
+      "relevance": 0.478635,
+      "count": 1
+    },
+    {
+      "text": "estudiante",
+      "relevance": 0.47778,
+      "count": 1
+    },
+    {
+      "text": "ingenieria",
+      "relevance": 0.477118,
+      "count": 1
+    },
+    {
+      "text": "posgrado",
+      "relevance": 0.476064,
+      "count": 1
+    },
+    {
+      "text": "aval",
+      "relevance": 0.475208,
+      "count": 1
+    },
+    {
+      "text": "especializacion",
+      "relevance": 0.475,
+      "count": 5
+    },
+    {
+      "text": "enero",
+      "relevance": 0.474893,
+      "count": 1
+    },
+    {
+      "text": "salarios",
+      "relevance": 0.474215,
+      "count": 1
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.473328,
+      "count": 3
+    },
+    {
+      "text": "registro",
+      "relevance": 0.472692,
+      "count": 1
+    },
+    {
+      "text": "proporcion",
+      "relevance": 0.472637,
+      "count": 1
+    },
+    {
+      "text": "valle",
+      "relevance": 0.471432,
+      "count": 1
+    },
+    {
+      "text": "junio",
+      "relevance": 0.469091,
+      "count": 2
+    },
+    {
+      "text": "derechos",
+      "relevance": 0.468568,
+      "count": 3
+    },
+    {
+      "text": "fecha",
+      "relevance": 0.468342,
+      "count": 1
+    },
+    {
+      "text": "programas",
+      "relevance": 0.468029,
+      "count": 1
+    },
+    {
+      "text": "afios",
+      "relevance": 0.46798,
+      "count": 1
+    },
+    {
+      "text": "comunicacion",
+      "relevance": 0.4667,
+      "count": 2
+    },
+    {
+      "text": "ministerio",
+      "relevance": 0.465945,
+      "count": 1
+    },
+    {
+      "text": "presente",
+      "relevance": 0.46588,
+      "count": 1
+    },
+    {
+      "text": "programa",
+      "relevance": 0.465257,
+      "count": 1
+    }
+  ]
+}

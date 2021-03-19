@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3188,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "sistema nacional de ciencia",
+      "relevance": 0.686151,
+      "count": 1
+    },
+    {
+      "text": "facultad de ciencias de la administracion",
+      "relevance": 0.643874,
+      "count": 2
+    },
+    {
+      "text": "gestion del conocimiento",
+      "relevance": 0.627789,
+      "count": 1
+    },
+    {
+      "text": "cargo de director del instituto",
+      "relevance": 0.588373,
+      "count": 1
+    },
+    {
+      "text": "acto administrativo",
+      "relevance": 0.574769,
+      "count": 1
+    },
+    {
+      "text": "ciencias de la administraci6n",
+      "relevance": 0.564067,
+      "count": 1
+    },
+    {
+      "text": "coordinacion de la vicerrectoria de investigaciones",
+      "relevance": 0.562383,
+      "count": 1
+    },
+    {
+      "text": "uso de sus atribuciones",
+      "relevance": 0.561089,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.549229,
+      "count": 1
+    },
+    {
+      "text": "creacion de institutos de investigacion",
+      "relevance": 0.548557,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.546973,
+      "count": 1
+    },
+    {
+      "text": "organismo multidisciplinario",
+      "relevance": 0.544394,
+      "count": 1
+    },
+    {
+      "text": "literal b",
+      "relevance": 0.54265,
+      "count": 1
+    },
+    {
+      "text": "abril del afio",
+      "relevance": 0.54088,
+      "count": 1
+    },
+    {
+      "text": "programa nacional de prospectiva",
+      "relevance": 0.531022,
+      "count": 1
+    },
+    {
+      "text": "caracter estrat\u00e9gico",
+      "relevance": 0.530997,
+      "count": 1
+    },
+    {
+      "text": "diciembre del afio",
+      "relevance": 0.530564,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de marzo",
+      "relevance": 0.528066,
+      "count": 1
+    },
+    {
+      "text": "forma organizativa",
+      "relevance": 0.527049,
+      "count": 1
+    },
+    {
+      "text": "grupo interdisciplinario",
+      "relevance": 0.52457,
+      "count": 1
+    },
+    {
+      "text": "facultad de ciencias",
+      "relevance": 0.521994,
+      "count": 2
+    },
+    {
+      "text": "innovaci6n",
+      "relevance": 0.514709,
+      "count": 2
+    },
+    {
+      "text": "clasificacion de otras facultades",
+      "relevance": 0.514463,
+      "count": 1
+    },
+    {
+      "text": "grupos de investigacion",
+      "relevance": 0.511123,
+      "count": 2
+    },
+    {
+      "text": "unidad adscrita",
+      "relevance": 0.509809,
+      "count": 1
+    },
+    {
+      "text": "agenda investigativa",
+      "relevance": 0.508299,
+      "count": 1
+    },
+    {
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.506405,
+      "count": 3
+    },
+    {
+      "text": "insercion internacional",
+      "relevance": 0.505071,
+      "count": 1
+    },
+    {
+      "text": "numeral anterior",
+      "relevance": 0.501863,
+      "count": 1
+    },
+    {
+      "text": "fecha de su expedicion",
+      "relevance": 0.501863,
+      "count": 1
+    },
+    {
+      "text": "representante del presidente",
+      "relevance": 0.500477,
+      "count": 1
+    },
+    {
+      "text": "administraci6n",
+      "relevance": 0.497409,
+      "count": 1
+    },
+    {
+      "text": "larreamendy joerns",
+      "relevance": 0.496156,
+      "count": 1
+    },
+    {
+      "text": "cargo de director",
+      "relevance": 0.494689,
+      "count": 1
+    },
+    {
+      "text": "instituto de prospectiva",
+      "relevance": 0.492578,
+      "count": 2
+    },
+    {
+      "text": "estatuto general",
+      "relevance": 0.491991,
+      "count": 1
+    },
+    {
+      "text": "institutos acad\u00e9micos",
+      "relevance": 0.48815,
+      "count": 1
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.488056,
+      "count": 3
+    },
+    {
+      "text": "resolucion",
+      "relevance": 0.487474,
+      "count": 3
+    },
+    {
+      "text": "programa nacional de prospectiva tecnoldgica industrial",
+      "relevance": 0.481745,
+      "count": 1
+    },
+    {
+      "text": "grupos",
+      "relevance": 0.478874,
+      "count": 1
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.478027,
+      "count": 2
+    },
+    {
+      "text": "prospectiva",
+      "relevance": 0.476154,
+      "count": 2
+    },
+    {
+      "text": "innovacion",
+      "relevance": 0.475062,
+      "count": 1
+    },
+    {
+      "text": "requisitos",
+      "relevance": 0.475024,
+      "count": 1
+    },
+    {
+      "text": "disposicion",
+      "relevance": 0.473522,
+      "count": 1
+    },
+    {
+      "text": "sistema",
+      "relevance": 0.473409,
+      "count": 1
+    },
+    {
+      "text": "sala de reuniones de la torre institucional",
+      "relevance": 0.470531,
+      "count": 1
+    },
+    {
+      "text": "consejo superior de la universidad del valle asumio",
+      "relevance": 0.468806,
+      "count": 1
+    },
+    {
+      "text": "conocimiento",
+      "relevance": 0.468645,
+      "count": 3
+    }
+  ]
+}

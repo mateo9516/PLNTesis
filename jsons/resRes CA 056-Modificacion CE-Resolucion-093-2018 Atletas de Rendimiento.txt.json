@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 7125,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "programas acad\u00e9micos de pregrado",
+      "relevance": 0.646286,
+      "count": 1
+    },
+    {
+      "text": "ingreso de los atletas colombianos",
+      "relevance": 0.582243,
+      "count": 1
+    },
+    {
+      "text": "programas acad\u00e9micos",
+      "relevance": 0.581135,
+      "count": 2
+    },
+    {
+      "text": "documentos exigidos",
+      "relevance": 0.579297,
+      "count": 1
+    },
+    {
+      "text": "condiciones necesarias",
+      "relevance": 0.551339,
+      "count": 1
+    },
+    {
+      "text": "cupo total del programa",
+      "relevance": 0.550151,
+      "count": 2
+    },
+    {
+      "text": "presente resolucion",
+      "relevance": 0.549439,
+      "count": 1
+    },
+    {
+      "text": "condicion de excepcion atletas",
+      "relevance": 0.548422,
+      "count": 1
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.54698,
+      "count": 5
+    },
+    {
+      "text": "reconocimientos deportivos",
+      "relevance": 0.543616,
+      "count": 1
+    },
+    {
+      "text": "acad\u00e9micos de la facultad de salud",
+      "relevance": 0.54242,
+      "count": 1
+    },
+    {
+      "text": "solo periodo acad\u00e9mico",
+      "relevance": 0.540168,
+      "count": 1
+    },
+    {
+      "text": "documento de identidad legible",
+      "relevance": 0.536789,
+      "count": 1
+    },
+    {
+      "text": "atletas de rendimiento",
+      "relevance": 0.535952,
+      "count": 2
+    },
+    {
+      "text": "fondo blanco",
+      "relevance": 0.535926,
+      "count": 1
+    },
+    {
+      "text": "convenios establecidos",
+      "relevance": 0.535205,
+      "count": 1
+    },
+    {
+      "text": "disciplina deportiva",
+      "relevance": 0.533782,
+      "count": 1
+    },
+    {
+      "text": "departamento del valle del cauca",
+      "relevance": 0.530231,
+      "count": 1
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.529957,
+      "count": 6
+    },
+    {
+      "text": "programa acad\u00e9mico",
+      "relevance": 0.529563,
+      "count": 2
+    },
+    {
+      "text": "constitucion fisica",
+      "relevance": 0.528809,
+      "count": 1
+    },
+    {
+      "text": "campeonato nacional",
+      "relevance": 0.526776,
+      "count": 1
+    },
+    {
+      "text": "nivel nacional",
+      "relevance": 0.525863,
+      "count": 1
+    },
+    {
+      "text": "documento original",
+      "relevance": 0.524052,
+      "count": 1
+    },
+    {
+      "text": "segundo lugar",
+      "relevance": 0.523425,
+      "count": 1
+    },
+    {
+      "text": "juegos nacionales",
+      "relevance": 0.523151,
+      "count": 2
+    },
+    {
+      "text": "habilidades t\u00e9cnicas",
+      "relevance": 0.522521,
+      "count": 1
+    },
+    {
+      "text": "facultad de ciencias naturales",
+      "relevance": 0.521459,
+      "count": 1
+    },
+    {
+      "text": "mejores resultados",
+      "relevance": 0.519979,
+      "count": 1
+    },
+    {
+      "text": "disciplinas deportivas",
+      "relevance": 0.518603,
+      "count": 1
+    },
+    {
+      "text": "atleta de rendimiento",
+      "relevance": 0.518273,
+      "count": 2
+    },
+    {
+      "text": "caso de un empate",
+      "relevance": 0.518056,
+      "count": 1
+    },
+    {
+      "text": "estado de la educacion media",
+      "relevance": 0.515424,
+      "count": 1
+    },
+    {
+      "text": "correo electronico",
+      "relevance": 0.515143,
+      "count": 1
+    },
+    {
+      "text": "educacion fisica",
+      "relevance": 0.514818,
+      "count": 1
+    },
+    {
+      "text": "valle",
+      "relevance": 0.513489,
+      "count": 2
+    },
+    {
+      "text": "desarrollo deportivo",
+      "relevance": 0.512411,
+      "count": 1
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.512383,
+      "count": 6
+    },
+    {
+      "text": "linea de corte",
+      "relevance": 0.511736,
+      "count": 1
+    },
+    {
+      "text": "programas de licenciatura",
+      "relevance": 0.511624,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.510581,
+      "count": 1
+    },
+    {
+      "text": "pregrado de la universidad del valle",
+      "relevance": 0.510453,
+      "count": 1
+    },
+    {
+      "text": "consejo academico de la universidad del valle",
+      "relevance": 0.510254,
+      "count": 1
+    },
+    {
+      "text": "certificacion de indervalle",
+      "relevance": 0.509526,
+      "count": 1
+    },
+    {
+      "text": "fecha del acta del comit\u00e9",
+      "relevance": 0.508341,
+      "count": 1
+    },
+    {
+      "text": "condicion de excepcidn",
+      "relevance": 0.507968,
+      "count": 2
+    },
+    {
+      "text": "documento de identidad",
+      "relevance": 0.507855,
+      "count": 1
+    },
+    {
+      "text": "condici\u00e9n de excepcion atletas de rendimiento",
+      "relevance": 0.507556,
+      "count": 1
+    },
+    {
+      "text": "solo vez",
+      "relevance": 0.507164,
+      "count": 1
+    },
+    {
+      "text": "coordinador del programa de apoyo",
+      "relevance": 0.507054,
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 4546,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "deliberacion amplia",
+      "relevance": 0.637846,
+      "count": 1
+    },
+    {
+      "text": "diversos estamentos",
+      "relevance": 0.613489,
+      "count": 1
+    },
+    {
+      "text": "social jestis martin",
+      "relevance": 0.603143,
+      "count": 1
+    },
+    {
+      "text": "comunidad universitaria",
+      "relevance": 0.594805,
+      "count": 1
+    },
+    {
+      "text": "espacio acad\u00e9mico de formacion",
+      "relevance": 0.593006,
+      "count": 1
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.565853,
+      "count": 2
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.554996,
+      "count": 1
+    },
+    {
+      "text": "presentacion del tema del semestre",
+      "relevance": 0.553898,
+      "count": 1
+    },
+    {
+      "text": "creacion de opciones viables",
+      "relevance": 0.553275,
+      "count": 1
+    },
+    {
+      "text": "procesos actuales de transformacion",
+      "relevance": 0.55317,
+      "count": 1
+    },
+    {
+      "text": "mision de la universidad",
+      "relevance": 0.547267,
+      "count": 1
+    },
+    {
+      "text": "vocacion de servicio social",
+      "relevance": 0.546334,
+      "count": 1
+    },
+    {
+      "text": "facultad de artes integradas",
+      "relevance": 0.543023,
+      "count": 1
+    },
+    {
+      "text": "difusion del conocimiento",
+      "relevance": 0.538301,
+      "count": 1
+    },
+    {
+      "text": "problemas sociales",
+      "relevance": 0.53725,
+      "count": 1
+    },
+    {
+      "text": "calidad acad\u00e9mica",
+      "relevance": 0.536434,
+      "count": 2
+    },
+    {
+      "text": "propia comunidad universitaria",
+      "relevance": 0.529405,
+      "count": 1
+    },
+    {
+      "text": "demandas sociales",
+      "relevance": 0.52736,
+      "count": 1
+    },
+    {
+      "text": "intelectuales de mayor impacto",
+      "relevance": 0.524926,
+      "count": 1
+    },
+    {
+      "text": "inter\u00e9s general",
+      "relevance": 0.524476,
+      "count": 1
+    },
+    {
+      "text": "nivel superior",
+      "relevance": 0.523114,
+      "count": 1
+    },
+    {
+      "text": "vicerrectoria acad\u00e9mica",
+      "relevance": 0.522421,
+      "count": 1
+    },
+    {
+      "text": "organizacion del funcionamiento acad\u00e9mico",
+      "relevance": 0.521091,
+      "count": 1
+    },
+    {
+      "text": "docentes de la universidad",
+      "relevance": 0.519048,
+      "count": 1
+    },
+    {
+      "text": "escuela de comunicacion social",
+      "relevance": 0.518559,
+      "count": 2
+    },
+    {
+      "text": "metodologia de trabajo",
+      "relevance": 0.517556,
+      "count": 1
+    },
+    {
+      "text": "espacios de reflexion",
+      "relevance": 0.515946,
+      "count": 1
+    },
+    {
+      "text": "profesor jesus martin",
+      "relevance": 0.514342,
+      "count": 1
+    },
+    {
+      "text": "medio tiempo",
+      "relevance": 0.513049,
+      "count": 1
+    },
+    {
+      "text": "manera experimental",
+      "relevance": 0.512672,
+      "count": 1
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.511059,
+      "count": 5
+    },
+    {
+      "text": "curso de actualizacion profesional",
+      "relevance": 0.509922,
+      "count": 1
+    },
+    {
+      "text": "asignatura electiva complementaria",
+      "relevance": 0.509628,
+      "count": 1
+    },
+    {
+      "text": "periodo febrero",
+      "relevance": 0.509441,
+      "count": 1
+    },
+    {
+      "text": "docente coordinador",
+      "relevance": 0.508152,
+      "count": 1
+    },
+    {
+      "text": "significativa influencia",
+      "relevance": 0.506864,
+      "count": 1
+    },
+    {
+      "text": "busqueda de alternativas",
+      "relevance": 0.505936,
+      "count": 1
+    },
+    {
+      "text": "dialogo razonado",
+      "relevance": 0.504123,
+      "count": 1
+    },
+    {
+      "text": "consejo academico de la universidad del valle",
+      "relevance": 0.503868,
+      "count": 1
+    },
+    {
+      "text": "profundas transformaciones",
+      "relevance": 0.503741,
+      "count": 1
+    },
+    {
+      "text": "circulacion de los saberes",
+      "relevance": 0.503741,
+      "count": 1
+    },
+    {
+      "text": "encuentro de multiples voces",
+      "relevance": 0.503445,
+      "count": 1
+    },
+    {
+      "text": "cargo de los nuevos desafios",
+      "relevance": 0.502662,
+      "count": 1
+    },
+    {
+      "text": "uso de sus atribuciones",
+      "relevance": 0.502016,
+      "count": 1
+    },
+    {
+      "text": "curso de extension universitaria",
+      "relevance": 0.501044,
+      "count": 1
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.500875,
+      "count": 1
+    },
+    {
+      "text": "coordinaci6\u00e9n",
+      "relevance": 0.499419,
+      "count": 1
+    },
+    {
+      "text": "formas de evaluacion",
+      "relevance": 0.499419,
+      "count": 1
+    },
+    {
+      "text": "institucion universitaria",
+      "relevance": 0.499376,
+      "count": 1
+    },
+    {
+      "text": "objetivos de la catedra",
+      "relevance": 0.499214,
+      "count": 1
+    }
+  ]
+}

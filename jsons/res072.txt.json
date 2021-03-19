@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 5594,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.769468,
+      "count": 18
+    },
+    {
+      "text": "director de instituto acad\u00e9mico",
+      "relevance": 0.682109,
+      "count": 4
+    },
+    {
+      "text": "comit\u00e9 de asuntos estudiantiles",
+      "relevance": 0.655617,
+      "count": 4
+    },
+    {
+      "text": "representantes profesorales",
+      "relevance": 0.616721,
+      "count": 2
+    },
+    {
+      "text": "vicerrector de bienestar universitario",
+      "relevance": 0.579077,
+      "count": 2
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.570187,
+      "count": 2
+    },
+    {
+      "text": "literal n",
+      "relevance": 0.561893,
+      "count": 2
+    },
+    {
+      "text": "director de la oficina juridica",
+      "relevance": 0.553925,
+      "count": 2
+    },
+    {
+      "text": "calidad acad\u00e9mica",
+      "relevance": 0.549152,
+      "count": 2
+    },
+    {
+      "text": "forma rotativa",
+      "relevance": 0.534627,
+      "count": 2
+    },
+    {
+      "text": "representantes estudiantiles",
+      "relevance": 0.533325,
+      "count": 2
+    },
+    {
+      "text": "comit\u00e9s asesores",
+      "relevance": 0.530413,
+      "count": 2
+    },
+    {
+      "text": "asuntos estudiantiles",
+      "relevance": 0.528132,
+      "count": 4
+    },
+    {
+      "text": "politicas acad\u00e9micas",
+      "relevance": 0.525288,
+      "count": 2
+    },
+    {
+      "text": "representante de los programas acad\u00e9micos",
+      "relevance": 0.521619,
+      "count": 2
+    },
+    {
+      "text": "sal\u00e9n de reuniones",
+      "relevance": 0.520932,
+      "count": 2
+    },
+    {
+      "text": "estatuto general",
+      "relevance": 0.518373,
+      "count": 2
+    },
+    {
+      "text": "consejos acad\u00e9mico",
+      "relevance": 0.51251,
+      "count": 2
+    },
+    {
+      "text": "asignaci\u00e9n de las tareas",
+      "relevance": 0.511693,
+      "count": 2
+    },
+    {
+      "text": "consejo academico de la universidad del valle",
+      "relevance": 0.511634,
+      "count": 2
+    },
+    {
+      "text": "siguiente manera",
+      "relevance": 0.506993,
+      "count": 2
+    },
+    {
+      "text": "adavid ramirez",
+      "relevance": 0.506993,
+      "count": 2
+    },
+    {
+      "text": "semestre acad\u00e9mico",
+      "relevance": 0.503287,
+      "count": 2
+    },
+    {
+      "text": "estudiantes de la universidad del valle",
+      "relevance": 0.499457,
+      "count": 2
+    },
+    {
+      "text": "decano",
+      "relevance": 0.498701,
+      "count": 4
+    },
+    {
+      "text": "dias de mayo",
+      "relevance": 0.493944,
+      "count": 2
+    },
+    {
+      "text": "fecha de la presente resoluci6n",
+      "relevance": 0.492488,
+      "count": 2
+    },
+    {
+      "text": "objetivo del comit\u00e9",
+      "relevance": 0.487096,
+      "count": 2
+    },
+    {
+      "text": "suplente",
+      "relevance": 0.478295,
+      "count": 2
+    },
+    {
+      "text": "atribuciones",
+      "relevance": 0.477886,
+      "count": 2
+    },
+    {
+      "text": "director",
+      "relevance": 0.474407,
+      "count": 2
+    },
+    {
+      "text": "reestructur6",
+      "relevance": 0.473312,
+      "count": 2
+    },
+    {
+      "text": "comit\u00e9 de asuntos",
+      "relevance": 0.472271,
+      "count": 2
+    },
+    {
+      "text": "semestre",
+      "relevance": 0.470813,
+      "count": 2
+    },
+    {
+      "text": "objetivo comit\u00e9 de asuntos estudiantiles",
+      "relevance": 0.47064,
+      "count": 2
+    },
+    {
+      "text": "equilibrio",
+      "relevance": 0.470287,
+      "count": 2
+    },
+    {
+      "text": "objetivos",
+      "relevance": 0.470221,
+      "count": 2
+    },
+    {
+      "text": "acuerdo",
+      "relevance": 0.469792,
+      "count": 2
+    },
+    {
+      "text": "comit\u00e9 de asuntos disciplinarios estudiantiles",
+      "relevance": 0.465434,
+      "count": 2
+    },
+    {
+      "text": "vigencia",
+      "relevance": 0.463946,
+      "count": 2
+    },
+    {
+      "text": "alos",
+      "relevance": 0.463813,
+      "count": 2
+    },
+    {
+      "text": "modific6",
+      "relevance": 0.462997,
+      "count": 2
+    },
+    {
+      "text": "resolucion",
+      "relevance": 0.462452,
+      "count": 2
+    },
+    {
+      "text": "diciembre",
+      "relevance": 0.462088,
+      "count": 2
+    },
+    {
+      "text": "comit\u00e9",
+      "relevance": 0.461868,
+      "count": 4
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.46157,
+      "count": 4
+    },
+    {
+      "text": "marzo",
+      "relevance": 0.461068,
+      "count": 4
+    },
+    {
+      "text": "fecha",
+      "relevance": 0.460321,
+      "count": 2
+    },
+    {
+      "text": "valle",
+      "relevance": 0.459959,
+      "count": 2
+    },
+    {
+      "text": "fin",
+      "relevance": 0.459959,
+      "count": 2
+    }
+  ]
+}

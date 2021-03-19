@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2181,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "segunda lengua",
+      "relevance": 0.781924,
+      "count": 2
+    },
+    {
+      "text": "plan estrat\u00e9gico de desarrollo",
+      "relevance": 0.735696,
+      "count": 1
+    },
+    {
+      "text": "inmersion total",
+      "relevance": 0.735463,
+      "count": 2
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.663429,
+      "count": 3
+    },
+    {
+      "text": "dominio de una segunda lengua",
+      "relevance": 0.655937,
+      "count": 1
+    },
+    {
+      "text": "desarrollo de esta politica",
+      "relevance": 0.643412,
+      "count": 1
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.621021,
+      "count": 2
+    },
+    {
+      "text": "programas intensivos",
+      "relevance": 0.602928,
+      "count": 1
+    },
+    {
+      "text": "otorgamiento de estimulos acad\u00e9micos",
+      "relevance": 0.595491,
+      "count": 1
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.565664,
+      "count": 1
+    },
+    {
+      "text": "desarrollo profesoral",
+      "relevance": 0.550676,
+      "count": 1
+    },
+    {
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.532144,
+      "count": 1
+    },
+    {
+      "text": "instituciones extranjeras",
+      "relevance": 0.530312,
+      "count": 1
+    },
+    {
+      "text": "universidad moderna",
+      "relevance": 0.529086,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.515589,
+      "count": 1
+    },
+    {
+      "text": "estrategias de modernizaci6",
+      "relevance": 0.510377,
+      "count": 1
+    },
+    {
+      "text": "relaci6n",
+      "relevance": 0.508323,
+      "count": 1
+    },
+    {
+      "text": "otorgamiento de comisiones",
+      "relevance": 0.501641,
+      "count": 1
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.494128,
+      "count": 2
+    },
+    {
+      "text": "proyecci6on internacional",
+      "relevance": 0.487395,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de abril",
+      "relevance": 0.486128,
+      "count": 1
+    },
+    {
+      "text": "salon de reuniones del despacho",
+      "relevance": 0.485831,
+      "count": 1
+    },
+    {
+      "text": "secretario general",
+      "relevance": 0.484541,
+      "count": 1
+    },
+    {
+      "text": "resoluci6n",
+      "relevance": 0.480199,
+      "count": 1
+    },
+    {
+      "text": "representante del presidente",
+      "relevance": 0.479642,
+      "count": 1
+    },
+    {
+      "text": "resolucion",
+      "relevance": 0.477457,
+      "count": 3
+    },
+    {
+      "text": "consolidacion de la institucion",
+      "relevance": 0.475038,
+      "count": 1
+    },
+    {
+      "text": "larreamendy joerns",
+      "relevance": 0.475038,
+      "count": 1
+    },
+    {
+      "text": "lopez pulecio",
+      "relevance": 0.475038,
+      "count": 1
+    },
+    {
+      "text": "comisiones acad\u00e9micas",
+      "relevance": 0.47432,
+      "count": 1
+    },
+    {
+      "text": "cursos de idiomas",
+      "relevance": 0.470604,
+      "count": 1
+    },
+    {
+      "text": "otorgamiento de la comisi6",
+      "relevance": 0.467946,
+      "count": 1
+    },
+    {
+      "text": "aprendizaje de un idioma",
+      "relevance": 0.463796,
+      "count": 1
+    },
+    {
+      "text": "profesores",
+      "relevance": 0.457977,
+      "count": 2
+    },
+    {
+      "text": "iniciativa",
+      "relevance": 0.448742,
+      "count": 1
+    },
+    {
+      "text": "programas",
+      "relevance": 0.446495,
+      "count": 1
+    },
+    {
+      "text": "consejo",
+      "relevance": 0.4449,
+      "count": 1
+    },
+    {
+      "text": "dominio",
+      "relevance": 0.4421,
+      "count": 1
+    },
+    {
+      "text": "gobernacion",
+      "relevance": 0.441242,
+      "count": 1
+    },
+    {
+      "text": "valle",
+      "relevance": 0.440711,
+      "count": 1
+    },
+    {
+      "text": "criterios",
+      "relevance": 0.438722,
+      "count": 1
+    },
+    {
+      "text": "partes",
+      "relevance": 0.437084,
+      "count": 1
+    },
+    {
+      "text": "abril",
+      "relevance": 0.436351,
+      "count": 2
+    },
+    {
+      "text": "profesorado",
+      "relevance": 0.436351,
+      "count": 1
+    },
+    {
+      "text": "podra",
+      "relevance": 0.436351,
+      "count": 1
+    },
+    {
+      "text": "reglamentacion",
+      "relevance": 0.436351,
+      "count": 1
+    },
+    {
+      "text": "exterior",
+      "relevance": 0.435985,
+      "count": 1
+    },
+    {
+      "text": "acad\u00e9mica",
+      "relevance": 0.435099,
+      "count": 1
+    },
+    {
+      "text": "uso",
+      "relevance": 0.434887,
+      "count": 1
+    },
+    {
+      "text": "atribuciones",
+      "relevance": 0.434887,
+      "count": 1
+    }
+  ]
+}

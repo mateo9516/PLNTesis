@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 7578,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "estudiantes de los programas de pregrado",
+      "relevance": 0.700472,
+      "count": 1
+    },
+    {
+      "text": "periodo acad\u00e9mico",
+      "relevance": 0.668509,
+      "count": 6
+    },
+    {
+      "text": "condiciones de salud",
+      "relevance": 0.628069,
+      "count": 1
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.588171,
+      "count": 5
+    },
+    {
+      "text": "estudiantes de la universidad del valle",
+      "relevance": 0.583158,
+      "count": 1
+    },
+    {
+      "text": "programas acad\u00e9micos",
+      "relevance": 0.57647,
+      "count": 2
+    },
+    {
+      "text": "hecho cierto",
+      "relevance": 0.570636,
+      "count": 1
+    },
+    {
+      "text": "autoridades acad\u00e9micas",
+      "relevance": 0.567227,
+      "count": 1
+    },
+    {
+      "text": "siguientes casos",
+      "relevance": 0.5602,
+      "count": 1
+    },
+    {
+      "text": "politicas acad\u00e9micas",
+      "relevance": 0.556382,
+      "count": 1
+    },
+    {
+      "text": "estatuto general",
+      "relevance": 0.551409,
+      "count": 2
+    },
+    {
+      "text": "atribuciones legales",
+      "relevance": 0.547754,
+      "count": 1
+    },
+    {
+      "text": "territorio nacional",
+      "relevance": 0.539843,
+      "count": 2
+    },
+    {
+      "text": "estudiantes de pregrado de la universidad",
+      "relevance": 0.536425,
+      "count": 1
+    },
+    {
+      "text": "r\u00e9gimen especial",
+      "relevance": 0.535605,
+      "count": 1
+    },
+    {
+      "text": "desarrollo de la autonomia universitaria",
+      "relevance": 0.534368,
+      "count": 1
+    },
+    {
+      "text": "costo colateral de la crisis",
+      "relevance": 0.533424,
+      "count": 1
+    },
+    {
+      "text": "pleno desarrollo",
+      "relevance": 0.531863,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.531677,
+      "count": 5
+    },
+    {
+      "text": "efectos legales",
+      "relevance": 0.531314,
+      "count": 1
+    },
+    {
+      "text": "documento original",
+      "relevance": 0.527524,
+      "count": 1
+    },
+    {
+      "text": "deber de corresponsabilidad social",
+      "relevance": 0.525652,
+      "count": 1
+    },
+    {
+      "text": "grandes proporciones",
+      "relevance": 0.523886,
+      "count": 1
+    },
+    {
+      "text": "efectos negativos de esta eventualidad",
+      "relevance": 0.523846,
+      "count": 1
+    },
+    {
+      "text": "matricula financiera",
+      "relevance": 0.5238,
+      "count": 1
+    },
+    {
+      "text": "estudiantes de pregrado",
+      "relevance": 0.522973,
+      "count": 3
+    },
+    {
+      "text": "saldos correspondientes",
+      "relevance": 0.520421,
+      "count": 1
+    },
+    {
+      "text": "protecci6\u00e9n social",
+      "relevance": 0.519265,
+      "count": 1
+    },
+    {
+      "text": "resoluci6on",
+      "relevance": 0.518288,
+      "count": 1
+    },
+    {
+      "text": "6\u00e9n institucional",
+      "relevance": 0.517857,
+      "count": 1
+    },
+    {
+      "text": "m\u00e9rito de lo expuesto",
+      "relevance": 0.515555,
+      "count": 1
+    },
+    {
+      "text": "clara luz",
+      "relevance": 0.514657,
+      "count": 1
+    },
+    {
+      "text": "financiera de periodos anteriores",
+      "relevance": 0.514418,
+      "count": 1
+    },
+    {
+      "text": "presente resoluci6n",
+      "relevance": 0.513947,
+      "count": 1
+    },
+    {
+      "text": "universidades del estado",
+      "relevance": 0.513907,
+      "count": 1
+    },
+    {
+      "text": "marzo del afo",
+      "relevance": 0.51327,
+      "count": 1
+    },
+    {
+      "text": "economia colombiana",
+      "relevance": 0.5125,
+      "count": 1
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.509136,
+      "count": 4
+    },
+    {
+      "text": "estudiantes de programas de pregrado",
+      "relevance": 0.508344,
+      "count": 1
+    },
+    {
+      "text": "vinculo laboral",
+      "relevance": 0.507352,
+      "count": 1
+    },
+    {
+      "text": "estudiantes de primer semestre",
+      "relevance": 0.506669,
+      "count": 1
+    },
+    {
+      "text": "fuerza ejecutoria de conformidad",
+      "relevance": 0.506587,
+      "count": 1
+    },
+    {
+      "text": "alivio financiero",
+      "relevance": 0.505,
+      "count": 2
+    },
+    {
+      "text": "labores formativas",
+      "relevance": 0.50499,
+      "count": 1
+    },
+    {
+      "text": "trav\u00e9s del consejo superior",
+      "relevance": 0.503342,
+      "count": 1
+    },
+    {
+      "text": "salud",
+      "relevance": 0.503319,
+      "count": 2
+    },
+    {
+      "text": "mecanismos tendientes",
+      "relevance": 0.50208,
+      "count": 1
+    },
+    {
+      "text": "fechas estipuladas",
+      "relevance": 0.501887,
+      "count": 1
+    },
+    {
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.50183,
+      "count": 1
+    },
+    {
+      "text": "caso de los estudiantes",
+      "relevance": 0.501369,
+      "count": 1
+    }
+  ]
+}

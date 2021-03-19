@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 6206,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "senor rector",
+      "relevance": 0.598228,
+      "count": 1
+    },
+    {
+      "text": "miembros ros",
+      "relevance": 0.57899,
+      "count": 3
+    },
+    {
+      "text": "autorizacion del consejo superior",
+      "relevance": 0.575229,
+      "count": 1
+    },
+    {
+      "text": "acreditacion de determinacion de marco",
+      "relevance": 0.570828,
+      "count": 1
+    },
+    {
+      "text": "recibo de bienes",
+      "relevance": 0.567945,
+      "count": 1
+    },
+    {
+      "text": "combustibles solidos",
+      "relevance": 0.566165,
+      "count": 1
+    },
+    {
+      "text": "asamblea departamental del valle",
+      "relevance": 0.557991,
+      "count": 1
+    },
+    {
+      "text": "fecha posterior",
+      "relevance": 0.551508,
+      "count": 1
+    },
+    {
+      "text": "desarrollo de un proceso",
+      "relevance": 0.548629,
+      "count": 1
+    },
+    {
+      "text": "estatuto organico del presupuesto",
+      "relevance": 0.543565,
+      "count": 1
+    },
+    {
+      "text": "senor rector de la universidad",
+      "relevance": 0.542098,
+      "count": 1
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.541465,
+      "count": 2
+    },
+    {
+      "text": "vigencias siguientes",
+      "relevance": 0.538181,
+      "count": 1
+    },
+    {
+      "text": "alta resistencia",
+      "relevance": 0.535943,
+      "count": 1
+    },
+    {
+      "text": "r\u00e9gimen especial",
+      "relevance": 0.535943,
+      "count": 1
+    },
+    {
+      "text": "91-9141poder calorifico",
+      "relevance": 0.535364,
+      "count": 1
+    },
+    {
+      "text": "recepci\u00e9n de bienes",
+      "relevance": 0.52851,
+      "count": 1
+    },
+    {
+      "text": "braulio insuasty",
+      "relevance": 0.528456,
+      "count": 3
+    },
+    {
+      "text": "aceite de palma",
+      "relevance": 0.527041,
+      "count": 1
+    },
+    {
+      "text": "oes snr",
+      "relevance": 0.526626,
+      "count": 1
+    },
+    {
+      "text": "ente universitario",
+      "relevance": 0.52558,
+      "count": 1
+    },
+    {
+      "text": "cierre fiscal",
+      "relevance": 0.525232,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.524974,
+      "count": 3
+    },
+    {
+      "text": "acreditacion de determinacion",
+      "relevance": 0.524549,
+      "count": 1
+    },
+    {
+      "text": "desarrollo de una fibra de celulosa",
+      "relevance": 0.520755,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.518849,
+      "count": 1
+    },
+    {
+      "text": "agua comprimida",
+      "relevance": 0.518792,
+      "count": 1
+    },
+    {
+      "text": "siguientes proyectos",
+      "relevance": 0.51791,
+      "count": 1
+    },
+    {
+      "text": "reuniones de la torre institucional",
+      "relevance": 0.517345,
+      "count": 1
+    },
+    {
+      "text": "cierre de la actual vigencia",
+      "relevance": 0.517177,
+      "count": 1
+    },
+    {
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.516678,
+      "count": 2
+    },
+    {
+      "text": "acero inoxidable",
+      "relevance": 0.516524,
+      "count": 1
+    },
+    {
+      "text": "tecnologia de fluidos",
+      "relevance": 0.515395,
+      "count": 1
+    },
+    {
+      "text": "iso-1sw",
+      "relevance": 0.515395,
+      "count": 1
+    },
+    {
+      "text": "recubrimiento biocompatible",
+      "relevance": 0.515395,
+      "count": 1
+    },
+    {
+      "text": "biomasa lignocelulosica",
+      "relevance": 0.513014,
+      "count": 1
+    },
+    {
+      "text": "material volatil",
+      "relevance": 0.512545,
+      "count": 1
+    },
+    {
+      "text": "compra de equipo",
+      "relevance": 0.511611,
+      "count": 1
+    },
+    {
+      "text": "determinacion de carbono",
+      "relevance": 0.509445,
+      "count": 1
+    },
+    {
+      "text": "investigacion",
+      "relevance": 0.50894,
+      "count": 2
+    },
+    {
+      "text": "celebracion del compromiso",
+      "relevance": 0.508132,
+      "count": 1
+    },
+    {
+      "text": "oficina internacional de la ompi",
+      "relevance": 0.507905,
+      "count": 5
+    },
+    {
+      "text": "literal k",
+      "relevance": 0.506627,
+      "count": 1
+    },
+    {
+      "text": "proceso difirencial oxidativo",
+      "relevance": 0.506257,
+      "count": 1
+    },
+    {
+      "text": "quitina glucano",
+      "relevance": 0.506237,
+      "count": 1
+    },
+    {
+      "text": "francisco velasco",
+      "relevance": 0.506102,
+      "count": 1
+    },
+    {
+      "text": "pyrometro digital portatil",
+      "relevance": 0.505967,
+      "count": 1
+    },
+    {
+      "text": "carmen forero",
+      "relevance": 0.505614,
+      "count": 1
+    },
+    {
+      "text": "solicitud internacional",
+      "relevance": 0.505188,
+      "count": 5
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.505079,
+      "count": 2
+    }
+  ]
+}

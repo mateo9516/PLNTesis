@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 2,
+    "text_characters": 18266,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "periodo acad\u00e9mico",
+      "relevance": 0.69149,
+      "count": 1
+    },
+    {
+      "text": "programas acad\u00e9micos de pregrado",
+      "relevance": 0.68195,
+      "count": 2
+    },
+    {
+      "text": "ingenieria industrial",
+      "relevance": 0.621165,
+      "count": 3
+    },
+    {
+      "text": "resultados del examen de estado",
+      "relevance": 0.610409,
+      "count": 1
+    },
+    {
+      "text": "programas acad\u00e9micos",
+      "relevance": 0.568067,
+      "count": 9
+    },
+    {
+      "text": "prueba electiva del icfes",
+      "relevance": 0.556319,
+      "count": 1
+    },
+    {
+      "text": "ingenieria de sistemas",
+      "relevance": 0.547716,
+      "count": 3
+    },
+    {
+      "text": "examen de estado",
+      "relevance": 0.539304,
+      "count": 6
+    },
+    {
+      "text": "ciencias naturales",
+      "relevance": 0.53461,
+      "count": 1
+    },
+    {
+      "text": "programa acad\u00e9mico",
+      "relevance": 0.534193,
+      "count": 10
+    },
+    {
+      "text": "servicio militar obligatorio",
+      "relevance": 0.531889,
+      "count": 3
+    },
+    {
+      "text": "puntaje minimo",
+      "relevance": 0.531524,
+      "count": 4
+    },
+    {
+      "text": "6n",
+      "relevance": 0.531003,
+      "count": 1
+    },
+    {
+      "text": "reconocimiento de cada estudiante",
+      "relevance": 0.529565,
+      "count": 1
+    },
+    {
+      "text": "altos puntajes",
+      "relevance": 0.529559,
+      "count": 1
+    },
+    {
+      "text": "und\u00e9cimo grado",
+      "relevance": 0.529305,
+      "count": 1
+    },
+    {
+      "text": "criterios de admision",
+      "relevance": 0.529297,
+      "count": 1
+    },
+    {
+      "text": "rendimiento acad\u00e9mico",
+      "relevance": 0.528447,
+      "count": 1
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.525795,
+      "count": 7
+    },
+    {
+      "text": "criterios de admisi6",
+      "relevance": 0.524167,
+      "count": 1
+    },
+    {
+      "text": "carteleras de las sedes regionales",
+      "relevance": 0.522627,
+      "count": 1
+    },
+    {
+      "text": "grado de bachiller",
+      "relevance": 0.52167,
+      "count": 1
+    },
+    {
+      "text": "prueba adicional",
+      "relevance": 0.521428,
+      "count": 3
+    },
+    {
+      "text": "fotocopia de la libreta militar",
+      "relevance": 0.519806,
+      "count": 1
+    },
+    {
+      "text": "total de cupos",
+      "relevance": 0.519218,
+      "count": 1
+    },
+    {
+      "text": "quebrantos de salud",
+      "relevance": 0.518902,
+      "count": 1
+    },
+    {
+      "text": "condiciones de excepcidn",
+      "relevance": 0.518869,
+      "count": 1
+    },
+    {
+      "text": "numero de puntos equivalentes",
+      "relevance": 0.517998,
+      "count": 1
+    },
+    {
+      "text": "previa presentacion de la respectiva",
+      "relevance": 0.516788,
+      "count": 1
+    },
+    {
+      "text": "estudiantes admitidos",
+      "relevance": 0.516422,
+      "count": 1
+    },
+    {
+      "text": "sola vez",
+      "relevance": 0.515834,
+      "count": 1
+    },
+    {
+      "text": "sistema de regionalizacion",
+      "relevance": 0.515557,
+      "count": 1
+    },
+    {
+      "text": "competencias psicosociales",
+      "relevance": 0.514315,
+      "count": 4
+    },
+    {
+      "text": "nuevo examen de estado",
+      "relevance": 0.513925,
+      "count": 2
+    },
+    {
+      "text": "periodo agosto-diciembre",
+      "relevance": 0.513396,
+      "count": 3
+    },
+    {
+      "text": "bajos rendimientos",
+      "relevance": 0.513369,
+      "count": 1
+    },
+    {
+      "text": "sede buga",
+      "relevance": 0.513217,
+      "count": 1
+    },
+    {
+      "text": "sumatoria de estos productos",
+      "relevance": 0.51316,
+      "count": 1
+    },
+    {
+      "text": "sedes regionales",
+      "relevance": 0.512957,
+      "count": 1
+    },
+    {
+      "text": "forma continua",
+      "relevance": 0.512565,
+      "count": 1
+    },
+    {
+      "text": "cupos",
+      "relevance": 0.512272,
+      "count": 5
+    },
+    {
+      "text": "contaduria publica",
+      "relevance": 0.511609,
+      "count": 7
+    },
+    {
+      "text": "trav\u00e9s de una tercera persona",
+      "relevance": 0.511056,
+      "count": 1
+    },
+    {
+      "text": "afo anterior",
+      "relevance": 0.510991,
+      "count": 1
+    },
+    {
+      "text": "raiz del cambio",
+      "relevance": 0.510718,
+      "count": 1
+    },
+    {
+      "text": "academia militar",
+      "relevance": 0.510184,
+      "count": 1
+    },
+    {
+      "text": "mayor nota",
+      "relevance": 0.51004,
+      "count": 1
+    },
+    {
+      "text": "actualizacion de los criterios",
+      "relevance": 0.50998,
+      "count": 1
+    },
+    {
+      "text": "ministerio de educacion nacional",
+      "relevance": 0.509967,
+      "count": 1
+    },
+    {
+      "text": "nota total obtenida",
+      "relevance": 0.509848,
+      "count": 1
+    }
+  ]
+}

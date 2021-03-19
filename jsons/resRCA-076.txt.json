@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 9917,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "trabajos de investigacion",
+      "relevance": 0.69801,
+      "count": 3
+    },
+    {
+      "text": "facultad de humanidades",
+      "relevance": 0.630133,
+      "count": 3
+    },
+    {
+      "text": "presente resolucion",
+      "relevance": 0.601704,
+      "count": 3
+    },
+    {
+      "text": "consejo de la facultad de humanidades",
+      "relevance": 0.580495,
+      "count": 7
+    },
+    {
+      "text": "cumplimiento de los estandares de calidad",
+      "relevance": 0.576655,
+      "count": 1
+    },
+    {
+      "text": "jurado evaluador",
+      "relevance": 0.57376,
+      "count": 5
+    },
+    {
+      "text": "caso favorable",
+      "relevance": 0.563644,
+      "count": 1
+    },
+    {
+      "text": "aporte novedoso",
+      "relevance": 0.561767,
+      "count": 1
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.561678,
+      "count": 5
+    },
+    {
+      "text": "mencion de meritoria",
+      "relevance": 0.559543,
+      "count": 2
+    },
+    {
+      "text": "investigacion de los programas de maestria",
+      "relevance": 0.557595,
+      "count": 1
+    },
+    {
+      "text": "facultad de humanidades podra",
+      "relevance": 0.55685,
+      "count": 1
+    },
+    {
+      "text": "sustentacion del trabajo de investigacion",
+      "relevance": 0.552615,
+      "count": 1
+    },
+    {
+      "text": "tesis de doctorado",
+      "relevance": 0.550312,
+      "count": 9
+    },
+    {
+      "text": "trabajos de investigaci6",
+      "relevance": 0.549194,
+      "count": 1
+    },
+    {
+      "text": "concepto motivado",
+      "relevance": 0.536385,
+      "count": 1
+    },
+    {
+      "text": "situaciones particulares de caracter",
+      "relevance": 0.53282,
+      "count": 2
+    },
+    {
+      "text": "presente resoluci6n",
+      "relevance": 0.53253,
+      "count": 2
+    },
+    {
+      "text": "caso de la modalidad de maestria",
+      "relevance": 0.529277,
+      "count": 4
+    },
+    {
+      "text": "revistas especializadas",
+      "relevance": 0.527926,
+      "count": 1
+    },
+    {
+      "text": "acta de sustentacion del trabajo",
+      "relevance": 0.525435,
+      "count": 1
+    },
+    {
+      "text": "alas tesis de doctorado",
+      "relevance": 0.523345,
+      "count": 1
+    },
+    {
+      "text": "consejo academico de la universidad del valle",
+      "relevance": 0.52246,
+      "count": 1
+    },
+    {
+      "text": "programas de maestria",
+      "relevance": 0.522202,
+      "count": 3
+    },
+    {
+      "text": "director del programa acad\u00e9mico",
+      "relevance": 0.521116,
+      "count": 1
+    },
+    {
+      "text": "reuniones de la rectoria",
+      "relevance": 0.520999,
+      "count": 1
+    },
+    {
+      "text": "calidad de la sustentacion oral",
+      "relevance": 0.520217,
+      "count": 1
+    },
+    {
+      "text": "aportes nuevos",
+      "relevance": 0.519489,
+      "count": 2
+    },
+    {
+      "text": "t\u00e9cnicas empleadas",
+      "relevance": 0.518596,
+      "count": 1
+    },
+    {
+      "text": "cumplimiento de normas internacionales",
+      "relevance": 0.517081,
+      "count": 1
+    },
+    {
+      "text": "profundizacion de los programas acad\u00e9micos de maestria",
+      "relevance": 0.516914,
+      "count": 1
+    },
+    {
+      "text": "conceptos individuales",
+      "relevance": 0.516546,
+      "count": 1
+    },
+    {
+      "text": "sectores sociales",
+      "relevance": 0.516412,
+      "count": 1
+    },
+    {
+      "text": "profundizacion de maestria",
+      "relevance": 0.516091,
+      "count": 7
+    },
+    {
+      "text": "planteamiento del problema",
+      "relevance": 0.515457,
+      "count": 1
+    },
+    {
+      "text": "siguientes aspectos",
+      "relevance": 0.514818,
+      "count": 1
+    },
+    {
+      "text": "resumen del trabajo de investigacion",
+      "relevance": 0.513856,
+      "count": 1
+    },
+    {
+      "text": "criterios del articulo",
+      "relevance": 0.513198,
+      "count": 1
+    },
+    {
+      "text": "arte del tema",
+      "relevance": 0.512244,
+      "count": 1
+    },
+    {
+      "text": "nivel nacional",
+      "relevance": 0.51101,
+      "count": 1
+    },
+    {
+      "text": "programas acad\u00e9micos de maestria",
+      "relevance": 0.508929,
+      "count": 1
+    },
+    {
+      "text": "recomendacion argumentada",
+      "relevance": 0.508581,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.508012,
+      "count": 1
+    },
+    {
+      "text": "manejo correcto de la lengua",
+      "relevance": 0.506831,
+      "count": 1
+    },
+    {
+      "text": "sustentaci\u00e9n de los miembros",
+      "relevance": 0.505985,
+      "count": 1
+    },
+    {
+      "text": "profundizaci6n",
+      "relevance": 0.505734,
+      "count": 1
+    },
+    {
+      "text": "bibliografia adecuada",
+      "relevance": 0.505299,
+      "count": 1
+    },
+    {
+      "text": "ministerio de educacion nacional",
+      "relevance": 0.505061,
+      "count": 1
+    },
+    {
+      "text": "presentacion de trabajos escritos",
+      "relevance": 0.504528,
+      "count": 1
+    },
+    {
+      "text": "evento acad\u00e9mico nacional",
+      "relevance": 0.503486,
+      "count": 3
+    }
+  ]
+}

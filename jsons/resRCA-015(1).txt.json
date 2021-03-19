@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3325,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "pruebas adicionales",
+      "relevance": 0.638294,
+      "count": 1
+    },
+    {
+      "text": "recepcion de documentos soporte",
+      "relevance": 0.634828,
+      "count": 1
+    },
+    {
+      "text": "primer semestre",
+      "relevance": 0.62849,
+      "count": 5
+    },
+    {
+      "text": "calendario acad\u00e9mico",
+      "relevance": 0.613492,
+      "count": 1
+    },
+    {
+      "text": "periodo agosto diciembre",
+      "relevance": 0.611948,
+      "count": 1
+    },
+    {
+      "text": "procesos de admision",
+      "relevance": 0.589432,
+      "count": 1
+    },
+    {
+      "text": "procesos de admisidn",
+      "relevance": 0.588331,
+      "count": 1
+    },
+    {
+      "text": "registro acad\u00e9mico",
+      "relevance": 0.580575,
+      "count": 1
+    },
+    {
+      "text": "liquidacion de los derechos",
+      "relevance": 0.572862,
+      "count": 1
+    },
+    {
+      "text": "llamado adicional",
+      "relevance": 0.562815,
+      "count": 1
+    },
+    {
+      "text": "recepcion del formato de solicitud",
+      "relevance": 0.562345,
+      "count": 1
+    },
+    {
+      "text": "siguiente calendario acad\u00e9mico",
+      "relevance": 0.551326,
+      "count": 1
+    },
+    {
+      "text": "semestres superiores",
+      "relevance": 0.550736,
+      "count": 1
+    },
+    {
+      "text": "sede de cali",
+      "relevance": 0.542414,
+      "count": 1
+    },
+    {
+      "text": "entrega de contrasefias",
+      "relevance": 0.541002,
+      "count": 1
+    },
+    {
+      "text": "registro de solicitudes via",
+      "relevance": 0.53834,
+      "count": 1
+    },
+    {
+      "text": "reingresos",
+      "relevance": 0.533736,
+      "count": 6
+    },
+    {
+      "text": "venta de formularios",
+      "relevance": 0.53353,
+      "count": 1
+    },
+    {
+      "text": "periodo agosto",
+      "relevance": 0.532829,
+      "count": 1
+    },
+    {
+      "text": "programas acad\u00e9micos de pregrado",
+      "relevance": 0.531936,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.531348,
+      "count": 1
+    },
+    {
+      "text": "sede regional de palmira",
+      "relevance": 0.516884,
+      "count": 1
+    },
+    {
+      "text": "condiciones de excepcion",
+      "relevance": 0.515434,
+      "count": 1
+    },
+    {
+      "text": "mes de febrero",
+      "relevance": 0.509082,
+      "count": 1
+    },
+    {
+      "text": "procesos",
+      "relevance": 0.507864,
+      "count": 1
+    },
+    {
+      "text": "sistema de las calificaciones",
+      "relevance": 0.504516,
+      "count": 1
+    },
+    {
+      "text": "red de la informacion",
+      "relevance": 0.504516,
+      "count": 1
+    },
+    {
+      "text": "lopez pulecio",
+      "relevance": 0.504516,
+      "count": 1
+    },
+    {
+      "text": "reserva de cupo",
+      "relevance": 0.504458,
+      "count": 1
+    },
+    {
+      "text": "secretario general",
+      "relevance": 0.504084,
+      "count": 1
+    },
+    {
+      "text": "area de admisiones",
+      "relevance": 0.502857,
+      "count": 1
+    },
+    {
+      "text": "amnistia acad\u00e9mica",
+      "relevance": 0.502654,
+      "count": 1
+    },
+    {
+      "text": "datos via",
+      "relevance": 0.502623,
+      "count": 1
+    },
+    {
+      "text": "traslado",
+      "relevance": 0.496658,
+      "count": 5
+    },
+    {
+      "text": "division de admisiones",
+      "relevance": 0.491732,
+      "count": 1
+    },
+    {
+      "text": "fecha",
+      "relevance": 0.490263,
+      "count": 1
+    },
+    {
+      "text": "solicitudes aprobadas",
+      "relevance": 0.488696,
+      "count": 1
+    },
+    {
+      "text": "solicitudes via",
+      "relevance": 0.487805,
+      "count": 1
+    },
+    {
+      "text": "consejo academico de la universidad del valle",
+      "relevance": 0.482726,
+      "count": 1
+    },
+    {
+      "text": "transferencias",
+      "relevance": 0.480003,
+      "count": 1
+    },
+    {
+      "text": "atribuciones",
+      "relevance": 0.476842,
+      "count": 1
+    },
+    {
+      "text": "web del area",
+      "relevance": 0.475662,
+      "count": 1
+    },
+    {
+      "text": "estatuto general de la universidad del valle",
+      "relevance": 0.475541,
+      "count": 1
+    },
+    {
+      "text": "reingreso",
+      "relevance": 0.474155,
+      "count": 3
+    },
+    {
+      "text": "admitidos",
+      "relevance": 0.473339,
+      "count": 2
+    },
+    {
+      "text": "mtraslado",
+      "relevance": 0.471908,
+      "count": 1
+    },
+    {
+      "text": "estudiantes",
+      "relevance": 0.47132,
+      "count": 1
+    },
+    {
+      "text": "resultados",
+      "relevance": 0.470651,
+      "count": 2
+    },
+    {
+      "text": "transferencia",
+      "relevance": 0.469643,
+      "count": 3
+    },
+    {
+      "text": "admision",
+      "relevance": 0.469569,
+      "count": 1
+    }
+  ]
+}

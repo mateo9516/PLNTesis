@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2545,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "suministro de tiquetes",
+      "relevance": 0.623765,
+      "count": 1
+    },
+    {
+      "text": "fondo especial",
+      "relevance": 0.611799,
+      "count": 1
+    },
+    {
+      "text": "vigencias futuras",
+      "relevance": 0.607668,
+      "count": 2
+    },
+    {
+      "text": "recepcion de bienes",
+      "relevance": 0.591425,
+      "count": 1
+    },
+    {
+      "text": "division financiera de la universidad",
+      "relevance": 0.574142,
+      "count": 1
+    },
+    {
+      "text": "numeral anterior",
+      "relevance": 0.566218,
+      "count": 1
+    },
+    {
+      "text": "diferentes dependencias de la universidad",
+      "relevance": 0.5654,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.56499,
+      "count": 1
+    },
+    {
+      "text": "xiv del acuerdo",
+      "relevance": 0.544474,
+      "count": 1
+    },
+    {
+      "text": "respectivo registro presupuestal",
+      "relevance": 0.538596,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de marzo",
+      "relevance": 0.533573,
+      "count": 1
+    },
+    {
+      "text": "vigencias siguientes",
+      "relevance": 0.53177,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.527681,
+      "count": 1
+    },
+    {
+      "text": "valor total",
+      "relevance": 0.527651,
+      "count": 1
+    },
+    {
+      "text": "representante del presidente",
+      "relevance": 0.521714,
+      "count": 1
+    },
+    {
+      "text": "salon de reuniones",
+      "relevance": 0.521372,
+      "count": 1
+    },
+    {
+      "text": "larreamendy joerns",
+      "relevance": 0.516124,
+      "count": 1
+    },
+    {
+      "text": "mejores servicios",
+      "relevance": 0.515399,
+      "count": 1
+    },
+    {
+      "text": "estatuto general",
+      "relevance": 0.512493,
+      "count": 1
+    },
+    {
+      "text": "literal k",
+      "relevance": 0.510731,
+      "count": 1
+    },
+    {
+      "text": "economia procesal",
+      "relevance": 0.510731,
+      "count": 1
+    },
+    {
+      "text": "consejo superior de noviembre",
+      "relevance": 0.509413,
+      "count": 1
+    },
+    {
+      "text": "rector de la universidad del valle",
+      "relevance": 0.505195,
+      "count": 1
+    },
+    {
+      "text": "contratacion",
+      "relevance": 0.494056,
+      "count": 1
+    },
+    {
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.491983,
+      "count": 2
+    },
+    {
+      "text": "contrato",
+      "relevance": 0.486775,
+      "count": 1
+    },
+    {
+      "text": "suministro de tiquetes a\u00e9reos nacionales",
+      "relevance": 0.486626,
+      "count": 1
+    },
+    {
+      "text": "capacidad",
+      "relevance": 0.484161,
+      "count": 1
+    },
+    {
+      "text": "atribuciones",
+      "relevance": 0.480771,
+      "count": 1
+    },
+    {
+      "text": "recursos",
+      "relevance": 0.47969,
+      "count": 1
+    },
+    {
+      "text": "compromiso",
+      "relevance": 0.478715,
+      "count": 1
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.476898,
+      "count": 2
+    },
+    {
+      "text": "rector",
+      "relevance": 0.476881,
+      "count": 1
+    },
+    {
+      "text": "diferentes dependencias de la universidad asi",
+      "relevance": 0.476001,
+      "count": 1
+    },
+    {
+      "text": "cuenta",
+      "relevance": 0.475055,
+      "count": 2
+    },
+    {
+      "text": "cargo",
+      "relevance": 0.474974,
+      "count": 1
+    },
+    {
+      "text": "presupuesto",
+      "relevance": 0.47443,
+      "count": 2
+    },
+    {
+      "text": "acuerdo",
+      "relevance": 0.473439,
+      "count": 1
+    },
+    {
+      "text": "servicios",
+      "relevance": 0.473329,
+      "count": 1
+    },
+    {
+      "text": "periodo",
+      "relevance": 0.470949,
+      "count": 1
+    },
+    {
+      "text": "correspondientes",
+      "relevance": 0.470949,
+      "count": 1
+    },
+    {
+      "text": "anos",
+      "relevance": 0.470634,
+      "count": 1
+    },
+    {
+      "text": "necesidad",
+      "relevance": 0.469817,
+      "count": 1
+    },
+    {
+      "text": "articulo",
+      "relevance": 0.469744,
+      "count": 1
+    },
+    {
+      "text": "concordancia",
+      "relevance": 0.467805,
+      "count": 1
+    },
+    {
+      "text": "presupuestos",
+      "relevance": 0.467553,
+      "count": 1
+    },
+    {
+      "text": "resolucion",
+      "relevance": 0.467034,
+      "count": 1
+    },
+    {
+      "text": "marzo",
+      "relevance": 0.467034,
+      "count": 1
+    },
+    {
+      "text": "uso",
+      "relevance": 0.467034,
+      "count": 1
+    },
+    {
+      "text": "cuantia",
+      "relevance": 0.467034,
+      "count": 1
+    }
+  ]
+}

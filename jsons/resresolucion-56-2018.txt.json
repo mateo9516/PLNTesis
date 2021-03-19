@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 5845,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.690597,
+      "count": 8
+    },
+    {
+      "text": "articulos publicados",
+      "relevance": 0.623787,
+      "count": 3
+    },
+    {
+      "text": "ponencia oral",
+      "relevance": 0.623424,
+      "count": 4
+    },
+    {
+      "text": "solicitud de registro de una patente",
+      "relevance": 0.601606,
+      "count": 1
+    },
+    {
+      "text": "documento original",
+      "relevance": 0.596859,
+      "count": 1
+    },
+    {
+      "text": "comit\u00e9 de posgrados",
+      "relevance": 0.583222,
+      "count": 2
+    },
+    {
+      "text": "tipo de productos",
+      "relevance": 0.581914,
+      "count": 2
+    },
+    {
+      "text": "evento cientifico internacional",
+      "relevance": 0.574981,
+      "count": 2
+    },
+    {
+      "text": "facultad de ingenieria",
+      "relevance": 0.573235,
+      "count": 2
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.564229,
+      "count": 2
+    },
+    {
+      "text": "numero total",
+      "relevance": 0.561773,
+      "count": 1
+    },
+    {
+      "text": "reuniones de rectoria",
+      "relevance": 0.554189,
+      "count": 1
+    },
+    {
+      "text": "siguiente numero de articulos",
+      "relevance": 0.54131,
+      "count": 1
+    },
+    {
+      "text": "trabajos de investigacion",
+      "relevance": 0.54066,
+      "count": 2
+    },
+    {
+      "text": "tesis de doctorado",
+      "relevance": 0.539042,
+      "count": 1
+    },
+    {
+      "text": "resultado de la actividad",
+      "relevance": 0.539026,
+      "count": 1
+    },
+    {
+      "text": "impacto de los mismos",
+      "relevance": 0.53614,
+      "count": 1
+    },
+    {
+      "text": "nivel nacional",
+      "relevance": 0.534165,
+      "count": 1
+    },
+    {
+      "text": "comit\u00e9 central de curriculo",
+      "relevance": 0.520962,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.519847,
+      "count": 1
+    },
+    {
+      "text": "profundizacion de maestria",
+      "relevance": 0.51929,
+      "count": 3
+    },
+    {
+      "text": "tesis doctoral",
+      "relevance": 0.5173,
+      "count": 4
+    },
+    {
+      "text": "literal c",
+      "relevance": 0.516753,
+      "count": 1
+    },
+    {
+      "text": "funciones delegadas de rector",
+      "relevance": 0.515735,
+      "count": 1
+    },
+    {
+      "text": "reconocimiento doble",
+      "relevance": 0.512306,
+      "count": 1
+    },
+    {
+      "text": "mencion de meritoria",
+      "relevance": 0.509877,
+      "count": 2
+    },
+    {
+      "text": "sede san",
+      "relevance": 0.507294,
+      "count": 1
+    },
+    {
+      "text": "evento cientifico nacional",
+      "relevance": 0.505377,
+      "count": 2
+    },
+    {
+      "text": "presente resoluci6n",
+      "relevance": 0.504347,
+      "count": 1
+    },
+    {
+      "text": "tesis doctoral meritoria",
+      "relevance": 0.504009,
+      "count": 1
+    },
+    {
+      "text": "capitulos de libros",
+      "relevance": 0.503755,
+      "count": 1
+    },
+    {
+      "text": "comit\u00e9 cientifico",
+      "relevance": 0.503337,
+      "count": 2
+    },
+    {
+      "text": "universidad del valle podra",
+      "relevance": 0.502867,
+      "count": 1
+    },
+    {
+      "text": "secretario general",
+      "relevance": 0.502469,
+      "count": 1
+    },
+    {
+      "text": "estatuto general",
+      "relevance": 0.501984,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de mayo",
+      "relevance": 0.501962,
+      "count": 1
+    },
+    {
+      "text": "comit\u00e9 de posgrados de la facultad",
+      "relevance": 0.501689,
+      "count": 1
+    },
+    {
+      "text": "octubre",
+      "relevance": 0.501508,
+      "count": 4
+    },
+    {
+      "text": "eventos cientificos",
+      "relevance": 0.501477,
+      "count": 1
+    },
+    {
+      "text": "vicerrector administrativo",
+      "relevance": 0.501369,
+      "count": 1
+    },
+    {
+      "text": "trabajos de investigacio\u00e9n",
+      "relevance": 0.501113,
+      "count": 1
+    },
+    {
+      "text": "patente internacional",
+      "relevance": 0.500918,
+      "count": 1
+    },
+    {
+      "text": "patente nacional",
+      "relevance": 0.50047,
+      "count": 1
+    },
+    {
+      "text": "casos excepcionales de equivalencia de productos",
+      "relevance": 0.499964,
+      "count": 1
+    },
+    {
+      "text": "equivalencia",
+      "relevance": 0.499892,
+      "count": 1
+    },
+    {
+      "text": "menciones meritoria",
+      "relevance": 0.499054,
+      "count": 1
+    },
+    {
+      "text": "consejo academico de la universidad del valle",
+      "relevance": 0.498255,
+      "count": 1
+    },
+    {
+      "text": "actividad",
+      "relevance": 0.498032,
+      "count": 1
+    },
+    {
+      "text": "autor tinico",
+      "relevance": 0.496443,
+      "count": 1
+    },
+    {
+      "text": "fierro perez",
+      "relevance": 0.496443,
+      "count": 1
+    }
+  ]
+}

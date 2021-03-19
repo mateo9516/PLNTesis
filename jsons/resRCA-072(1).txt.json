@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 6225,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "programas de especialidades",
+      "relevance": 0.647851,
+      "count": 1
+    },
+    {
+      "text": "programas acad\u00e9micos",
+      "relevance": 0.599158,
+      "count": 1
+    },
+    {
+      "text": "comit\u00e9 evaluador de las solicitudes",
+      "relevance": 0.595573,
+      "count": 1
+    },
+    {
+      "text": "determinada drea del conocimiento",
+      "relevance": 0.580482,
+      "count": 1
+    },
+    {
+      "text": "ciencias clinicas",
+      "relevance": 0.568286,
+      "count": 1
+    },
+    {
+      "text": "suficiencia de sus conocimientos",
+      "relevance": 0.566205,
+      "count": 1
+    },
+    {
+      "text": "titulo respectivo",
+      "relevance": 0.564801,
+      "count": 2
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.552124,
+      "count": 2
+    },
+    {
+      "text": "escuela de medicina de la facultad",
+      "relevance": 0.549432,
+      "count": 1
+    },
+    {
+      "text": "hoja de vida del candidato",
+      "relevance": 0.548411,
+      "count": 1
+    },
+    {
+      "text": "expedici6n de titulos",
+      "relevance": 0.547578,
+      "count": 1
+    },
+    {
+      "text": "programa de postgrado",
+      "relevance": 0.543912,
+      "count": 1
+    },
+    {
+      "text": "fecha de entrada",
+      "relevance": 0.541334,
+      "count": 1
+    },
+    {
+      "text": "actividades desarrolladas",
+      "relevance": 0.53928,
+      "count": 1
+    },
+    {
+      "text": "comit\u00e9 evaluador",
+      "relevance": 0.53695,
+      "count": 5
+    },
+    {
+      "text": "inica vez",
+      "relevance": 0.536542,
+      "count": 1
+    },
+    {
+      "text": "comit\u00e9 de postgrado",
+      "relevance": 0.536299,
+      "count": 1
+    },
+    {
+      "text": "programa acad\u00e9mico",
+      "relevance": 0.536222,
+      "count": 2
+    },
+    {
+      "text": "caso de las especialidades",
+      "relevance": 0.532127,
+      "count": 1
+    },
+    {
+      "text": "hoja de vida actualizada",
+      "relevance": 0.53204,
+      "count": 1
+    },
+    {
+      "text": "respectivo registro",
+      "relevance": 0.531874,
+      "count": 1
+    },
+    {
+      "text": "eventos cientificos de la especialidad",
+      "relevance": 0.5306,
+      "count": 1
+    },
+    {
+      "text": "trayectoria profesional",
+      "relevance": 0.529239,
+      "count": 1
+    },
+    {
+      "text": "contrato de caracter administrativo",
+      "relevance": 0.528642,
+      "count": 1
+    },
+    {
+      "text": "condici\u00e9n de especialistas",
+      "relevance": 0.527746,
+      "count": 1
+    },
+    {
+      "text": "actividades acad\u00e9micas",
+      "relevance": 0.525931,
+      "count": 1
+    },
+    {
+      "text": "programas de posgrado",
+      "relevance": 0.524385,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.524225,
+      "count": 1
+    },
+    {
+      "text": "resoluci6n",
+      "relevance": 0.523026,
+      "count": 1
+    },
+    {
+      "text": "registro m\u00e9dico vigente",
+      "relevance": 0.522946,
+      "count": 1
+    },
+    {
+      "text": "privadas desempefi4",
+      "relevance": 0.51995,
+      "count": 1
+    },
+    {
+      "text": "nivel nacional",
+      "relevance": 0.516064,
+      "count": 1
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.516014,
+      "count": 3
+    },
+    {
+      "text": "ministerio de educacion nacional",
+      "relevance": 0.515406,
+      "count": 1
+    },
+    {
+      "text": "comit\u00e9 del programa establecera",
+      "relevance": 0.515096,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de junio",
+      "relevance": 0.513788,
+      "count": 1
+    },
+    {
+      "text": "direcci\u00e9n de dicho comit\u00e9",
+      "relevance": 0.513422,
+      "count": 1
+    },
+    {
+      "text": "m\u00e9dicos especialistas",
+      "relevance": 0.512057,
+      "count": 1
+    },
+    {
+      "text": "comit\u00e9",
+      "relevance": 0.511241,
+      "count": 1
+    },
+    {
+      "text": "universidad militar nueva",
+      "relevance": 0.510506,
+      "count": 1
+    },
+    {
+      "text": "nivel de revistas especializadas",
+      "relevance": 0.509329,
+      "count": 1
+    },
+    {
+      "text": "ejercicio de la profesi\u00e9n",
+      "relevance": 0.508326,
+      "count": 1
+    },
+    {
+      "text": "sal\u00e9n de reuniones del consejo",
+      "relevance": 0.507455,
+      "count": 1
+    },
+    {
+      "text": "sola vez",
+      "relevance": 0.507136,
+      "count": 1
+    },
+    {
+      "text": "sanciones vigentes",
+      "relevance": 0.506949,
+      "count": 1
+    },
+    {
+      "text": "distinciones recibidas",
+      "relevance": 0.506876,
+      "count": 1
+    },
+    {
+      "text": "examenes orales",
+      "relevance": 0.506857,
+      "count": 1
+    },
+    {
+      "text": "area de la especialidad",
+      "relevance": 0.503808,
+      "count": 1
+    },
+    {
+      "text": "realizaci6n de un proyecto",
+      "relevance": 0.503517,
+      "count": 1
+    },
+    {
+      "text": "produccion intelectual",
+      "relevance": 0.50163,
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 7926,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "facultad de salud",
+      "relevance": 0.667573,
+      "count": 3
+    },
+    {
+      "text": "area de ciencias",
+      "relevance": 0.629932,
+      "count": 1
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.623863,
+      "count": 6
+    },
+    {
+      "text": "programas de postgrado de la facultad",
+      "relevance": 0.610557,
+      "count": 1
+    },
+    {
+      "text": "titulo de postgrado",
+      "relevance": 0.606318,
+      "count": 1
+    },
+    {
+      "text": "salud publica",
+      "relevance": 0.592261,
+      "count": 4
+    },
+    {
+      "text": "escuelas de ciencias",
+      "relevance": 0.589923,
+      "count": 1
+    },
+    {
+      "text": "ciencias sociales",
+      "relevance": 0.570589,
+      "count": 1
+    },
+    {
+      "text": "formaci6n de m\u00e9dicos",
+      "relevance": 0.556216,
+      "count": 1
+    },
+    {
+      "text": "area de salud publica",
+      "relevance": 0.552505,
+      "count": 1
+    },
+    {
+      "text": "programa acad\u00e9mico",
+      "relevance": 0.545658,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.543337,
+      "count": 1
+    },
+    {
+      "text": "nombre del grupo",
+      "relevance": 0.542725,
+      "count": 1
+    },
+    {
+      "text": "respectivos directores",
+      "relevance": 0.538623,
+      "count": 1
+    },
+    {
+      "text": "escuela de ciencias",
+      "relevance": 0.536455,
+      "count": 4
+    },
+    {
+      "text": "areas de las ciencias biom\u00e9dicas",
+      "relevance": 0.536409,
+      "count": 1
+    },
+    {
+      "text": "atribuciones legales",
+      "relevance": 0.535393,
+      "count": 1
+    },
+    {
+      "text": "proceso de admisiones",
+      "relevance": 0.534637,
+      "count": 1
+    },
+    {
+      "text": "disminucion del tiempo",
+      "relevance": 0.533452,
+      "count": 1
+    },
+    {
+      "text": "coordinador de los programas de postgrado",
+      "relevance": 0.533264,
+      "count": 1
+    },
+    {
+      "text": "ley colombiana",
+      "relevance": 0.531453,
+      "count": 1
+    },
+    {
+      "text": "area de las ciencias biom\u00e9dicas",
+      "relevance": 0.529877,
+      "count": 1
+    },
+    {
+      "text": "coordinador de postgrado de la escuela",
+      "relevance": 0.526889,
+      "count": 1
+    },
+    {
+      "text": "medicina familiar",
+      "relevance": 0.526311,
+      "count": 1
+    },
+    {
+      "text": "cupos de los postgrados de las escuelas",
+      "relevance": 0.525272,
+      "count": 1
+    },
+    {
+      "text": "area clinica",
+      "relevance": 0.523462,
+      "count": 1
+    },
+    {
+      "text": "reglamento de postgrado de la universidad",
+      "relevance": 0.52275,
+      "count": 1
+    },
+    {
+      "text": "comit\u00e9 del programa",
+      "relevance": 0.521522,
+      "count": 1
+    },
+    {
+      "text": "director de postgrado de la escuela",
+      "relevance": 0.521337,
+      "count": 1
+    },
+    {
+      "text": "estimulo acad\u00e9mico",
+      "relevance": 0.520444,
+      "count": 1
+    },
+    {
+      "text": "solo grupo de investigacion",
+      "relevance": 0.518886,
+      "count": 1
+    },
+    {
+      "text": "medicina forense",
+      "relevance": 0.518612,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.518537,
+      "count": 1
+    },
+    {
+      "text": "actividades de investigacion",
+      "relevance": 0.518384,
+      "count": 1
+    },
+    {
+      "text": "problemas de salud",
+      "relevance": 0.516858,
+      "count": 1
+    },
+    {
+      "text": "actividades acad\u00e9micas",
+      "relevance": 0.515906,
+      "count": 1
+    },
+    {
+      "text": "ciencias biom\u00e9dicas",
+      "relevance": 0.515326,
+      "count": 1
+    },
+    {
+      "text": "contenidos de las resoluciones",
+      "relevance": 0.51281,
+      "count": 1
+    },
+    {
+      "text": "programa de medicina",
+      "relevance": 0.511146,
+      "count": 1
+    },
+    {
+      "text": "efectos de grado",
+      "relevance": 0.510855,
+      "count": 1
+    },
+    {
+      "text": "selecci6n",
+      "relevance": 0.510711,
+      "count": 1
+    },
+    {
+      "text": "acad\u00e9mico de medicina",
+      "relevance": 0.510599,
+      "count": 1
+    },
+    {
+      "text": "estudios de pregrado",
+      "relevance": 0.509975,
+      "count": 1
+    },
+    {
+      "text": "asignaturas de postgrado",
+      "relevance": 0.509602,
+      "count": 1
+    },
+    {
+      "text": "director de postgrados de la escuela",
+      "relevance": 0.50934,
+      "count": 1
+    },
+    {
+      "text": "modalidad de cupo libre",
+      "relevance": 0.508349,
+      "count": 2
+    },
+    {
+      "text": "clinica psiquiatrica",
+      "relevance": 0.507737,
+      "count": 1
+    },
+    {
+      "text": "proceso de admision",
+      "relevance": 0.507028,
+      "count": 1
+    },
+    {
+      "text": "sexto ano del plan de medicina",
+      "relevance": 0.506804,
+      "count": 1
+    },
+    {
+      "text": "comit\u00e9 del programa de medicina",
+      "relevance": 0.504297,
+      "count": 2
+    }
+  ]
+}

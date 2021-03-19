@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3627,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "labor intelectual",
+      "relevance": 0.681918,
+      "count": 1
+    },
+    {
+      "text": "labor docente",
+      "relevance": 0.618861,
+      "count": 1
+    },
+    {
+      "text": "ceremonia especial",
+      "relevance": 0.59036,
+      "count": 1
+    },
+    {
+      "text": "docente de la universidad de narino",
+      "relevance": 0.58876,
+      "count": 1
+    },
+    {
+      "text": "obra literaria",
+      "relevance": 0.579019,
+      "count": 1
+    },
+    {
+      "text": "premios internacionales",
+      "relevance": 0.575757,
+      "count": 1
+    },
+    {
+      "text": "parte de la mision de la universidad",
+      "relevance": 0.568933,
+      "count": 1
+    },
+    {
+      "text": "sociedad justa",
+      "relevance": 0.56738,
+      "count": 1
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.567059,
+      "count": 3
+    },
+    {
+      "text": "produccion literaria",
+      "relevance": 0.543092,
+      "count": 1
+    },
+    {
+      "text": "cuentos del parque boyaca",
+      "relevance": 0.542193,
+      "count": 1
+    },
+    {
+      "text": "gringo del cascajero",
+      "relevance": 0.53853,
+      "count": 1
+    },
+    {
+      "text": "titulo de doctor honoris",
+      "relevance": 0.538006,
+      "count": 1
+    },
+    {
+      "text": "novela c\u00e9ndores",
+      "relevance": 0.533922,
+      "count": 1
+    },
+    {
+      "text": "vasta obra narrativa",
+      "relevance": 0.532012,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.53199,
+      "count": 2
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.528647,
+      "count": 1
+    },
+    {
+      "text": "escritor gustavo",
+      "relevance": 0.524391,
+      "count": 3
+    },
+    {
+      "text": "importante aporte humanistico",
+      "relevance": 0.524346,
+      "count": 1
+    },
+    {
+      "text": "ciudad de barcelona",
+      "relevance": 0.524288,
+      "count": 1
+    },
+    {
+      "text": "editorial destino",
+      "relevance": 0.522914,
+      "count": 1
+    },
+    {
+      "text": "generaciones de escritores",
+      "relevance": 0.52152,
+      "count": 1
+    },
+    {
+      "text": "premio ciudad de salamanca",
+      "relevance": 0.520899,
+      "count": 1
+    },
+    {
+      "text": "primeros relatos",
+      "relevance": 0.519369,
+      "count": 1
+    },
+    {
+      "text": "escuela de estudios literarios",
+      "relevance": 0.51887,
+      "count": 1
+    },
+    {
+      "text": "produccion intelectual",
+      "relevance": 0.517222,
+      "count": 1
+    },
+    {
+      "text": "tara del papa",
+      "relevance": 0.514817,
+      "count": 2
+    },
+    {
+      "text": "escritor gustavo alvarez gardeazabal",
+      "relevance": 0.510731,
+      "count": 1
+    },
+    {
+      "text": "favor del desarrollo del pensamiento",
+      "relevance": 0.50995,
+      "count": 1
+    },
+    {
+      "text": "ambito nacional",
+      "relevance": 0.509522,
+      "count": 2
+    },
+    {
+      "text": "dias del mes de diciembre",
+      "relevance": 0.508737,
+      "count": 1
+    },
+    {
+      "text": "salon de reuniones del despacho",
+      "relevance": 0.508648,
+      "count": 1
+    },
+    {
+      "text": "centro de su reflexion",
+      "relevance": 0.50778,
+      "count": 1
+    },
+    {
+      "text": "mujeres de la muerte",
+      "relevance": 0.50778,
+      "count": 1
+    },
+    {
+      "text": "secretario general",
+      "relevance": 0.50778,
+      "count": 1
+    },
+    {
+      "text": "literatura",
+      "relevance": 0.505926,
+      "count": 4
+    },
+    {
+      "text": "motivo de orgullo",
+      "relevance": 0.505475,
+      "count": 1
+    },
+    {
+      "text": "titulo doctor honoris",
+      "relevance": 0.504332,
+      "count": 1
+    },
+    {
+      "text": "novela colombiana",
+      "relevance": 0.504155,
+      "count": 1
+    },
+    {
+      "text": "libro de cr\u00e9nicas",
+      "relevance": 0.501376,
+      "count": 1
+    },
+    {
+      "text": "larreamendy joerns",
+      "relevance": 0.501376,
+      "count": 1
+    },
+    {
+      "text": "lopez pulecio",
+      "relevance": 0.501376,
+      "count": 1
+    },
+    {
+      "text": "ultimo gamonal",
+      "relevance": 0.49936,
+      "count": 1
+    },
+    {
+      "text": "comandante paraiso",
+      "relevance": 0.49936,
+      "count": 1
+    },
+    {
+      "text": "novelas",
+      "relevance": 0.499118,
+      "count": 2
+    },
+    {
+      "text": "destacados hijos",
+      "relevance": 0.498383,
+      "count": 1
+    },
+    {
+      "text": "trabajo creativo",
+      "relevance": 0.498383,
+      "count": 1
+    },
+    {
+      "text": "piedra pintada",
+      "relevance": 0.498383,
+      "count": 1
+    },
+    {
+      "text": "titulo correspondiente",
+      "relevance": 0.495727,
+      "count": 1
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.495078,
+      "count": 2
+    }
+  ]
+}

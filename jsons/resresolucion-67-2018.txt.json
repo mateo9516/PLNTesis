@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2618,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "centro de investigacion",
+      "relevance": 0.69671,
+      "count": 2
+    },
+    {
+      "text": "facultad de ciencias naturales",
+      "relevance": 0.663814,
+      "count": 1
+    },
+    {
+      "text": "documento original",
+      "relevance": 0.589787,
+      "count": 1
+    },
+    {
+      "text": "ciencias naturales",
+      "relevance": 0.581662,
+      "count": 1
+    },
+    {
+      "text": "centro de investigaci6\u00e9n",
+      "relevance": 0.580362,
+      "count": 1
+    },
+    {
+      "text": "reuniones de rectoria",
+      "relevance": 0.574928,
+      "count": 1
+    },
+    {
+      "text": "desempenio del centro",
+      "relevance": 0.574807,
+      "count": 1
+    },
+    {
+      "text": "comit\u00e9 central de investigaciones",
+      "relevance": 0.57431,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.570495,
+      "count": 1
+    },
+    {
+      "text": "centro centro de investigacion",
+      "relevance": 0.56975,
+      "count": 1
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.566413,
+      "count": 2
+    },
+    {
+      "text": "consejo de facultad solicit6",
+      "relevance": 0.561549,
+      "count": 1
+    },
+    {
+      "text": "presente resolucion",
+      "relevance": 0.556747,
+      "count": 1
+    },
+    {
+      "text": "sistema de investigaci6",
+      "relevance": 0.535536,
+      "count": 1
+    },
+    {
+      "text": "consejo academico de la universidad del valle",
+      "relevance": 0.526949,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de junio",
+      "relevance": 0.52403,
+      "count": 1
+    },
+    {
+      "text": "sede san",
+      "relevance": 0.521736,
+      "count": 1
+    },
+    {
+      "text": "centro",
+      "relevance": 0.520221,
+      "count": 2
+    },
+    {
+      "text": "bioinformatica",
+      "relevance": 0.514059,
+      "count": 4
+    },
+    {
+      "text": "atribuciones legales",
+      "relevance": 0.51117,
+      "count": 1
+    },
+    {
+      "text": "secretario general",
+      "relevance": 0.51117,
+      "count": 1
+    },
+    {
+      "text": "centros de investigacion",
+      "relevance": 0.506592,
+      "count": 1
+    },
+    {
+      "text": "fierro perez",
+      "relevance": 0.500204,
+      "count": 1
+    },
+    {
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.497898,
+      "count": 1
+    },
+    {
+      "text": "estatuto de investigaciones",
+      "relevance": 0.495683,
+      "count": 1
+    },
+    {
+      "text": "centro de investigaci6",
+      "relevance": 0.494636,
+      "count": 1
+    },
+    {
+      "text": "solicitud de ratificacion",
+      "relevance": 0.486057,
+      "count": 1
+    },
+    {
+      "text": "acuerdo",
+      "relevance": 0.485548,
+      "count": 5
+    },
+    {
+      "text": "ratificacion de su reconocimiento",
+      "relevance": 0.485229,
+      "count": 1
+    },
+    {
+      "text": "cibiofi",
+      "relevance": 0.483223,
+      "count": 5
+    },
+    {
+      "text": "diciembre",
+      "relevance": 0.478971,
+      "count": 2
+    },
+    {
+      "text": "fotonica",
+      "relevance": 0.474679,
+      "count": 3
+    },
+    {
+      "text": "consejo acad\u00e9mico de la universidad del valle expidio",
+      "relevance": 0.471516,
+      "count": 1
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.470712,
+      "count": 1
+    },
+    {
+      "text": "junio",
+      "relevance": 0.469119,
+      "count": 3
+    },
+    {
+      "text": "normativa vigente de la universidad del valle",
+      "relevance": 0.467331,
+      "count": 1
+    },
+    {
+      "text": "fot\u00e9nica",
+      "relevance": 0.466521,
+      "count": 1
+    },
+    {
+      "text": "anos",
+      "relevance": 0.463977,
+      "count": 1
+    },
+    {
+      "text": "condiciones",
+      "relevance": 0.461631,
+      "count": 2
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.460582,
+      "count": 2
+    },
+    {
+      "text": "normas",
+      "relevance": 0.459659,
+      "count": 1
+    },
+    {
+      "text": "resolucion",
+      "relevance": 0.458995,
+      "count": 1
+    },
+    {
+      "text": "facultad",
+      "relevance": 0.457553,
+      "count": 1
+    },
+    {
+      "text": "articulo",
+      "relevance": 0.457232,
+      "count": 1
+    },
+    {
+      "text": "sesion",
+      "relevance": 0.4567,
+      "count": 1
+    },
+    {
+      "text": "formas",
+      "relevance": 0.455367,
+      "count": 1
+    },
+    {
+      "text": "creaci\u00e9n",
+      "relevance": 0.454516,
+      "count": 1
+    },
+    {
+      "text": "disposiciones",
+      "relevance": 0.453665,
+      "count": 1
+    },
+    {
+      "text": "uso",
+      "relevance": 0.453665,
+      "count": 1
+    },
+    {
+      "text": "reconocimiento",
+      "relevance": 0.453665,
+      "count": 1
+    }
+  ]
+}

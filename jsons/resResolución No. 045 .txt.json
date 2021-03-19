@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 2,
+    "text_characters": 10682,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "miembros de las comunidades negras",
+      "relevance": 0.589588,
+      "count": 2
+    },
+    {
+      "text": "condici\u00e9n de excepcion de comunidades",
+      "relevance": 0.583207,
+      "count": 1
+    },
+    {
+      "text": "deber del estado",
+      "relevance": 0.581945,
+      "count": 2
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.576882,
+      "count": 5
+    },
+    {
+      "text": "educaci6n",
+      "relevance": 0.563697,
+      "count": 2
+    },
+    {
+      "text": "representante legal",
+      "relevance": 0.560657,
+      "count": 3
+    },
+    {
+      "text": "mejoramiento cultural",
+      "relevance": 0.556894,
+      "count": 1
+    },
+    {
+      "text": "prueba adicional",
+      "relevance": 0.553611,
+      "count": 1
+    },
+    {
+      "text": "diversidad \u00e9tnica",
+      "relevance": 0.541805,
+      "count": 2
+    },
+    {
+      "text": "demas bienes",
+      "relevance": 0.540015,
+      "count": 1
+    },
+    {
+      "text": "junta de los consejos comunitarios",
+      "relevance": 0.534623,
+      "count": 1
+    },
+    {
+      "text": "condiciones de vida",
+      "relevance": 0.534617,
+      "count": 1
+    },
+    {
+      "text": "programas de formacion t\u00e9cnica",
+      "relevance": 0.531488,
+      "count": 1
+    },
+    {
+      "text": "valores de la cultura",
+      "relevance": 0.530849,
+      "count": 1
+    },
+    {
+      "text": "orden de ideas",
+      "relevance": 0.529569,
+      "count": 1
+    },
+    {
+      "text": "identidad nacional",
+      "relevance": 0.529351,
+      "count": 2
+    },
+    {
+      "text": "unidad nacional",
+      "relevance": 0.528824,
+      "count": 1
+    },
+    {
+      "text": "derecho de la persona",
+      "relevance": 0.527678,
+      "count": 1
+    },
+    {
+      "text": "ensefanza cientifica",
+      "relevance": 0.526608,
+      "count": 2
+    },
+    {
+      "text": "etapas del proceso de creacion",
+      "relevance": 0.525161,
+      "count": 2
+    },
+    {
+      "text": "protecci6n",
+      "relevance": 0.52488,
+      "count": 1
+    },
+    {
+      "text": "miembros de los pueblos interesados",
+      "relevance": 0.523764,
+      "count": 1
+    },
+    {
+      "text": "programas especiales",
+      "relevance": 0.523191,
+      "count": 1
+    },
+    {
+      "text": "igualdad de oportunidades",
+      "relevance": 0.522282,
+      "count": 2
+    },
+    {
+      "text": "constitucion politica",
+      "relevance": 0.521577,
+      "count": 2
+    },
+    {
+      "text": "periodo acad\u00e9mico",
+      "relevance": 0.521256,
+      "count": 1
+    },
+    {
+      "text": "pruebas adicionales de aptitud",
+      "relevance": 0.52105,
+      "count": 1
+    },
+    {
+      "text": "condici6\u00e9n",
+      "relevance": 0.520987,
+      "count": 1
+    },
+    {
+      "text": "valores culturales de la nacion",
+      "relevance": 0.520692,
+      "count": 1
+    },
+    {
+      "text": "estado colombiano",
+      "relevance": 0.520391,
+      "count": 1
+    },
+    {
+      "text": "documento original",
+      "relevance": 0.518465,
+      "count": 1
+    },
+    {
+      "text": "puntaje minimo",
+      "relevance": 0.518303,
+      "count": 1
+    },
+    {
+      "text": "comunidad negra",
+      "relevance": 0.518187,
+      "count": 2
+    },
+    {
+      "text": "miembro activo",
+      "relevance": 0.517456,
+      "count": 1
+    },
+    {
+      "text": "mitad de los cupos",
+      "relevance": 0.51723,
+      "count": 1
+    },
+    {
+      "text": "demas regiones",
+      "relevance": 0.516519,
+      "count": 1
+    },
+    {
+      "text": "funcionamiento de tales programas",
+      "relevance": 0.516481,
+      "count": 1
+    },
+    {
+      "text": "mayores oportunidades",
+      "relevance": 0.516178,
+      "count": 1
+    },
+    {
+      "text": "comunidades negras",
+      "relevance": 0.516016,
+      "count": 3
+    },
+    {
+      "text": "ntimero de cupos",
+      "relevance": 0.514549,
+      "count": 1
+    },
+    {
+      "text": "cuenca del pacifico",
+      "relevance": 0.514457,
+      "count": 2
+    },
+    {
+      "text": "literal f",
+      "relevance": 0.514263,
+      "count": 3
+    },
+    {
+      "text": "listado de posiciones",
+      "relevance": 0.513347,
+      "count": 1
+    },
+    {
+      "text": "programa acad\u00e9mico",
+      "relevance": 0.513258,
+      "count": 2
+    },
+    {
+      "text": "proceso de inscripcion correspondiente",
+      "relevance": 0.513005,
+      "count": 1
+    },
+    {
+      "text": "participaci\u00e9n voluntaria de miembros",
+      "relevance": 0.512659,
+      "count": 1
+    },
+    {
+      "text": "sistema educativo",
+      "relevance": 0.512617,
+      "count": 1
+    },
+    {
+      "text": "6n politica",
+      "relevance": 0.512554,
+      "count": 1
+    },
+    {
+      "text": "caracter acad\u00e9mico",
+      "relevance": 0.512463,
+      "count": 1
+    },
+    {
+      "text": "condici6n",
+      "relevance": 0.511919,
+      "count": 1
+    }
+  ]
+}

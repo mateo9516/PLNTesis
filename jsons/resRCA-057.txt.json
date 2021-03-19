@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2656,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.768601,
+      "count": 3
+    },
+    {
+      "text": "cupos docentes",
+      "relevance": 0.717832,
+      "count": 1
+    },
+    {
+      "text": "ciencias naturales",
+      "relevance": 0.633365,
+      "count": 2
+    },
+    {
+      "text": "tiempo completo",
+      "relevance": 0.595696,
+      "count": 1
+    },
+    {
+      "text": "area de la convocatoria",
+      "relevance": 0.581759,
+      "count": 1
+    },
+    {
+      "text": "ciencias sociales",
+      "relevance": 0.581751,
+      "count": 2
+    },
+    {
+      "text": "cupos vacantes del programa",
+      "relevance": 0.557111,
+      "count": 1
+    },
+    {
+      "text": "concurso publico de m\u00e9ritos",
+      "relevance": 0.550149,
+      "count": 4
+    },
+    {
+      "text": "estudios doctorales",
+      "relevance": 0.548018,
+      "count": 1
+    },
+    {
+      "text": "mes de abril",
+      "relevance": 0.538524,
+      "count": 1
+    },
+    {
+      "text": "institutos de educacion",
+      "relevance": 0.521905,
+      "count": 2
+    },
+    {
+      "text": "uso de sus atribuciones",
+      "relevance": 0.517221,
+      "count": 1
+    },
+    {
+      "text": "perfil especifico",
+      "relevance": 0.514247,
+      "count": 1
+    },
+    {
+      "text": "trabajo de investigacion",
+      "relevance": 0.512624,
+      "count": 1
+    },
+    {
+      "text": "sal\u00e9n de consejo acad\u00e9mico",
+      "relevance": 0.511006,
+      "count": 1
+    },
+    {
+      "text": "abril",
+      "relevance": 0.505553,
+      "count": 6
+    },
+    {
+      "text": "docentes present6",
+      "relevance": 0.502824,
+      "count": 1
+    },
+    {
+      "text": "ciencias",
+      "relevance": 0.50259,
+      "count": 1
+    },
+    {
+      "text": "facultades de artes integradas",
+      "relevance": 0.501779,
+      "count": 2
+    },
+    {
+      "text": "dedicacion perfil",
+      "relevance": 0.499034,
+      "count": 1
+    },
+    {
+      "text": "ingenieria de alimentos",
+      "relevance": 0.498013,
+      "count": 1
+    },
+    {
+      "text": "ingenieria",
+      "relevance": 0.497694,
+      "count": 2
+    },
+    {
+      "text": "mismos lineamientos de los concursos contenidos",
+      "relevance": 0.496411,
+      "count": 1
+    },
+    {
+      "text": "see",
+      "relevance": 0.494831,
+      "count": 1
+    },
+    {
+      "text": "cupo de la planta de cargos",
+      "relevance": 0.494185,
+      "count": 1
+    },
+    {
+      "text": "consejo academico de la universidad del valle",
+      "relevance": 0.492902,
+      "count": 1
+    },
+    {
+      "text": "perfil general",
+      "relevance": 0.492277,
+      "count": 1
+    },
+    {
+      "text": "primera convocatoria del programa de semillero",
+      "relevance": 0.491659,
+      "count": 1
+    },
+    {
+      "text": "semillero de docentes",
+      "relevance": 0.489284,
+      "count": 1
+    },
+    {
+      "text": "escuela de ingenieria de alimentos",
+      "relevance": 0.489171,
+      "count": 1
+    },
+    {
+      "text": "cupos docentes de tiempo",
+      "relevance": 0.486202,
+      "count": 1
+    },
+    {
+      "text": "profesor",
+      "relevance": 0.485023,
+      "count": 1
+    },
+    {
+      "text": "consejo",
+      "relevance": 0.482309,
+      "count": 1
+    },
+    {
+      "text": "cupo de tiempo completo",
+      "relevance": 0.481819,
+      "count": 1
+    },
+    {
+      "text": "administracion",
+      "relevance": 0.481798,
+      "count": 1
+    },
+    {
+      "text": "renuncia",
+      "relevance": 0.48075,
+      "count": 1
+    },
+    {
+      "text": "ciencias de la administraci6n",
+      "relevance": 0.479765,
+      "count": 1
+    },
+    {
+      "text": "humanidades",
+      "relevance": 0.478261,
+      "count": 2
+    },
+    {
+      "text": "ingenieria de alimentos de la facultad ingenieria",
+      "relevance": 0.477209,
+      "count": 1
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.476651,
+      "count": 1
+    },
+    {
+      "text": "salud",
+      "relevance": 0.476422,
+      "count": 2
+    },
+    {
+      "text": "concurso",
+      "relevance": 0.475844,
+      "count": 1
+    },
+    {
+      "text": "sentido",
+      "relevance": 0.475317,
+      "count": 1
+    },
+    {
+      "text": "cupo",
+      "relevance": 0.475113,
+      "count": 1
+    },
+    {
+      "text": "plazas",
+      "relevance": 0.474903,
+      "count": 1
+    },
+    {
+      "text": "bioingenieria",
+      "relevance": 0.4731,
+      "count": 1
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.471734,
+      "count": 2
+    },
+    {
+      "text": "convocatoria",
+      "relevance": 0.471539,
+      "count": 3
+    },
+    {
+      "text": "cronograma",
+      "relevance": 0.471438,
+      "count": 1
+    },
+    {
+      "text": "ramos",
+      "relevance": 0.471438,
+      "count": 1
+    }
+  ]
+}

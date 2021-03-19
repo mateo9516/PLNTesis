@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3353,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "centros de documentacion",
+      "relevance": 0.789407,
+      "count": 2
+    },
+    {
+      "text": "funcionamiento de los centros de documentacion",
+      "relevance": 0.657657,
+      "count": 1
+    },
+    {
+      "text": "centros de documentaci6n",
+      "relevance": 0.632637,
+      "count": 2
+    },
+    {
+      "text": "instituto de educacion",
+      "relevance": 0.618092,
+      "count": 1
+    },
+    {
+      "text": "facultad de ciencias sociales",
+      "relevance": 0.61184,
+      "count": 1
+    },
+    {
+      "text": "ciencias del lenguaje",
+      "relevance": 0.603748,
+      "count": 1
+    },
+    {
+      "text": "presente resolucion",
+      "relevance": 0.593501,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.590364,
+      "count": 1
+    },
+    {
+      "text": "momento de aprobacion de la resolucion",
+      "relevance": 0.560226,
+      "count": 1
+    },
+    {
+      "text": "siguientes centros",
+      "relevance": 0.558145,
+      "count": 1
+    },
+    {
+      "text": "comit\u00e9 central de bibliotecas",
+      "relevance": 0.549043,
+      "count": 1
+    },
+    {
+      "text": "plazos definidos",
+      "relevance": 0.544562,
+      "count": 1
+    },
+    {
+      "text": "informes de los centros de documentaci6",
+      "relevance": 0.537884,
+      "count": 1
+    },
+    {
+      "text": "salon de reuniones",
+      "relevance": 0.534061,
+      "count": 1
+    },
+    {
+      "text": "sede san",
+      "relevance": 0.532533,
+      "count": 1
+    },
+    {
+      "text": "facultad de ingenieria",
+      "relevance": 0.53035,
+      "count": 1
+    },
+    {
+      "text": "centro de documentaci\u00e9on adscrito",
+      "relevance": 0.524577,
+      "count": 1
+    },
+    {
+      "text": "uso de sus atribuciones legales",
+      "relevance": 0.519304,
+      "count": 1
+    },
+    {
+      "text": "centro de documentacion de la escuela",
+      "relevance": 0.519176,
+      "count": 1
+    },
+    {
+      "text": "facultad de humanidades",
+      "relevance": 0.512829,
+      "count": 1
+    },
+    {
+      "text": "proceso de evaluacion",
+      "relevance": 0.510142,
+      "count": 1
+    },
+    {
+      "text": "facultad de salud",
+      "relevance": 0.505562,
+      "count": 1
+    },
+    {
+      "text": "centros de documentacion existentes",
+      "relevance": 0.504795,
+      "count": 1
+    },
+    {
+      "text": "centro de documentaci6",
+      "relevance": 0.504203,
+      "count": 1
+    },
+    {
+      "text": "consejo academico de la universidad del valle",
+      "relevance": 0.500456,
+      "count": 1
+    },
+    {
+      "text": "plazo maximo",
+      "relevance": 0.499804,
+      "count": 1
+    },
+    {
+      "text": "centros de cisalva",
+      "relevance": 0.499333,
+      "count": 1
+    },
+    {
+      "text": "escuela de ciencias",
+      "relevance": 0.498865,
+      "count": 1
+    },
+    {
+      "text": "secretario general",
+      "relevance": 0.497803,
+      "count": 1
+    },
+    {
+      "text": "resolucion",
+      "relevance": 0.495688,
+      "count": 6
+    },
+    {
+      "text": "dias del mes de marzo",
+      "relevance": 0.495098,
+      "count": 1
+    },
+    {
+      "text": "fecha propuesta",
+      "relevance": 0.494734,
+      "count": 1
+    },
+    {
+      "text": "rehabilitacion humanauniversidad",
+      "relevance": 0.493623,
+      "count": 1
+    },
+    {
+      "text": "funcionamiento de los mismos",
+      "relevance": 0.491298,
+      "count": 1
+    },
+    {
+      "text": "lopez pulecio",
+      "relevance": 0.49043,
+      "count": 1
+    },
+    {
+      "text": "formas organizativas",
+      "relevance": 0.488111,
+      "count": 1
+    },
+    {
+      "text": "documento marco",
+      "relevance": 0.488111,
+      "count": 1
+    },
+    {
+      "text": "resultante de la fusion",
+      "relevance": 0.486986,
+      "count": 1
+    },
+    {
+      "text": "division de bibliotecas",
+      "relevance": 0.486256,
+      "count": 1
+    },
+    {
+      "text": "consejo acad\u00e9mico de la universidad del valle expidio",
+      "relevance": 0.485952,
+      "count": 1
+    },
+    {
+      "text": "funcionamiento de los centros de documentaci6on",
+      "relevance": 0.482532,
+      "count": 1
+    },
+    {
+      "text": "rehabilitacion humana",
+      "relevance": 0.480898,
+      "count": 1
+    },
+    {
+      "text": "cendoc",
+      "relevance": 0.478899,
+      "count": 2
+    },
+    {
+      "text": "salud",
+      "relevance": 0.47613,
+      "count": 2
+    },
+    {
+      "text": "pendientes",
+      "relevance": 0.471203,
+      "count": 1
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.470054,
+      "count": 1
+    },
+    {
+      "text": "dicha",
+      "relevance": 0.468796,
+      "count": 1
+    },
+    {
+      "text": "presente",
+      "relevance": 0.468674,
+      "count": 1
+    },
+    {
+      "text": "cisalva",
+      "relevance": 0.468601,
+      "count": 1
+    },
+    {
+      "text": "febrero",
+      "relevance": 0.467977,
+      "count": 5
+    }
+  ]
+}

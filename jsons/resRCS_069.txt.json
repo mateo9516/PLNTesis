@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 3,
+    "text_characters": 21819,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "calidad acad\u00e9mica",
+      "relevance": 0.623167,
+      "count": 1
+    },
+    {
+      "text": "proceso de evaluacion de m\u00e9ritos",
+      "relevance": 0.617383,
+      "count": 2
+    },
+    {
+      "text": "unidades acad\u00e9micas de regionalizacion",
+      "relevance": 0.594035,
+      "count": 1
+    },
+    {
+      "text": "caso necesario",
+      "relevance": 0.57667,
+      "count": 1
+    },
+    {
+      "text": "aspirantes inscritos",
+      "relevance": 0.562155,
+      "count": 1
+    },
+    {
+      "text": "estatuto general de la universidad",
+      "relevance": 0.551979,
+      "count": 2
+    },
+    {
+      "text": "planta docente",
+      "relevance": 0.549054,
+      "count": 1
+    },
+    {
+      "text": "comision de evaluacion de m\u00e9ritos",
+      "relevance": 0.545425,
+      "count": 8
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.542825,
+      "count": 10
+    },
+    {
+      "text": "concurso publico de m\u00e9ritos",
+      "relevance": 0.540596,
+      "count": 1
+    },
+    {
+      "text": "exposicion oral",
+      "relevance": 0.53978,
+      "count": 3
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.539076,
+      "count": 14
+    },
+    {
+      "text": "previa autorizacion del rector",
+      "relevance": 0.533998,
+      "count": 1
+    },
+    {
+      "text": "siguiente manera",
+      "relevance": 0.532409,
+      "count": 1
+    },
+    {
+      "text": "tal caso",
+      "relevance": 0.531752,
+      "count": 2
+    },
+    {
+      "text": "estudio de la hoja",
+      "relevance": 0.531165,
+      "count": 1
+    },
+    {
+      "text": "resultado de los procesos",
+      "relevance": 0.529956,
+      "count": 1
+    },
+    {
+      "text": "vicerrectoria acad\u00e9mica",
+      "relevance": 0.527769,
+      "count": 3
+    },
+    {
+      "text": "aspirantes interesados",
+      "relevance": 0.526393,
+      "count": 1
+    },
+    {
+      "text": "t\u00e9rmino improrrogable",
+      "relevance": 0.525371,
+      "count": 1
+    },
+    {
+      "text": "consejo de regionalizacion",
+      "relevance": 0.524428,
+      "count": 4
+    },
+    {
+      "text": "cumplimiento de las politicas institucionales",
+      "relevance": 0.524233,
+      "count": 1
+    },
+    {
+      "text": "calificacion de las hojas de vida",
+      "relevance": 0.522429,
+      "count": 1
+    },
+    {
+      "text": "siguientes funciones",
+      "relevance": 0.521525,
+      "count": 1
+    },
+    {
+      "text": "lista de preseleccionados",
+      "relevance": 0.521202,
+      "count": 1
+    },
+    {
+      "text": "sedes regionales",
+      "relevance": 0.52099,
+      "count": 3
+    },
+    {
+      "text": "experiencia docente universitaria",
+      "relevance": 0.520805,
+      "count": 1
+    },
+    {
+      "text": "presente resolucion",
+      "relevance": 0.520654,
+      "count": 1
+    },
+    {
+      "text": "capacidad creativa",
+      "relevance": 0.519701,
+      "count": 1
+    },
+    {
+      "text": "lista de candidatos elegibles",
+      "relevance": 0.519696,
+      "count": 1
+    },
+    {
+      "text": "distribucion de los cupos de la planta",
+      "relevance": 0.519447,
+      "count": 1
+    },
+    {
+      "text": "evaluacion de las pruebas acad\u00e9micas",
+      "relevance": 0.518738,
+      "count": 2
+    },
+    {
+      "text": "criterios de seleccion",
+      "relevance": 0.51871,
+      "count": 1
+    },
+    {
+      "text": "cargos de empleados",
+      "relevance": 0.518534,
+      "count": 1
+    },
+    {
+      "text": "procesos misionales",
+      "relevance": 0.518287,
+      "count": 1
+    },
+    {
+      "text": "habiles siguientes",
+      "relevance": 0.516871,
+      "count": 2
+    },
+    {
+      "text": "caso de musica",
+      "relevance": 0.516723,
+      "count": 1
+    },
+    {
+      "text": "profesores de carrera",
+      "relevance": 0.516705,
+      "count": 1
+    },
+    {
+      "text": "candidatos seleccionados",
+      "relevance": 0.516331,
+      "count": 2
+    },
+    {
+      "text": "direcci6n de regionalizacion",
+      "relevance": 0.51623,
+      "count": 1
+    },
+    {
+      "text": "acreditacion institucional",
+      "relevance": 0.5161,
+      "count": 1
+    },
+    {
+      "text": "apertura de la convocatoria",
+      "relevance": 0.515578,
+      "count": 2
+    },
+    {
+      "text": "objetivo estrat\u00e9gico",
+      "relevance": 0.514952,
+      "count": 1
+    },
+    {
+      "text": "cupos de docentes tiempo completo",
+      "relevance": 0.514908,
+      "count": 1
+    },
+    {
+      "text": "m\u00e9ritos de regionalizaci6",
+      "relevance": 0.514136,
+      "count": 2
+    },
+    {
+      "text": "forma definitiva",
+      "relevance": 0.513673,
+      "count": 1
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.513602,
+      "count": 16
+    },
+    {
+      "text": "propuesta escrita de curso",
+      "relevance": 0.513235,
+      "count": 1
+    },
+    {
+      "text": "perfil general",
+      "relevance": 0.513031,
+      "count": 2
+    },
+    {
+      "text": "comisi6n",
+      "relevance": 0.512948,
+      "count": 4
+    }
+  ]
+}

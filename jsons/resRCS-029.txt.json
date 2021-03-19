@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 7100,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "docentes de la universidad del valle",
+      "relevance": 0.693207,
+      "count": 3
+    },
+    {
+      "text": "cargos de empleados",
+      "relevance": 0.640016,
+      "count": 6
+    },
+    {
+      "text": "profesores contratistas",
+      "relevance": 0.616811,
+      "count": 2
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.608895,
+      "count": 9
+    },
+    {
+      "text": "oferta acad\u00e9mica de cursos",
+      "relevance": 0.592792,
+      "count": 2
+    },
+    {
+      "text": "cupos vacantes",
+      "relevance": 0.575881,
+      "count": 2
+    },
+    {
+      "text": "desarrollo institucional",
+      "relevance": 0.552125,
+      "count": 2
+    },
+    {
+      "text": "normatividad vigente",
+      "relevance": 0.549547,
+      "count": 1
+    },
+    {
+      "text": "profesores de carrera",
+      "relevance": 0.549136,
+      "count": 1
+    },
+    {
+      "text": "cupos de tce",
+      "relevance": 0.545266,
+      "count": 1
+    },
+    {
+      "text": "acreditaci6n de programas",
+      "relevance": 0.545052,
+      "count": 1
+    },
+    {
+      "text": "visitas de pares acad\u00e9micos",
+      "relevance": 0.544701,
+      "count": 1
+    },
+    {
+      "text": "institutos acad\u00e9micos",
+      "relevance": 0.544234,
+      "count": 2
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.539301,
+      "count": 3
+    },
+    {
+      "text": "mismos criterios",
+      "relevance": 0.533261,
+      "count": 1
+    },
+    {
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.532966,
+      "count": 1
+    },
+    {
+      "text": "ultimos afios",
+      "relevance": 0.530696,
+      "count": 2
+    },
+    {
+      "text": "acreditacion institucional",
+      "relevance": 0.529959,
+      "count": 1
+    },
+    {
+      "text": "programa de reemplazo de profesores",
+      "relevance": 0.529483,
+      "count": 1
+    },
+    {
+      "text": "cuerpo docente",
+      "relevance": 0.528837,
+      "count": 1
+    },
+    {
+      "text": "planta de cargos de empleados",
+      "relevance": 0.527203,
+      "count": 4
+    },
+    {
+      "text": "unidades acad\u00e9micas",
+      "relevance": 0.526891,
+      "count": 2
+    },
+    {
+      "text": "presupuesto de servicios personales",
+      "relevance": 0.526447,
+      "count": 1
+    },
+    {
+      "text": "cupo adicional",
+      "relevance": 0.525564,
+      "count": 1
+    },
+    {
+      "text": "modalidad de profesor ocasional",
+      "relevance": 0.524112,
+      "count": 1
+    },
+    {
+      "text": "costos adicionales de acuerdo",
+      "relevance": 0.521293,
+      "count": 1
+    },
+    {
+      "text": "cronograma de ampliacion de la planta",
+      "relevance": 0.521013,
+      "count": 1
+    },
+    {
+      "text": "necesidades de docencia",
+      "relevance": 0.520225,
+      "count": 1
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.519859,
+      "count": 7
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.519539,
+      "count": 1
+    },
+    {
+      "text": "direccidn de planeacion",
+      "relevance": 0.518993,
+      "count": 1
+    },
+    {
+      "text": "ampliaci\u00e9n de la planta",
+      "relevance": 0.518942,
+      "count": 1
+    },
+    {
+      "text": "garantia de calidad de la formacidon",
+      "relevance": 0.518484,
+      "count": 1
+    },
+    {
+      "text": "nombramiento de profesores de carrera",
+      "relevance": 0.517979,
+      "count": 1
+    },
+    {
+      "text": "disponibilidad presupuestal",
+      "relevance": 0.517348,
+      "count": 2
+    },
+    {
+      "text": "divisi6n financiera",
+      "relevance": 0.517183,
+      "count": 1
+    },
+    {
+      "text": "planta actual",
+      "relevance": 0.516449,
+      "count": 1
+    },
+    {
+      "text": "deuda publica bancaria",
+      "relevance": 0.516332,
+      "count": 1
+    },
+    {
+      "text": "siguientes acciones",
+      "relevance": 0.51456,
+      "count": 1
+    },
+    {
+      "text": "uso de sus facultades legales",
+      "relevance": 0.513581,
+      "count": 1
+    },
+    {
+      "text": "mes julio",
+      "relevance": 0.513549,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.513078,
+      "count": 1
+    },
+    {
+      "text": "misma cantidad",
+      "relevance": 0.512537,
+      "count": 1
+    },
+    {
+      "text": "horas de docencia directa",
+      "relevance": 0.512253,
+      "count": 1
+    },
+    {
+      "text": "sostenibilidad de la universidad",
+      "relevance": 0.511551,
+      "count": 2
+    },
+    {
+      "text": "situacion financiera",
+      "relevance": 0.511097,
+      "count": 1
+    },
+    {
+      "text": "relaci6n",
+      "relevance": 0.5109,
+      "count": 1
+    },
+    {
+      "text": "profesores hora",
+      "relevance": 0.509553,
+      "count": 1
+    },
+    {
+      "text": "porcentaje de sus ingresos",
+      "relevance": 0.509552,
+      "count": 1
+    },
+    {
+      "text": "docentes de la universidad",
+      "relevance": 0.508576,
+      "count": 1
+    }
+  ]
+}

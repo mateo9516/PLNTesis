@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 3,
+    "text_characters": 26764,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "perfiles profesionales",
+      "relevance": 0.661492,
+      "count": 1
+    },
+    {
+      "text": "medio tiempo",
+      "relevance": 0.622732,
+      "count": 10
+    },
+    {
+      "text": "area de arquitectura",
+      "relevance": 0.601818,
+      "count": 2
+    },
+    {
+      "text": "tiempo completo",
+      "relevance": 0.597945,
+      "count": 10
+    },
+    {
+      "text": "titulo profesional",
+      "relevance": 0.583344,
+      "count": 1
+    },
+    {
+      "text": "convocatorias docentes",
+      "relevance": 0.578614,
+      "count": 1
+    },
+    {
+      "text": "concurso publico de m\u00e9ritos",
+      "relevance": 0.570861,
+      "count": 3
+    },
+    {
+      "text": "perfil especifico de un concurso",
+      "relevance": 0.562025,
+      "count": 2
+    },
+    {
+      "text": "docentes de carrera de tiempo completo",
+      "relevance": 0.559052,
+      "count": 1
+    },
+    {
+      "text": "experiencia profesional",
+      "relevance": 0.558203,
+      "count": 15
+    },
+    {
+      "text": "nombramiento de profesores de tiempo",
+      "relevance": 0.548867,
+      "count": 1
+    },
+    {
+      "text": "facultades de artes integradas",
+      "relevance": 0.546322,
+      "count": 1
+    },
+    {
+      "text": "cupos del area",
+      "relevance": 0.545526,
+      "count": 1
+    },
+    {
+      "text": "equivalente de tiempo completo",
+      "relevance": 0.545293,
+      "count": 14
+    },
+    {
+      "text": "equivalente de tiempo",
+      "relevance": 0.544917,
+      "count": 1
+    },
+    {
+      "text": "disefio industrial",
+      "relevance": 0.544096,
+      "count": 2
+    },
+    {
+      "text": "planta de profesores nombrados",
+      "relevance": 0.543308,
+      "count": 1
+    },
+    {
+      "text": "aspirantes deberadn",
+      "relevance": 0.542044,
+      "count": 1
+    },
+    {
+      "text": "experiencia docente universitaria de minimo",
+      "relevance": 0.541443,
+      "count": 8
+    },
+    {
+      "text": "ciencias de la administraci\u00e9n",
+      "relevance": 0.541196,
+      "count": 1
+    },
+    {
+      "text": "actividades de docencia",
+      "relevance": 0.537702,
+      "count": 1
+    },
+    {
+      "text": "ciencias sociales",
+      "relevance": 0.536318,
+      "count": 5
+    },
+    {
+      "text": "experiencia docente universitaria",
+      "relevance": 0.536271,
+      "count": 17
+    },
+    {
+      "text": "estatuto profesoral",
+      "relevance": 0.536162,
+      "count": 2
+    },
+    {
+      "text": "comisi\u00e9n de seleccidn docente",
+      "relevance": 0.532398,
+      "count": 1
+    },
+    {
+      "text": "area de la convocatoria",
+      "relevance": 0.531906,
+      "count": 25
+    },
+    {
+      "text": "unidades acad\u00e9micas",
+      "relevance": 0.531369,
+      "count": 1
+    },
+    {
+      "text": "perfil general",
+      "relevance": 0.52904,
+      "count": 1
+    },
+    {
+      "text": "titulo de maestria",
+      "relevance": 0.528845,
+      "count": 7
+    },
+    {
+      "text": "ciencias naturales",
+      "relevance": 0.528753,
+      "count": 1
+    },
+    {
+      "text": "planta de cargos de empleados",
+      "relevance": 0.52821,
+      "count": 1
+    },
+    {
+      "text": "titulos del mismo nivel",
+      "relevance": 0.527391,
+      "count": 2
+    },
+    {
+      "text": "area de sociologia de la facultad",
+      "relevance": 0.525102,
+      "count": 1
+    },
+    {
+      "text": "facultad de ingenieria",
+      "relevance": 0.523952,
+      "count": 2
+    },
+    {
+      "text": "areas de mercadeo",
+      "relevance": 0.522635,
+      "count": 1
+    },
+    {
+      "text": "negocios internacionales",
+      "relevance": 0.522265,
+      "count": 4
+    },
+    {
+      "text": "mecanica estadistica",
+      "relevance": 0.521382,
+      "count": 1
+    },
+    {
+      "text": "materno perinatal",
+      "relevance": 0.521306,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.5204,
+      "count": 5
+    },
+    {
+      "text": "disefio grafico",
+      "relevance": 0.519696,
+      "count": 2
+    },
+    {
+      "text": "quimica inorganica",
+      "relevance": 0.518739,
+      "count": 1
+    },
+    {
+      "text": "gestion ambiental",
+      "relevance": 0.517762,
+      "count": 1
+    },
+    {
+      "text": "certificaci\u00e9n oficial correspondiente",
+      "relevance": 0.517711,
+      "count": 1
+    },
+    {
+      "text": "perfil especifico",
+      "relevance": 0.516389,
+      "count": 2
+    },
+    {
+      "text": "casos de experiencia hora catedra",
+      "relevance": 0.515605,
+      "count": 1
+    },
+    {
+      "text": "obtencidn del titulo",
+      "relevance": 0.515404,
+      "count": 1
+    },
+    {
+      "text": "comercio exterior",
+      "relevance": 0.515104,
+      "count": 3
+    },
+    {
+      "text": "instituciones financieras",
+      "relevance": 0.514682,
+      "count": 1
+    },
+    {
+      "text": "tiempo cronoldgico",
+      "relevance": 0.514495,
+      "count": 1
+    },
+    {
+      "text": "comisiones de estudio",
+      "relevance": 0.513625,
+      "count": 1
+    }
+  ]
+}

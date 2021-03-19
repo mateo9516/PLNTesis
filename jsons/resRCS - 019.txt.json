@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2435,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "bienestar universitario",
+      "relevance": 0.73516,
+      "count": 2
+    },
+    {
+      "text": "comit\u00e9 t\u00e9cnico",
+      "relevance": 0.655642,
+      "count": 1
+    },
+    {
+      "text": "vicerrectoria de bienestar universitario",
+      "relevance": 0.645013,
+      "count": 1
+    },
+    {
+      "text": "presupuesto de la vicerrectoria",
+      "relevance": 0.595366,
+      "count": 1
+    },
+    {
+      "text": "parte del desarrollo de la estrategia",
+      "relevance": 0.588549,
+      "count": 1
+    },
+    {
+      "text": "presente resoluci6n",
+      "relevance": 0.584259,
+      "count": 1
+    },
+    {
+      "text": "seccionales actividades",
+      "relevance": 0.567687,
+      "count": 1
+    },
+    {
+      "text": "sedes regionales",
+      "relevance": 0.561292,
+      "count": 2
+    },
+    {
+      "text": "estudiantes de las sedes regionales",
+      "relevance": 0.553768,
+      "count": 1
+    },
+    {
+      "text": "actividad deportiva",
+      "relevance": 0.551906,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.548405,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.54726,
+      "count": 1
+    },
+    {
+      "text": "desarrollo personal",
+      "relevance": 0.545153,
+      "count": 1
+    },
+    {
+      "text": "uso de las atribuciones legales",
+      "relevance": 0.544366,
+      "count": 1
+    },
+    {
+      "text": "reuniones de la torre institucional",
+      "relevance": 0.544366,
+      "count": 1
+    },
+    {
+      "text": "direcci6n de regionalizacion",
+      "relevance": 0.544348,
+      "count": 1
+    },
+    {
+      "text": "caracter regional",
+      "relevance": 0.528102,
+      "count": 1
+    },
+    {
+      "text": "parte integral de la formaci\u00e9n",
+      "relevance": 0.526463,
+      "count": 1
+    },
+    {
+      "text": "misma calidad",
+      "relevance": 0.524729,
+      "count": 1
+    },
+    {
+      "text": "actividad de formacion",
+      "relevance": 0.51844,
+      "count": 1
+    },
+    {
+      "text": "participaci6n",
+      "relevance": 0.512872,
+      "count": 1
+    },
+    {
+      "text": "representante del presidente",
+      "relevance": 0.511746,
+      "count": 1
+    },
+    {
+      "text": "asuntos estrat\u00e9gicos",
+      "relevance": 0.503711,
+      "count": 1
+    },
+    {
+      "text": "larreamendy joerns",
+      "relevance": 0.498385,
+      "count": 1
+    },
+    {
+      "text": "realizacion de los juegos intersedes",
+      "relevance": 0.495842,
+      "count": 1
+    },
+    {
+      "text": "juegos intersedes",
+      "relevance": 0.495279,
+      "count": 2
+    },
+    {
+      "text": "dias de abril",
+      "relevance": 0.493491,
+      "count": 1
+    },
+    {
+      "text": "juegos intersedes de la universidad del valle",
+      "relevance": 0.491593,
+      "count": 1
+    },
+    {
+      "text": "caracter regional de la universidad del valle",
+      "relevance": 0.48683,
+      "count": 1
+    },
+    {
+      "text": "universidad valle",
+      "relevance": 0.483712,
+      "count": 1
+    },
+    {
+      "text": "parte de las actividades",
+      "relevance": 0.48349,
+      "count": 1
+    },
+    {
+      "text": "juegos intersedes de la universidad",
+      "relevance": 0.482105,
+      "count": 1
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.479372,
+      "count": 4
+    },
+    {
+      "text": "plan estrat\u00e9gico de desarrollo de la universidad",
+      "relevance": 0.478782,
+      "count": 1
+    },
+    {
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.475139,
+      "count": 1
+    },
+    {
+      "text": "anos",
+      "relevance": 0.46386,
+      "count": 1
+    },
+    {
+      "text": "parte importante de la actividad de la universidad",
+      "relevance": 0.461422,
+      "count": 1
+    },
+    {
+      "text": "seccionales",
+      "relevance": 0.454796,
+      "count": 2
+    },
+    {
+      "text": "afos",
+      "relevance": 0.453969,
+      "count": 1
+    },
+    {
+      "text": "fecha",
+      "relevance": 0.452067,
+      "count": 2
+    },
+    {
+      "text": "estudiantes",
+      "relevance": 0.451738,
+      "count": 2
+    },
+    {
+      "text": "valle",
+      "relevance": 0.451247,
+      "count": 2
+    },
+    {
+      "text": "presidente",
+      "relevance": 0.451223,
+      "count": 1
+    },
+    {
+      "text": "regiones",
+      "relevance": 0.450979,
+      "count": 1
+    },
+    {
+      "text": "abril",
+      "relevance": 0.449855,
+      "count": 1
+    },
+    {
+      "text": "organizacion",
+      "relevance": 0.449855,
+      "count": 1
+    },
+    {
+      "text": "trav\u00e9s",
+      "relevance": 0.449541,
+      "count": 1
+    },
+    {
+      "text": "sede",
+      "relevance": 0.448662,
+      "count": 1
+    },
+    {
+      "text": "resolucion",
+      "relevance": 0.448488,
+      "count": 1
+    },
+    {
+      "text": "fortalecimiento",
+      "relevance": 0.448488,
+      "count": 2
+    }
+  ]
+}

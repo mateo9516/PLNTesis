@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 8734,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "programa de amnistia acad\u00e9mica",
+      "relevance": 0.840787,
+      "count": 8
+    },
+    {
+      "text": "acad\u00e9micos de maestria",
+      "relevance": 0.674444,
+      "count": 1
+    },
+    {
+      "text": "tesis doctoral",
+      "relevance": 0.622301,
+      "count": 6
+    },
+    {
+      "text": "primer semestre del afio",
+      "relevance": 0.591509,
+      "count": 1
+    },
+    {
+      "text": "rendimiento acad\u00e9mico",
+      "relevance": 0.57706,
+      "count": 2
+    },
+    {
+      "text": "razones distintas",
+      "relevance": 0.571176,
+      "count": 2
+    },
+    {
+      "text": "siguientes requisitos",
+      "relevance": 0.550444,
+      "count": 1
+    },
+    {
+      "text": "condici6n de estudiantes",
+      "relevance": 0.545786,
+      "count": 1
+    },
+    {
+      "text": "programas de maestria",
+      "relevance": 0.541199,
+      "count": 3
+    },
+    {
+      "text": "comit\u00e9 de programa",
+      "relevance": 0.539786,
+      "count": 1
+    },
+    {
+      "text": "aprobacion del examen",
+      "relevance": 0.538756,
+      "count": 1
+    },
+    {
+      "text": "programa acad\u00e9mico",
+      "relevance": 0.538408,
+      "count": 2
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.538335,
+      "count": 3
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.535958,
+      "count": 4
+    },
+    {
+      "text": "division de admisiones",
+      "relevance": 0.535401,
+      "count": 1
+    },
+    {
+      "text": "sanciones disciplinarias",
+      "relevance": 0.534941,
+      "count": 2
+    },
+    {
+      "text": "instituto acad\u00e9mico",
+      "relevance": 0.53435,
+      "count": 4
+    },
+    {
+      "text": "caso de los admitidos",
+      "relevance": 0.53245,
+      "count": 1
+    },
+    {
+      "text": "registro calificado vigente",
+      "relevance": 0.529273,
+      "count": 1
+    },
+    {
+      "text": "idioma extranjero",
+      "relevance": 0.529089,
+      "count": 1
+    },
+    {
+      "text": "actividades acad\u00e9micas constitutivas",
+      "relevance": 0.527498,
+      "count": 1
+    },
+    {
+      "text": "calendario acad\u00e9mico",
+      "relevance": 0.527219,
+      "count": 3
+    },
+    {
+      "text": "requisitos de grado",
+      "relevance": 0.527173,
+      "count": 1
+    },
+    {
+      "text": "comit\u00e9 de programa de posgrado",
+      "relevance": 0.526299,
+      "count": 1
+    },
+    {
+      "text": "solo programa acad\u00e9mico",
+      "relevance": 0.522501,
+      "count": 1
+    },
+    {
+      "text": "segundo semestre del ano",
+      "relevance": 0.521978,
+      "count": 1
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.521831,
+      "count": 3
+    },
+    {
+      "text": "programa respectivo",
+      "relevance": 0.520954,
+      "count": 1
+    },
+    {
+      "text": "primera instancia",
+      "relevance": 0.520772,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.519081,
+      "count": 1
+    },
+    {
+      "text": "periodo febrero-junio",
+      "relevance": 0.517772,
+      "count": 1
+    },
+    {
+      "text": "caso de los doctorados",
+      "relevance": 0.517077,
+      "count": 1
+    },
+    {
+      "text": "estudiantes regulares",
+      "relevance": 0.516092,
+      "count": 1
+    },
+    {
+      "text": "plazo maximo",
+      "relevance": 0.515891,
+      "count": 3
+    },
+    {
+      "text": "instancia hom\u00e9dloga",
+      "relevance": 0.515081,
+      "count": 1
+    },
+    {
+      "text": "primer semestre del amo",
+      "relevance": 0.514606,
+      "count": 1
+    },
+    {
+      "text": "estudiantes regulares de los programas acad\u00e9micos",
+      "relevance": 0.513061,
+      "count": 1
+    },
+    {
+      "text": "mecanismo de reingreso especial",
+      "relevance": 0.512374,
+      "count": 1
+    },
+    {
+      "text": "publicaci6n",
+      "relevance": 0.512012,
+      "count": 1
+    },
+    {
+      "text": "fechas de grado",
+      "relevance": 0.510306,
+      "count": 1
+    },
+    {
+      "text": "presente programa",
+      "relevance": 0.510049,
+      "count": 1
+    },
+    {
+      "text": "direcci\u00e9n de la tesis doctoral",
+      "relevance": 0.510028,
+      "count": 1
+    },
+    {
+      "text": "amnistia acad\u00e9mica",
+      "relevance": 0.508534,
+      "count": 1
+    },
+    {
+      "text": "instancia homdloga de cada facultad",
+      "relevance": 0.508203,
+      "count": 1
+    },
+    {
+      "text": "campo correspondiente",
+      "relevance": 0.50813,
+      "count": 1
+    },
+    {
+      "text": "funciones delegadas",
+      "relevance": 0.507281,
+      "count": 1
+    },
+    {
+      "text": "caso de reclamaciones",
+      "relevance": 0.507191,
+      "count": 1
+    },
+    {
+      "text": "aprobacion de la solicitud",
+      "relevance": 0.506819,
+      "count": 1
+    },
+    {
+      "text": "solicitudes recibidas",
+      "relevance": 0.506457,
+      "count": 1
+    },
+    {
+      "text": "amnistias acad\u00e9micas",
+      "relevance": 0.505951,
+      "count": 1
+    }
+  ]
+}

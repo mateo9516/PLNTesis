@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3892,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "programa acad\u00e9mico",
+      "relevance": 0.620345,
+      "count": 3
+    },
+    {
+      "text": "escuela de arquitectura de la facultad",
+      "relevance": 0.588364,
+      "count": 1
+    },
+    {
+      "text": "necesidades de la comunidad",
+      "relevance": 0.58629,
+      "count": 1
+    },
+    {
+      "text": "desarrollo del entorno",
+      "relevance": 0.570839,
+      "count": 1
+    },
+    {
+      "text": "internacionalizacion de las empresas del sector",
+      "relevance": 0.559219,
+      "count": 1
+    },
+    {
+      "text": "trav\u00e9s del departamento de tecnologia",
+      "relevance": 0.557598,
+      "count": 1
+    },
+    {
+      "text": "ciudad de cali-valle",
+      "relevance": 0.555971,
+      "count": 1
+    },
+    {
+      "text": "prop\u00e9sito de la universidad del valle",
+      "relevance": 0.547617,
+      "count": 1
+    },
+    {
+      "text": "uso de sus atribuciones",
+      "relevance": 0.546174,
+      "count": 1
+    },
+    {
+      "text": "instituciones universitarias",
+      "relevance": 0.541737,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.539696,
+      "count": 1
+    },
+    {
+      "text": "diferentes campos disciplinarios",
+      "relevance": 0.537417,
+      "count": 1
+    },
+    {
+      "text": "programas de maestria",
+      "relevance": 0.536999,
+      "count": 1
+    },
+    {
+      "text": "necesidades del medio",
+      "relevance": 0.536829,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.536133,
+      "count": 1
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.530456,
+      "count": 3
+    },
+    {
+      "text": "empresas del sector de la construccionmodalidad",
+      "relevance": 0.530272,
+      "count": 1
+    },
+    {
+      "text": "salon de reuniones de sal\u00e9n",
+      "relevance": 0.530097,
+      "count": 1
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.530092,
+      "count": 1
+    },
+    {
+      "text": "parte del ministerio",
+      "relevance": 0.526892,
+      "count": 1
+    },
+    {
+      "text": "campo de la administraci\u00e9n de las empresas",
+      "relevance": 0.525357,
+      "count": 1
+    },
+    {
+      "text": "preservacion fisico del espacio",
+      "relevance": 0.523059,
+      "count": 1
+    },
+    {
+      "text": "obras civiles",
+      "relevance": 0.522403,
+      "count": 1
+    },
+    {
+      "text": "departamento de tecnologia de la construcci\u00e9n",
+      "relevance": 0.522098,
+      "count": 1
+    },
+    {
+      "text": "formacion de alto nivel",
+      "relevance": 0.520562,
+      "count": 1
+    },
+    {
+      "text": "drea del programa acad\u00e9mico",
+      "relevance": 0.519649,
+      "count": 1
+    },
+    {
+      "text": "procesos de produccidn de obras",
+      "relevance": 0.517706,
+      "count": 1
+    },
+    {
+      "text": "artes integradas",
+      "relevance": 0.513211,
+      "count": 1
+    },
+    {
+      "text": "acreditacion institucional de alta calidad",
+      "relevance": 0.512652,
+      "count": 1
+    },
+    {
+      "text": "programas de estudio",
+      "relevance": 0.511149,
+      "count": 1
+    },
+    {
+      "text": "recursos docentes",
+      "relevance": 0.50759,
+      "count": 1
+    },
+    {
+      "text": "ciencias de la administraci\u00e9n",
+      "relevance": 0.50212,
+      "count": 1
+    },
+    {
+      "text": "soluci\u00e9n de problemas",
+      "relevance": 0.502029,
+      "count": 1
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.501504,
+      "count": 3
+    },
+    {
+      "text": "sector de la construccidn",
+      "relevance": 0.501483,
+      "count": 1
+    },
+    {
+      "text": "persona de los instrumentos",
+      "relevance": 0.500926,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de noviembre",
+      "relevance": 0.500621,
+      "count": 1
+    },
+    {
+      "text": "campo de la filosofia",
+      "relevance": 0.500585,
+      "count": 1
+    },
+    {
+      "text": "empresas del sector de la construccion-modalidad profundizacion",
+      "relevance": 0.500387,
+      "count": 2
+    },
+    {
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.499071,
+      "count": 1
+    },
+    {
+      "text": "valle",
+      "relevance": 0.49718,
+      "count": 1
+    },
+    {
+      "text": "estatuto general",
+      "relevance": 0.496339,
+      "count": 1
+    },
+    {
+      "text": "castillo gomez",
+      "relevance": 0.496339,
+      "count": 1
+    },
+    {
+      "text": "unico registro",
+      "relevance": 0.49543,
+      "count": 1
+    },
+    {
+      "text": "bienestar de la misma",
+      "relevance": 0.49543,
+      "count": 1
+    },
+    {
+      "text": "titulo de magister",
+      "relevance": 0.49543,
+      "count": 1
+    },
+    {
+      "text": "normas vigentes",
+      "relevance": 0.49543,
+      "count": 1
+    },
+    {
+      "text": "empresas del sector",
+      "relevance": 0.494277,
+      "count": 1
+    },
+    {
+      "text": "programas de posgrado",
+      "relevance": 0.492266,
+      "count": 1
+    },
+    {
+      "text": "secretario general",
+      "relevance": 0.492231,
+      "count": 1
+    }
+  ]
+}

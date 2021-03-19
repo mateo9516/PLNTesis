@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 7211,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "marzo del afio",
+      "relevance": 0.706616,
+      "count": 1
+    },
+    {
+      "text": "trabajo remoto",
+      "relevance": 0.602875,
+      "count": 1
+    },
+    {
+      "text": "desarrollo de la autonomia universitaria",
+      "relevance": 0.592258,
+      "count": 1
+    },
+    {
+      "text": "dificultades del trabajo acad\u00e9mico",
+      "relevance": 0.562871,
+      "count": 1
+    },
+    {
+      "text": "autoridades acad\u00e9micas",
+      "relevance": 0.562017,
+      "count": 1
+    },
+    {
+      "text": "principales medidas",
+      "relevance": 0.561877,
+      "count": 1
+    },
+    {
+      "text": "uso de herramientas",
+      "relevance": 0.561772,
+      "count": 1
+    },
+    {
+      "text": "creaci\u00e9n de planes",
+      "relevance": 0.554124,
+      "count": 1
+    },
+    {
+      "text": "territorio nacional",
+      "relevance": 0.552228,
+      "count": 1
+    },
+    {
+      "text": "programas acad\u00e9micos",
+      "relevance": 0.549971,
+      "count": 2
+    },
+    {
+      "text": "ministerio de salud",
+      "relevance": 0.545702,
+      "count": 1
+    },
+    {
+      "text": "marco de referencia",
+      "relevance": 0.540816,
+      "count": 1
+    },
+    {
+      "text": "proteccion social",
+      "relevance": 0.540382,
+      "count": 1
+    },
+    {
+      "text": "directiva ministerial",
+      "relevance": 0.53872,
+      "count": 3
+    },
+    {
+      "text": "medio del uso de las tic",
+      "relevance": 0.53118,
+      "count": 1
+    },
+    {
+      "text": "redes sociales",
+      "relevance": 0.530754,
+      "count": 2
+    },
+    {
+      "text": "efectos legales",
+      "relevance": 0.530294,
+      "count": 1
+    },
+    {
+      "text": "herramientas tecnol6",
+      "relevance": 0.530121,
+      "count": 1
+    },
+    {
+      "text": "presidencia de la reptblica expidio",
+      "relevance": 0.530094,
+      "count": 1
+    },
+    {
+      "text": "necesidad de la presencialidad de los estudiantes",
+      "relevance": 0.527868,
+      "count": 1
+    },
+    {
+      "text": "manera transitoria",
+      "relevance": 0.526879,
+      "count": 1
+    },
+    {
+      "text": "estatuto general",
+      "relevance": 0.525923,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.524967,
+      "count": 4
+    },
+    {
+      "text": "directiva presidencial",
+      "relevance": 0.524611,
+      "count": 2
+    },
+    {
+      "text": "actividades docentes",
+      "relevance": 0.523617,
+      "count": 1
+    },
+    {
+      "text": "documento original",
+      "relevance": 0.523617,
+      "count": 1
+    },
+    {
+      "text": "motivo de la emergencia sanitaria",
+      "relevance": 0.522304,
+      "count": 1
+    },
+    {
+      "text": "funcion del consejo superior",
+      "relevance": 0.521785,
+      "count": 1
+    },
+    {
+      "text": "instituciones de educacion superior",
+      "relevance": 0.51969,
+      "count": 1
+    },
+    {
+      "text": "virus coronavirus covid-19",
+      "relevance": 0.519651,
+      "count": 1
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.519442,
+      "count": 2
+    },
+    {
+      "text": "registro calificado",
+      "relevance": 0.519054,
+      "count": 1
+    },
+    {
+      "text": "orden de aislamiento social",
+      "relevance": 0.518966,
+      "count": 1
+    },
+    {
+      "text": "canales virtuales institucionales",
+      "relevance": 0.518256,
+      "count": 1
+    },
+    {
+      "text": "planes de estudio",
+      "relevance": 0.518012,
+      "count": 1
+    },
+    {
+      "text": "r\u00e9gimen especial",
+      "relevance": 0.516821,
+      "count": 1
+    },
+    {
+      "text": "gobierno nacional",
+      "relevance": 0.51676,
+      "count": 1
+    },
+    {
+      "text": "organizacion mundial de la salud",
+      "relevance": 0.516512,
+      "count": 1
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.515613,
+      "count": 2
+    },
+    {
+      "text": "desarrollo de los programas acad\u00e9micos",
+      "relevance": 0.514928,
+      "count": 1
+    },
+    {
+      "text": "presente resolucion",
+      "relevance": 0.511522,
+      "count": 1
+    },
+    {
+      "text": "clara luz",
+      "relevance": 0.510787,
+      "count": 1
+    },
+    {
+      "text": "contagio del virus",
+      "relevance": 0.50981,
+      "count": 1
+    },
+    {
+      "text": "medida excepcional",
+      "relevance": 0.509523,
+      "count": 1
+    },
+    {
+      "text": "ministerio de educacion nacional",
+      "relevance": 0.509047,
+      "count": 2
+    },
+    {
+      "text": "propios estatutos",
+      "relevance": 0.507952,
+      "count": 1
+    },
+    {
+      "text": "disposiciones emanadas",
+      "relevance": 0.507621,
+      "count": 1
+    },
+    {
+      "text": "estado de emergencia economica",
+      "relevance": 0.50751,
+      "count": 1
+    },
+    {
+      "text": "politicas acad\u00e9micas",
+      "relevance": 0.50733,
+      "count": 1
+    },
+    {
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.506398,
+      "count": 1
+    }
+  ]
+}

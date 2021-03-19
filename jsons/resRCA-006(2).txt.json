@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 5,
+    "text_characters": 40494,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "medio tiempo",
+      "relevance": 0.687577,
+      "count": 14
+    },
+    {
+      "text": "tiempo completo",
+      "relevance": 0.675975,
+      "count": 18
+    },
+    {
+      "text": "convocatorias docentes",
+      "relevance": 0.652675,
+      "count": 1
+    },
+    {
+      "text": "titulo profesional",
+      "relevance": 0.61722,
+      "count": 1
+    },
+    {
+      "text": "experiencia investigativa",
+      "relevance": 0.611498,
+      "count": 21
+    },
+    {
+      "text": "docentes de carrera de tiempo completo",
+      "relevance": 0.610456,
+      "count": 1
+    },
+    {
+      "text": "experiencia docente universitaria de minimo",
+      "relevance": 0.601059,
+      "count": 26
+    },
+    {
+      "text": "equivalente de tiempo",
+      "relevance": 0.600166,
+      "count": 3
+    },
+    {
+      "text": "experiencia profesional",
+      "relevance": 0.592019,
+      "count": 24
+    },
+    {
+      "text": "unidades acad\u00e9micas",
+      "relevance": 0.580154,
+      "count": 1
+    },
+    {
+      "text": "nombramiento de profesores de tiempo",
+      "relevance": 0.571352,
+      "count": 1
+    },
+    {
+      "text": "equivalente de tiempo completo",
+      "relevance": 0.565697,
+      "count": 46
+    },
+    {
+      "text": "ciencias sociales",
+      "relevance": 0.563889,
+      "count": 9
+    },
+    {
+      "text": "area minima",
+      "relevance": 0.542856,
+      "count": 3
+    },
+    {
+      "text": "casos de experiencia hora catedra",
+      "relevance": 0.542648,
+      "count": 1
+    },
+    {
+      "text": "medio tiempo convocados",
+      "relevance": 0.542039,
+      "count": 1
+    },
+    {
+      "text": "investigativa de minimo",
+      "relevance": 0.541084,
+      "count": 2
+    },
+    {
+      "text": "ajfio de experiencia docente",
+      "relevance": 0.539729,
+      "count": 1
+    },
+    {
+      "text": "ciencias naturales",
+      "relevance": 0.538366,
+      "count": 1
+    },
+    {
+      "text": "planta de profesores nombrados",
+      "relevance": 0.537343,
+      "count": 1
+    },
+    {
+      "text": "equivalente",
+      "relevance": 0.53188,
+      "count": 17
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.53171,
+      "count": 4
+    },
+    {
+      "text": "proyecciones acad\u00e9micas",
+      "relevance": 0.531338,
+      "count": 1
+    },
+    {
+      "text": "planta de cargos de empleados",
+      "relevance": 0.53079,
+      "count": 1
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.528335,
+      "count": 20
+    },
+    {
+      "text": "comunicacion social",
+      "relevance": 0.52677,
+      "count": 3
+    },
+    {
+      "text": "experiencia docente universitaria",
+      "relevance": 0.526761,
+      "count": 30
+    },
+    {
+      "text": "tiempo cronoldgico",
+      "relevance": 0.526581,
+      "count": 12
+    },
+    {
+      "text": "afios de tiempo completo",
+      "relevance": 0.525049,
+      "count": 1
+    },
+    {
+      "text": "perfil general",
+      "relevance": 0.52414,
+      "count": 1
+    },
+    {
+      "text": "concurso publico de m\u00e9ritos",
+      "relevance": 0.52348,
+      "count": 4
+    },
+    {
+      "text": "facultades de artes integradas",
+      "relevance": 0.522689,
+      "count": 1
+    },
+    {
+      "text": "area de la convocatoria",
+      "relevance": 0.521305,
+      "count": 58
+    },
+    {
+      "text": "area",
+      "relevance": 0.520312,
+      "count": 14
+    },
+    {
+      "text": "cupos docentes de tiempo completo",
+      "relevance": 0.519969,
+      "count": 1
+    },
+    {
+      "text": "estadistica de la facultad de ingenieria",
+      "relevance": 0.519498,
+      "count": 1
+    },
+    {
+      "text": "titulo de maestria",
+      "relevance": 0.519372,
+      "count": 3
+    },
+    {
+      "text": "trabajo de la maestria",
+      "relevance": 0.518385,
+      "count": 1
+    },
+    {
+      "text": "cargos de profesores de tiempo completo",
+      "relevance": 0.518278,
+      "count": 1
+    },
+    {
+      "text": "experiencia",
+      "relevance": 0.518047,
+      "count": 1
+    },
+    {
+      "text": "disefio grafico",
+      "relevance": 0.517377,
+      "count": 2
+    },
+    {
+      "text": "cargos administrativos",
+      "relevance": 0.516899,
+      "count": 1
+    },
+    {
+      "text": "unidad acad\u00e9mica",
+      "relevance": 0.516518,
+      "count": 10
+    },
+    {
+      "text": "efectos de esta convocatoria",
+      "relevance": 0.514453,
+      "count": 1
+    },
+    {
+      "text": "estatuto profesoral",
+      "relevance": 0.514293,
+      "count": 1
+    },
+    {
+      "text": "semestre tc",
+      "relevance": 0.514172,
+      "count": 1
+    },
+    {
+      "text": "derechos humanos",
+      "relevance": 0.512836,
+      "count": 1
+    },
+    {
+      "text": "docentes de la universidad del valle",
+      "relevance": 0.511949,
+      "count": 1
+    },
+    {
+      "text": "productos derivados",
+      "relevance": 0.511555,
+      "count": 1
+    },
+    {
+      "text": "bacteriologia m\u00e9dica humana",
+      "relevance": 0.510957,
+      "count": 1
+    }
+  ]
+}

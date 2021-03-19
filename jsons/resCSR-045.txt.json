@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 5435,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "universidad del valle",
+      "relevance": 0.700352,
+      "count": 8
+    },
+    {
+      "text": "recomendaciones de mejoramiento propuestas",
+      "relevance": 0.577706,
+      "count": 1
+    },
+    {
+      "text": "fines de acreditacion institucional",
+      "relevance": 0.569107,
+      "count": 1
+    },
+    {
+      "text": "alto numero de grupos",
+      "relevance": 0.56845,
+      "count": 1
+    },
+    {
+      "text": "factor de desarrollo",
+      "relevance": 0.566381,
+      "count": 1
+    },
+    {
+      "text": "politica acorde",
+      "relevance": 0.564116,
+      "count": 1
+    },
+    {
+      "text": "sector productivo",
+      "relevance": 0.560181,
+      "count": 2
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.556673,
+      "count": 6
+    },
+    {
+      "text": "pares del cna",
+      "relevance": 0.551849,
+      "count": 1
+    },
+    {
+      "text": "instituciones universitarias",
+      "relevance": 0.548961,
+      "count": 1
+    },
+    {
+      "text": "vocacion institucional de la universidad",
+      "relevance": 0.542717,
+      "count": 1
+    },
+    {
+      "text": "politica institucional de investigaciones",
+      "relevance": 0.542385,
+      "count": 2
+    },
+    {
+      "text": "nivel nacional",
+      "relevance": 0.539766,
+      "count": 1
+    },
+    {
+      "text": "accion investigativa",
+      "relevance": 0.538692,
+      "count": 1
+    },
+    {
+      "text": "relaciones de la universidad",
+      "relevance": 0.538034,
+      "count": 1
+    },
+    {
+      "text": "comunidad acad\u00e9mica",
+      "relevance": 0.537942,
+      "count": 1
+    },
+    {
+      "text": "centros de investigacion",
+      "relevance": 0.537858,
+      "count": 1
+    },
+    {
+      "text": "imagen institucional",
+      "relevance": 0.531631,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.528551,
+      "count": 4
+    },
+    {
+      "text": "universidad de alta calidad",
+      "relevance": 0.526675,
+      "count": 1
+    },
+    {
+      "text": "parte sustancial del modelo",
+      "relevance": 0.525161,
+      "count": 1
+    },
+    {
+      "text": "sistema de educacion superior",
+      "relevance": 0.522824,
+      "count": 1
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.522153,
+      "count": 1
+    },
+    {
+      "text": "investigacion",
+      "relevance": 0.521766,
+      "count": 7
+    },
+    {
+      "text": "siguientes objetivos",
+      "relevance": 0.519597,
+      "count": 1
+    },
+    {
+      "text": "investigaciones de la universidad del valle",
+      "relevance": 0.519587,
+      "count": 1
+    },
+    {
+      "text": "comunidad internacional",
+      "relevance": 0.51863,
+      "count": 1
+    },
+    {
+      "text": "nivel internacional",
+      "relevance": 0.518598,
+      "count": 1
+    },
+    {
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.517219,
+      "count": 1
+    },
+    {
+      "text": "nivel regional",
+      "relevance": 0.516956,
+      "count": 1
+    },
+    {
+      "text": "comision de pares",
+      "relevance": 0.515082,
+      "count": 1
+    },
+    {
+      "text": "gestion de la actividad investigativa",
+      "relevance": 0.514647,
+      "count": 1
+    },
+    {
+      "text": "consejo nacional de acreditacion",
+      "relevance": 0.513949,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.513806,
+      "count": 1
+    },
+    {
+      "text": "vision de la universidad del valle",
+      "relevance": 0.513801,
+      "count": 1
+    },
+    {
+      "text": "creacion de los fondos patrimoniales",
+      "relevance": 0.512287,
+      "count": 1
+    },
+    {
+      "text": "trav\u00e9s de la investigacion",
+      "relevance": 0.510723,
+      "count": 1
+    },
+    {
+      "text": "desarrollo del sistema",
+      "relevance": 0.509578,
+      "count": 1
+    },
+    {
+      "text": "objetivos de la institucion",
+      "relevance": 0.509431,
+      "count": 1
+    },
+    {
+      "text": "capacidad investigativa de docentes",
+      "relevance": 0.508438,
+      "count": 1
+    },
+    {
+      "text": "vinculacion de la universidad",
+      "relevance": 0.508371,
+      "count": 1
+    },
+    {
+      "text": "concepcion de los planes",
+      "relevance": 0.505056,
+      "count": 1
+    },
+    {
+      "text": "diferentes unidades acad\u00e9micas",
+      "relevance": 0.504842,
+      "count": 1
+    },
+    {
+      "text": "estatuto general de la universidad del valle",
+      "relevance": 0.503988,
+      "count": 1
+    },
+    {
+      "text": "resultados de investigacion",
+      "relevance": 0.503931,
+      "count": 1
+    },
+    {
+      "text": "procesos de toma",
+      "relevance": 0.503849,
+      "count": 1
+    },
+    {
+      "text": "espacio permanente de formacion interdisciplinaria",
+      "relevance": 0.501843,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de junio",
+      "relevance": 0.501746,
+      "count": 1
+    },
+    {
+      "text": "proyecci\u00e9n de sus contenidos",
+      "relevance": 0.501077,
+      "count": 1
+    },
+    {
+      "text": "fecha de su expedicion",
+      "relevance": 0.501076,
+      "count": 1
+    }
+  ]
+}

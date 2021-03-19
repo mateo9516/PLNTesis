@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3727,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.794104,
+      "count": 8
+    },
+    {
+      "text": "facultades legales",
+      "relevance": 0.643275,
+      "count": 1
+    },
+    {
+      "text": "decanos de las facultades de ciencias",
+      "relevance": 0.62447,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.619189,
+      "count": 5
+    },
+    {
+      "text": "cronograma de las reuniones",
+      "relevance": 0.608403,
+      "count": 1
+    },
+    {
+      "text": "paro acad\u00e9mico indefinido",
+      "relevance": 0.596765,
+      "count": 1
+    },
+    {
+      "text": "estudiantes de la facultad",
+      "relevance": 0.596547,
+      "count": 1
+    },
+    {
+      "text": "facultad de salud",
+      "relevance": 0.592819,
+      "count": 1
+    },
+    {
+      "text": "ciencias sociales",
+      "relevance": 0.571773,
+      "count": 1
+    },
+    {
+      "text": "comisidn del consejo acad\u00e9mico",
+      "relevance": 0.560513,
+      "count": 1
+    },
+    {
+      "text": "siguiente manera",
+      "relevance": 0.558137,
+      "count": 1
+    },
+    {
+      "text": "actividad acad\u00e9mica",
+      "relevance": 0.556507,
+      "count": 1
+    },
+    {
+      "text": "luis alberto",
+      "relevance": 0.539607,
+      "count": 1
+    },
+    {
+      "text": "decano de la facultad de salud",
+      "relevance": 0.535939,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.535775,
+      "count": 1
+    },
+    {
+      "text": "asamblea estudiantil",
+      "relevance": 0.535725,
+      "count": 1
+    },
+    {
+      "text": "correspondientes propuestas",
+      "relevance": 0.535591,
+      "count": 1
+    },
+    {
+      "text": "estudiantes de la facultad de salud",
+      "relevance": 0.53114,
+      "count": 1
+    },
+    {
+      "text": "estudiantes de la universidad",
+      "relevance": 0.524681,
+      "count": 1
+    },
+    {
+      "text": "delegados de la asamblea estudiantil",
+      "relevance": 0.521778,
+      "count": 1
+    },
+    {
+      "text": "peticiones de los estudiantes",
+      "relevance": 0.512725,
+      "count": 1
+    },
+    {
+      "text": "paro indefinido",
+      "relevance": 0.509364,
+      "count": 1
+    },
+    {
+      "text": "encargado de la coordinaci6n",
+      "relevance": 0.509261,
+      "count": 1
+    },
+    {
+      "text": "normalidad acad\u00e9mica",
+      "relevance": 0.509133,
+      "count": 1
+    },
+    {
+      "text": "consejo acad\u00e9mico de este afio",
+      "relevance": 0.505621,
+      "count": 1
+    },
+    {
+      "text": "mes de marzo",
+      "relevance": 0.505393,
+      "count": 1
+    },
+    {
+      "text": "agenda del consejo superior",
+      "relevance": 0.503483,
+      "count": 1
+    },
+    {
+      "text": "sal\u00e9n del consejo acad\u00e9mico",
+      "relevance": 0.502014,
+      "count": 1
+    },
+    {
+      "text": "representantes profesorales",
+      "relevance": 0.502011,
+      "count": 1
+    },
+    {
+      "text": "cronograma",
+      "relevance": 0.499635,
+      "count": 1
+    },
+    {
+      "text": "consejo academico de la universidad del valle",
+      "relevance": 0.499194,
+      "count": 1
+    },
+    {
+      "text": "trav\u00e9s de la comision",
+      "relevance": 0.499031,
+      "count": 1
+    },
+    {
+      "text": "defensa del huv",
+      "relevance": 0.497424,
+      "count": 1
+    },
+    {
+      "text": "culminacion del actual semestre acad\u00e9mico",
+      "relevance": 0.497078,
+      "count": 1
+    },
+    {
+      "text": "estatuto general",
+      "relevance": 0.495921,
+      "count": 1
+    },
+    {
+      "text": "demas solicitudes",
+      "relevance": 0.492728,
+      "count": 1
+    },
+    {
+      "text": "inquietud frente",
+      "relevance": 0.492728,
+      "count": 1
+    },
+    {
+      "text": "consejo acad\u00e9mico del afio",
+      "relevance": 0.490343,
+      "count": 1
+    },
+    {
+      "text": "problemas del huv",
+      "relevance": 0.489884,
+      "count": 1
+    },
+    {
+      "text": "temas",
+      "relevance": 0.489161,
+      "count": 3
+    },
+    {
+      "text": "actual crisis del hospital universitario del valle huv",
+      "relevance": 0.486113,
+      "count": 1
+    },
+    {
+      "text": "mes de octubre",
+      "relevance": 0.482979,
+      "count": 1
+    },
+    {
+      "text": "propositos",
+      "relevance": 0.482847,
+      "count": 1
+    },
+    {
+      "text": "didlogo",
+      "relevance": 0.478839,
+      "count": 4
+    },
+    {
+      "text": "proposito",
+      "relevance": 0.478564,
+      "count": 2
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.475981,
+      "count": 1
+    },
+    {
+      "text": "rector",
+      "relevance": 0.475855,
+      "count": 2
+    },
+    {
+      "text": "septiembre",
+      "relevance": 0.475323,
+      "count": 2
+    },
+    {
+      "text": "movilizaciones",
+      "relevance": 0.475271,
+      "count": 1
+    },
+    {
+      "text": "rectoria",
+      "relevance": 0.473179,
+      "count": 1
+    }
+  ]
+}

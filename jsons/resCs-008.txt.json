@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2887,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "director del instituto acad\u00e9mico",
+      "relevance": 0.674486,
+      "count": 1
+    },
+    {
+      "text": "jefe de la oficina",
+      "relevance": 0.653361,
+      "count": 1
+    },
+    {
+      "text": "efecto de lo previsto",
+      "relevance": 0.619379,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.616186,
+      "count": 2
+    },
+    {
+      "text": "paragrafo del articulo",
+      "relevance": 0.607414,
+      "count": 1
+    },
+    {
+      "text": "6n acad\u00e9mico administrativas",
+      "relevance": 0.585327,
+      "count": 1
+    },
+    {
+      "text": "efecto de las equivalencias anteriores",
+      "relevance": 0.57645,
+      "count": 1
+    },
+    {
+      "text": "atribuciones legales",
+      "relevance": 0.560366,
+      "count": 1
+    },
+    {
+      "text": "director de programa acad\u00e9mico",
+      "relevance": 0.559274,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.544353,
+      "count": 1
+    },
+    {
+      "text": "desarrollo institucional",
+      "relevance": 0.541972,
+      "count": 1
+    },
+    {
+      "text": "director de sede regional",
+      "relevance": 0.533347,
+      "count": 1
+    },
+    {
+      "text": "jefe de oficina",
+      "relevance": 0.528101,
+      "count": 1
+    },
+    {
+      "text": "subdirector acad\u00e9mico",
+      "relevance": 0.527118,
+      "count": 1
+    },
+    {
+      "text": "acreditaci\u00e9n de los puntos",
+      "relevance": 0.524131,
+      "count": 1
+    },
+    {
+      "text": "cargos de direccidn universitaria",
+      "relevance": 0.522027,
+      "count": 1
+    },
+    {
+      "text": "cargo de director",
+      "relevance": 0.521474,
+      "count": 1
+    },
+    {
+      "text": "decano de la facultad",
+      "relevance": 0.513926,
+      "count": 1
+    },
+    {
+      "text": "direcci\u00e9n acad\u00e9mico",
+      "relevance": 0.510211,
+      "count": 1
+    },
+    {
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.510041,
+      "count": 1
+    },
+    {
+      "text": "paragrafo ii del articulo",
+      "relevance": 0.50881,
+      "count": 1
+    },
+    {
+      "text": "director del programa editorial",
+      "relevance": 0.508508,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de julio",
+      "relevance": 0.507793,
+      "count": 1
+    },
+    {
+      "text": "actividades de direcci6n acad\u00e9mico-administrativas",
+      "relevance": 0.507417,
+      "count": 1
+    },
+    {
+      "text": "director de instituto",
+      "relevance": 0.505661,
+      "count": 1
+    },
+    {
+      "text": "direcciones acad\u00e9micas",
+      "relevance": 0.503743,
+      "count": 1
+    },
+    {
+      "text": "subidrector acad\u00e9mico",
+      "relevance": 0.495541,
+      "count": 1
+    },
+    {
+      "text": "division de bibliotecas",
+      "relevance": 0.494398,
+      "count": 1
+    },
+    {
+      "text": "director de centro",
+      "relevance": 0.493276,
+      "count": 1
+    },
+    {
+      "text": "acreditaci\u00e9n de puntos",
+      "relevance": 0.492883,
+      "count": 1
+    },
+    {
+      "text": "lopez pulecio",
+      "relevance": 0.490927,
+      "count": 1
+    },
+    {
+      "text": "aspectos internos pertinentes del decreto",
+      "relevance": 0.488386,
+      "count": 1
+    },
+    {
+      "text": "secretario general",
+      "relevance": 0.487477,
+      "count": 1
+    },
+    {
+      "text": "equivalencias",
+      "relevance": 0.487066,
+      "count": 3
+    },
+    {
+      "text": "nivel de vicedecano",
+      "relevance": 0.485746,
+      "count": 1
+    },
+    {
+      "text": "equivalentes",
+      "relevance": 0.485152,
+      "count": 1
+    },
+    {
+      "text": "literales",
+      "relevance": 0.480059,
+      "count": 1
+    },
+    {
+      "text": "valle del cauca",
+      "relevance": 0.478355,
+      "count": 1
+    },
+    {
+      "text": "cargos",
+      "relevance": 0.476207,
+      "count": 1
+    },
+    {
+      "text": "jefe de la divisi6n de recursos humanos",
+      "relevance": 0.472064,
+      "count": 1
+    },
+    {
+      "text": "director",
+      "relevance": 0.470696,
+      "count": 1
+    },
+    {
+      "text": "puntos",
+      "relevance": 0.469597,
+      "count": 7
+    },
+    {
+      "text": "oficina de programas curriculares de nivel central",
+      "relevance": 0.468756,
+      "count": 1
+    },
+    {
+      "text": "sal6n de reuniones del despacho",
+      "relevance": 0.466832,
+      "count": 1
+    },
+    {
+      "text": "estatuto general de la universidad del valle",
+      "relevance": 0.465362,
+      "count": 1
+    },
+    {
+      "text": "paragrafo",
+      "relevance": 0.465231,
+      "count": 1
+    },
+    {
+      "text": "puntajes",
+      "relevance": 0.463187,
+      "count": 2
+    },
+    {
+      "text": "presente",
+      "relevance": 0.457797,
+      "count": 1
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.457779,
+      "count": 1
+    },
+    {
+      "text": "actividades",
+      "relevance": 0.457094,
+      "count": 2
+    }
+  ]
+}

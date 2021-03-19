@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 2,
+    "text_characters": 19199,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "puntaje minimo de preseleccion",
+      "relevance": 0.608992,
+      "count": 1
+    },
+    {
+      "text": "exposicion oral",
+      "relevance": 0.587321,
+      "count": 4
+    },
+    {
+      "text": "experiencia docente universitaria",
+      "relevance": 0.573948,
+      "count": 2
+    },
+    {
+      "text": "area de la convocatoria",
+      "relevance": 0.572438,
+      "count": 2
+    },
+    {
+      "text": "propuesta completa de un curso",
+      "relevance": 0.572363,
+      "count": 1
+    },
+    {
+      "text": "institutos acad\u00e9micos",
+      "relevance": 0.56734,
+      "count": 2
+    },
+    {
+      "text": "experiencia profesional",
+      "relevance": 0.56097,
+      "count": 5
+    },
+    {
+      "text": "caso de aspirantes",
+      "relevance": 0.560704,
+      "count": 1
+    },
+    {
+      "text": "especificidades de las diferentes facultades",
+      "relevance": 0.559198,
+      "count": 1
+    },
+    {
+      "text": "literal c",
+      "relevance": 0.555978,
+      "count": 1
+    },
+    {
+      "text": "investigacion posdoctoral certificada",
+      "relevance": 0.550176,
+      "count": 1
+    },
+    {
+      "text": "puntaje minimo",
+      "relevance": 0.549408,
+      "count": 3
+    },
+    {
+      "text": "clase magistral",
+      "relevance": 0.541973,
+      "count": 2
+    },
+    {
+      "text": "numero de autores",
+      "relevance": 0.541119,
+      "count": 1
+    },
+    {
+      "text": "exposici6n oral",
+      "relevance": 0.540736,
+      "count": 2
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.539772,
+      "count": 10
+    },
+    {
+      "text": "evaluacion de los aspirantes",
+      "relevance": 0.537466,
+      "count": 1
+    },
+    {
+      "text": "propuesta de investigacion",
+      "relevance": 0.535308,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.531694,
+      "count": 2
+    },
+    {
+      "text": "hoja de vida",
+      "relevance": 0.531642,
+      "count": 3
+    },
+    {
+      "text": "experiencia investigativa",
+      "relevance": 0.528649,
+      "count": 2
+    },
+    {
+      "text": "evaluaci\u00e9n de las pruebas acad\u00e9micas",
+      "relevance": 0.52836,
+      "count": 1
+    },
+    {
+      "text": "mitad del puntaje",
+      "relevance": 0.527445,
+      "count": 1
+    },
+    {
+      "text": "etapa de preselecci6n",
+      "relevance": 0.526654,
+      "count": 1
+    },
+    {
+      "text": "siguientes conceptos",
+      "relevance": 0.5242,
+      "count": 1
+    },
+    {
+      "text": "conjunto de calificaciones globales",
+      "relevance": 0.522757,
+      "count": 1
+    },
+    {
+      "text": "efectos de asignaci6",
+      "relevance": 0.522313,
+      "count": 1
+    },
+    {
+      "text": "puntos",
+      "relevance": 0.522004,
+      "count": 47
+    },
+    {
+      "text": "exposiciones individuales",
+      "relevance": 0.521592,
+      "count": 1
+    },
+    {
+      "text": "facultad de salud",
+      "relevance": 0.521414,
+      "count": 2
+    },
+    {
+      "text": "cargos de profesores de tiempo",
+      "relevance": 0.521073,
+      "count": 1
+    },
+    {
+      "text": "actividades profesionales afines",
+      "relevance": 0.520955,
+      "count": 1
+    },
+    {
+      "text": "investigacion de maestria",
+      "relevance": 0.519705,
+      "count": 1
+    },
+    {
+      "text": "area del concurso",
+      "relevance": 0.518933,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.518581,
+      "count": 1
+    },
+    {
+      "text": "ejercicio profesional",
+      "relevance": 0.518511,
+      "count": 1
+    },
+    {
+      "text": "tipo de presentaciones",
+      "relevance": 0.518438,
+      "count": 1
+    },
+    {
+      "text": "respectivo consejo de facultad",
+      "relevance": 0.517708,
+      "count": 1
+    },
+    {
+      "text": "etapa de selecci6n",
+      "relevance": 0.517459,
+      "count": 1
+    },
+    {
+      "text": "propuesta de creacion artistica",
+      "relevance": 0.517251,
+      "count": 1
+    },
+    {
+      "text": "evaluacion de m\u00e9ritos",
+      "relevance": 0.516258,
+      "count": 1
+    },
+    {
+      "text": "autoridad competente",
+      "relevance": 0.515348,
+      "count": 1
+    },
+    {
+      "text": "publicacion impresa",
+      "relevance": 0.515218,
+      "count": 1
+    },
+    {
+      "text": "estudio de la hoja de vida",
+      "relevance": 0.515087,
+      "count": 2
+    },
+    {
+      "text": "posgrado obtenido",
+      "relevance": 0.51502,
+      "count": 1
+    },
+    {
+      "text": "programa de capacitacion certificado",
+      "relevance": 0.51471,
+      "count": 1
+    },
+    {
+      "text": "formaci6n acad\u00e9mica",
+      "relevance": 0.514528,
+      "count": 1
+    },
+    {
+      "text": "resultado de una labor",
+      "relevance": 0.513964,
+      "count": 1
+    },
+    {
+      "text": "actividad docente",
+      "relevance": 0.513463,
+      "count": 1
+    },
+    {
+      "text": "comision de evaluacion de m\u00e9ritos",
+      "relevance": 0.513427,
+      "count": 2
+    }
+  ]
+}

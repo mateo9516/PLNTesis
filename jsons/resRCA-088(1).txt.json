@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 8471,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "programa de amnistia acad\u00e9mica",
+      "relevance": 0.889695,
+      "count": 10
+    },
+    {
+      "text": "acad\u00e9micos de pregrado",
+      "relevance": 0.731235,
+      "count": 2
+    },
+    {
+      "text": "excepcion del trabajo de grado",
+      "relevance": 0.597744,
+      "count": 3
+    },
+    {
+      "text": "division de admisiones",
+      "relevance": 0.577387,
+      "count": 2
+    },
+    {
+      "text": "primer semestre del afio",
+      "relevance": 0.577365,
+      "count": 2
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.554716,
+      "count": 3
+    },
+    {
+      "text": "comit\u00e9s de programa respectivos",
+      "relevance": 0.553574,
+      "count": 1
+    },
+    {
+      "text": "programa acad\u00e9mico",
+      "relevance": 0.551629,
+      "count": 2
+    },
+    {
+      "text": "plazos establecidos",
+      "relevance": 0.551076,
+      "count": 1
+    },
+    {
+      "text": "calendario acad\u00e9mico",
+      "relevance": 0.549489,
+      "count": 1
+    },
+    {
+      "text": "siguientes requisitos",
+      "relevance": 0.548988,
+      "count": 1
+    },
+    {
+      "text": "anos de la universidad del valle",
+      "relevance": 0.548598,
+      "count": 1
+    },
+    {
+      "text": "requisitos de grado",
+      "relevance": 0.548539,
+      "count": 1
+    },
+    {
+      "text": "programa respectivo",
+      "relevance": 0.543385,
+      "count": 1
+    },
+    {
+      "text": "registro calificado vigente",
+      "relevance": 0.542756,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.541283,
+      "count": 4
+    },
+    {
+      "text": "instituto acad\u00e9mico",
+      "relevance": 0.539191,
+      "count": 4
+    },
+    {
+      "text": "solo programa acad\u00e9mico",
+      "relevance": 0.534682,
+      "count": 1
+    },
+    {
+      "text": "segundo semestre del ano",
+      "relevance": 0.52775,
+      "count": 1
+    },
+    {
+      "text": "programas de pregrado de la universidad",
+      "relevance": 0.524799,
+      "count": 1
+    },
+    {
+      "text": "titulo correspondiente",
+      "relevance": 0.520872,
+      "count": 2
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.520411,
+      "count": 1
+    },
+    {
+      "text": "mecanismo de reingreso especial",
+      "relevance": 0.520111,
+      "count": 1
+    },
+    {
+      "text": "instancia homdloga",
+      "relevance": 0.5199,
+      "count": 1
+    },
+    {
+      "text": "respectivo calendario acad\u00e9mico",
+      "relevance": 0.518056,
+      "count": 1
+    },
+    {
+      "text": "razones distintas",
+      "relevance": 0.518052,
+      "count": 2
+    },
+    {
+      "text": "estudiantes regulares",
+      "relevance": 0.517651,
+      "count": 1
+    },
+    {
+      "text": "plazo maximo",
+      "relevance": 0.517583,
+      "count": 3
+    },
+    {
+      "text": "primera instancia",
+      "relevance": 0.515339,
+      "count": 1
+    },
+    {
+      "text": "solicitudes de los aspirantes",
+      "relevance": 0.514962,
+      "count": 1
+    },
+    {
+      "text": "fechas de grado",
+      "relevance": 0.514648,
+      "count": 1
+    },
+    {
+      "text": "bajo rendimiento",
+      "relevance": 0.512212,
+      "count": 1
+    },
+    {
+      "text": "amnistias acad\u00e9micas",
+      "relevance": 0.51197,
+      "count": 1
+    },
+    {
+      "text": "comit\u00e9 de programa",
+      "relevance": 0.51186,
+      "count": 1
+    },
+    {
+      "text": "estudiantes regulares de los programas acad\u00e9micos de pregrado",
+      "relevance": 0.511107,
+      "count": 1
+    },
+    {
+      "text": "caso de reclamaciones",
+      "relevance": 0.510327,
+      "count": 1
+    },
+    {
+      "text": "motivo de la conmemoracion",
+      "relevance": 0.51003,
+      "count": 1
+    },
+    {
+      "text": "registro acad\u00e9mico",
+      "relevance": 0.509369,
+      "count": 3
+    },
+    {
+      "text": "asignaturas constitutivas",
+      "relevance": 0.509284,
+      "count": 1
+    },
+    {
+      "text": "sanciones disciplinarias",
+      "relevance": 0.508808,
+      "count": 3
+    },
+    {
+      "text": "cumplimiento de los requisitos acad\u00e9micos",
+      "relevance": 0.50799,
+      "count": 1
+    },
+    {
+      "text": "comit\u00e9 de programa de pregrado",
+      "relevance": 0.506842,
+      "count": 1
+    },
+    {
+      "text": "acad\u00e9mica",
+      "relevance": 0.506718,
+      "count": 7
+    },
+    {
+      "text": "funciones delegadas",
+      "relevance": 0.505849,
+      "count": 1
+    },
+    {
+      "text": "presente resoluci6n",
+      "relevance": 0.504734,
+      "count": 1
+    },
+    {
+      "text": "tal fin",
+      "relevance": 0.504273,
+      "count": 1
+    },
+    {
+      "text": "segunda instancia",
+      "relevance": 0.503599,
+      "count": 1
+    },
+    {
+      "text": "formato de inscripcion",
+      "relevance": 0.503442,
+      "count": 1
+    },
+    {
+      "text": "condici6n de estudiantes",
+      "relevance": 0.50324,
+      "count": 1
+    },
+    {
+      "text": "instancia homdloga de cada facultad",
+      "relevance": 0.501795,
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 2,
+    "text_characters": 11911,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "programas de posgrado de la universidad",
+      "relevance": 0.655589,
+      "count": 2
+    },
+    {
+      "text": "requisitos acad\u00e9micos",
+      "relevance": 0.627813,
+      "count": 1
+    },
+    {
+      "text": "otorgamiento de exenciones del valor",
+      "relevance": 0.6192,
+      "count": 1
+    },
+    {
+      "text": "profesores de la universidad",
+      "relevance": 0.59947,
+      "count": 1
+    },
+    {
+      "text": "programas de posgrado",
+      "relevance": 0.571143,
+      "count": 3
+    },
+    {
+      "text": "matricula basica",
+      "relevance": 0.56846,
+      "count": 2
+    },
+    {
+      "text": "numero de solicitudes de exenciones",
+      "relevance": 0.568328,
+      "count": 1
+    },
+    {
+      "text": "programa de asistentes de docencia",
+      "relevance": 0.553523,
+      "count": 1
+    },
+    {
+      "text": "estudiantes regulares",
+      "relevance": 0.552804,
+      "count": 1
+    },
+    {
+      "text": "estatuto profesoral",
+      "relevance": 0.55252,
+      "count": 2
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.551158,
+      "count": 2
+    },
+    {
+      "text": "estudios superiores",
+      "relevance": 0.551157,
+      "count": 1
+    },
+    {
+      "text": "consejos de facultad",
+      "relevance": 0.546484,
+      "count": 1
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.54323,
+      "count": 1
+    },
+    {
+      "text": "personal de trabajadores oficiales",
+      "relevance": 0.542995,
+      "count": 1
+    },
+    {
+      "text": "porcentaje total",
+      "relevance": 0.54052,
+      "count": 1
+    },
+    {
+      "text": "pago de los derechos",
+      "relevance": 0.53881,
+      "count": 1
+    },
+    {
+      "text": "reconocimiento de exenciones",
+      "relevance": 0.533128,
+      "count": 1
+    },
+    {
+      "text": "cumplimiento de los requisitos acad\u00e9micos",
+      "relevance": 0.532121,
+      "count": 1
+    },
+    {
+      "text": "respectivos programas",
+      "relevance": 0.531625,
+      "count": 1
+    },
+    {
+      "text": "casos excepcionales",
+      "relevance": 0.528055,
+      "count": 1
+    },
+    {
+      "text": "asignacion definitiva",
+      "relevance": 0.527053,
+      "count": 1
+    },
+    {
+      "text": "vicerrectoria acad\u00e9mica",
+      "relevance": 0.52639,
+      "count": 1
+    },
+    {
+      "text": "respecto de los beneficiarios",
+      "relevance": 0.525896,
+      "count": 1
+    },
+    {
+      "text": "pago de la matricula basica",
+      "relevance": 0.525503,
+      "count": 1
+    },
+    {
+      "text": "copia del certificado de notas",
+      "relevance": 0.524309,
+      "count": 1
+    },
+    {
+      "text": "derechos de entrenamiento",
+      "relevance": 0.524,
+      "count": 1
+    },
+    {
+      "text": "siguientes requisitos",
+      "relevance": 0.523994,
+      "count": 1
+    },
+    {
+      "text": "facultad de salud",
+      "relevance": 0.5213,
+      "count": 1
+    },
+    {
+      "text": "pago de derechos especiales",
+      "relevance": 0.520204,
+      "count": 1
+    },
+    {
+      "text": "rendimiento acad\u00e9mico",
+      "relevance": 0.519953,
+      "count": 3
+    },
+    {
+      "text": "comienzo del periodo acad\u00e9mico",
+      "relevance": 0.519182,
+      "count": 1
+    },
+    {
+      "text": "parte de los programas",
+      "relevance": 0.518959,
+      "count": 1
+    },
+    {
+      "text": "instituto acad\u00e9mico",
+      "relevance": 0.518932,
+      "count": 2
+    },
+    {
+      "text": "rendimiento acad\u00e9mico normal",
+      "relevance": 0.516418,
+      "count": 1
+    },
+    {
+      "text": "declaracion de renta del solicitante",
+      "relevance": 0.515988,
+      "count": 1
+    },
+    {
+      "text": "convenci\u00e9n colectiva de trabajo",
+      "relevance": 0.515895,
+      "count": 1
+    },
+    {
+      "text": "total de las exenciones",
+      "relevance": 0.515683,
+      "count": 1
+    },
+    {
+      "text": "profesores ocasionales",
+      "relevance": 0.515168,
+      "count": 1
+    },
+    {
+      "text": "contrapartida de los convenios",
+      "relevance": 0.515119,
+      "count": 1
+    },
+    {
+      "text": "estudiantes",
+      "relevance": 0.515027,
+      "count": 4
+    },
+    {
+      "text": "estudiantes del primer semestre",
+      "relevance": 0.512522,
+      "count": 1
+    },
+    {
+      "text": "requisitos generales de ingreso",
+      "relevance": 0.512367,
+      "count": 1
+    },
+    {
+      "text": "valor de los derechos",
+      "relevance": 0.51148,
+      "count": 1
+    },
+    {
+      "text": "vicerrectoria academica",
+      "relevance": 0.511458,
+      "count": 1
+    },
+    {
+      "text": "menores recursos econ\u00e9micos",
+      "relevance": 0.510429,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.51014,
+      "count": 1
+    },
+    {
+      "text": "buen nivel",
+      "relevance": 0.508877,
+      "count": 1
+    },
+    {
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.508842,
+      "count": 1
+    },
+    {
+      "text": "estimulos de la carrera docente",
+      "relevance": 0.508486,
+      "count": 1
+    }
+  ]
+}

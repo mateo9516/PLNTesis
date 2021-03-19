@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2984,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "programa acad\u00e9mico",
+      "relevance": 0.655278,
+      "count": 4
+    },
+    {
+      "text": "consejo directivo",
+      "relevance": 0.614092,
+      "count": 2
+    },
+    {
+      "text": "uso de sus atribuciones legales",
+      "relevance": 0.603346,
+      "count": 1
+    },
+    {
+      "text": "literal b",
+      "relevance": 0.591518,
+      "count": 1
+    },
+    {
+      "text": "ministerio de educacion nacional",
+      "relevance": 0.590884,
+      "count": 1
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.573111,
+      "count": 3
+    },
+    {
+      "text": "dias del mes de abril",
+      "relevance": 0.572946,
+      "count": 1
+    },
+    {
+      "text": "facultad de medicina",
+      "relevance": 0.570983,
+      "count": 1
+    },
+    {
+      "text": "acreditacion voluntaria",
+      "relevance": 0.552083,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.546181,
+      "count": 2
+    },
+    {
+      "text": "reglamentacion del plan de estudios",
+      "relevance": 0.544526,
+      "count": 1
+    },
+    {
+      "text": "ciudad de cali",
+      "relevance": 0.543813,
+      "count": 1
+    },
+    {
+      "text": "mismos datos",
+      "relevance": 0.542867,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.536511,
+      "count": 1
+    },
+    {
+      "text": "trav\u00e9s de la plataforma de saces",
+      "relevance": 0.524949,
+      "count": 1
+    },
+    {
+      "text": "ministerio de educaci6\u00e9n nacional",
+      "relevance": 0.524861,
+      "count": 1
+    },
+    {
+      "text": "salon de reuniones del despacho",
+      "relevance": 0.523193,
+      "count": 1
+    },
+    {
+      "text": "estudiantes del plan de estudios",
+      "relevance": 0.523114,
+      "count": 1
+    },
+    {
+      "text": "escuela de medicina de la facultad",
+      "relevance": 0.519242,
+      "count": 1
+    },
+    {
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.518994,
+      "count": 1
+    },
+    {
+      "text": "plan de estudios de medicina",
+      "relevance": 0.516981,
+      "count": 1
+    },
+    {
+      "text": "representante del presidente",
+      "relevance": 0.516241,
+      "count": 1
+    },
+    {
+      "text": "larreamendy joerns",
+      "relevance": 0.511059,
+      "count": 1
+    },
+    {
+      "text": "solicitud de registro",
+      "relevance": 0.506062,
+      "count": 1
+    },
+    {
+      "text": "estatuto general",
+      "relevance": 0.505101,
+      "count": 1
+    },
+    {
+      "text": "titulo de medico",
+      "relevance": 0.502994,
+      "count": 1
+    },
+    {
+      "text": "medicina",
+      "relevance": 0.501074,
+      "count": 10
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.497293,
+      "count": 1
+    },
+    {
+      "text": "programa de medicina",
+      "relevance": 0.495733,
+      "count": 1
+    },
+    {
+      "text": "programa de medicina de la universidad",
+      "relevance": 0.493617,
+      "count": 1
+    },
+    {
+      "text": "gobernador",
+      "relevance": 0.493323,
+      "count": 1
+    },
+    {
+      "text": "valle del cauca",
+      "relevance": 0.492799,
+      "count": 1
+    },
+    {
+      "text": "febrero",
+      "relevance": 0.492083,
+      "count": 1
+    },
+    {
+      "text": "abril",
+      "relevance": 0.483884,
+      "count": 4
+    },
+    {
+      "text": "cambio de denominacion del programa acad\u00e9mico",
+      "relevance": 0.483871,
+      "count": 1
+    },
+    {
+      "text": "denominacion",
+      "relevance": 0.482759,
+      "count": 2
+    },
+    {
+      "text": "titulo",
+      "relevance": 0.482022,
+      "count": 3
+    },
+    {
+      "text": "unico",
+      "relevance": 0.47741,
+      "count": 1
+    },
+    {
+      "text": "modific\u00e9",
+      "relevance": 0.475588,
+      "count": 1
+    },
+    {
+      "text": "resolucion",
+      "relevance": 0.475458,
+      "count": 6
+    },
+    {
+      "text": "ratificd",
+      "relevance": 0.473444,
+      "count": 1
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.473197,
+      "count": 1
+    },
+    {
+      "text": "realiz6",
+      "relevance": 0.472338,
+      "count": 1
+    },
+    {
+      "text": "estructura",
+      "relevance": 0.472152,
+      "count": 2
+    },
+    {
+      "text": "snies",
+      "relevance": 0.47102,
+      "count": 1
+    },
+    {
+      "text": "marzo",
+      "relevance": 0.470597,
+      "count": 2
+    },
+    {
+      "text": "ajustes",
+      "relevance": 0.470326,
+      "count": 1
+    },
+    {
+      "text": "definio",
+      "relevance": 0.469346,
+      "count": 1
+    },
+    {
+      "text": "curriculo",
+      "relevance": 0.468867,
+      "count": 1
+    },
+    {
+      "text": "articulo",
+      "relevance": 0.468546,
+      "count": 1
+    }
+  ]
+}

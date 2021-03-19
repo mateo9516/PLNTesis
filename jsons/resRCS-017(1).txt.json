@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3262,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "programa de maestria",
+      "relevance": 0.667557,
+      "count": 2
+    },
+    {
+      "text": "desarrollo logico de campos",
+      "relevance": 0.645905,
+      "count": 1
+    },
+    {
+      "text": "programas de estudio",
+      "relevance": 0.570479,
+      "count": 1
+    },
+    {
+      "text": "facultad de ciencias de la administracion",
+      "relevance": 0.563095,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.562476,
+      "count": 2
+    },
+    {
+      "text": "campo de la contaduria publica",
+      "relevance": 0.555605,
+      "count": 1
+    },
+    {
+      "text": "cooperacion internacional",
+      "relevance": 0.551705,
+      "count": 1
+    },
+    {
+      "text": "modalidad de profundizacion",
+      "relevance": 0.550438,
+      "count": 1
+    },
+    {
+      "text": "presente resolucion",
+      "relevance": 0.544626,
+      "count": 1
+    },
+    {
+      "text": "programa acad\u00e9mico",
+      "relevance": 0.541601,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.53923,
+      "count": 1
+    },
+    {
+      "text": "consejo acad\u00e9mico aprobo",
+      "relevance": 0.538035,
+      "count": 1
+    },
+    {
+      "text": "modalidad profundizaci6\u00e9n",
+      "relevance": 0.537764,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de marzo",
+      "relevance": 0.533738,
+      "count": 1
+    },
+    {
+      "text": "creacion del programa de maestria",
+      "relevance": 0.532615,
+      "count": 1
+    },
+    {
+      "text": "segundo ciclo",
+      "relevance": 0.531398,
+      "count": 1
+    },
+    {
+      "text": "propodsito de la universidad del valle",
+      "relevance": 0.530673,
+      "count": 1
+    },
+    {
+      "text": "departamento de contabilidad",
+      "relevance": 0.524107,
+      "count": 2
+    },
+    {
+      "text": "reconocimiento de los grupos de_ investigacion",
+      "relevance": 0.521185,
+      "count": 1
+    },
+    {
+      "text": "amplia demanda de profesionales",
+      "relevance": 0.520451,
+      "count": 1
+    },
+    {
+      "text": "alternativas de solucion",
+      "relevance": 0.515764,
+      "count": 1
+    },
+    {
+      "text": "region del suroccidente del pais",
+      "relevance": 0.51526,
+      "count": 1
+    },
+    {
+      "text": "modalidad profundizacion",
+      "relevance": 0.514268,
+      "count": 1
+    },
+    {
+      "text": "salon de club de ejecutivo",
+      "relevance": 0.513927,
+      "count": 1
+    },
+    {
+      "text": "complejidades del area contable presentes",
+      "relevance": 0.513327,
+      "count": 1
+    },
+    {
+      "text": "fecha de expedicion",
+      "relevance": 0.512827,
+      "count": 1
+    },
+    {
+      "text": "modalidad",
+      "relevance": 0.511955,
+      "count": 5
+    },
+    {
+      "text": "gestion contable",
+      "relevance": 0.511759,
+      "count": 1
+    },
+    {
+      "text": "representante del presidente",
+      "relevance": 0.508647,
+      "count": 1
+    },
+    {
+      "text": "recursos docentes",
+      "relevance": 0.508388,
+      "count": 1
+    },
+    {
+      "text": "facultad de ciencias",
+      "relevance": 0.507407,
+      "count": 1
+    },
+    {
+      "text": "modalidad investigacion",
+      "relevance": 0.505843,
+      "count": 3
+    },
+    {
+      "text": "largo de su existencia",
+      "relevance": 0.504714,
+      "count": 1
+    },
+    {
+      "text": "larreamendy joerns",
+      "relevance": 0.504714,
+      "count": 1
+    },
+    {
+      "text": "lopez pulecio",
+      "relevance": 0.504714,
+      "count": 1
+    },
+    {
+      "text": "estatuto general",
+      "relevance": 0.502161,
+      "count": 1
+    },
+    {
+      "text": "titulo de magister",
+      "relevance": 0.502161,
+      "count": 1
+    },
+    {
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.499206,
+      "count": 1
+    },
+    {
+      "text": "resolucion",
+      "relevance": 0.498979,
+      "count": 2
+    },
+    {
+      "text": "secretario general",
+      "relevance": 0.496566,
+      "count": 1
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.491153,
+      "count": 1
+    },
+    {
+      "text": "investigadores",
+      "relevance": 0.490584,
+      "count": 1
+    },
+    {
+      "text": "investigadores procedentes de los diferentes programas",
+      "relevance": 0.490564,
+      "count": 1
+    },
+    {
+      "text": "administracion",
+      "relevance": 0.486075,
+      "count": 2
+    },
+    {
+      "text": "contaduria",
+      "relevance": 0.486069,
+      "count": 2
+    },
+    {
+      "text": "acad\u00e9micos",
+      "relevance": 0.485664,
+      "count": 1
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.483938,
+      "count": 2
+    },
+    {
+      "text": "aporte fundamental de la universidad del valle",
+      "relevance": 0.483605,
+      "count": 1
+    },
+    {
+      "text": "atribuciones",
+      "relevance": 0.480874,
+      "count": 1
+    },
+    {
+      "text": "comunidad",
+      "relevance": 0.480874,
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3119,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "insignes benefactores de la misma",
+      "relevance": 0.670198,
+      "count": 1
+    },
+    {
+      "text": "senor gobernador",
+      "relevance": 0.621631,
+      "count": 1
+    },
+    {
+      "text": "dia del egresado de la universidad",
+      "relevance": 0.621363,
+      "count": 3
+    },
+    {
+      "text": "ejercicio profesional",
+      "relevance": 0.582039,
+      "count": 1
+    },
+    {
+      "text": "proyectos de cardcter docente",
+      "relevance": 0.580893,
+      "count": 1
+    },
+    {
+      "text": "bienestar universitario",
+      "relevance": 0.571002,
+      "count": 1
+    },
+    {
+      "text": "desarrollo social",
+      "relevance": 0.564885,
+      "count": 1
+    },
+    {
+      "text": "alma mater",
+      "relevance": 0.564452,
+      "count": 1
+    },
+    {
+      "text": "elevados criterios de excelencia",
+      "relevance": 0.560356,
+      "count": 1
+    },
+    {
+      "text": "tal propdsito",
+      "relevance": 0.559044,
+      "count": 1
+    },
+    {
+      "text": "estamentos fundamentales",
+      "relevance": 0.555353,
+      "count": 1
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.547677,
+      "count": 3
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.541829,
+      "count": 1
+    },
+    {
+      "text": "importancia de sus egresados",
+      "relevance": 0.540346,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.540188,
+      "count": 1
+    },
+    {
+      "text": "logros profesionales",
+      "relevance": 0.53811,
+      "count": 1
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.533465,
+      "count": 1
+    },
+    {
+      "text": "sentido de pertenencia",
+      "relevance": 0.528082,
+      "count": 1
+    },
+    {
+      "text": "dias m",
+      "relevance": 0.527878,
+      "count": 1
+    },
+    {
+      "text": "distintos sectores sociales",
+      "relevance": 0.522816,
+      "count": 1
+    },
+    {
+      "text": "fundaci\u00e9n de la universidad del valle",
+      "relevance": 0.518667,
+      "count": 1
+    },
+    {
+      "text": "actividades de la universidad del valle",
+      "relevance": 0.517749,
+      "count": 1
+    },
+    {
+      "text": "amigo dilecto",
+      "relevance": 0.514846,
+      "count": 1
+    },
+    {
+      "text": "sal\u00e9n de reuniones del despacho",
+      "relevance": 0.514376,
+      "count": 1
+    },
+    {
+      "text": "uso de sus atribuciones",
+      "relevance": 0.513182,
+      "count": 1
+    },
+    {
+      "text": "trav\u00e9s de la asociaci6",
+      "relevance": 0.513182,
+      "count": 1
+    },
+    {
+      "text": "secretario general",
+      "relevance": 0.513182,
+      "count": 1
+    },
+    {
+      "text": "concurso de sus egresados",
+      "relevance": 0.507563,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de febrero",
+      "relevance": 0.505147,
+      "count": 1
+    },
+    {
+      "text": "valle",
+      "relevance": 0.504711,
+      "count": 4
+    },
+    {
+      "text": "egresados de la universidad del valle",
+      "relevance": 0.502686,
+      "count": 1
+    },
+    {
+      "text": "alma mater vallecaucana",
+      "relevance": 0.502549,
+      "count": 1
+    },
+    {
+      "text": "junio de cada ano",
+      "relevance": 0.501605,
+      "count": 1
+    },
+    {
+      "text": "altos intereses",
+      "relevance": 0.501605,
+      "count": 1
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.500396,
+      "count": 3
+    },
+    {
+      "text": "rtamento del valle",
+      "relevance": 0.500287,
+      "count": 1
+    },
+    {
+      "text": "atin mds",
+      "relevance": 0.500261,
+      "count": 1
+    },
+    {
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.499079,
+      "count": 1
+    },
+    {
+      "text": "trav\u00e9s de su asociaci\u00e9n",
+      "relevance": 0.495166,
+      "count": 1
+    },
+    {
+      "text": "dia del egresado",
+      "relevance": 0.494607,
+      "count": 3
+    },
+    {
+      "text": "\u00e9sto",
+      "relevance": 0.483508,
+      "count": 1
+    },
+    {
+      "text": "medio",
+      "relevance": 0.481505,
+      "count": 1
+    },
+    {
+      "text": "egresados",
+      "relevance": 0.481194,
+      "count": 2
+    },
+    {
+      "text": "benefactor",
+      "relevance": 0.480255,
+      "count": 1
+    },
+    {
+      "text": "tiempo",
+      "relevance": 0.477005,
+      "count": 1
+    },
+    {
+      "text": "desarrollo",
+      "relevance": 0.476736,
+      "count": 2
+    },
+    {
+      "text": "pais",
+      "relevance": 0.474237,
+      "count": 1
+    },
+    {
+      "text": "gracias",
+      "relevance": 0.473471,
+      "count": 1
+    },
+    {
+      "text": "procesos",
+      "relevance": 0.47315,
+      "count": 1
+    },
+    {
+      "text": "gobernador",
+      "relevance": 0.471324,
+      "count": 1
+    }
+  ]
+}

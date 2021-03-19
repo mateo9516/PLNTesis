@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 2,
+    "text_characters": 16213,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "grupo institucional",
+      "relevance": 0.552461,
+      "count": 1
+    },
+    {
+      "text": "derechos individuales",
+      "relevance": 0.549101,
+      "count": 1
+    },
+    {
+      "text": "gobierno nacional",
+      "relevance": 0.546278,
+      "count": 4
+    },
+    {
+      "text": "mecanismos tendientes",
+      "relevance": 0.542926,
+      "count": 2
+    },
+    {
+      "text": "autonomia universitaria",
+      "relevance": 0.541685,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.538573,
+      "count": 6
+    },
+    {
+      "text": "bienestar universitario",
+      "relevance": 0.538553,
+      "count": 2
+    },
+    {
+      "text": "proteccion social",
+      "relevance": 0.538161,
+      "count": 1
+    },
+    {
+      "text": "derechos humanos",
+      "relevance": 0.537716,
+      "count": 1
+    },
+    {
+      "text": "desarrollo acad\u00e9mico",
+      "relevance": 0.536788,
+      "count": 2
+    },
+    {
+      "text": "bonos alimentarios",
+      "relevance": 0.536259,
+      "count": 3
+    },
+    {
+      "text": "concepto de formacion integral",
+      "relevance": 0.533435,
+      "count": 1
+    },
+    {
+      "text": "estado de emergencia sanitaria",
+      "relevance": 0.530684,
+      "count": 1
+    },
+    {
+      "text": "caracteristicas de cada institucion",
+      "relevance": 0.529566,
+      "count": 1
+    },
+    {
+      "text": "cumplimiento de su mision",
+      "relevance": 0.528758,
+      "count": 1
+    },
+    {
+      "text": "territorio nacional",
+      "relevance": 0.527841,
+      "count": 2
+    },
+    {
+      "text": "constituci6n",
+      "relevance": 0.527036,
+      "count": 1
+    },
+    {
+      "text": "efectividad de los principios",
+      "relevance": 0.526957,
+      "count": 1
+    },
+    {
+      "text": "particularidades de cada institucion",
+      "relevance": 0.526552,
+      "count": 1
+    },
+    {
+      "text": "literal i",
+      "relevance": 0.526206,
+      "count": 1
+    },
+    {
+      "text": "serie de medidas",
+      "relevance": 0.525231,
+      "count": 1
+    },
+    {
+      "text": "trav\u00e9s del documento",
+      "relevance": 0.524617,
+      "count": 1
+    },
+    {
+      "text": "propio bienestar universitario",
+      "relevance": 0.523223,
+      "count": 1
+    },
+    {
+      "text": "misi6n institucional",
+      "relevance": 0.523221,
+      "count": 1
+    },
+    {
+      "text": "simple actitud pasiva",
+      "relevance": 0.521625,
+      "count": 1
+    },
+    {
+      "text": "ser humano",
+      "relevance": 0.521054,
+      "count": 1
+    },
+    {
+      "text": "conflicto armado",
+      "relevance": 0.52074,
+      "count": 1
+    },
+    {
+      "text": "actividades acad\u00e9micas",
+      "relevance": 0.520626,
+      "count": 1
+    },
+    {
+      "text": "marzo del afo",
+      "relevance": 0.52043,
+      "count": 1
+    },
+    {
+      "text": "mecanismos financieros",
+      "relevance": 0.52011,
+      "count": 1
+    },
+    {
+      "text": "funcion social",
+      "relevance": 0.51955,
+      "count": 1
+    },
+    {
+      "text": "consecuencia de la emergencia sanitaria",
+      "relevance": 0.519508,
+      "count": 1
+    },
+    {
+      "text": "determinados grupos vulnerables",
+      "relevance": 0.519111,
+      "count": 1
+    },
+    {
+      "text": "situaciones de riesgo psicosocial",
+      "relevance": 0.519104,
+      "count": 1
+    },
+    {
+      "text": "consejo nacional",
+      "relevance": 0.518788,
+      "count": 1
+    },
+    {
+      "text": "suficiente flexibilidad",
+      "relevance": 0.518532,
+      "count": 1
+    },
+    {
+      "text": "organizacion mundial de la salud",
+      "relevance": 0.518392,
+      "count": 1
+    },
+    {
+      "text": "cesu present6",
+      "relevance": 0.518342,
+      "count": 1
+    },
+    {
+      "text": "recursos humanos",
+      "relevance": 0.517784,
+      "count": 1
+    },
+    {
+      "text": "personal administrativo",
+      "relevance": 0.516796,
+      "count": 2
+    },
+    {
+      "text": "instrumentos eficientes",
+      "relevance": 0.516029,
+      "count": 1
+    },
+    {
+      "text": "lineamientos de acreditacion institucional",
+      "relevance": 0.515722,
+      "count": 1
+    },
+    {
+      "text": "comunidad acad\u00e9mica",
+      "relevance": 0.515629,
+      "count": 1
+    },
+    {
+      "text": "pleno desarrollo",
+      "relevance": 0.515448,
+      "count": 1
+    },
+    {
+      "text": "otorgamiento de becas",
+      "relevance": 0.514974,
+      "count": 1
+    },
+    {
+      "text": "presente resolucion",
+      "relevance": 0.514528,
+      "count": 2
+    },
+    {
+      "text": "educaci6n expreso",
+      "relevance": 0.514429,
+      "count": 1
+    },
+    {
+      "text": "virus coronavirus covid-19",
+      "relevance": 0.51441,
+      "count": 1
+    },
+    {
+      "text": "politica de bienestar",
+      "relevance": 0.514356,
+      "count": 1
+    },
+    {
+      "text": "constitucion politica",
+      "relevance": 0.514243,
+      "count": 1
+    }
+  ]
+}

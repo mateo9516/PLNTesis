@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 5458,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "programa de estimulos acad\u00e9micos",
+      "relevance": 0.790108,
+      "count": 1
+    },
+    {
+      "text": "indicador del programa",
+      "relevance": 0.596332,
+      "count": 1
+    },
+    {
+      "text": "desarrollo del talento humano",
+      "relevance": 0.589878,
+      "count": 1
+    },
+    {
+      "text": "instrumento esencial",
+      "relevance": 0.573397,
+      "count": 1
+    },
+    {
+      "text": "dificultades acad\u00e9micas",
+      "relevance": 0.560705,
+      "count": 1
+    },
+    {
+      "text": "gran mayoria de los casos",
+      "relevance": 0.552829,
+      "count": 1
+    },
+    {
+      "text": "medida transitoria",
+      "relevance": 0.552082,
+      "count": 1
+    },
+    {
+      "text": "profesores beneficiarios",
+      "relevance": 0.551027,
+      "count": 2
+    },
+    {
+      "text": "instituciones de excelencia",
+      "relevance": 0.549367,
+      "count": 1
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.548846,
+      "count": 1
+    },
+    {
+      "text": "cumplimiento del objetivo de las comisiones",
+      "relevance": 0.547418,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.545459,
+      "count": 2
+    },
+    {
+      "text": "desarrollo de este programa",
+      "relevance": 0.542608,
+      "count": 1
+    },
+    {
+      "text": "atribuciones legales",
+      "relevance": 0.540563,
+      "count": 1
+    },
+    {
+      "text": "mayores titulaciones",
+      "relevance": 0.539572,
+      "count": 1
+    },
+    {
+      "text": "especialidades m\u00e9dicas",
+      "relevance": 0.536827,
+      "count": 1
+    },
+    {
+      "text": "titulo acad\u00e9mico",
+      "relevance": 0.53266,
+      "count": 1
+    },
+    {
+      "text": "consolidacio\u00e9n de una educacion superior",
+      "relevance": 0.530473,
+      "count": 1
+    },
+    {
+      "text": "plan estrat\u00e9gico",
+      "relevance": 0.529935,
+      "count": 1
+    },
+    {
+      "text": "formacion doctoral de sus profesores",
+      "relevance": 0.529429,
+      "count": 1
+    },
+    {
+      "text": "robustecimiento de una planta docente",
+      "relevance": 0.526312,
+      "count": 1
+    },
+    {
+      "text": "alto sentido de pertenencia",
+      "relevance": 0.525603,
+      "count": 1
+    },
+    {
+      "text": "conciencia ambiental",
+      "relevance": 0.524036,
+      "count": 1
+    },
+    {
+      "text": "objeto de su comisi6n",
+      "relevance": 0.523466,
+      "count": 1
+    },
+    {
+      "text": "eje estrat\u00e9gico",
+      "relevance": 0.523085,
+      "count": 1
+    },
+    {
+      "text": "estudios doctorales",
+      "relevance": 0.522793,
+      "count": 1
+    },
+    {
+      "text": "responsabilidades acad\u00e9micas",
+      "relevance": 0.51908,
+      "count": 1
+    },
+    {
+      "text": "alto nivel de formacion acad\u00e9mica",
+      "relevance": 0.518803,
+      "count": 1
+    },
+    {
+      "text": "especialidad m\u00e9dica",
+      "relevance": 0.518439,
+      "count": 1
+    },
+    {
+      "text": "gobernadora del departamento del valle",
+      "relevance": 0.51702,
+      "count": 1
+    },
+    {
+      "text": "acciones continuas",
+      "relevance": 0.516305,
+      "count": 1
+    },
+    {
+      "text": "desarrollo",
+      "relevance": 0.515585,
+      "count": 3
+    },
+    {
+      "text": "voluntad de los comisionados",
+      "relevance": 0.513017,
+      "count": 1
+    },
+    {
+      "text": "programa de desarrollo de la carrera profesoral",
+      "relevance": 0.510673,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.509002,
+      "count": 1
+    },
+    {
+      "text": "tiempo adicional",
+      "relevance": 0.508593,
+      "count": 1
+    },
+    {
+      "text": "profesores comisionados",
+      "relevance": 0.508058,
+      "count": 1
+    },
+    {
+      "text": "objeto de su comision de estudios",
+      "relevance": 0.506848,
+      "count": 1
+    },
+    {
+      "text": "lineamiento estrat\u00e9gico",
+      "relevance": 0.506802,
+      "count": 1
+    },
+    {
+      "text": "anteriores considerandos",
+      "relevance": 0.50659,
+      "count": 1
+    },
+    {
+      "text": "siguiente medida excepcional",
+      "relevance": 0.506395,
+      "count": 1
+    },
+    {
+      "text": "investigaci6n",
+      "relevance": 0.506096,
+      "count": 1
+    },
+    {
+      "text": "comisiones de estudios",
+      "relevance": 0.506022,
+      "count": 1
+    },
+    {
+      "text": "procesos de innovacion",
+      "relevance": 0.504952,
+      "count": 1
+    },
+    {
+      "text": "unica vez",
+      "relevance": 0.504553,
+      "count": 2
+    },
+    {
+      "text": "plazos determinados",
+      "relevance": 0.504487,
+      "count": 1
+    },
+    {
+      "text": "trav\u00e9s de la proyeccion social",
+      "relevance": 0.504113,
+      "count": 1
+    },
+    {
+      "text": "respectivos campos",
+      "relevance": 0.502799,
+      "count": 1
+    },
+    {
+      "text": "tutores asignados",
+      "relevance": 0.50271,
+      "count": 1
+    },
+    {
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.501388,
+      "count": 1
+    }
+  ]
+}

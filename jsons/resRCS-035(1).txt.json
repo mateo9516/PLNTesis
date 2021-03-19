@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 4360,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "servicios m\u00e9dico asistenciales",
+      "relevance": 0.71186,
+      "count": 1
+    },
+    {
+      "text": "forma integral",
+      "relevance": 0.706546,
+      "count": 1
+    },
+    {
+      "text": "servicio de salud",
+      "relevance": 0.675295,
+      "count": 2
+    },
+    {
+      "text": "suministros m\u00e9dicos",
+      "relevance": 0.625647,
+      "count": 3
+    },
+    {
+      "text": "recurso humano",
+      "relevance": 0.582463,
+      "count": 1
+    },
+    {
+      "text": "alta complejidad",
+      "relevance": 0.581054,
+      "count": 2
+    },
+    {
+      "text": "m\u00e9dica integral",
+      "relevance": 0.568717,
+      "count": 1
+    },
+    {
+      "text": "laboratorio clinico",
+      "relevance": 0.56091,
+      "count": 1
+    },
+    {
+      "text": "m\u00e9dico asistenciales",
+      "relevance": 0.559501,
+      "count": 1
+    },
+    {
+      "text": "ordenador del gasto",
+      "relevance": 0.555967,
+      "count": 1
+    },
+    {
+      "text": "educaci6n nacional",
+      "relevance": 0.554224,
+      "count": 1
+    },
+    {
+      "text": "vicerrectoria de bienestar universitario",
+      "relevance": 0.545769,
+      "count": 1
+    },
+    {
+      "text": "literales k",
+      "relevance": 0.542463,
+      "count": 1
+    },
+    {
+      "text": "capacidad instalada",
+      "relevance": 0.537176,
+      "count": 1
+    },
+    {
+      "text": "servicio continuo",
+      "relevance": 0.535605,
+      "count": 1
+    },
+    {
+      "text": "r\u00e9gimen especial",
+      "relevance": 0.53553,
+      "count": 1
+    },
+    {
+      "text": "siguientes conceptos",
+      "relevance": 0.534213,
+      "count": 1
+    },
+    {
+      "text": "procesos de contratacion",
+      "relevance": 0.532648,
+      "count": 1
+    },
+    {
+      "text": "vigencias futuras",
+      "relevance": 0.527661,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.523097,
+      "count": 2
+    },
+    {
+      "text": "orden departamental",
+      "relevance": 0.521064,
+      "count": 1
+    },
+    {
+      "text": "uso de sus atribuciones",
+      "relevance": 0.519289,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.518701,
+      "count": 1
+    },
+    {
+      "text": "servicios de salud",
+      "relevance": 0.516537,
+      "count": 5
+    },
+    {
+      "text": "ente universitario",
+      "relevance": 0.514844,
+      "count": 1
+    },
+    {
+      "text": "estatuto general",
+      "relevance": 0.514806,
+      "count": 1
+    },
+    {
+      "text": "sehor rector",
+      "relevance": 0.514387,
+      "count": 1
+    },
+    {
+      "text": "estatuto organico del presupuesto",
+      "relevance": 0.512343,
+      "count": 2
+    },
+    {
+      "text": "figura de vigencia futura",
+      "relevance": 0.512279,
+      "count": 1
+    },
+    {
+      "text": "patologia especializada",
+      "relevance": 0.51184,
+      "count": 1
+    },
+    {
+      "text": "atenci\u00e9n de salud",
+      "relevance": 0.509231,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de mayo",
+      "relevance": 0.506749,
+      "count": 1
+    },
+    {
+      "text": "objeto del compromiso",
+      "relevance": 0.506236,
+      "count": 1
+    },
+    {
+      "text": "ejecuci\u00e9n proyectada",
+      "relevance": 0.505951,
+      "count": 1
+    },
+    {
+      "text": "vida de sus usuarios",
+      "relevance": 0.503338,
+      "count": 1
+    },
+    {
+      "text": "senor rector de la universidad",
+      "relevance": 0.501462,
+      "count": 1
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.500543,
+      "count": 1
+    },
+    {
+      "text": "representante del presidente",
+      "relevance": 0.499156,
+      "count": 1
+    },
+    {
+      "text": "sal\u00e9n de reuniones",
+      "relevance": 0.499003,
+      "count": 1
+    },
+    {
+      "text": "tiempo de una partida",
+      "relevance": 0.498719,
+      "count": 1
+    },
+    {
+      "text": "vigencia fiscal",
+      "relevance": 0.497114,
+      "count": 1
+    },
+    {
+      "text": "larreamendy joerns",
+      "relevance": 0.496648,
+      "count": 1
+    },
+    {
+      "text": "atencion especializada",
+      "relevance": 0.495241,
+      "count": 1
+    },
+    {
+      "text": "personeria juridica",
+      "relevance": 0.49423,
+      "count": 1
+    },
+    {
+      "text": "instituciones prestadoras",
+      "relevance": 0.49423,
+      "count": 1
+    },
+    {
+      "text": "concepto periodo",
+      "relevance": 0.493232,
+      "count": 1
+    },
+    {
+      "text": "vigencia futura del ano",
+      "relevance": 0.492532,
+      "count": 1
+    },
+    {
+      "text": "cierre de la actual vigencia fiscal",
+      "relevance": 0.488955,
+      "count": 1
+    },
+    {
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.488924,
+      "count": 1
+    },
+    {
+      "text": "prestacion de servicios m\u00e9dico asistenciales",
+      "relevance": 0.485971,
+      "count": 1
+    }
+  ]
+}

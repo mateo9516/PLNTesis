@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3474,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "lote guadalupe",
+      "relevance": 0.648744,
+      "count": 2
+    },
+    {
+      "text": "estatuto general",
+      "relevance": 0.605917,
+      "count": 1
+    },
+    {
+      "text": "propiedad del suelo",
+      "relevance": 0.599803,
+      "count": 1
+    },
+    {
+      "text": "oeste de la ciudad de cali",
+      "relevance": 0.587128,
+      "count": 1
+    },
+    {
+      "text": "estatuto de contratacion de la universidad",
+      "relevance": 0.572669,
+      "count": 1
+    },
+    {
+      "text": "control de zoonosis",
+      "relevance": 0.566206,
+      "count": 1
+    },
+    {
+      "text": "salud municipal",
+      "relevance": 0.562735,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.560046,
+      "count": 5
+    },
+    {
+      "text": "lotes de terreno",
+      "relevance": 0.554565,
+      "count": 1
+    },
+    {
+      "text": "control animal del municipio",
+      "relevance": 0.553222,
+      "count": 1
+    },
+    {
+      "text": "liquidacion de la sociedad",
+      "relevance": 0.549562,
+      "count": 1
+    },
+    {
+      "text": "notaria cuarta de cali",
+      "relevance": 0.545715,
+      "count": 2
+    },
+    {
+      "text": "literal k",
+      "relevance": 0.545585,
+      "count": 1
+    },
+    {
+      "text": "rector de la universidad del valle",
+      "relevance": 0.544108,
+      "count": 1
+    },
+    {
+      "text": "senor rector de la universidad",
+      "relevance": 0.54171,
+      "count": 1
+    },
+    {
+      "text": "municipio de santiago de cali",
+      "relevance": 0.541155,
+      "count": 1
+    },
+    {
+      "text": "siguientes casos",
+      "relevance": 0.537251,
+      "count": 1
+    },
+    {
+      "text": "venta del lote de terreno",
+      "relevance": 0.535005,
+      "count": 1
+    },
+    {
+      "text": "area de zoonosis",
+      "relevance": 0.532124,
+      "count": 1
+    },
+    {
+      "text": "siguientes propuestas",
+      "relevance": 0.530285,
+      "count": 1
+    },
+    {
+      "text": "realizacion de los procesos contractuales",
+      "relevance": 0.530141,
+      "count": 1
+    },
+    {
+      "text": "reuniones de la torre institucional",
+      "relevance": 0.530141,
+      "count": 1
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.524394,
+      "count": 2
+    },
+    {
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.519493,
+      "count": 1
+    },
+    {
+      "text": "parte de la secretaria",
+      "relevance": 0.518641,
+      "count": 1
+    },
+    {
+      "text": "universidad del valle avanzaria",
+      "relevance": 0.515605,
+      "count": 1
+    },
+    {
+      "text": "estatuto de contratacion",
+      "relevance": 0.510829,
+      "count": 1
+    },
+    {
+      "text": "titulo bienes inmuebles",
+      "relevance": 0.509563,
+      "count": 1
+    },
+    {
+      "text": "sociedad urbanizadora",
+      "relevance": 0.508887,
+      "count": 1
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.508567,
+      "count": 4
+    },
+    {
+      "text": "representante del presidente",
+      "relevance": 0.50314,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.499828,
+      "count": 1
+    },
+    {
+      "text": "larreamendy joerns",
+      "relevance": 0.499322,
+      "count": 1
+    },
+    {
+      "text": "atribuciones",
+      "relevance": 0.499058,
+      "count": 1
+    },
+    {
+      "text": "guadalupe ltda",
+      "relevance": 0.497076,
+      "count": 1
+    },
+    {
+      "text": "tramites necesarios",
+      "relevance": 0.496844,
+      "count": 1
+    },
+    {
+      "text": "dias de noviembre",
+      "relevance": 0.496045,
+      "count": 1
+    },
+    {
+      "text": "construcci6n",
+      "relevance": 0.495641,
+      "count": 1
+    },
+    {
+      "text": "matricula inmobiliaria",
+      "relevance": 0.495641,
+      "count": 1
+    },
+    {
+      "text": "negociacion",
+      "relevance": 0.482744,
+      "count": 1
+    },
+    {
+      "text": "lotes",
+      "relevance": 0.479805,
+      "count": 1
+    },
+    {
+      "text": "guillermo",
+      "relevance": 0.479484,
+      "count": 1
+    },
+    {
+      "text": "vigilancia",
+      "relevance": 0.47816,
+      "count": 1
+    },
+    {
+      "text": "conferidas",
+      "relevance": 0.478147,
+      "count": 1
+    },
+    {
+      "text": "valle",
+      "relevance": 0.477428,
+      "count": 2
+    },
+    {
+      "text": "diciembre",
+      "relevance": 0.475131,
+      "count": 2
+    },
+    {
+      "text": "problemas",
+      "relevance": 0.472946,
+      "count": 1
+    },
+    {
+      "text": "septiembre",
+      "relevance": 0.472888,
+      "count": 1
+    },
+    {
+      "text": "m2",
+      "relevance": 0.472496,
+      "count": 2
+    },
+    {
+      "text": "paragrafo",
+      "relevance": 0.4722,
+      "count": 3
+    }
+  ]
+}

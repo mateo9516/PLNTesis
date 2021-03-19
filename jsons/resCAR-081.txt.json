@@ -1,0 +1,263 @@
+{
+  "usage": {
+    "text_units": 5,
+    "text_characters": 50000,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "programas acad\u00e9micos",
+      "relevance": 0.702991,
+      "count": 24
+    },
+    {
+      "text": "examen de estado",
+      "relevance": 0.653043,
+      "count": 25
+    },
+    {
+      "text": "admision de aspirantes",
+      "relevance": 0.627575,
+      "count": 1
+    },
+    {
+      "text": "pruebas adicionales de aptitud",
+      "relevance": 0.576141,
+      "count": 2
+    },
+    {
+      "text": "criterios acad\u00e9micos",
+      "relevance": 0.568051,
+      "count": 1
+    },
+    {
+      "text": "resultados del examen de estado",
+      "relevance": 0.564763,
+      "count": 7
+    },
+    {
+      "text": "admisi\u00e9n de los aspirantes",
+      "relevance": 0.561161,
+      "count": 1
+    },
+    {
+      "text": "programa acad\u00e9mico",
+      "relevance": 0.554377,
+      "count": 16
+    },
+    {
+      "text": "cupos de los admitidos",
+      "relevance": 0.54454,
+      "count": 1
+    },
+    {
+      "text": "listado correspondiente",
+      "relevance": 0.534595,
+      "count": 1
+    },
+    {
+      "text": "examen de estado anteriores",
+      "relevance": 0.53435,
+      "count": 3
+    },
+    {
+      "text": "vinculo laboral",
+      "relevance": 0.53429,
+      "count": 16
+    },
+    {
+      "text": "primer semestre",
+      "relevance": 0.532667,
+      "count": 4
+    },
+    {
+      "text": "respectivos derechos",
+      "relevance": 0.529873,
+      "count": 1
+    },
+    {
+      "text": "altos puntajes de icfes",
+      "relevance": 0.527902,
+      "count": 1
+    },
+    {
+      "text": "servicio militar",
+      "relevance": 0.527193,
+      "count": 2
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.526508,
+      "count": 11
+    },
+    {
+      "text": "calendario acad\u00e9mico",
+      "relevance": 0.526177,
+      "count": 8
+    },
+    {
+      "text": "fotocopia de la constancia",
+      "relevance": 0.525292,
+      "count": 2
+    },
+    {
+      "text": "periodo acad\u00e9mico",
+      "relevance": 0.524797,
+      "count": 5
+    },
+    {
+      "text": "numero de cupos",
+      "relevance": 0.524654,
+      "count": 7
+    },
+    {
+      "text": "acad\u00e9mico de pregrado",
+      "relevance": 0.523869,
+      "count": 2
+    },
+    {
+      "text": "cupo",
+      "relevance": 0.52291,
+      "count": 34
+    },
+    {
+      "text": "puntaje minimo de inscripci\u00e9nuniversidad",
+      "relevance": 0.522195,
+      "count": 1
+    },
+    {
+      "text": "diferentes areas",
+      "relevance": 0.522085,
+      "count": 2
+    },
+    {
+      "text": "solicitud de reserva de cupo",
+      "relevance": 0.520908,
+      "count": 1
+    },
+    {
+      "text": "fechas definidas",
+      "relevance": 0.520859,
+      "count": 1
+    },
+    {
+      "text": "primera vez",
+      "relevance": 0.520824,
+      "count": 1
+    },
+    {
+      "text": "transferencia aspirantes",
+      "relevance": 0.520334,
+      "count": 1
+    },
+    {
+      "text": "antiguo examen de estado",
+      "relevance": 0.519734,
+      "count": 3
+    },
+    {
+      "text": "misma sede",
+      "relevance": 0.517463,
+      "count": 1
+    },
+    {
+      "text": "caracter obligatorio",
+      "relevance": 0.516394,
+      "count": 1
+    },
+    {
+      "text": "autoridad competente",
+      "relevance": 0.51638,
+      "count": 2
+    },
+    {
+      "text": "condici\u00e9n de bachilleres",
+      "relevance": 0.515948,
+      "count": 1
+    },
+    {
+      "text": "siguientes porcentajes",
+      "relevance": 0.51593,
+      "count": 1
+    },
+    {
+      "text": "nota total",
+      "relevance": 0.515684,
+      "count": 3
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.515666,
+      "count": 4
+    },
+    {
+      "text": "colegios oficiales",
+      "relevance": 0.515354,
+      "count": 4
+    },
+    {
+      "text": "resultados anteriores",
+      "relevance": 0.514862,
+      "count": 9
+    },
+    {
+      "text": "comunidades afrocolombianas",
+      "relevance": 0.513936,
+      "count": 5
+    },
+    {
+      "text": "responsabilidad del aspirante",
+      "relevance": 0.513924,
+      "count": 2
+    },
+    {
+      "text": "razones de calamidad dom\u00e9stica",
+      "relevance": 0.513919,
+      "count": 1
+    },
+    {
+      "text": "siguientes condiciones",
+      "relevance": 0.513881,
+      "count": 1
+    },
+    {
+      "text": "competencias de los estudiantes",
+      "relevance": 0.513549,
+      "count": 1
+    },
+    {
+      "text": "requisitos establecidos",
+      "relevance": 0.513475,
+      "count": 1
+    },
+    {
+      "text": "registro acad\u00e9mico",
+      "relevance": 0.513061,
+      "count": 8
+    },
+    {
+      "text": "lenguas extranjeras",
+      "relevance": 0.513024,
+      "count": 2
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.512799,
+      "count": 4
+    },
+    {
+      "text": "servicio militar obligatorio",
+      "relevance": 0.512699,
+      "count": 2
+    },
+    {
+      "text": "condiciones de excepcidn",
+      "relevance": 0.512472,
+      "count": 2
+    }
+  ],
+  "warnings": [
+    "Text content exceeds 50000 character limit. Only first 50000 characters processed..."
+  ]
+}

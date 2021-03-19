@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 5636,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "luz quintero",
+      "relevance": 0.936548,
+      "count": 1
+    },
+    {
+      "text": "luz maria",
+      "relevance": 0.807932,
+      "count": 1
+    },
+    {
+      "text": "luz adriana",
+      "relevance": 0.698224,
+      "count": 1
+    },
+    {
+      "text": "oficina de control interno",
+      "relevance": 0.557756,
+      "count": 1
+    },
+    {
+      "text": "maria cabrera rojas",
+      "relevance": 0.556905,
+      "count": 1
+    },
+    {
+      "text": "orden de servicios distinguidos",
+      "relevance": 0.549127,
+      "count": 4
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.532642,
+      "count": 7
+    },
+    {
+      "text": "ciencias naturales",
+      "relevance": 0.530853,
+      "count": 1
+    },
+    {
+      "text": "victor javier saavedra",
+      "relevance": 0.529256,
+      "count": 1
+    },
+    {
+      "text": "desarrollo institucional",
+      "relevance": 0.528556,
+      "count": 1
+    },
+    {
+      "text": "facultad de artes integradas",
+      "relevance": 0.524639,
+      "count": 1
+    },
+    {
+      "text": "luis alberto herrera",
+      "relevance": 0.521863,
+      "count": 1
+    },
+    {
+      "text": "uso de sus atribuciones legales",
+      "relevance": 0.521627,
+      "count": 1
+    },
+    {
+      "text": "recomendaciones del comit\u00e9 evaluador",
+      "relevance": 0.520036,
+      "count": 1
+    },
+    {
+      "text": "recursos humanos",
+      "relevance": 0.519446,
+      "count": 1
+    },
+    {
+      "text": "oficina de informatica",
+      "relevance": 0.518387,
+      "count": 1
+    },
+    {
+      "text": "division de bibliotecas",
+      "relevance": 0.516987,
+      "count": 1
+    },
+    {
+      "text": "manuel bahamon",
+      "relevance": 0.51689,
+      "count": 1
+    },
+    {
+      "text": "vicerrectoria de investigaciones",
+      "relevance": 0.515526,
+      "count": 1
+    },
+    {
+      "text": "calidad acad\u00e9mica",
+      "relevance": 0.515228,
+      "count": 1
+    },
+    {
+      "text": "ciencias sociales",
+      "relevance": 0.515205,
+      "count": 1
+    },
+    {
+      "text": "jesus orozco",
+      "relevance": 0.513554,
+      "count": 1
+    },
+    {
+      "text": "ceremonia acad\u00e9mica",
+      "relevance": 0.511862,
+      "count": 1
+    },
+    {
+      "text": "servicios distinguidos",
+      "relevance": 0.511227,
+      "count": 1
+    },
+    {
+      "text": "facultad de ciencias",
+      "relevance": 0.509824,
+      "count": 1
+    },
+    {
+      "text": "instituto de psicologia",
+      "relevance": 0.509711,
+      "count": 1
+    },
+    {
+      "text": "fortalecimiento del cumplimiento de la mision",
+      "relevance": 0.509341,
+      "count": 1
+    },
+    {
+      "text": "isabel navarro",
+      "relevance": 0.509038,
+      "count": 1
+    },
+    {
+      "text": "revision del cumplimiento de los requisitos",
+      "relevance": 0.506818,
+      "count": 1
+    },
+    {
+      "text": "elena martinez",
+      "relevance": 0.5058,
+      "count": 1
+    },
+    {
+      "text": "patricia jim\u00e9nez",
+      "relevance": 0.505665,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.503844,
+      "count": 1
+    },
+    {
+      "text": "nota de estilo",
+      "relevance": 0.503233,
+      "count": 2
+    },
+    {
+      "text": "milena munoz",
+      "relevance": 0.502123,
+      "count": 1
+    },
+    {
+      "text": "lucero franco",
+      "relevance": 0.500804,
+      "count": 1
+    },
+    {
+      "text": "victoria salas",
+      "relevance": 0.500527,
+      "count": 1
+    },
+    {
+      "text": "division de bienes",
+      "relevance": 0.499914,
+      "count": 1
+    },
+    {
+      "text": "jesus tob6",
+      "relevance": 0.497497,
+      "count": 1
+    },
+    {
+      "text": "monica medina",
+      "relevance": 0.497419,
+      "count": 1
+    },
+    {
+      "text": "instituto de educacion",
+      "relevance": 0.496987,
+      "count": 1
+    },
+    {
+      "text": "enelia pizarro",
+      "relevance": 0.496826,
+      "count": 1
+    },
+    {
+      "text": "pilar ruales",
+      "relevance": 0.496826,
+      "count": 1
+    },
+    {
+      "text": "cristina arias",
+      "relevance": 0.496472,
+      "count": 1
+    },
+    {
+      "text": "junio de 2015.universidad",
+      "relevance": 0.496248,
+      "count": 1
+    },
+    {
+      "text": "direccion de regionalizacion",
+      "relevance": 0.495612,
+      "count": 1
+    },
+    {
+      "text": "isabel casanova",
+      "relevance": 0.49485,
+      "count": 1
+    },
+    {
+      "text": "fernanda chamorro",
+      "relevance": 0.494817,
+      "count": 1
+    },
+    {
+      "text": "ceremonia solemne",
+      "relevance": 0.494578,
+      "count": 1
+    },
+    {
+      "text": "facultad",
+      "relevance": 0.494457,
+      "count": 2
+    },
+    {
+      "text": "emerson castaneda",
+      "relevance": 0.494146,
+      "count": 1
+    }
+  ]
+}

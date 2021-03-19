@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 2,
+    "text_characters": 11759,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "trabajo acad\u00e9mico",
+      "relevance": 0.762897,
+      "count": 2
+    },
+    {
+      "text": "programas de formaci6on",
+      "relevance": 0.668132,
+      "count": 1
+    },
+    {
+      "text": "procesos acad\u00e9micos",
+      "relevance": 0.629324,
+      "count": 1
+    },
+    {
+      "text": "trabajo independiente",
+      "relevance": 0.607881,
+      "count": 3
+    },
+    {
+      "text": "trabajo presencial",
+      "relevance": 0.60766,
+      "count": 2
+    },
+    {
+      "text": "sistema de cr\u00e9ditos",
+      "relevance": 0.605099,
+      "count": 4
+    },
+    {
+      "text": "cursos dirigidos",
+      "relevance": 0.584779,
+      "count": 1
+    },
+    {
+      "text": "evaluacion de los programas de pregrado",
+      "relevance": 0.584748,
+      "count": 1
+    },
+    {
+      "text": "actividades formativas",
+      "relevance": 0.57675,
+      "count": 1
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.575503,
+      "count": 3
+    },
+    {
+      "text": "actividad acad\u00e9mica",
+      "relevance": 0.561839,
+      "count": 2
+    },
+    {
+      "text": "programa de formacion",
+      "relevance": 0.556334,
+      "count": 3
+    },
+    {
+      "text": "tiempo de trabajo independiente",
+      "relevance": 0.549668,
+      "count": 2
+    },
+    {
+      "text": "literal c",
+      "relevance": 0.535644,
+      "count": 1
+    },
+    {
+      "text": "casos excepcionales",
+      "relevance": 0.534021,
+      "count": 1
+    },
+    {
+      "text": "unidad de medida",
+      "relevance": 0.533075,
+      "count": 1
+    },
+    {
+      "text": "tiempo de dedicacion necesario",
+      "relevance": 0.531534,
+      "count": 1
+    },
+    {
+      "text": "periodo acad\u00e9mico",
+      "relevance": 0.531238,
+      "count": 2
+    },
+    {
+      "text": "cursos presenciales",
+      "relevance": 0.530437,
+      "count": 1
+    },
+    {
+      "text": "horas de dedicacion",
+      "relevance": 0.529914,
+      "count": 1
+    },
+    {
+      "text": "trabajo de campo",
+      "relevance": 0.528695,
+      "count": 2
+    },
+    {
+      "text": "actividades precisas",
+      "relevance": 0.52735,
+      "count": 1
+    },
+    {
+      "text": "trabajo autonomo de los estudiantes",
+      "relevance": 0.52437,
+      "count": 1
+    },
+    {
+      "text": "comit\u00e9s de programa",
+      "relevance": 0.52363,
+      "count": 2
+    },
+    {
+      "text": "ministerio de educacion",
+      "relevance": 0.523399,
+      "count": 1
+    },
+    {
+      "text": "diferentes actividades acad\u00e9micas",
+      "relevance": 0.523104,
+      "count": 1
+    },
+    {
+      "text": "tiempo de trabajo dirigido",
+      "relevance": 0.522459,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.521848,
+      "count": 1
+    },
+    {
+      "text": "numero total",
+      "relevance": 0.521737,
+      "count": 1
+    },
+    {
+      "text": "unidades responsables",
+      "relevance": 0.521502,
+      "count": 1
+    },
+    {
+      "text": "programa de pregrado",
+      "relevance": 0.521175,
+      "count": 1
+    },
+    {
+      "text": "estructuras de funcionamiento",
+      "relevance": 0.520723,
+      "count": 1
+    },
+    {
+      "text": "trabajo dirigido",
+      "relevance": 0.520394,
+      "count": 2
+    },
+    {
+      "text": "cooperaci\u00e9n acad\u00e9mica",
+      "relevance": 0.520132,
+      "count": 1
+    },
+    {
+      "text": "unidades acad\u00e9micas",
+      "relevance": 0.51956,
+      "count": 3
+    },
+    {
+      "text": "actividades",
+      "relevance": 0.516727,
+      "count": 4
+    },
+    {
+      "text": "siguientes criterios",
+      "relevance": 0.515841,
+      "count": 1
+    },
+    {
+      "text": "diferentes areas",
+      "relevance": 0.515319,
+      "count": 1
+    },
+    {
+      "text": "esfuerzo acad\u00e9mico del estudiante",
+      "relevance": 0.515045,
+      "count": 1
+    },
+    {
+      "text": "estudiante",
+      "relevance": 0.513705,
+      "count": 11
+    },
+    {
+      "text": "tiempo",
+      "relevance": 0.513261,
+      "count": 6
+    },
+    {
+      "text": "desarrollo del acuerdo",
+      "relevance": 0.513214,
+      "count": 1
+    },
+    {
+      "text": "menor exigencia",
+      "relevance": 0.51299,
+      "count": 1
+    },
+    {
+      "text": "trabajo acad\u00e9mico del estudiante",
+      "relevance": 0.512627,
+      "count": 1
+    },
+    {
+      "text": "modalidad del programa",
+      "relevance": 0.511781,
+      "count": 1
+    },
+    {
+      "text": "gobierno nacional",
+      "relevance": 0.511683,
+      "count": 1
+    },
+    {
+      "text": "tiempo de trabajo",
+      "relevance": 0.511376,
+      "count": 2
+    },
+    {
+      "text": "clases magistrales",
+      "relevance": 0.511135,
+      "count": 1
+    },
+    {
+      "text": "unidades acad\u00e9micas de la universidad",
+      "relevance": 0.510044,
+      "count": 1
+    },
+    {
+      "text": "vida universitaria",
+      "relevance": 0.509935,
+      "count": 1
+    }
+  ]
+}

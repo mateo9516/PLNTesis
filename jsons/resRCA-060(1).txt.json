@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2226,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "consejos de facultad",
+      "relevance": 0.757553,
+      "count": 2
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.745259,
+      "count": 1
+    },
+    {
+      "text": "aprobacion de los cursos especiales",
+      "relevance": 0.668806,
+      "count": 1
+    },
+    {
+      "text": "unidades acad\u00e9micas",
+      "relevance": 0.617721,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.615666,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de marzo",
+      "relevance": 0.600771,
+      "count": 1
+    },
+    {
+      "text": "acad\u00e9mico-administrativa",
+      "relevance": 0.600459,
+      "count": 1
+    },
+    {
+      "text": "uso de las atribuciones",
+      "relevance": 0.588133,
+      "count": 1
+    },
+    {
+      "text": "imagen corporativa",
+      "relevance": 0.550322,
+      "count": 1
+    },
+    {
+      "text": "vicerrectoria administrativa",
+      "relevance": 0.54705,
+      "count": 1
+    },
+    {
+      "text": "registro acad\u00e9mico",
+      "relevance": 0.543383,
+      "count": 1
+    },
+    {
+      "text": "direcci\u00e9n de registro acad\u00e9mico",
+      "relevance": 0.534691,
+      "count": 1
+    },
+    {
+      "text": "cursos acreditables",
+      "relevance": 0.53169,
+      "count": 1
+    },
+    {
+      "text": "secretaria acad\u00e9micas de las facultades",
+      "relevance": 0.528019,
+      "count": 1
+    },
+    {
+      "text": "cursos especiales",
+      "relevance": 0.515568,
+      "count": 1
+    },
+    {
+      "text": "visto bueno de los comit\u00e9s",
+      "relevance": 0.510295,
+      "count": 1
+    },
+    {
+      "text": "acad\u00e9micos de pregrado",
+      "relevance": 0.508374,
+      "count": 1
+    },
+    {
+      "text": "notas de los cursos acreditables",
+      "relevance": 0.502975,
+      "count": 1
+    },
+    {
+      "text": "estatuto general",
+      "relevance": 0.495172,
+      "count": 1
+    },
+    {
+      "text": "dulcey bonilla",
+      "relevance": 0.495172,
+      "count": 1
+    },
+    {
+      "text": "universidad procesos",
+      "relevance": 0.49502,
+      "count": 1
+    },
+    {
+      "text": "instituto",
+      "relevance": 0.489846,
+      "count": 5
+    },
+    {
+      "text": "literal r",
+      "relevance": 0.489737,
+      "count": 1
+    },
+    {
+      "text": "capacidad de gestion",
+      "relevance": 0.489737,
+      "count": 1
+    },
+    {
+      "text": "sillabus correspondiente",
+      "relevance": 0.489737,
+      "count": 1
+    },
+    {
+      "text": "procesos acad\u00e9micoadministrativos",
+      "relevance": 0.476829,
+      "count": 1
+    },
+    {
+      "text": "paragrafo",
+      "relevance": 0.471442,
+      "count": 1
+    },
+    {
+      "text": "visto bueno",
+      "relevance": 0.470964,
+      "count": 1
+    },
+    {
+      "text": "sal\u00e9n de reuniones del consejo acad\u00e9mico",
+      "relevance": 0.469987,
+      "count": 1
+    },
+    {
+      "text": "consejo academico de la universidad del valle",
+      "relevance": 0.46816,
+      "count": 1
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.463261,
+      "count": 2
+    },
+    {
+      "text": "posgrado",
+      "relevance": 0.460848,
+      "count": 1
+    },
+    {
+      "text": "marzo",
+      "relevance": 0.459853,
+      "count": 2
+    },
+    {
+      "text": "facultad",
+      "relevance": 0.457131,
+      "count": 3
+    },
+    {
+      "text": "mixtos",
+      "relevance": 0.454072,
+      "count": 3
+    },
+    {
+      "text": "formato",
+      "relevance": 0.451235,
+      "count": 2
+    },
+    {
+      "text": "curso",
+      "relevance": 0.450965,
+      "count": 1
+    },
+    {
+      "text": "certificados",
+      "relevance": 0.449914,
+      "count": 1
+    },
+    {
+      "text": "pautas",
+      "relevance": 0.448869,
+      "count": 1
+    },
+    {
+      "text": "institutes",
+      "relevance": 0.448582,
+      "count": 1
+    },
+    {
+      "text": "tramite",
+      "relevance": 0.448532,
+      "count": 2
+    },
+    {
+      "text": "facultades",
+      "relevance": 0.44832,
+      "count": 1
+    },
+    {
+      "text": "institutos",
+      "relevance": 0.447867,
+      "count": 1
+    },
+    {
+      "text": "encargadas",
+      "relevance": 0.447681,
+      "count": 1
+    },
+    {
+      "text": "estasuniversidad",
+      "relevance": 0.446961,
+      "count": 1
+    },
+    {
+      "text": "secretario",
+      "relevance": 0.446665,
+      "count": 1
+    },
+    {
+      "text": "resolucion",
+      "relevance": 0.445881,
+      "count": 1
+    },
+    {
+      "text": "abril",
+      "relevance": 0.445881,
+      "count": 1
+    },
+    {
+      "text": "to",
+      "relevance": 0.445881,
+      "count": 1
+    },
+    {
+      "text": "copia",
+      "relevance": 0.445881,
+      "count": 1
+    }
+  ]
+}

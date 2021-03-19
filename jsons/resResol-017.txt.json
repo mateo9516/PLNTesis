@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 4333,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "incremento de la tasa de cambio",
+      "relevance": 0.649091,
+      "count": 1
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.621359,
+      "count": 3
+    },
+    {
+      "text": "apoyo econdmico",
+      "relevance": 0.61882,
+      "count": 1
+    },
+    {
+      "text": "consejo directivo",
+      "relevance": 0.617801,
+      "count": 1
+    },
+    {
+      "text": "comisiones de estudios",
+      "relevance": 0.603074,
+      "count": 1
+    },
+    {
+      "text": "tasa representativa del mercado",
+      "relevance": 0.59729,
+      "count": 1
+    },
+    {
+      "text": "profesores de la universidad del valle",
+      "relevance": 0.591435,
+      "count": 2
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.572683,
+      "count": 1
+    },
+    {
+      "text": "unidn europea",
+      "relevance": 0.550125,
+      "count": 1
+    },
+    {
+      "text": "comisiones acad\u00e9micas",
+      "relevance": 0.548902,
+      "count": 1
+    },
+    {
+      "text": "apoyo econ\u00e9mico",
+      "relevance": 0.548291,
+      "count": 4
+    },
+    {
+      "text": "moneda oficial",
+      "relevance": 0.547704,
+      "count": 1
+    },
+    {
+      "text": "desarrollo de la carrera profesoral",
+      "relevance": 0.538544,
+      "count": 1
+    },
+    {
+      "text": "nivel de los profesores universitarios",
+      "relevance": 0.537531,
+      "count": 1
+    },
+    {
+      "text": "factor salarial",
+      "relevance": 0.532398,
+      "count": 1
+    },
+    {
+      "text": "presente resolucidn",
+      "relevance": 0.528794,
+      "count": 1
+    },
+    {
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.527727,
+      "count": 1
+    },
+    {
+      "text": "siguientes condiciones",
+      "relevance": 0.524734,
+      "count": 1
+    },
+    {
+      "text": "comision de estudio",
+      "relevance": 0.520323,
+      "count": 1
+    },
+    {
+      "text": "apoyo econd\u00e9mico",
+      "relevance": 0.52024,
+      "count": 3
+    },
+    {
+      "text": "paises de la uni\u00e9n europea",
+      "relevance": 0.518315,
+      "count": 1
+    },
+    {
+      "text": "sostenimiento basico de una persona",
+      "relevance": 0.518223,
+      "count": 1
+    },
+    {
+      "text": "moneda colombiana",
+      "relevance": 0.516643,
+      "count": 2
+    },
+    {
+      "text": "dias del mes de marzo",
+      "relevance": 0.513903,
+      "count": 1
+    },
+    {
+      "text": "desarrollo de programa de estudio",
+      "relevance": 0.508223,
+      "count": 1
+    },
+    {
+      "text": "union europea",
+      "relevance": 0.507972,
+      "count": 1
+    },
+    {
+      "text": "presente resolucion",
+      "relevance": 0.50646,
+      "count": 1
+    },
+    {
+      "text": "apoyo respectivo",
+      "relevance": 0.506297,
+      "count": 1
+    },
+    {
+      "text": "estudios de caracter socioecondmico",
+      "relevance": 0.506041,
+      "count": 1
+    },
+    {
+      "text": "beneficiario de becas de sostenimiento",
+      "relevance": 0.505896,
+      "count": 1
+    },
+    {
+      "text": "considerando anterior",
+      "relevance": 0.50463,
+      "count": 1
+    },
+    {
+      "text": "responsabilidad del respectivo docente",
+      "relevance": 0.503746,
+      "count": 1
+    },
+    {
+      "text": "comisidn de estudio vigente",
+      "relevance": 0.503366,
+      "count": 1
+    },
+    {
+      "text": "valor de la comisi\u00e9n",
+      "relevance": 0.503179,
+      "count": 1
+    },
+    {
+      "text": "situacidn econdmica dificil",
+      "relevance": 0.500423,
+      "count": 1
+    },
+    {
+      "text": "comisi\u00e9n de estudio",
+      "relevance": 0.499154,
+      "count": 1
+    },
+    {
+      "text": "afio sabatico",
+      "relevance": 0.496674,
+      "count": 1
+    },
+    {
+      "text": "paragrafo",
+      "relevance": 0.496306,
+      "count": 2
+    },
+    {
+      "text": "costo de la comision",
+      "relevance": 0.495777,
+      "count": 1
+    },
+    {
+      "text": "periodo mayor",
+      "relevance": 0.495122,
+      "count": 1
+    },
+    {
+      "text": "estatuto general",
+      "relevance": 0.494167,
+      "count": 1
+    },
+    {
+      "text": "lopez pulecio",
+      "relevance": 0.494167,
+      "count": 1
+    },
+    {
+      "text": "reglamentacion vigente de la universidad",
+      "relevance": 0.493469,
+      "count": 1
+    },
+    {
+      "text": "euros mensuales",
+      "relevance": 0.49221,
+      "count": 2
+    },
+    {
+      "text": "presente",
+      "relevance": 0.491369,
+      "count": 2
+    },
+    {
+      "text": "secretario general",
+      "relevance": 0.490657,
+      "count": 1
+    },
+    {
+      "text": "contrato",
+      "relevance": 0.489527,
+      "count": 1
+    },
+    {
+      "text": "valores",
+      "relevance": 0.487653,
+      "count": 2
+    },
+    {
+      "text": "asignacion del monto del apoyo econd\u00e9mico",
+      "relevance": 0.486972,
+      "count": 1
+    },
+    {
+      "text": "salon de reuniones del consejo acad\u00e9mico",
+      "relevance": 0.48676,
+      "count": 1
+    }
+  ]
+}

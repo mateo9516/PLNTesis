@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3807,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.720964,
+      "count": 3
+    },
+    {
+      "text": "reforma de los programas de formacion",
+      "relevance": 0.700029,
+      "count": 3
+    },
+    {
+      "text": "facultades legales",
+      "relevance": 0.649092,
+      "count": 1
+    },
+    {
+      "text": "decreto presidencial",
+      "relevance": 0.617297,
+      "count": 1
+    },
+    {
+      "text": "programas acad\u00e9micos",
+      "relevance": 0.603573,
+      "count": 3
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.60025,
+      "count": 4
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.566539,
+      "count": 1
+    },
+    {
+      "text": "proyecto formativo",
+      "relevance": 0.553408,
+      "count": 1
+    },
+    {
+      "text": "pregrado de la universidad",
+      "relevance": 0.553278,
+      "count": 1
+    },
+    {
+      "text": "documento original",
+      "relevance": 0.552315,
+      "count": 1
+    },
+    {
+      "text": "marco de la politica de formacion",
+      "relevance": 0.550009,
+      "count": 1
+    },
+    {
+      "text": "formacion universitaria",
+      "relevance": 0.548875,
+      "count": 1
+    },
+    {
+      "text": "estructura acad\u00e9mico administrativa",
+      "relevance": 0.545908,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.545875,
+      "count": 1
+    },
+    {
+      "text": "extension del plazo",
+      "relevance": 0.542563,
+      "count": 2
+    },
+    {
+      "text": "mes de agosto",
+      "relevance": 0.535956,
+      "count": 1
+    },
+    {
+      "text": "proyecto institucional",
+      "relevance": 0.534313,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de septiembre",
+      "relevance": 0.521855,
+      "count": 1
+    },
+    {
+      "text": "pandemia del covid-19",
+      "relevance": 0.5146,
+      "count": 1
+    },
+    {
+      "text": "procesos de actualizacion",
+      "relevance": 0.513845,
+      "count": 1
+    },
+    {
+      "text": "plan estrat\u00e9gico de desarrollo",
+      "relevance": 0.507687,
+      "count": 1
+    },
+    {
+      "text": "literal b",
+      "relevance": 0.504191,
+      "count": 1
+    },
+    {
+      "text": "actualizaciones curriculares",
+      "relevance": 0.502864,
+      "count": 1
+    },
+    {
+      "text": "proyectos institucionales",
+      "relevance": 0.501851,
+      "count": 1
+    },
+    {
+      "text": "programas de formacion",
+      "relevance": 0.500743,
+      "count": 1
+    },
+    {
+      "text": "fecha de expedici6",
+      "relevance": 0.499992,
+      "count": 1
+    },
+    {
+      "text": "jose echeverry",
+      "relevance": 0.498039,
+      "count": 1
+    },
+    {
+      "text": "parte del comit\u00e9 central de curriculo",
+      "relevance": 0.497465,
+      "count": 1
+    },
+    {
+      "text": "momento de su publicacion",
+      "relevance": 0.495741,
+      "count": 1
+    },
+    {
+      "text": "gesti6n pedagd\u00e9gica",
+      "relevance": 0.495097,
+      "count": 1
+    },
+    {
+      "text": "marzo",
+      "relevance": 0.495064,
+      "count": 2
+    },
+    {
+      "text": "planes de mejoramiento continuo",
+      "relevance": 0.493797,
+      "count": 1
+    },
+    {
+      "text": "presente resolucion",
+      "relevance": 0.493149,
+      "count": 1
+    },
+    {
+      "text": "plazo",
+      "relevance": 0.491,
+      "count": 3
+    },
+    {
+      "text": "estatuto general",
+      "relevance": 0.489398,
+      "count": 1
+    },
+    {
+      "text": "consejo academico de la universidad del valle",
+      "relevance": 0.489172,
+      "count": 1
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.488039,
+      "count": 2
+    },
+    {
+      "text": "septiembre",
+      "relevance": 0.486532,
+      "count": 5
+    },
+    {
+      "text": "emergencia sanitaria",
+      "relevance": 0.486435,
+      "count": 1
+    },
+    {
+      "text": "diciembre",
+      "relevance": 0.486137,
+      "count": 7
+    },
+    {
+      "text": "articulo",
+      "relevance": 0.485483,
+      "count": 4
+    },
+    {
+      "text": "orden de aislamiento preventivo obligatorio",
+      "relevance": 0.485042,
+      "count": 1
+    },
+    {
+      "text": "universidad tendra",
+      "relevance": 0.484173,
+      "count": 1
+    },
+    {
+      "text": "sesi6n",
+      "relevance": 0.481353,
+      "count": 1
+    },
+    {
+      "text": "totalidad de los programas acad\u00e9micos de pregrado",
+      "relevance": 0.481238,
+      "count": 1
+    },
+    {
+      "text": "resoluci6",
+      "relevance": 0.480967,
+      "count": 2
+    },
+    {
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.480143,
+      "count": 1
+    },
+    {
+      "text": "procesos",
+      "relevance": 0.47622,
+      "count": 1
+    },
+    {
+      "text": "politica",
+      "relevance": 0.476186,
+      "count": 1
+    },
+    {
+      "text": "comit\u00e9 central de curriculo de la universidad",
+      "relevance": 0.474927,
+      "count": 1
+    }
+  ]
+}

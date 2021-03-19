@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 7235,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "directora ejecutiva",
+      "relevance": 0.596843,
+      "count": 1
+    },
+    {
+      "text": "uso de sus atribuciones",
+      "relevance": 0.572208,
+      "count": 1
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.568037,
+      "count": 2
+    },
+    {
+      "text": "contrato unico de acceso",
+      "relevance": 0.556293,
+      "count": 1
+    },
+    {
+      "text": "uso de tecnologias de informacion",
+      "relevance": 0.553383,
+      "count": 1
+    },
+    {
+      "text": "pontificia universidad javeriana",
+      "relevance": 0.553022,
+      "count": 1
+    },
+    {
+      "text": "contratacion de dicho servicio",
+      "relevance": 0.545318,
+      "count": 1
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.544112,
+      "count": 11
+    },
+    {
+      "text": "plataforma tecnoldgica de la universidad",
+      "relevance": 0.543661,
+      "count": 1
+    },
+    {
+      "text": "escuela militar de aviacion",
+      "relevance": 0.540663,
+      "count": 1
+    },
+    {
+      "text": "plataforma tecnologica de la universidad",
+      "relevance": 0.539687,
+      "count": 1
+    },
+    {
+      "text": "siguientes instituciones",
+      "relevance": 0.53878,
+      "count": 1
+    },
+    {
+      "text": "ente universitario",
+      "relevance": 0.538446,
+      "count": 1
+    },
+    {
+      "text": "trav\u00e9s de la universidad del valle",
+      "relevance": 0.537799,
+      "count": 1
+    },
+    {
+      "text": "sedes regionales",
+      "relevance": 0.535023,
+      "count": 2
+    },
+    {
+      "text": "vigencias futuras",
+      "relevance": 0.533673,
+      "count": 2
+    },
+    {
+      "text": "ordenador del gasto",
+      "relevance": 0.533423,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.530227,
+      "count": 1
+    },
+    {
+      "text": "plan estrat\u00e9gico de desarrollo",
+      "relevance": 0.529276,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.526958,
+      "count": 3
+    },
+    {
+      "text": "literales k",
+      "relevance": 0.526793,
+      "count": 1
+    },
+    {
+      "text": "centro internacional",
+      "relevance": 0.525898,
+      "count": 1
+    },
+    {
+      "text": "agricultura tropical",
+      "relevance": 0.523405,
+      "count": 1
+    },
+    {
+      "text": "celebraci6n del compromiso",
+      "relevance": 0.523284,
+      "count": 1
+    },
+    {
+      "text": "estatuto organico del presupuesto",
+      "relevance": 0.522594,
+      "count": 2
+    },
+    {
+      "text": "mismos servicios",
+      "relevance": 0.522444,
+      "count": 1
+    },
+    {
+      "text": "r\u00e9gimen especial",
+      "relevance": 0.522393,
+      "count": 1
+    },
+    {
+      "text": "recepcion de bienes",
+      "relevance": 0.522017,
+      "count": 1
+    },
+    {
+      "text": "forma permanente",
+      "relevance": 0.520493,
+      "count": 2
+    },
+    {
+      "text": "universidad de san buenaventura",
+      "relevance": 0.520282,
+      "count": 1
+    },
+    {
+      "text": "calidad actual",
+      "relevance": 0.519993,
+      "count": 1
+    },
+    {
+      "text": "sistemas de informacion",
+      "relevance": 0.519881,
+      "count": 1
+    },
+    {
+      "text": "internet de la ruav",
+      "relevance": 0.518644,
+      "count": 1
+    },
+    {
+      "text": "universidad catdlica",
+      "relevance": 0.518629,
+      "count": 1
+    },
+    {
+      "text": "procesos de modernizacion acad\u00e9mica",
+      "relevance": 0.518545,
+      "count": 1
+    },
+    {
+      "text": "universidad icesi",
+      "relevance": 0.518458,
+      "count": 1
+    },
+    {
+      "text": "universidad cooperativa de colombia",
+      "relevance": 0.516525,
+      "count": 1
+    },
+    {
+      "text": "red universitaria",
+      "relevance": 0.516312,
+      "count": 1
+    },
+    {
+      "text": "centro m\u00e9dico",
+      "relevance": 0.515348,
+      "count": 1
+    },
+    {
+      "text": "plataforma tecnoldgica efectiva",
+      "relevance": 0.514558,
+      "count": 1
+    },
+    {
+      "text": "figura de vigencia futura",
+      "relevance": 0.514418,
+      "count": 1
+    },
+    {
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.51405,
+      "count": 2
+    },
+    {
+      "text": "orden departamental",
+      "relevance": 0.513048,
+      "count": 1
+    },
+    {
+      "text": "diciembre cali",
+      "relevance": 0.512188,
+      "count": 2
+    },
+    {
+      "text": "presupuesto de las vigencias fiscales",
+      "relevance": 0.511525,
+      "count": 1
+    },
+    {
+      "text": "redes acad\u00e9micas avanzadas",
+      "relevance": 0.511272,
+      "count": 1
+    },
+    {
+      "text": "estatuto general",
+      "relevance": 0.510051,
+      "count": 1
+    },
+    {
+      "text": "trav\u00e9s de renata",
+      "relevance": 0.509362,
+      "count": 1
+    },
+    {
+      "text": "procesos misionales",
+      "relevance": 0.508624,
+      "count": 1
+    },
+    {
+      "text": "fundacion valle de lili",
+      "relevance": 0.508419,
+      "count": 1
+    }
+  ]
+}

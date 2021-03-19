@@ -1,0 +1,250 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2207,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "trabajo presencial",
+      "relevance": 0.767476,
+      "count": 2
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.67104,
+      "count": 1
+    },
+    {
+      "text": "especificidad de los cursos tedrico",
+      "relevance": 0.629877,
+      "count": 1
+    },
+    {
+      "text": "siguientes criterios",
+      "relevance": 0.625091,
+      "count": 1
+    },
+    {
+      "text": "horas de trabajo independiente",
+      "relevance": 0.596148,
+      "count": 2
+    },
+    {
+      "text": "desarrollo de destrezas",
+      "relevance": 0.583552,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.577821,
+      "count": 1
+    },
+    {
+      "text": "sistema de cr\u00e9ditos",
+      "relevance": 0.5681,
+      "count": 1
+    },
+    {
+      "text": "cr\u00e9ditos acad\u00e9micos semestrales",
+      "relevance": 0.553316,
+      "count": 1
+    },
+    {
+      "text": "uso de sus atribuciones legales",
+      "relevance": 0.549113,
+      "count": 1
+    },
+    {
+      "text": "hora de trabajo presencial",
+      "relevance": 0.547807,
+      "count": 1
+    },
+    {
+      "text": "saldn de reuniones del consejo",
+      "relevance": 0.529606,
+      "count": 1
+    },
+    {
+      "text": "hora de trabajo independiente",
+      "relevance": 0.523084,
+      "count": 1
+    },
+    {
+      "text": "maximo de cr\u00e9ditos estipulados",
+      "relevance": 0.516843,
+      "count": 1
+    },
+    {
+      "text": "programas desescolarizados",
+      "relevance": 0.511,
+      "count": 1
+    },
+    {
+      "text": "efectos del calculo",
+      "relevance": 0.505363,
+      "count": 1
+    },
+    {
+      "text": "numero minimo",
+      "relevance": 0.505184,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de mayo",
+      "relevance": 0.503573,
+      "count": 1
+    },
+    {
+      "text": "resoluci\u00e9n n",
+      "relevance": 0.496231,
+      "count": 1
+    },
+    {
+      "text": "distribuci6\u00e9n del tiempo de trabajo",
+      "relevance": 0.487429,
+      "count": 1
+    },
+    {
+      "text": "literal c",
+      "relevance": 0.483475,
+      "count": 1
+    },
+    {
+      "text": "estatuto general",
+      "relevance": 0.483475,
+      "count": 1
+    },
+    {
+      "text": "lopez pulecio",
+      "relevance": 0.483475,
+      "count": 1
+    },
+    {
+      "text": "estudiante regular",
+      "relevance": 0.48286,
+      "count": 1
+    },
+    {
+      "text": "hora",
+      "relevance": 0.479146,
+      "count": 2
+    },
+    {
+      "text": "respecto de la relaci\u00e9n",
+      "relevance": 0.478669,
+      "count": 1
+    },
+    {
+      "text": "reglamento estudiantil",
+      "relevance": 0.478669,
+      "count": 1
+    },
+    {
+      "text": "modalidad tedrico",
+      "relevance": 0.478281,
+      "count": 1
+    },
+    {
+      "text": "secretario general",
+      "relevance": 0.476923,
+      "count": 1
+    },
+    {
+      "text": "maximo",
+      "relevance": 0.473161,
+      "count": 2
+    },
+    {
+      "text": "consejo academico de la universidad del valle",
+      "relevance": 0.466874,
+      "count": 1
+    },
+    {
+      "text": "semestre",
+      "relevance": 0.458348,
+      "count": 1
+    },
+    {
+      "text": "marzo",
+      "relevance": 0.453405,
+      "count": 2
+    },
+    {
+      "text": "salud",
+      "relevance": 0.453335,
+      "count": 1
+    },
+    {
+      "text": "cursos",
+      "relevance": 0.452446,
+      "count": 3
+    },
+    {
+      "text": "actividades",
+      "relevance": 0.448008,
+      "count": 3
+    },
+    {
+      "text": "acuerdo",
+      "relevance": 0.446769,
+      "count": 1
+    },
+    {
+      "text": "articulo",
+      "relevance": 0.44649,
+      "count": 2
+    },
+    {
+      "text": "afio",
+      "relevance": 0.444704,
+      "count": 2
+    },
+    {
+      "text": "estudiante",
+      "relevance": 0.444325,
+      "count": 1
+    },
+    {
+      "text": "habilidades",
+      "relevance": 0.444224,
+      "count": 1
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.441721,
+      "count": 2
+    },
+    {
+      "text": "unidades",
+      "relevance": 0.441125,
+      "count": 1
+    },
+    {
+      "text": "podra",
+      "relevance": 0.441125,
+      "count": 1
+    },
+    {
+      "text": "resolucion",
+      "relevance": 0.439933,
+      "count": 1
+    },
+    {
+      "text": "practica",
+      "relevance": 0.439933,
+      "count": 1
+    },
+    {
+      "text": "facultad",
+      "relevance": 0.439933,
+      "count": 1
+    },
+    {
+      "text": "presidente",
+      "relevance": 0.439933,
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 2,
+    "text_characters": 12229,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "estamento estudiantil",
+      "relevance": 0.675853,
+      "count": 8
+    },
+    {
+      "text": "programas acad\u00e9micos de pregrado",
+      "relevance": 0.635326,
+      "count": 1
+    },
+    {
+      "text": "desarrollo del semestre",
+      "relevance": 0.586356,
+      "count": 1
+    },
+    {
+      "text": "primer semestre",
+      "relevance": 0.584691,
+      "count": 6
+    },
+    {
+      "text": "comunidad estudiantil",
+      "relevance": 0.583113,
+      "count": 2
+    },
+    {
+      "text": "actividad acad\u00e9mica",
+      "relevance": 0.580875,
+      "count": 1
+    },
+    {
+      "text": "acad\u00e9micos de pregrado",
+      "relevance": 0.554867,
+      "count": 1
+    },
+    {
+      "text": "semanas habiles",
+      "relevance": 0.552703,
+      "count": 1
+    },
+    {
+      "text": "sedes regionales",
+      "relevance": 0.549447,
+      "count": 2
+    },
+    {
+      "text": "segundo periodo",
+      "relevance": 0.546395,
+      "count": 2
+    },
+    {
+      "text": "siguiente forma",
+      "relevance": 0.54578,
+      "count": 1
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.545553,
+      "count": 8
+    },
+    {
+      "text": "programa acad\u00e9mico",
+      "relevance": 0.545012,
+      "count": 1
+    },
+    {
+      "text": "trabajo de grado",
+      "relevance": 0.542802,
+      "count": 3
+    },
+    {
+      "text": "estudiante interesado",
+      "relevance": 0.541527,
+      "count": 1
+    },
+    {
+      "text": "bienestar universitario",
+      "relevance": 0.535806,
+      "count": 1
+    },
+    {
+      "text": "actividades del encuentro nacional",
+      "relevance": 0.534654,
+      "count": 1
+    },
+    {
+      "text": "efectos de registro de matriculas",
+      "relevance": 0.533938,
+      "count": 1
+    },
+    {
+      "text": "movimiento estudiantil",
+      "relevance": 0.533516,
+      "count": 3
+    },
+    {
+      "text": "historiales acad\u00e9micos de los estudiantes",
+      "relevance": 0.532635,
+      "count": 1
+    },
+    {
+      "text": "estudiantes del comit\u00e9 estudiantil",
+      "relevance": 0.527384,
+      "count": 1
+    },
+    {
+      "text": "uso de las atribuciones",
+      "relevance": 0.525918,
+      "count": 1
+    },
+    {
+      "text": "direcci6n de programa",
+      "relevance": 0.521066,
+      "count": 1
+    },
+    {
+      "text": "segunda semana",
+      "relevance": 0.520974,
+      "count": 1
+    },
+    {
+      "text": "presentacion del trabajo de grado",
+      "relevance": 0.520244,
+      "count": 1
+    },
+    {
+      "text": "segundo semestre",
+      "relevance": 0.520063,
+      "count": 2
+    },
+    {
+      "text": "actividades de movilizacion estudiantil",
+      "relevance": 0.519123,
+      "count": 1
+    },
+    {
+      "text": "estudiantes de pregrado",
+      "relevance": 0.518859,
+      "count": 1
+    },
+    {
+      "text": "estudiantes de univalle de la facultad",
+      "relevance": 0.518826,
+      "count": 1
+    },
+    {
+      "text": "continuidad de los subsidios",
+      "relevance": 0.518418,
+      "count": 1
+    },
+    {
+      "text": "estudiantes matriculados",
+      "relevance": 0.518348,
+      "count": 1
+    },
+    {
+      "text": "servicio continuo de los programas",
+      "relevance": 0.518188,
+      "count": 1
+    },
+    {
+      "text": "puestos permanentes",
+      "relevance": 0.518083,
+      "count": 1
+    },
+    {
+      "text": "estudiantes",
+      "relevance": 0.517936,
+      "count": 13
+    },
+    {
+      "text": "documento original",
+      "relevance": 0.517795,
+      "count": 1
+    },
+    {
+      "text": "division de admisiones",
+      "relevance": 0.517165,
+      "count": 1
+    },
+    {
+      "text": "educacion superior",
+      "relevance": 0.517149,
+      "count": 1
+    },
+    {
+      "text": "rotaciones clinicas",
+      "relevance": 0.517042,
+      "count": 1
+    },
+    {
+      "text": "siguientes garantias",
+      "relevance": 0.516759,
+      "count": 1
+    },
+    {
+      "text": "uso del auditorio",
+      "relevance": 0.516041,
+      "count": 1
+    },
+    {
+      "text": "civico universitario",
+      "relevance": 0.515857,
+      "count": 1
+    },
+    {
+      "text": "direcciones de programa",
+      "relevance": 0.515678,
+      "count": 1
+    },
+    {
+      "text": "primeras semanas",
+      "relevance": 0.515307,
+      "count": 1
+    },
+    {
+      "text": "totalidad de salidas de campo",
+      "relevance": 0.514957,
+      "count": 1
+    },
+    {
+      "text": "profesor tendra",
+      "relevance": 0.514334,
+      "count": 1
+    },
+    {
+      "text": "actividades de movilizacion",
+      "relevance": 0.514053,
+      "count": 1
+    },
+    {
+      "text": "finalizacion de clases",
+      "relevance": 0.513983,
+      "count": 1
+    },
+    {
+      "text": "nivel regional",
+      "relevance": 0.513828,
+      "count": 1
+    },
+    {
+      "text": "quinta semana",
+      "relevance": 0.513694,
+      "count": 1
+    },
+    {
+      "text": "formas de lucha",
+      "relevance": 0.51365,
+      "count": 1
+    }
+  ]
+}

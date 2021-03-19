@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3611,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "valor de los derechos",
+      "relevance": 0.704325,
+      "count": 1
+    },
+    {
+      "text": "convenio marco",
+      "relevance": 0.677298,
+      "count": 1
+    },
+    {
+      "text": "ingenieria sanitaria",
+      "relevance": 0.642887,
+      "count": 4
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.623541,
+      "count": 5
+    },
+    {
+      "text": "instituto unesco",
+      "relevance": 0.61136,
+      "count": 4
+    },
+    {
+      "text": "programa de maestria",
+      "relevance": 0.575427,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.572239,
+      "count": 4
+    },
+    {
+      "text": "estudiantes del programa",
+      "relevance": 0.57175,
+      "count": 1
+    },
+    {
+      "text": "cooperacion acad\u00e9mica",
+      "relevance": 0.564708,
+      "count": 1
+    },
+    {
+      "text": "sera equivalente",
+      "relevance": 0.55646,
+      "count": 1
+    },
+    {
+      "text": "actividades acad\u00e9micas",
+      "relevance": 0.554085,
+      "count": 1
+    },
+    {
+      "text": "programas de maestria master",
+      "relevance": 0.544937,
+      "count": 1
+    },
+    {
+      "text": "estudiantes del programa de doble titulaci6",
+      "relevance": 0.543242,
+      "count": 1
+    },
+    {
+      "text": "costo de la maestria",
+      "relevance": 0.532674,
+      "count": 1
+    },
+    {
+      "text": "presente resolucion",
+      "relevance": 0.531312,
+      "count": 1
+    },
+    {
+      "text": "derechos especiales",
+      "relevance": 0.522946,
+      "count": 1
+    },
+    {
+      "text": "valle",
+      "relevance": 0.514744,
+      "count": 3
+    },
+    {
+      "text": "financiacion del programa",
+      "relevance": 0.512226,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.507895,
+      "count": 1
+    },
+    {
+      "text": "instituto unesco-ihe-holanda.universidad",
+      "relevance": 0.506023,
+      "count": 1
+    },
+    {
+      "text": "duracion del programa",
+      "relevance": 0.505885,
+      "count": 1
+    },
+    {
+      "text": "ingenieria",
+      "relevance": 0.503544,
+      "count": 5
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.502121,
+      "count": 4
+    },
+    {
+      "text": "modalidad investigacion",
+      "relevance": 0.50163,
+      "count": 1
+    },
+    {
+      "text": "estudiantes del programa de doble",
+      "relevance": 0.500695,
+      "count": 1
+    },
+    {
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.500659,
+      "count": 1
+    },
+    {
+      "text": "periodo de estudios",
+      "relevance": 0.500155,
+      "count": 1
+    },
+    {
+      "text": "demas conceptos",
+      "relevance": 0.499923,
+      "count": 1
+    },
+    {
+      "text": "costo de los derechos",
+      "relevance": 0.498732,
+      "count": 1
+    },
+    {
+      "text": "periodos acad\u00e9micos presenciales",
+      "relevance": 0.49528,
+      "count": 1
+    },
+    {
+      "text": "unesco-ihe",
+      "relevance": 0.491897,
+      "count": 1
+    },
+    {
+      "text": "derechos econ\u00e9micos",
+      "relevance": 0.491822,
+      "count": 1
+    },
+    {
+      "text": "secretario general",
+      "relevance": 0.491248,
+      "count": 1
+    },
+    {
+      "text": "maestria",
+      "relevance": 0.49081,
+      "count": 2
+    },
+    {
+      "text": "programa de doble titulaci6n",
+      "relevance": 0.489812,
+      "count": 1
+    },
+    {
+      "text": "\u00e9nfasis",
+      "relevance": 0.486815,
+      "count": 5
+    },
+    {
+      "text": "dias del mes de junio",
+      "relevance": 0.485744,
+      "count": 1
+    },
+    {
+      "text": "numero de asignaturas",
+      "relevance": 0.484803,
+      "count": 1
+    },
+    {
+      "text": "lopez pulecio",
+      "relevance": 0.484803,
+      "count": 1
+    },
+    {
+      "text": "estudiantes del programa de doble titulacion",
+      "relevance": 0.483916,
+      "count": 1
+    },
+    {
+      "text": "municipal water",
+      "relevance": 0.481793,
+      "count": 1
+    },
+    {
+      "text": "convenio marco de cooperacio\u00e9n acad\u00e9mica",
+      "relevance": 0.480981,
+      "count": 1
+    },
+    {
+      "text": "periodo acad\u00e9mico",
+      "relevance": 0.480926,
+      "count": 1
+    },
+    {
+      "text": "presente",
+      "relevance": 0.479612,
+      "count": 1
+    },
+    {
+      "text": "normas reglamentarias",
+      "relevance": 0.475682,
+      "count": 1
+    },
+    {
+      "text": "valor",
+      "relevance": 0.474082,
+      "count": 2
+    },
+    {
+      "text": "cr\u00e9ditos",
+      "relevance": 0.47225,
+      "count": 1
+    },
+    {
+      "text": "resolucion",
+      "relevance": 0.471049,
+      "count": 1
+    },
+    {
+      "text": "estudiante del programa de doble titulacion",
+      "relevance": 0.470807,
+      "count": 1
+    },
+    {
+      "text": "derechos",
+      "relevance": 0.470629,
+      "count": 1
+    }
+  ]
+}

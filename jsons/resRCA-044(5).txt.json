@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2719,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "centros de investigacion",
+      "relevance": 0.745099,
+      "count": 4
+    },
+    {
+      "text": "presente resolucion",
+      "relevance": 0.64898,
+      "count": 1
+    },
+    {
+      "text": "comit\u00e9 central de investigaciones",
+      "relevance": 0.636074,
+      "count": 1
+    },
+    {
+      "text": "existencia de los centros de investigaci6",
+      "relevance": 0.623498,
+      "count": 1
+    },
+    {
+      "text": "propuestas de ratificacion",
+      "relevance": 0.612259,
+      "count": 1
+    },
+    {
+      "text": "centros",
+      "relevance": 0.574849,
+      "count": 3
+    },
+    {
+      "text": "normativa vigente",
+      "relevance": 0.567044,
+      "count": 1
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.564673,
+      "count": 2
+    },
+    {
+      "text": "presente resoluci6n",
+      "relevance": 0.560762,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.556836,
+      "count": 1
+    },
+    {
+      "text": "estudios avanzados",
+      "relevance": 0.550258,
+      "count": 1
+    },
+    {
+      "text": "documentaci6n socioecon\u00e9mica",
+      "relevance": 0.541281,
+      "count": 1
+    },
+    {
+      "text": "sistema de investigacion de la universidad",
+      "relevance": 0.539618,
+      "count": 1
+    },
+    {
+      "text": "facultad de ciencias sociales",
+      "relevance": 0.535359,
+      "count": 1
+    },
+    {
+      "text": "centro de investigaciones",
+      "relevance": 0.534398,
+      "count": 2
+    },
+    {
+      "text": "territorio construcci6n",
+      "relevance": 0.533958,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.532477,
+      "count": 1
+    },
+    {
+      "text": "consejo academico de la universidad del valle",
+      "relevance": 0.529983,
+      "count": 1
+    },
+    {
+      "text": "salon del consejo acad\u00e9mico",
+      "relevance": 0.529747,
+      "count": 1
+    },
+    {
+      "text": "uso de las atribuciones legales",
+      "relevance": 0.529286,
+      "count": 1
+    },
+    {
+      "text": "centros de investigaci6n",
+      "relevance": 0.519843,
+      "count": 1
+    },
+    {
+      "text": "institutos acad\u00e9micos",
+      "relevance": 0.518793,
+      "count": 1
+    },
+    {
+      "text": "evaluacion de tecnologia",
+      "relevance": 0.509703,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de mayo",
+      "relevance": 0.503576,
+      "count": 1
+    },
+    {
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.494977,
+      "count": 1
+    },
+    {
+      "text": "formas organizativas",
+      "relevance": 0.490152,
+      "count": 1
+    },
+    {
+      "text": "labor investigativa",
+      "relevance": 0.490152,
+      "count": 1
+    },
+    {
+      "text": "salud cedetes",
+      "relevance": 0.48874,
+      "count": 1
+    },
+    {
+      "text": "diciembre",
+      "relevance": 0.485534,
+      "count": 2
+    },
+    {
+      "text": "acuerdo",
+      "relevance": 0.480395,
+      "count": 3
+    },
+    {
+      "text": "6n",
+      "relevance": 0.480199,
+      "count": 1
+    },
+    {
+      "text": "resolucion",
+      "relevance": 0.472479,
+      "count": 1
+    },
+    {
+      "text": "consejo superior de la universidad del valle aprob6",
+      "relevance": 0.470736,
+      "count": 1
+    },
+    {
+      "text": "facultades",
+      "relevance": 0.46957,
+      "count": 1
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.468517,
+      "count": 4
+    },
+    {
+      "text": "marzo",
+      "relevance": 0.464945,
+      "count": 1
+    },
+    {
+      "text": "investigaciones",
+      "relevance": 0.463356,
+      "count": 1
+    },
+    {
+      "text": "valle",
+      "relevance": 0.46262,
+      "count": 2
+    },
+    {
+      "text": "desarrollo",
+      "relevance": 0.462377,
+      "count": 1
+    },
+    {
+      "text": "fecha",
+      "relevance": 0.462111,
+      "count": 1
+    },
+    {
+      "text": "transito",
+      "relevance": 0.462,
+      "count": 1
+    },
+    {
+      "text": "centro",
+      "relevance": 0.461323,
+      "count": 1
+    },
+    {
+      "text": "recomendo",
+      "relevance": 0.460103,
+      "count": 1
+    },
+    {
+      "text": "condiciones",
+      "relevance": 0.458009,
+      "count": 1
+    },
+    {
+      "text": "trayectoria",
+      "relevance": 0.458009,
+      "count": 1
+    },
+    {
+      "text": "ratificacion",
+      "relevance": 0.456547,
+      "count": 1
+    },
+    {
+      "text": "ramos",
+      "relevance": 0.45596,
+      "count": 1
+    },
+    {
+      "text": "creacion",
+      "relevance": 0.455242,
+      "count": 1
+    },
+    {
+      "text": "econ\u00e9micas",
+      "relevance": 0.454882,
+      "count": 1
+    },
+    {
+      "text": "disposiciones",
+      "relevance": 0.453805,
+      "count": 2
+    }
+  ]
+}

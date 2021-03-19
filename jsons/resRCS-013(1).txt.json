@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 5336,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "cultura investigativa",
+      "relevance": 0.821246,
+      "count": 1
+    },
+    {
+      "text": "estudiantes cultura",
+      "relevance": 0.659595,
+      "count": 1
+    },
+    {
+      "text": "estudiantes de pregrado",
+      "relevance": 0.62297,
+      "count": 2
+    },
+    {
+      "text": "asignaturas equivalentes ofrecidas",
+      "relevance": 0.597237,
+      "count": 1
+    },
+    {
+      "text": "vicerrectoria de investigaciones",
+      "relevance": 0.592126,
+      "count": 2
+    },
+    {
+      "text": "programa de semilleros",
+      "relevance": 0.578393,
+      "count": 2
+    },
+    {
+      "text": "trav\u00e9s de la incorporacion de la investigaci\u00e9n",
+      "relevance": 0.577642,
+      "count": 1
+    },
+    {
+      "text": "estatuto de investigaciones",
+      "relevance": 0.576117,
+      "count": 1
+    },
+    {
+      "text": "vinculaci\u00e9n de los estudiantes",
+      "relevance": 0.570808,
+      "count": 1
+    },
+    {
+      "text": "reconocimiento formal",
+      "relevance": 0.559278,
+      "count": 1
+    },
+    {
+      "text": "trabajo de grupos",
+      "relevance": 0.556545,
+      "count": 1
+    },
+    {
+      "text": "plan estrat\u00e9gico de desarrollo",
+      "relevance": 0.546569,
+      "count": 1
+    },
+    {
+      "text": "trav\u00e9s de proyectos inscritos",
+      "relevance": 0.539467,
+      "count": 1
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.53398,
+      "count": 2
+    },
+    {
+      "text": "cr\u00e9ditos del programa",
+      "relevance": 0.533105,
+      "count": 1
+    },
+    {
+      "text": "estudiantes",
+      "relevance": 0.526968,
+      "count": 3
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.526364,
+      "count": 1
+    },
+    {
+      "text": "nombres de los estudiantes vinculados",
+      "relevance": 0.525421,
+      "count": 1
+    },
+    {
+      "text": "programa de semilleros de investigacion",
+      "relevance": 0.523462,
+      "count": 1
+    },
+    {
+      "text": "siguientes requisitos",
+      "relevance": 0.522742,
+      "count": 1
+    },
+    {
+      "text": "experiencias formativas",
+      "relevance": 0.521487,
+      "count": 1
+    },
+    {
+      "text": "eventos nacionales",
+      "relevance": 0.521256,
+      "count": 1
+    },
+    {
+      "text": "propd\u00e9sito de la universidad del valle",
+      "relevance": 0.519741,
+      "count": 1
+    },
+    {
+      "text": "marco de los grupos",
+      "relevance": 0.516991,
+      "count": 1
+    },
+    {
+      "text": "estudiante regular",
+      "relevance": 0.514692,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.513579,
+      "count": 1
+    },
+    {
+      "text": "comit\u00e9 central de investigaciones",
+      "relevance": 0.513338,
+      "count": 1
+    },
+    {
+      "text": "estudiantes vinculados",
+      "relevance": 0.512515,
+      "count": 1
+    },
+    {
+      "text": "aval de un profesor de la universidad",
+      "relevance": 0.512475,
+      "count": 1
+    },
+    {
+      "text": "plan de trabajo semestral",
+      "relevance": 0.509181,
+      "count": 1
+    },
+    {
+      "text": "asignaturas electivas",
+      "relevance": 0.50872,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de abril",
+      "relevance": 0.508043,
+      "count": 1
+    },
+    {
+      "text": "ejes de la accidn acad\u00e9mica",
+      "relevance": 0.50364,
+      "count": 1
+    },
+    {
+      "text": "promedio acumulado",
+      "relevance": 0.500595,
+      "count": 1
+    },
+    {
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.499786,
+      "count": 1
+    },
+    {
+      "text": "consolidaci\u00e9n de la instituci\u00e9n",
+      "relevance": 0.499187,
+      "count": 1
+    },
+    {
+      "text": "procesos de formaci6n",
+      "relevance": 0.498882,
+      "count": 1
+    },
+    {
+      "text": "parte fundamental",
+      "relevance": 0.497944,
+      "count": 1
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.497667,
+      "count": 5
+    },
+    {
+      "text": "cuantia de la convocatoria anual",
+      "relevance": 0.497272,
+      "count": 1
+    },
+    {
+      "text": "reglamento estudiantil",
+      "relevance": 0.497268,
+      "count": 1
+    },
+    {
+      "text": "actividades de investigacidn",
+      "relevance": 0.497118,
+      "count": 1
+    },
+    {
+      "text": "semillero de investigaciones",
+      "relevance": 0.497079,
+      "count": 1
+    },
+    {
+      "text": "uso de sus atribuciones",
+      "relevance": 0.495817,
+      "count": 1
+    },
+    {
+      "text": "secretario general",
+      "relevance": 0.495817,
+      "count": 1
+    },
+    {
+      "text": "m\u00e9todos de investigacidn",
+      "relevance": 0.495472,
+      "count": 1
+    },
+    {
+      "text": "programa de pregrado",
+      "relevance": 0.495284,
+      "count": 1
+    },
+    {
+      "text": "distintos programas acad\u00e9micos",
+      "relevance": 0.494798,
+      "count": 1
+    },
+    {
+      "text": "parte de la vicerrectoria",
+      "relevance": 0.494641,
+      "count": 1
+    },
+    {
+      "text": "directores de grupos",
+      "relevance": 0.492212,
+      "count": 1
+    }
+  ]
+}

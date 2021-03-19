@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 9308,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "actualizacion de fibras",
+      "relevance": 0.603178,
+      "count": 1
+    },
+    {
+      "text": "ordenador del gasto",
+      "relevance": 0.559486,
+      "count": 1
+    },
+    {
+      "text": "vigencias futuras",
+      "relevance": 0.553179,
+      "count": 2
+    },
+    {
+      "text": "mantenimiento de infraestructuras de las tecnologias",
+      "relevance": 0.55202,
+      "count": 1
+    },
+    {
+      "text": "plan tic",
+      "relevance": 0.551433,
+      "count": 1
+    },
+    {
+      "text": "gobierno nacional",
+      "relevance": 0.547036,
+      "count": 1
+    },
+    {
+      "text": "sector de las tecnologias",
+      "relevance": 0.543001,
+      "count": 1
+    },
+    {
+      "text": "implementacion de centros de cableado",
+      "relevance": 0.541971,
+      "count": 1
+    },
+    {
+      "text": "periodo fiscal",
+      "relevance": 0.540779,
+      "count": 1
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.538243,
+      "count": 5
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.536275,
+      "count": 6
+    },
+    {
+      "text": "infraestructura necesaria",
+      "relevance": 0.534352,
+      "count": 1
+    },
+    {
+      "text": "desarrollo del principio",
+      "relevance": 0.533687,
+      "count": 1
+    },
+    {
+      "text": "sector de tecnologias de la informacion",
+      "relevance": 0.533196,
+      "count": 1
+    },
+    {
+      "text": "aprovechamiento de la conectividad",
+      "relevance": 0.533055,
+      "count": 1
+    },
+    {
+      "text": "sedes san",
+      "relevance": 0.53102,
+      "count": 4
+    },
+    {
+      "text": "backbone de fibra 6ptica",
+      "relevance": 0.530496,
+      "count": 1
+    },
+    {
+      "text": "masificacion de internet",
+      "relevance": 0.529314,
+      "count": 1
+    },
+    {
+      "text": "estatuto organico de presupuesto",
+      "relevance": 0.528438,
+      "count": 1
+    },
+    {
+      "text": "medio ambiente",
+      "relevance": 0.527763,
+      "count": 1
+    },
+    {
+      "text": "legalidad del gasto publico",
+      "relevance": 0.527222,
+      "count": 1
+    },
+    {
+      "text": "personeria juridica",
+      "relevance": 0.527124,
+      "count": 1
+    },
+    {
+      "text": "servicio social",
+      "relevance": 0.525023,
+      "count": 1
+    },
+    {
+      "text": "certidumbre juridica",
+      "relevance": 0.524958,
+      "count": 1
+    },
+    {
+      "text": "plataforma tecnologica efectiva",
+      "relevance": 0.524574,
+      "count": 1
+    },
+    {
+      "text": "presupuesto de gasto",
+      "relevance": 0.524263,
+      "count": 1
+    },
+    {
+      "text": "autonomia acad\u00e9mica",
+      "relevance": 0.522307,
+      "count": 1
+    },
+    {
+      "text": "figura de vigencia futura",
+      "relevance": 0.522288,
+      "count": 1
+    },
+    {
+      "text": "plan estrat\u00e9gico de desarrollo",
+      "relevance": 0.522132,
+      "count": 1
+    },
+    {
+      "text": "sector privado",
+      "relevance": 0.52015,
+      "count": 1
+    },
+    {
+      "text": "esquemas de disponibilidad",
+      "relevance": 0.520005,
+      "count": 1
+    },
+    {
+      "text": "patrimonio independiente",
+      "relevance": 0.51971,
+      "count": 1
+    },
+    {
+      "text": "marco institucional del sector",
+      "relevance": 0.519243,
+      "count": 1
+    },
+    {
+      "text": "estatuto general",
+      "relevance": 0.519,
+      "count": 1
+    },
+    {
+      "text": "gestion acad\u00e9mico",
+      "relevance": 0.517288,
+      "count": 1
+    },
+    {
+      "text": "forma permanente",
+      "relevance": 0.516947,
+      "count": 1
+    },
+    {
+      "text": "presente ley",
+      "relevance": 0.516917,
+      "count": 1
+    },
+    {
+      "text": "asamblea departamental del valle",
+      "relevance": 0.516855,
+      "count": 1
+    },
+    {
+      "text": "manejo proactivo de amenazas",
+      "relevance": 0.516145,
+      "count": 1
+    },
+    {
+      "text": "ambitos de las ciencias",
+      "relevance": 0.51614,
+      "count": 1
+    },
+    {
+      "text": "equipos de red cableada",
+      "relevance": 0.515556,
+      "count": 1
+    },
+    {
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.515138,
+      "count": 2
+    },
+    {
+      "text": "autorizaci6n correspondiente",
+      "relevance": 0.514494,
+      "count": 1
+    },
+    {
+      "text": "desarrollo de los proyectos",
+      "relevance": 0.514183,
+      "count": 1
+    },
+    {
+      "text": "diciembre del afio",
+      "relevance": 0.513932,
+      "count": 1
+    },
+    {
+      "text": "campus universitarios",
+      "relevance": 0.513392,
+      "count": 1
+    },
+    {
+      "text": "ente universitario",
+      "relevance": 0.512978,
+      "count": 1
+    },
+    {
+      "text": "habilitadoras del desarrollo economico",
+      "relevance": 0.512958,
+      "count": 1
+    },
+    {
+      "text": "mecanismo de la vigencias futura",
+      "relevance": 0.512859,
+      "count": 1
+    },
+    {
+      "text": "objeto del compromiso",
+      "relevance": 0.512144,
+      "count": 1
+    }
+  ]
+}

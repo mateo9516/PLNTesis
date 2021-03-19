@@ -1,0 +1,245 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1942,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "doctor ivan enrique",
+      "relevance": 0.65051,
+      "count": 1
+    },
+    {
+      "text": "estatuto general",
+      "relevance": 0.625991,
+      "count": 2
+    },
+    {
+      "text": "senor luis",
+      "relevance": 0.61017,
+      "count": 1
+    },
+    {
+      "text": "sefor juan",
+      "relevance": 0.606532,
+      "count": 1
+    },
+    {
+      "text": "periodo periodo",
+      "relevance": 0.605082,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.603907,
+      "count": 2
+    },
+    {
+      "text": "paragrafo del articulo",
+      "relevance": 0.568699,
+      "count": 2
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.556599,
+      "count": 1
+    },
+    {
+      "text": "castillo gomez",
+      "relevance": 0.554738,
+      "count": 2
+    },
+    {
+      "text": "correo electr\u00e9nico",
+      "relevance": 0.552133,
+      "count": 1
+    },
+    {
+      "text": "sefor luis",
+      "relevance": 0.548906,
+      "count": 1
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.539596,
+      "count": 1
+    },
+    {
+      "text": "proceso de designacion de rector",
+      "relevance": 0.526085,
+      "count": 1
+    },
+    {
+      "text": "representante del presidente",
+      "relevance": 0.525418,
+      "count": 1
+    },
+    {
+      "text": "rector de la universidad",
+      "relevance": 0.524862,
+      "count": 1
+    },
+    {
+      "text": "fallo de fecha",
+      "relevance": 0.513933,
+      "count": 1
+    },
+    {
+      "text": "manuel garc\u00e9s",
+      "relevance": 0.512147,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de octubre",
+      "relevance": 0.499473,
+      "count": 1
+    },
+    {
+      "text": "rector encargado",
+      "relevance": 0.495793,
+      "count": 2
+    },
+    {
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.494477,
+      "count": 1
+    },
+    {
+      "text": "corchuelo marmolejo",
+      "relevance": 0.494133,
+      "count": 1
+    },
+    {
+      "text": "c\u00e9dula de ciudadania",
+      "relevance": 0.490531,
+      "count": 2
+    },
+    {
+      "text": "asuntos penales",
+      "relevance": 0.488784,
+      "count": 1
+    },
+    {
+      "text": "tribunal superior del distrito judicial de cali",
+      "relevance": 0.481209,
+      "count": 1
+    },
+    {
+      "text": "atribuciones",
+      "relevance": 0.477628,
+      "count": 1
+    },
+    {
+      "text": "valle",
+      "relevance": 0.477193,
+      "count": 2
+    },
+    {
+      "text": "rector",
+      "relevance": 0.472538,
+      "count": 3
+    },
+    {
+      "text": "salon de reuniones del consejo acad\u00e9mico",
+      "relevance": 0.467657,
+      "count": 1
+    },
+    {
+      "text": "noviembre",
+      "relevance": 0.466437,
+      "count": 2
+    },
+    {
+      "text": "conformidad",
+      "relevance": 0.463108,
+      "count": 1
+    },
+    {
+      "text": "adolescentes",
+      "relevance": 0.461829,
+      "count": 1
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.45862,
+      "count": 3
+    },
+    {
+      "text": "cuenta",
+      "relevance": 0.454242,
+      "count": 1
+    },
+    {
+      "text": "renuncia",
+      "relevance": 0.453666,
+      "count": 1
+    },
+    {
+      "text": "propiedad",
+      "relevance": 0.452829,
+      "count": 2
+    },
+    {
+      "text": "alos",
+      "relevance": 0.452496,
+      "count": 1
+    },
+    {
+      "text": "ramos",
+      "relevance": 0.451027,
+      "count": 1
+    },
+    {
+      "text": "periodo",
+      "relevance": 0.449252,
+      "count": 2
+    },
+    {
+      "text": "sala",
+      "relevance": 0.448564,
+      "count": 1
+    },
+    {
+      "text": "presidente",
+      "relevance": 0.448281,
+      "count": 1
+    },
+    {
+      "text": "octubre",
+      "relevance": 0.446952,
+      "count": 2
+    },
+    {
+      "text": "septiembre",
+      "relevance": 0.446952,
+      "count": 1
+    },
+    {
+      "text": "byrne",
+      "relevance": 0.446952,
+      "count": 1
+    },
+    {
+      "text": "resolucion",
+      "relevance": 0.445624,
+      "count": 2
+    },
+    {
+      "text": "uso",
+      "relevance": 0.445624,
+      "count": 1
+    },
+    {
+      "text": "orden",
+      "relevance": 0.445624,
+      "count": 1
+    },
+    {
+      "text": "sede",
+      "relevance": 0.445624,
+      "count": 1
+    }
+  ]
+}

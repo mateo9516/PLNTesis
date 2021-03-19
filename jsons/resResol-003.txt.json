@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 5522,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "trabajos de investigacion",
+      "relevance": 0.81924,
+      "count": 2
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.669987,
+      "count": 2
+    },
+    {
+      "text": "trabajo de investigaci6n",
+      "relevance": 0.606285,
+      "count": 1
+    },
+    {
+      "text": "reconocimiento especial",
+      "relevance": 0.597733,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.596246,
+      "count": 1
+    },
+    {
+      "text": "programas de maestria",
+      "relevance": 0.574424,
+      "count": 1
+    },
+    {
+      "text": "menciones de meritorio",
+      "relevance": 0.566729,
+      "count": 1
+    },
+    {
+      "text": "tesis de doctorado",
+      "relevance": 0.55767,
+      "count": 1
+    },
+    {
+      "text": "director del trabajo",
+      "relevance": 0.554364,
+      "count": 1
+    },
+    {
+      "text": "nivel nacional",
+      "relevance": 0.553143,
+      "count": 3
+    },
+    {
+      "text": "presente resolucidn",
+      "relevance": 0.541145,
+      "count": 1
+    },
+    {
+      "text": "consejo de instituto",
+      "relevance": 0.538168,
+      "count": 1
+    },
+    {
+      "text": "consejo academico de la universidad del valle",
+      "relevance": 0.53814,
+      "count": 1
+    },
+    {
+      "text": "trabajos de investigaci\u00e9dn",
+      "relevance": 0.535854,
+      "count": 1
+    },
+    {
+      "text": "revistas internacionales",
+      "relevance": 0.53384,
+      "count": 1
+    },
+    {
+      "text": "sustentacion del trabajo",
+      "relevance": 0.530135,
+      "count": 1
+    },
+    {
+      "text": "menci\u00e9n de meritoria",
+      "relevance": 0.527303,
+      "count": 1
+    },
+    {
+      "text": "menci6\u00e9n de meritorio",
+      "relevance": 0.527178,
+      "count": 1
+    },
+    {
+      "text": "criterios generales",
+      "relevance": 0.525392,
+      "count": 1
+    },
+    {
+      "text": "mencion de meritoria",
+      "relevance": 0.524355,
+      "count": 1
+    },
+    {
+      "text": "programa de maestria",
+      "relevance": 0.521925,
+      "count": 1
+    },
+    {
+      "text": "articulo segundo",
+      "relevance": 0.518778,
+      "count": 4
+    },
+    {
+      "text": "comit\u00e9 de postgrados",
+      "relevance": 0.518439,
+      "count": 1
+    },
+    {
+      "text": "criterios adicionales",
+      "relevance": 0.513752,
+      "count": 2
+    },
+    {
+      "text": "jurado evaluador",
+      "relevance": 0.513657,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de octubre",
+      "relevance": 0.509601,
+      "count": 1
+    },
+    {
+      "text": "trabajo",
+      "relevance": 0.509569,
+      "count": 9
+    },
+    {
+      "text": "formas de recoleccion",
+      "relevance": 0.5038,
+      "count": 1
+    },
+    {
+      "text": "menciones de meritoria",
+      "relevance": 0.503472,
+      "count": 1
+    },
+    {
+      "text": "buen manejo",
+      "relevance": 0.50278,
+      "count": 1
+    },
+    {
+      "text": "criterios",
+      "relevance": 0.502537,
+      "count": 6
+    },
+    {
+      "text": "instituto de psicologia",
+      "relevance": 0.501308,
+      "count": 1
+    },
+    {
+      "text": "jurado",
+      "relevance": 0.500583,
+      "count": 3
+    },
+    {
+      "text": "menci\u00e9n de laureada",
+      "relevance": 0.499734,
+      "count": 2
+    },
+    {
+      "text": "buen trabajo",
+      "relevance": 0.498759,
+      "count": 1
+    },
+    {
+      "text": "nuevos desarrollos",
+      "relevance": 0.498737,
+      "count": 1
+    },
+    {
+      "text": "acta de sustentacion",
+      "relevance": 0.498736,
+      "count": 1
+    },
+    {
+      "text": "tesis",
+      "relevance": 0.498372,
+      "count": 6
+    },
+    {
+      "text": "presentacidn de ese tipo de documentos",
+      "relevance": 0.497395,
+      "count": 1
+    },
+    {
+      "text": "uso de sus atribuciones",
+      "relevance": 0.495994,
+      "count": 1
+    },
+    {
+      "text": "disefio metodoldgico",
+      "relevance": 0.495994,
+      "count": 1
+    },
+    {
+      "text": "normas formales",
+      "relevance": 0.494316,
+      "count": 1
+    },
+    {
+      "text": "estudiantes de postgrado",
+      "relevance": 0.493953,
+      "count": 1
+    },
+    {
+      "text": "parte del candidato",
+      "relevance": 0.493516,
+      "count": 1
+    },
+    {
+      "text": "area de investigacion",
+      "relevance": 0.493386,
+      "count": 1
+    },
+    {
+      "text": "mencion meritoria",
+      "relevance": 0.49282,
+      "count": 1
+    },
+    {
+      "text": "justificaci\u00e9n de su decisi6n.universidad",
+      "relevance": 0.492329,
+      "count": 1
+    },
+    {
+      "text": "sala de reuniones del consejo acad\u00e9mico",
+      "relevance": 0.492271,
+      "count": 1
+    },
+    {
+      "text": "lopez pulecio",
+      "relevance": 0.49133,
+      "count": 1
+    },
+    {
+      "text": "menci\u00e9n meritoria",
+      "relevance": 0.491179,
+      "count": 1
+    }
+  ]
+}

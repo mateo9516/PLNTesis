@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3278,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "egresados de la universidad del valle",
+      "relevance": 0.63954,
+      "count": 1
+    },
+    {
+      "text": "plan estrat\u00e9gico de desarrollo",
+      "relevance": 0.623533,
+      "count": 1
+    },
+    {
+      "text": "responsabilidad de la oficina de direccion",
+      "relevance": 0.583454,
+      "count": 1
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.582018,
+      "count": 4
+    },
+    {
+      "text": "parte activa",
+      "relevance": 0.568829,
+      "count": 1
+    },
+    {
+      "text": "conocimientos habilidades",
+      "relevance": 0.563102,
+      "count": 1
+    },
+    {
+      "text": "creacion del programa institucional de egresados",
+      "relevance": 0.555815,
+      "count": 1
+    },
+    {
+      "text": "busqueda de fines acad\u00e9micos",
+      "relevance": 0.554954,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.554568,
+      "count": 2
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.549735,
+      "count": 1
+    },
+    {
+      "text": "trav\u00e9s de una relacion organica",
+      "relevance": 0.539099,
+      "count": 1
+    },
+    {
+      "text": "relacion institucional",
+      "relevance": 0.539039,
+      "count": 1
+    },
+    {
+      "text": "proyectos de inter\u00e9s",
+      "relevance": 0.538092,
+      "count": 1
+    },
+    {
+      "text": "lineas de accion",
+      "relevance": 0.537255,
+      "count": 1
+    },
+    {
+      "text": "relaciones universidad",
+      "relevance": 0.536381,
+      "count": 1
+    },
+    {
+      "text": "programa institucional de egresados",
+      "relevance": 0.535846,
+      "count": 2
+    },
+    {
+      "text": "funcion de la direcci\u00e9n",
+      "relevance": 0.52668,
+      "count": 1
+    },
+    {
+      "text": "permanente de la universidad",
+      "relevance": 0.520093,
+      "count": 1
+    },
+    {
+      "text": "objetivos del programa de egresados",
+      "relevance": 0.51991,
+      "count": 1
+    },
+    {
+      "text": "comunicacion permanente",
+      "relevance": 0.517538,
+      "count": 1
+    },
+    {
+      "text": "actividades generales",
+      "relevance": 0.516818,
+      "count": 1
+    },
+    {
+      "text": "parte de una estrategia institucional",
+      "relevance": 0.516739,
+      "count": 1
+    },
+    {
+      "text": "relaciones de integraci6",
+      "relevance": 0.512754,
+      "count": 1
+    },
+    {
+      "text": "actividades conjuntas",
+      "relevance": 0.507161,
+      "count": 1
+    },
+    {
+      "text": "materia de egresados",
+      "relevance": 0.505809,
+      "count": 1
+    },
+    {
+      "text": "extensi6n",
+      "relevance": 0.50359,
+      "count": 1
+    },
+    {
+      "text": "ente administrativo",
+      "relevance": 0.503483,
+      "count": 1
+    },
+    {
+      "text": "atribuciones legales",
+      "relevance": 0.502886,
+      "count": 1
+    },
+    {
+      "text": "mes de enero",
+      "relevance": 0.502886,
+      "count": 1
+    },
+    {
+      "text": "recurso valioso",
+      "relevance": 0.502179,
+      "count": 1
+    },
+    {
+      "text": "institucion",
+      "relevance": 0.500548,
+      "count": 2
+    },
+    {
+      "text": "educacion continua",
+      "relevance": 0.499551,
+      "count": 2
+    },
+    {
+      "text": "procesos",
+      "relevance": 0.49948,
+      "count": 1
+    },
+    {
+      "text": "diferentes instancias acad\u00e9micas",
+      "relevance": 0.49874,
+      "count": 1
+    },
+    {
+      "text": "vicerrectoria acad\u00e9mica",
+      "relevance": 0.496725,
+      "count": 1
+    },
+    {
+      "text": "programa institucional",
+      "relevance": 0.496334,
+      "count": 1
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.495912,
+      "count": 7
+    },
+    {
+      "text": "lopez pulecio",
+      "relevance": 0.495731,
+      "count": 1
+    },
+    {
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.494071,
+      "count": 1
+    },
+    {
+      "text": "representantes de las asociaciones",
+      "relevance": 0.492389,
+      "count": 1
+    },
+    {
+      "text": "institutos acad\u00e9micos",
+      "relevance": 0.49007,
+      "count": 1
+    },
+    {
+      "text": "favor de sus egresados de tal manera",
+      "relevance": 0.489841,
+      "count": 1
+    },
+    {
+      "text": "secretario general",
+      "relevance": 0.486478,
+      "count": 1
+    },
+    {
+      "text": "presente resolucion",
+      "relevance": 0.486184,
+      "count": 1
+    },
+    {
+      "text": "valiosos aportes",
+      "relevance": 0.485907,
+      "count": 1
+    },
+    {
+      "text": "egresados",
+      "relevance": 0.484607,
+      "count": 4
+    },
+    {
+      "text": "valle del cauca",
+      "relevance": 0.483791,
+      "count": 1
+    },
+    {
+      "text": "salon de sesiones del consejo acad\u00e9mico",
+      "relevance": 0.476839,
+      "count": 1
+    },
+    {
+      "text": "egresados de los eventos de caracter cientifico",
+      "relevance": 0.476152,
+      "count": 1
+    },
+    {
+      "text": "trav\u00e9s de las diferentes unidades acad\u00e9micas de la universidad",
+      "relevance": 0.475362,
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 2,
+    "text_characters": 17645,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "institutos acad\u00e9micos",
+      "relevance": 0.616818,
+      "count": 2
+    },
+    {
+      "text": "puntaje minimo de preseleccion",
+      "relevance": 0.584041,
+      "count": 1
+    },
+    {
+      "text": "propuesta completa de un curso",
+      "relevance": 0.582242,
+      "count": 1
+    },
+    {
+      "text": "experiencia experiencia",
+      "relevance": 0.576696,
+      "count": 1
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.567176,
+      "count": 12
+    },
+    {
+      "text": "hoja de vida",
+      "relevance": 0.560554,
+      "count": 2
+    },
+    {
+      "text": "publicacion impresa",
+      "relevance": 0.554552,
+      "count": 1
+    },
+    {
+      "text": "cargos de profesores de tiempo",
+      "relevance": 0.547835,
+      "count": 1
+    },
+    {
+      "text": "siguiente escala",
+      "relevance": 0.544012,
+      "count": 1
+    },
+    {
+      "text": "docente profesional",
+      "relevance": 0.540406,
+      "count": 1
+    },
+    {
+      "text": "ano de avance",
+      "relevance": 0.539995,
+      "count": 1
+    },
+    {
+      "text": "comision de evaluacion de m\u00e9ritos",
+      "relevance": 0.538777,
+      "count": 2
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.538629,
+      "count": 2
+    },
+    {
+      "text": "caso de aspirantes",
+      "relevance": 0.536965,
+      "count": 1
+    },
+    {
+      "text": "puntaje minimo",
+      "relevance": 0.536354,
+      "count": 5
+    },
+    {
+      "text": "propuesta de investigacion",
+      "relevance": 0.536009,
+      "count": 3
+    },
+    {
+      "text": "posgrado obtenido",
+      "relevance": 0.535203,
+      "count": 1
+    },
+    {
+      "text": "literales g",
+      "relevance": 0.534601,
+      "count": 1
+    },
+    {
+      "text": "pruebas acad\u00e9micas",
+      "relevance": 0.53299,
+      "count": 5
+    },
+    {
+      "text": "ciencias naturales",
+      "relevance": 0.530134,
+      "count": 2
+    },
+    {
+      "text": "tiempo completo",
+      "relevance": 0.529791,
+      "count": 1
+    },
+    {
+      "text": "experiencia profesional",
+      "relevance": 0.528927,
+      "count": 2
+    },
+    {
+      "text": "siguientes conceptos",
+      "relevance": 0.527811,
+      "count": 1
+    },
+    {
+      "text": "tipo de publicacion",
+      "relevance": 0.527216,
+      "count": 1
+    },
+    {
+      "text": "estudio de la hoja de vida",
+      "relevance": 0.526525,
+      "count": 1
+    },
+    {
+      "text": "evaluaci\u00e9n de los aspirantes",
+      "relevance": 0.525203,
+      "count": 1
+    },
+    {
+      "text": "medio tiempo",
+      "relevance": 0.524779,
+      "count": 3
+    },
+    {
+      "text": "instituci6n educativa",
+      "relevance": 0.523209,
+      "count": 1
+    },
+    {
+      "text": "exposiciones individuales",
+      "relevance": 0.522625,
+      "count": 1
+    },
+    {
+      "text": "instituciones de educacion basica",
+      "relevance": 0.521909,
+      "count": 1
+    },
+    {
+      "text": "maximo tope",
+      "relevance": 0.52138,
+      "count": 5
+    },
+    {
+      "text": "caso de las licenciaturas",
+      "relevance": 0.521069,
+      "count": 1
+    },
+    {
+      "text": "solicitudes de los candidatos",
+      "relevance": 0.519977,
+      "count": 1
+    },
+    {
+      "text": "experiencia investigativa",
+      "relevance": 0.519976,
+      "count": 1
+    },
+    {
+      "text": "convocatoria semestral",
+      "relevance": 0.519703,
+      "count": 1
+    },
+    {
+      "text": "puntos alcanzable",
+      "relevance": 0.518616,
+      "count": 1
+    },
+    {
+      "text": "caso de empate",
+      "relevance": 0.517774,
+      "count": 1
+    },
+    {
+      "text": "recital de caracter nacional",
+      "relevance": 0.517587,
+      "count": 1
+    },
+    {
+      "text": "instituto acad\u00e9mico",
+      "relevance": 0.517308,
+      "count": 7
+    },
+    {
+      "text": "experiencia docente universitaria",
+      "relevance": 0.51721,
+      "count": 1
+    },
+    {
+      "text": "eventos artisticos",
+      "relevance": 0.517148,
+      "count": 1
+    },
+    {
+      "text": "mitad del puntaje",
+      "relevance": 0.516981,
+      "count": 1
+    },
+    {
+      "text": "escuela de medicina",
+      "relevance": 0.516568,
+      "count": 1
+    },
+    {
+      "text": "perfil acad\u00e9mico",
+      "relevance": 0.516277,
+      "count": 1
+    },
+    {
+      "text": "realizacion de estudios",
+      "relevance": 0.515865,
+      "count": 1
+    },
+    {
+      "text": "marco general de la evaluaci6",
+      "relevance": 0.514887,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.514298,
+      "count": 1
+    },
+    {
+      "text": "docentes de tiempo completo",
+      "relevance": 0.513911,
+      "count": 1
+    },
+    {
+      "text": "investigacion posdoctoral certificada",
+      "relevance": 0.513859,
+      "count": 1
+    },
+    {
+      "text": "facultad de salud",
+      "relevance": 0.513718,
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 4590,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "division de administracion de bienes",
+      "relevance": 0.623332,
+      "count": 1
+    },
+    {
+      "text": "desarrollo institucional",
+      "relevance": 0.593179,
+      "count": 1
+    },
+    {
+      "text": "requisitos legales",
+      "relevance": 0.576995,
+      "count": 1
+    },
+    {
+      "text": "plan maestro",
+      "relevance": 0.576462,
+      "count": 1
+    },
+    {
+      "text": "oficina de planeacion",
+      "relevance": 0.573917,
+      "count": 1
+    },
+    {
+      "text": "siguiente justificacidn",
+      "relevance": 0.562536,
+      "count": 1
+    },
+    {
+      "text": "diseno de salones",
+      "relevance": 0.561844,
+      "count": 1
+    },
+    {
+      "text": "titulo bienes inmuebles",
+      "relevance": 0.557475,
+      "count": 1
+    },
+    {
+      "text": "administracion de la universidad del valle",
+      "relevance": 0.55702,
+      "count": 1
+    },
+    {
+      "text": "necesidades de espacios",
+      "relevance": 0.555817,
+      "count": 1
+    },
+    {
+      "text": "atribuciones conferidas",
+      "relevance": 0.553848,
+      "count": 1
+    },
+    {
+      "text": "sede san",
+      "relevance": 0.550717,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.545387,
+      "count": 4
+    },
+    {
+      "text": "ampliacion de la capacidad de la sede",
+      "relevance": 0.538055,
+      "count": 1
+    },
+    {
+      "text": "lleno de los requisitos establecidos",
+      "relevance": 0.537048,
+      "count": 1
+    },
+    {
+      "text": "adecuacion de un edificio",
+      "relevance": 0.528974,
+      "count": 1
+    },
+    {
+      "text": "santa mariana",
+      "relevance": 0.528109,
+      "count": 1
+    },
+    {
+      "text": "inspeccion de las instalaciones",
+      "relevance": 0.526658,
+      "count": 1
+    },
+    {
+      "text": "propiedad de la comunidad religiosa",
+      "relevance": 0.525648,
+      "count": 1
+    },
+    {
+      "text": "planeacion fisica",
+      "relevance": 0.525313,
+      "count": 1
+    },
+    {
+      "text": "plan de ordenamiento territorial",
+      "relevance": 0.525225,
+      "count": 1
+    },
+    {
+      "text": "mediano plazo",
+      "relevance": 0.523532,
+      "count": 1
+    },
+    {
+      "text": "corto plazo",
+      "relevance": 0.52185,
+      "count": 2
+    },
+    {
+      "text": "nomenclatura urbana actual",
+      "relevance": 0.521169,
+      "count": 1
+    },
+    {
+      "text": "compra de un predio",
+      "relevance": 0.520425,
+      "count": 1
+    },
+    {
+      "text": "respectiva escritura publica",
+      "relevance": 0.520213,
+      "count": 1
+    },
+    {
+      "text": "instalaciones de la sede san",
+      "relevance": 0.519808,
+      "count": 1
+    },
+    {
+      "text": "ejecucion de esta obra",
+      "relevance": 0.518024,
+      "count": 1
+    },
+    {
+      "text": "representante del presidente de la reptblica",
+      "relevance": 0.517542,
+      "count": 1
+    },
+    {
+      "text": "espacios adecuados",
+      "relevance": 0.512856,
+      "count": 1
+    },
+    {
+      "text": "jefe de la oficina",
+      "relevance": 0.512416,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.511273,
+      "count": 1
+    },
+    {
+      "text": "transferencia de la propiedad",
+      "relevance": 0.511192,
+      "count": 1
+    },
+    {
+      "text": "plan de inversion de la vigencia",
+      "relevance": 0.511124,
+      "count": 1
+    },
+    {
+      "text": "planta fisica de la sede",
+      "relevance": 0.508056,
+      "count": 1
+    },
+    {
+      "text": "dias de febrero del afio",
+      "relevance": 0.507026,
+      "count": 1
+    },
+    {
+      "text": "situacion",
+      "relevance": 0.506618,
+      "count": 2
+    },
+    {
+      "text": "salon de reuniones del club",
+      "relevance": 0.50661,
+      "count": 1
+    },
+    {
+      "text": "centimetros cuadrados",
+      "relevance": 0.5059,
+      "count": 1
+    },
+    {
+      "text": "notaria tercera",
+      "relevance": 0.5059,
+      "count": 1
+    },
+    {
+      "text": "secretario general",
+      "relevance": 0.5059,
+      "count": 1
+    },
+    {
+      "text": "contratacion de la universidad",
+      "relevance": 0.505607,
+      "count": 1
+    },
+    {
+      "text": "estado de sus instalaciones",
+      "relevance": 0.505385,
+      "count": 1
+    },
+    {
+      "text": "desarrollo",
+      "relevance": 0.505288,
+      "count": 1
+    },
+    {
+      "text": "problematica de las aulas",
+      "relevance": 0.505088,
+      "count": 1
+    },
+    {
+      "text": "senor rector",
+      "relevance": 0.504157,
+      "count": 2
+    },
+    {
+      "text": "indice de ocupaci6",
+      "relevance": 0.503755,
+      "count": 1
+    },
+    {
+      "text": "totalidad del area disponible",
+      "relevance": 0.502766,
+      "count": 1
+    },
+    {
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.500844,
+      "count": 1
+    },
+    {
+      "text": "trav\u00e9s del area",
+      "relevance": 0.500715,
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 5547,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "suspension de las comisiones de estudio",
+      "relevance": 0.768091,
+      "count": 1
+    },
+    {
+      "text": "exterior del pais",
+      "relevance": 0.643066,
+      "count": 4
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.598241,
+      "count": 3
+    },
+    {
+      "text": "comision de estudios",
+      "relevance": 0.597344,
+      "count": 1
+    },
+    {
+      "text": "desarrollo de la autonomia universitaria",
+      "relevance": 0.597195,
+      "count": 1
+    },
+    {
+      "text": "consejo superior universitario",
+      "relevance": 0.572438,
+      "count": 1
+    },
+    {
+      "text": "atribuciones legales",
+      "relevance": 0.571612,
+      "count": 1
+    },
+    {
+      "text": "programas acad\u00e9micos",
+      "relevance": 0.554178,
+      "count": 1
+    },
+    {
+      "text": "marco de la emergencia sanitaria",
+      "relevance": 0.553648,
+      "count": 2
+    },
+    {
+      "text": "competencia del consejo acad\u00e9mico",
+      "relevance": 0.546124,
+      "count": 1
+    },
+    {
+      "text": "desarrollo profesoral",
+      "relevance": 0.544272,
+      "count": 1
+    },
+    {
+      "text": "responsable de las comisiones de estudio",
+      "relevance": 0.543338,
+      "count": 1
+    },
+    {
+      "text": "constitucion politica de colombia",
+      "relevance": 0.542752,
+      "count": 1
+    },
+    {
+      "text": "normativa vigente",
+      "relevance": 0.54261,
+      "count": 1
+    },
+    {
+      "text": "profesores de carrera",
+      "relevance": 0.54202,
+      "count": 1
+    },
+    {
+      "text": "autoridades acad\u00e9micas",
+      "relevance": 0.53838,
+      "count": 1
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.535686,
+      "count": 4
+    },
+    {
+      "text": "fechas de inicio",
+      "relevance": 0.535604,
+      "count": 1
+    },
+    {
+      "text": "habitantes del territorio nacional",
+      "relevance": 0.534754,
+      "count": 1
+    },
+    {
+      "text": "comision de estudio",
+      "relevance": 0.534658,
+      "count": 1
+    },
+    {
+      "text": "documento original",
+      "relevance": 0.53368,
+      "count": 1
+    },
+    {
+      "text": "causa del coronavirus covid-19",
+      "relevance": 0.533185,
+      "count": 3
+    },
+    {
+      "text": "estudios de posgrado",
+      "relevance": 0.531968,
+      "count": 1
+    },
+    {
+      "text": "razones de fuerza mayor",
+      "relevance": 0.526132,
+      "count": 1
+    },
+    {
+      "text": "manera transitoria",
+      "relevance": 0.526024,
+      "count": 1
+    },
+    {
+      "text": "estatuto general",
+      "relevance": 0.525472,
+      "count": 1
+    },
+    {
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.523047,
+      "count": 1
+    },
+    {
+      "text": "gobierno nacional",
+      "relevance": 0.520196,
+      "count": 1
+    },
+    {
+      "text": "comisiones de estudio",
+      "relevance": 0.516901,
+      "count": 4
+    },
+    {
+      "text": "cabeza de la vicerrectoria acad\u00e9mica",
+      "relevance": 0.515635,
+      "count": 1
+    },
+    {
+      "text": "ciudad de santiago de cali",
+      "relevance": 0.51523,
+      "count": 1
+    },
+    {
+      "text": "clara luz",
+      "relevance": 0.514109,
+      "count": 1
+    },
+    {
+      "text": "cumplimiento de las condiciones de las comisiones",
+      "relevance": 0.511534,
+      "count": 1
+    },
+    {
+      "text": "ejercicio de sus competencias",
+      "relevance": 0.511472,
+      "count": 1
+    },
+    {
+      "text": "republica de colombia",
+      "relevance": 0.509,
+      "count": 1
+    },
+    {
+      "text": "profesor  beneficiario",
+      "relevance": 0.506754,
+      "count": 1
+    },
+    {
+      "text": "aislamiento preventivo obligatorio",
+      "relevance": 0.505623,
+      "count": 2
+    },
+    {
+      "text": "marco de la emergencia",
+      "relevance": 0.504824,
+      "count": 1
+    },
+    {
+      "text": "manera excepcional",
+      "relevance": 0.504508,
+      "count": 2
+    },
+    {
+      "text": "estimulos acad\u00e9micos",
+      "relevance": 0.503269,
+      "count": 1
+    },
+    {
+      "text": "referida resolucion",
+      "relevance": 0.502242,
+      "count": 1
+    },
+    {
+      "text": "financiera de la universidad",
+      "relevance": 0.501551,
+      "count": 1
+    },
+    {
+      "text": "presente acuerdo",
+      "relevance": 0.501315,
+      "count": 2
+    },
+    {
+      "text": "labores formativas",
+      "relevance": 0.500286,
+      "count": 1
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.500149,
+      "count": 1
+    },
+    {
+      "text": "reglamento correspondiente",
+      "relevance": 0.499339,
+      "count": 1
+    },
+    {
+      "text": "maximo organismo",
+      "relevance": 0.499046,
+      "count": 1
+    },
+    {
+      "text": "tiempo remunerado",
+      "relevance": 0.498376,
+      "count": 1
+    },
+    {
+      "text": "estudios",
+      "relevance": 0.496881,
+      "count": 3
+    },
+    {
+      "text": "interior",
+      "relevance": 0.496862,
+      "count": 4
+    }
+  ]
+}

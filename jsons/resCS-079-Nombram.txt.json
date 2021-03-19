@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2492,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "nombramientos provisionales",
+      "relevance": 0.844317,
+      "count": 2
+    },
+    {
+      "text": "funcionarios vinculados",
+      "relevance": 0.787588,
+      "count": 1
+    },
+    {
+      "text": "nombramientos provisionales de los funcionarios",
+      "relevance": 0.727047,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.609423,
+      "count": 1
+    },
+    {
+      "text": "nombramiento provisional",
+      "relevance": 0.597795,
+      "count": 1
+    },
+    {
+      "text": "cargos de empleados",
+      "relevance": 0.578402,
+      "count": 1
+    },
+    {
+      "text": "actos administrativos",
+      "relevance": 0.56388,
+      "count": 1
+    },
+    {
+      "text": "febrero del ano",
+      "relevance": 0.563331,
+      "count": 1
+    },
+    {
+      "text": "vacantes existentes",
+      "relevance": 0.552368,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.531657,
+      "count": 1
+    },
+    {
+      "text": "servicio de la instituci\u00e9n",
+      "relevance": 0.530792,
+      "count": 1
+    },
+    {
+      "text": "secretario generaluniversidad",
+      "relevance": 0.530624,
+      "count": 1
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.529465,
+      "count": 1
+    },
+    {
+      "text": "docentes de la universidad",
+      "relevance": 0.528919,
+      "count": 1
+    },
+    {
+      "text": "concursos correspondientes",
+      "relevance": 0.528745,
+      "count": 1
+    },
+    {
+      "text": "servicio de la universidad del valle",
+      "relevance": 0.514559,
+      "count": 1
+    },
+    {
+      "text": "proceso de concursos internos",
+      "relevance": 0.513369,
+      "count": 1
+    },
+    {
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.508463,
+      "count": 1
+    },
+    {
+      "text": "cargos de los empleados",
+      "relevance": 0.508161,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de diciembre",
+      "relevance": 0.507519,
+      "count": 1
+    },
+    {
+      "text": "vacantes de la planta",
+      "relevance": 0.505715,
+      "count": 2
+    },
+    {
+      "text": "sal\u00e9n de reuniones del despacho",
+      "relevance": 0.499141,
+      "count": 1
+    },
+    {
+      "text": "febrero del ario",
+      "relevance": 0.498154,
+      "count": 1
+    },
+    {
+      "text": "manera definitiva",
+      "relevance": 0.497013,
+      "count": 1
+    },
+    {
+      "text": "fecha de su expedicion",
+      "relevance": 0.493983,
+      "count": 1
+    },
+    {
+      "text": "estatuto general",
+      "relevance": 0.487321,
+      "count": 1
+    },
+    {
+      "text": "lopez pulecio",
+      "relevance": 0.487321,
+      "count": 2
+    },
+    {
+      "text": "valle del cauca",
+      "relevance": 0.482156,
+      "count": 1
+    },
+    {
+      "text": "secretario general",
+      "relevance": 0.482029,
+      "count": 1
+    },
+    {
+      "text": "rector de la universidad",
+      "relevance": 0.478088,
+      "count": 1
+    },
+    {
+      "text": "acuerdo",
+      "relevance": 0.465471,
+      "count": 1
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.463666,
+      "count": 2
+    },
+    {
+      "text": "gobernador",
+      "relevance": 0.463207,
+      "count": 1
+    },
+    {
+      "text": "planta",
+      "relevance": 0.462623,
+      "count": 2
+    },
+    {
+      "text": "funcionarios",
+      "relevance": 0.462548,
+      "count": 1
+    },
+    {
+      "text": "atribuciones",
+      "relevance": 0.460936,
+      "count": 1
+    },
+    {
+      "text": "junio",
+      "relevance": 0.455152,
+      "count": 1
+    },
+    {
+      "text": "vigencia",
+      "relevance": 0.45257,
+      "count": 1
+    },
+    {
+      "text": "planta de cargos definitiva de los empleados",
+      "relevance": 0.450733,
+      "count": 1
+    },
+    {
+      "text": "disposiciones",
+      "relevance": 0.448094,
+      "count": 1
+    },
+    {
+      "text": "septiembre",
+      "relevance": 0.447069,
+      "count": 1
+    },
+    {
+      "text": "valle",
+      "relevance": 0.446095,
+      "count": 1
+    },
+    {
+      "text": "periodo",
+      "relevance": 0.444873,
+      "count": 1
+    },
+    {
+      "text": "vacantes",
+      "relevance": 0.444688,
+      "count": 1
+    },
+    {
+      "text": "diciembre",
+      "relevance": 0.44447,
+      "count": 2
+    },
+    {
+      "text": "articulo",
+      "relevance": 0.44447,
+      "count": 1
+    },
+    {
+      "text": "noviembre",
+      "relevance": 0.444239,
+      "count": 1
+    },
+    {
+      "text": "cargos",
+      "relevance": 0.444222,
+      "count": 2
+    },
+    {
+      "text": "empleados",
+      "relevance": 0.44415,
+      "count": 2
+    },
+    {
+      "text": "docentes",
+      "relevance": 0.443887,
+      "count": 4
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 2,
+    "text_characters": 10186,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "sedes regionales",
+      "relevance": 0.677769,
+      "count": 14
+    },
+    {
+      "text": "docentes de planta",
+      "relevance": 0.637555,
+      "count": 1
+    },
+    {
+      "text": "representantes profesorales",
+      "relevance": 0.561918,
+      "count": 2
+    },
+    {
+      "text": "procesos de vinculacion de profesores",
+      "relevance": 0.554098,
+      "count": 1
+    },
+    {
+      "text": "docentes de las sedes regionales",
+      "relevance": 0.551343,
+      "count": 2
+    },
+    {
+      "text": "requisitos de ley",
+      "relevance": 0.551202,
+      "count": 1
+    },
+    {
+      "text": "medio tiempo",
+      "relevance": 0.549371,
+      "count": 1
+    },
+    {
+      "text": "realizacion de actividades",
+      "relevance": 0.549175,
+      "count": 1
+    },
+    {
+      "text": "evaluacidn de las hojas de vida",
+      "relevance": 0.542816,
+      "count": 1
+    },
+    {
+      "text": "condiciones necesarias",
+      "relevance": 0.540264,
+      "count": 1
+    },
+    {
+      "text": "paso fundamental",
+      "relevance": 0.538638,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.536484,
+      "count": 14
+    },
+    {
+      "text": "transito del actual mecanismo",
+      "relevance": 0.533845,
+      "count": 1
+    },
+    {
+      "text": "caso de docentes",
+      "relevance": 0.533124,
+      "count": 1
+    },
+    {
+      "text": "docentes ocasionales",
+      "relevance": 0.532314,
+      "count": 1
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.530638,
+      "count": 4
+    },
+    {
+      "text": "seguimiento del procedimiento",
+      "relevance": 0.527387,
+      "count": 1
+    },
+    {
+      "text": "actuales docentes",
+      "relevance": 0.526802,
+      "count": 1
+    },
+    {
+      "text": "6n acad\u00e9mica",
+      "relevance": 0.526347,
+      "count": 1
+    },
+    {
+      "text": "procesos acad\u00e9micos",
+      "relevance": 0.525963,
+      "count": 1
+    },
+    {
+      "text": "elecci\u00e9dn del representante estudiantil",
+      "relevance": 0.523408,
+      "count": 1
+    },
+    {
+      "text": "director de regionalizacion",
+      "relevance": 0.522744,
+      "count": 1
+    },
+    {
+      "text": "elementos asimilables",
+      "relevance": 0.522642,
+      "count": 1
+    },
+    {
+      "text": "fundaciones de apoyo",
+      "relevance": 0.522425,
+      "count": 1
+    },
+    {
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.522306,
+      "count": 3
+    },
+    {
+      "text": "misi\u00e9n de la universidad",
+      "relevance": 0.519067,
+      "count": 1
+    },
+    {
+      "text": "vinculaci\u00e9n de contratistas",
+      "relevance": 0.518721,
+      "count": 1
+    },
+    {
+      "text": "actividad docente",
+      "relevance": 0.518117,
+      "count": 1
+    },
+    {
+      "text": "asignaciones salariales asignadas",
+      "relevance": 0.516776,
+      "count": 1
+    },
+    {
+      "text": "manera significativa",
+      "relevance": 0.516598,
+      "count": 1
+    },
+    {
+      "text": "cupos tiempo completo de docentes",
+      "relevance": 0.515756,
+      "count": 1
+    },
+    {
+      "text": "experiencia docente",
+      "relevance": 0.515115,
+      "count": 1
+    },
+    {
+      "text": "actuales condiciones contractuales",
+      "relevance": 0.514769,
+      "count": 1
+    },
+    {
+      "text": "representante estudiantil",
+      "relevance": 0.513964,
+      "count": 1
+    },
+    {
+      "text": "r\u00e9gimen salarial",
+      "relevance": 0.513807,
+      "count": 1
+    },
+    {
+      "text": "segundo semestre",
+      "relevance": 0.513806,
+      "count": 2
+    },
+    {
+      "text": "contratacion de los profesores",
+      "relevance": 0.513602,
+      "count": 1
+    },
+    {
+      "text": "fecha de su expedicion",
+      "relevance": 0.513472,
+      "count": 1
+    },
+    {
+      "text": "calificacidn de la hoja de vida",
+      "relevance": 0.513242,
+      "count": 1
+    },
+    {
+      "text": "adecuada gestion de los procesos",
+      "relevance": 0.511905,
+      "count": 1
+    },
+    {
+      "text": "asignaci6n acad\u00e9mica",
+      "relevance": 0.511447,
+      "count": 1
+    },
+    {
+      "text": "caso del literal b",
+      "relevance": 0.511336,
+      "count": 1
+    },
+    {
+      "text": "efecto de los reconocimientos acad\u00e9mico",
+      "relevance": 0.511298,
+      "count": 2
+    },
+    {
+      "text": "actividades acad\u00e9micas",
+      "relevance": 0.511232,
+      "count": 1
+    },
+    {
+      "text": "horas cdtedra semanales",
+      "relevance": 0.511226,
+      "count": 1
+    },
+    {
+      "text": "casos de docentes",
+      "relevance": 0.510865,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.510495,
+      "count": 1
+    },
+    {
+      "text": "naturaleza de las actividades diferentes",
+      "relevance": 0.51037,
+      "count": 1
+    },
+    {
+      "text": "acto administrativo",
+      "relevance": 0.509993,
+      "count": 1
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.509673,
+      "count": 4
+    }
+  ]
+}

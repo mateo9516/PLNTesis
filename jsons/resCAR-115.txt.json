@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 7107,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "evaluacion del desempefio acad\u00e9mico",
+      "relevance": 0.752071,
+      "count": 2
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.604506,
+      "count": 2
+    },
+    {
+      "text": "periodo de prueba",
+      "relevance": 0.603132,
+      "count": 7
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.576318,
+      "count": 2
+    },
+    {
+      "text": "estatuto profesoral",
+      "relevance": 0.571231,
+      "count": 4
+    },
+    {
+      "text": "profesores nombrados",
+      "relevance": 0.565431,
+      "count": 1
+    },
+    {
+      "text": "caso de la evaluacion de los profesores",
+      "relevance": 0.564359,
+      "count": 1
+    },
+    {
+      "text": "unidad acad\u00e9mica",
+      "relevance": 0.562527,
+      "count": 2
+    },
+    {
+      "text": "calificaci\u00e9n global",
+      "relevance": 0.556183,
+      "count": 1
+    },
+    {
+      "text": "procesos de evaluacion",
+      "relevance": 0.550086,
+      "count": 1
+    },
+    {
+      "text": "facultades legales",
+      "relevance": 0.547947,
+      "count": 1
+    },
+    {
+      "text": "actuacion integral del profesor",
+      "relevance": 0.538627,
+      "count": 1
+    },
+    {
+      "text": "colaboracion de la direccion de planeacion",
+      "relevance": 0.538348,
+      "count": 1
+    },
+    {
+      "text": "libre nombramiento",
+      "relevance": 0.538263,
+      "count": 1
+    },
+    {
+      "text": "evaluacion de los cursos",
+      "relevance": 0.532886,
+      "count": 1
+    },
+    {
+      "text": "evaluacion del desempefio docente",
+      "relevance": 0.532856,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.531075,
+      "count": 1
+    },
+    {
+      "text": "actividades de docencia",
+      "relevance": 0.529646,
+      "count": 2
+    },
+    {
+      "text": "apertura de convocatorias",
+      "relevance": 0.527045,
+      "count": 1
+    },
+    {
+      "text": "reglamento docente de la universidad",
+      "relevance": 0.526212,
+      "count": 1
+    },
+    {
+      "text": "r\u00e9gimen especial",
+      "relevance": 0.526003,
+      "count": 1
+    },
+    {
+      "text": "siguientes criterios",
+      "relevance": 0.525114,
+      "count": 1
+    },
+    {
+      "text": "entrega oportuna de las evaluaciones",
+      "relevance": 0.525012,
+      "count": 1
+    },
+    {
+      "text": "produccion acad\u00e9mica",
+      "relevance": 0.523529,
+      "count": 3
+    },
+    {
+      "text": "consejos de facultad",
+      "relevance": 0.52206,
+      "count": 2
+    },
+    {
+      "text": "efectos de su vinculacion definitiva",
+      "relevance": 0.521995,
+      "count": 1
+    },
+    {
+      "text": "campos de la docencia",
+      "relevance": 0.521398,
+      "count": 1
+    },
+    {
+      "text": "instituto acad\u00e9mico",
+      "relevance": 0.521124,
+      "count": 4
+    },
+    {
+      "text": "realizaci\u00e9n de otras actividades",
+      "relevance": 0.51957,
+      "count": 1
+    },
+    {
+      "text": "base de su plan de trabajo",
+      "relevance": 0.517865,
+      "count": 1
+    },
+    {
+      "text": "objetivos del curso",
+      "relevance": 0.517302,
+      "count": 1
+    },
+    {
+      "text": "consejo academico de la universidad del valle",
+      "relevance": 0.515835,
+      "count": 1
+    },
+    {
+      "text": "materiales audiovisuales",
+      "relevance": 0.515684,
+      "count": 1
+    },
+    {
+      "text": "modalidad de nombramiento",
+      "relevance": 0.514102,
+      "count": 1
+    },
+    {
+      "text": "soportes de las actividades",
+      "relevance": 0.513781,
+      "count": 1
+    },
+    {
+      "text": "estudiantes de los cursos",
+      "relevance": 0.51376,
+      "count": 1
+    },
+    {
+      "text": "primer afio de vinculacion",
+      "relevance": 0.513289,
+      "count": 2
+    },
+    {
+      "text": "evaluacion de desempefio del profesor",
+      "relevance": 0.511239,
+      "count": 1
+    },
+    {
+      "text": "consejo de facultad",
+      "relevance": 0.509919,
+      "count": 3
+    },
+    {
+      "text": "demas compromisos institucionales",
+      "relevance": 0.509911,
+      "count": 1
+    },
+    {
+      "text": "profesores",
+      "relevance": 0.509464,
+      "count": 2
+    },
+    {
+      "text": "vinculacio\u00e9n de profesores",
+      "relevance": 0.508431,
+      "count": 1
+    },
+    {
+      "text": "evaluacion de las actividades",
+      "relevance": 0.507162,
+      "count": 1
+    },
+    {
+      "text": "categorias previstas",
+      "relevance": 0.506941,
+      "count": 1
+    },
+    {
+      "text": "caso de informes de investigacion",
+      "relevance": 0.506509,
+      "count": 1
+    },
+    {
+      "text": "unidad acad\u00e9mica respectiva",
+      "relevance": 0.506413,
+      "count": 1
+    },
+    {
+      "text": "parte del proceso",
+      "relevance": 0.506102,
+      "count": 1
+    },
+    {
+      "text": "vision de la unidad",
+      "relevance": 0.505455,
+      "count": 1
+    },
+    {
+      "text": "politicas generales de evaluacion del desempefio acad\u00e9mico",
+      "relevance": 0.503834,
+      "count": 1
+    },
+    {
+      "text": "secretario general",
+      "relevance": 0.502859,
+      "count": 1
+    }
+  ]
+}

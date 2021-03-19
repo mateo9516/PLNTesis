@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2287,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "comit\u00e9 de evaluacion",
+      "relevance": 0.673299,
+      "count": 2
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.666502,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.627405,
+      "count": 1
+    },
+    {
+      "text": "programa respectivo",
+      "relevance": 0.610173,
+      "count": 1
+    },
+    {
+      "text": "equivalencias correspondientes",
+      "relevance": 0.584911,
+      "count": 1
+    },
+    {
+      "text": "titulos de estadistico",
+      "relevance": 0.574512,
+      "count": 1
+    },
+    {
+      "text": "primer caso",
+      "relevance": 0.5726,
+      "count": 1
+    },
+    {
+      "text": "experiencia profesional",
+      "relevance": 0.565406,
+      "count": 1
+    },
+    {
+      "text": "comit\u00e9 de programa",
+      "relevance": 0.557389,
+      "count": 1
+    },
+    {
+      "text": "actividades acad\u00e9micas",
+      "relevance": 0.557076,
+      "count": 1
+    },
+    {
+      "text": "ultimo caso",
+      "relevance": 0.551758,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de octubre",
+      "relevance": 0.54463,
+      "count": 1
+    },
+    {
+      "text": "requisitos acad\u00e9micos",
+      "relevance": 0.544236,
+      "count": 1
+    },
+    {
+      "text": "planes de estudios",
+      "relevance": 0.53976,
+      "count": 1
+    },
+    {
+      "text": "facultad de ingenieria",
+      "relevance": 0.529729,
+      "count": 1
+    },
+    {
+      "text": "palabra estadistico",
+      "relevance": 0.526578,
+      "count": 1
+    },
+    {
+      "text": "otorgamiento de titulos",
+      "relevance": 0.52647,
+      "count": 1
+    },
+    {
+      "text": "titulo de ingeniero",
+      "relevance": 0.523166,
+      "count": 1
+    },
+    {
+      "text": "consejo acad\u00e9mico de la universidad",
+      "relevance": 0.517984,
+      "count": 1
+    },
+    {
+      "text": "consejo directivo de la universidad",
+      "relevance": 0.514103,
+      "count": 1
+    },
+    {
+      "text": "estudio de los documentos",
+      "relevance": 0.514098,
+      "count": 1
+    },
+    {
+      "text": "literal c",
+      "relevance": 0.503195,
+      "count": 1
+    },
+    {
+      "text": "estatuto general",
+      "relevance": 0.503195,
+      "count": 1
+    },
+    {
+      "text": "secretario general",
+      "relevance": 0.495845,
+      "count": 1
+    },
+    {
+      "text": "vez",
+      "relevance": 0.492731,
+      "count": 1
+    },
+    {
+      "text": "salon de reuniones del consejo acad\u00e9mico",
+      "relevance": 0.483,
+      "count": 1
+    },
+    {
+      "text": "ingeniero",
+      "relevance": 0.479061,
+      "count": 1
+    },
+    {
+      "text": "facultad",
+      "relevance": 0.479018,
+      "count": 1
+    },
+    {
+      "text": "consejo academico de la universidad del valle",
+      "relevance": 0.47829,
+      "count": 1
+    },
+    {
+      "text": "comit\u00e9",
+      "relevance": 0.477255,
+      "count": 1
+    },
+    {
+      "text": "superiores",
+      "relevance": 0.47602,
+      "count": 1
+    },
+    {
+      "text": "atribuciones",
+      "relevance": 0.475235,
+      "count": 1
+    },
+    {
+      "text": "personas",
+      "relevance": 0.475235,
+      "count": 1
+    },
+    {
+      "text": "ingenieria",
+      "relevance": 0.473344,
+      "count": 1
+    },
+    {
+      "text": "aspirante",
+      "relevance": 0.470521,
+      "count": 1
+    },
+    {
+      "text": "solicitud",
+      "relevance": 0.470085,
+      "count": 1
+    },
+    {
+      "text": "titulos",
+      "relevance": 0.469724,
+      "count": 1
+    },
+    {
+      "text": "titulo",
+      "relevance": 0.468487,
+      "count": 1
+    },
+    {
+      "text": "cursos",
+      "relevance": 0.46807,
+      "count": 2
+    },
+    {
+      "text": "soportes",
+      "relevance": 0.466839,
+      "count": 1
+    },
+    {
+      "text": "idoneidad",
+      "relevance": 0.466708,
+      "count": 1
+    },
+    {
+      "text": "posibilidad",
+      "relevance": 0.466407,
+      "count": 1
+    },
+    {
+      "text": "candidato",
+      "relevance": 0.466395,
+      "count": 2
+    },
+    {
+      "text": "arias",
+      "relevance": 0.466237,
+      "count": 1
+    },
+    {
+      "text": "cudles",
+      "relevance": 0.466179,
+      "count": 1
+    },
+    {
+      "text": "unico",
+      "relevance": 0.466112,
+      "count": 1
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.464011,
+      "count": 2
+    },
+    {
+      "text": "adici6",
+      "relevance": 0.463746,
+      "count": 1
+    },
+    {
+      "text": "acuerdo",
+      "relevance": 0.463746,
+      "count": 1
+    },
+    {
+      "text": "estadistico",
+      "relevance": 0.463181,
+      "count": 2
+    }
+  ]
+}

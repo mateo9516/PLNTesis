@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 7010,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "ceremonias de grado",
+      "relevance": 0.687402,
+      "count": 2
+    },
+    {
+      "text": "receso acad\u00e9mico",
+      "relevance": 0.635812,
+      "count": 1
+    },
+    {
+      "text": "fotocopia del documento de identidad",
+      "relevance": 0.601214,
+      "count": 1
+    },
+    {
+      "text": "registro acad\u00e9mico",
+      "relevance": 0.587484,
+      "count": 1
+    },
+    {
+      "text": "fotocopia de la libreta militar",
+      "relevance": 0.565947,
+      "count": 1
+    },
+    {
+      "text": "constancia de registro del diploma",
+      "relevance": 0.564119,
+      "count": 1
+    },
+    {
+      "text": "totalidad de las asignaturas",
+      "relevance": 0.562645,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.556468,
+      "count": 1
+    },
+    {
+      "text": "casos excepcionales",
+      "relevance": 0.554091,
+      "count": 2
+    },
+    {
+      "text": "transcurso de los siguientes",
+      "relevance": 0.550081,
+      "count": 1
+    },
+    {
+      "text": "totalidad de las calificaciones",
+      "relevance": 0.548789,
+      "count": 2
+    },
+    {
+      "text": "ficha acad\u00e9mica",
+      "relevance": 0.54733,
+      "count": 1
+    },
+    {
+      "text": "semestres de su plan de estudios",
+      "relevance": 0.54676,
+      "count": 1
+    },
+    {
+      "text": "oficina de registro acad\u00e9mico",
+      "relevance": 0.544678,
+      "count": 5
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.544521,
+      "count": 1
+    },
+    {
+      "text": "respectivo titulo",
+      "relevance": 0.54423,
+      "count": 1
+    },
+    {
+      "text": "dependencias de la facultad de acuerdo",
+      "relevance": 0.538921,
+      "count": 1
+    },
+    {
+      "text": "recibo de pago de los derechos",
+      "relevance": 0.538217,
+      "count": 1
+    },
+    {
+      "text": "universidad salva",
+      "relevance": 0.537442,
+      "count": 1
+    },
+    {
+      "text": "c\u00e9dula de ciudadania",
+      "relevance": 0.534658,
+      "count": 1
+    },
+    {
+      "text": "reglamento interno de la misma",
+      "relevance": 0.533989,
+      "count": 1
+    },
+    {
+      "text": "respectivas secretartas acad\u00e9micas",
+      "relevance": 0.531827,
+      "count": 1
+    },
+    {
+      "text": "fecha de grado",
+      "relevance": 0.528417,
+      "count": 1
+    },
+    {
+      "text": "valor de la caligrafia del diploma",
+      "relevance": 0.525613,
+      "count": 1
+    },
+    {
+      "text": "sal\u00e9n de sesiones",
+      "relevance": 0.524137,
+      "count": 1
+    },
+    {
+      "text": "secretaria acad\u00e9mica de la facultad",
+      "relevance": 0.522901,
+      "count": 1
+    },
+    {
+      "text": "rectorta de la universidad",
+      "relevance": 0.520224,
+      "count": 1
+    },
+    {
+      "text": "persona autorizada",
+      "relevance": 0.520136,
+      "count": 1
+    },
+    {
+      "text": "trabajos de grado",
+      "relevance": 0.520075,
+      "count": 1
+    },
+    {
+      "text": "juicio de la rectorita",
+      "relevance": 0.519263,
+      "count": 1
+    },
+    {
+      "text": "correspondiente ficha acad\u00e9mica",
+      "relevance": 0.517374,
+      "count": 1
+    },
+    {
+      "text": "fecha reciente",
+      "relevance": 0.515157,
+      "count": 1
+    },
+    {
+      "text": "ceremonia especial",
+      "relevance": 0.512636,
+      "count": 1
+    },
+    {
+      "text": "consejo acad\u00e9mico previa",
+      "relevance": 0.512194,
+      "count": 1
+    },
+    {
+      "text": "c\u00e9dula de extranjerfa",
+      "relevance": 0.511631,
+      "count": 1
+    },
+    {
+      "text": "aspectos acad\u00e9micos",
+      "relevance": 0.511349,
+      "count": 1
+    },
+    {
+      "text": "documentaci\u00e9n personal",
+      "relevance": 0.510797,
+      "count": 1
+    },
+    {
+      "text": "artficulos mencionados",
+      "relevance": 0.509577,
+      "count": 1
+    },
+    {
+      "text": "fichas acad\u00e9micas",
+      "relevance": 0.506982,
+      "count": 1
+    },
+    {
+      "text": "fecha de la ceremonia de grado",
+      "relevance": 0.506826,
+      "count": 1
+    },
+    {
+      "text": "solicitudes de grado",
+      "relevance": 0.506824,
+      "count": 3
+    },
+    {
+      "text": "cretaria acad\u00e9mica de la respectiva facultad",
+      "relevance": 0.506612,
+      "count": 1
+    },
+    {
+      "text": "otorgamiento de titulos",
+      "relevance": 0.506605,
+      "count": 1
+    },
+    {
+      "text": "agencia consular correspondiente",
+      "relevance": 0.506194,
+      "count": 1
+    },
+    {
+      "text": "plan de estudios",
+      "relevance": 0.506066,
+      "count": 2
+    },
+    {
+      "text": "actividades matriculadas",
+      "relevance": 0.50535,
+      "count": 1
+    },
+    {
+      "text": "decanato de estudiantes",
+      "relevance": 0.504994,
+      "count": 1
+    },
+    {
+      "text": "consejo academico de la universidad del valle",
+      "relevance": 0.504765,
+      "count": 1
+    },
+    {
+      "text": "correspondiente diploma",
+      "relevance": 0.503919,
+      "count": 1
+    },
+    {
+      "text": "consejo de la facultad",
+      "relevance": 0.503299,
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+Universidad
+del Valle
+
+UNIVERSIDAD DEL VALLE
+CONSEJO ACADEMICO
+
+RESOLUCION No. 030
+Marzo 15 de 2007
+
+“Por la cual se establecen los criterios para el otorgamiento de puntos por
+produccion de software, contemplados en el Decreto 1279”
+
+EL CONSEJO ACADEMICO DE LA UNVIERSIDAD DEL VALLE,
+en uso de las atribuciones, y
+CONSIDERANDO:
+
+1. Que el Decreto 1279, del 19 de junio de 2002, “Por el cual se establece el
+régimen salarial y prestacional de los docentes de las Universidades
+Estatales, "en su articulo 23 contempla la produccién de software; entre la
+productividad académica cuyo reconocimiento es reglamentado por el
+Consejo Superior de cada Universidad, teniendo en cuenta en este caso los
+criterios establecidos por COLCIENCIAS;
+
+2. Que la Resolucién No. 083 de Noviembre de 2002 del C.S “por la cual se
+reglamentan los aspectos pertinentes del Decreto 1279 de 2002”, establece en su
+articulo 20° “Que el Consejo Académico, con base en las propuestas que
+presente el CIARP, reglamentara los criterios y procedimientos para el
+reconocimiento de los puntos salariales por productividad académica a que hace
+referencia el articulo 23° del Decreto 1279 de 2002”;
+
+3. Que de acuerdo a lo establecido en el articulo 1° de la Resolucién 00285 del
+19 de marzo de 2004 de COLCIENCIAS, la produccién de software como
+produccion cientifica debe dar lugar a un mayor puntaje que como
+produccison tecnoldgica;
+
+4. Que segun el estandar IEEE 729, un producto de software es la suma
+total de los programas de cémputo, procedimientos, reglas, documentacién
+técnica y de usuarios y datos asociados que forman parte de las
+operaciones de un sistema de cémputo, cuyo propésito es el de apoyar elUNIVERSIDAD DEL VALLE
+RESOLUCION No. 030-07 C.A. 2
+
+procesamiento de informacion y que el software compila el conocimiento en
+procesos de solucion de problemas de diverso grado de dificultad.
+
+RESUELVE:
+
+ARTICULO 1°. Para que un software sea considerado como productividad
+
+académica de un docente o grupo de docentes, es
+necesario que sea resultado del desarrollo directo y propio del(os) docentes(s)
+que lo presentan. Puede ser resultado de un proceso de investigacién o de un
+estudio realizado.
+
+ARTICULO 2°. En concordancia con el literal k del articulo 24 del Decreto
+
+1279 el docente que presente este tipo de productividad
+académica debe especificar su grado de aporte en cada una de las etapas de
+desarrollo del software que se presenta (las etapas se definen segun la
+metodologia de desarrollo de software que se utilice).
+
+ARTICULO 3°. Para la evaluaci6n y reconocimiento de puntos el docente
+debera presentar los siguientes soportes:
+
+¢ Documento que presente en detalle los aportes al conocimiento o a la
+innovacion que se hacen con el software.
+
+Documentaci6n técnica que incluya:
+
+- Descripcién del software y el hardware utilizado para su desarrollo
+
+- Descripcién de mddulos, algoritmos, estructuras de datos e interfaz del
+usuario.
+
+¢ CD del sistema que permita la instalacidn y ejecucién adecuada del
+software y el codigo fuente de los programas.
+
+¢ Manual del usuario.
+¢ Documento de evaluacion y pruebas.
+
+¢ Certificado de la licencia comercial o académica del software (si es del caso)
+utilizada para el desarrollo del producto.UNIVERSIDAD DEL VALLE
+RESOLUCION No. 030-07 C.A. 3
+
+ARTICULO 4°. Dada la naturaleza de los trabajos a evaluar, se requieren
+
+dos pares evaluadores que sean: uno, experto en desarrollo
+de software y el otro, experto en el area del conocimiento en la cual se
+desarrolla o se aplica el software.
+
+PARAGRAFO: Considerando que los productos de software conllevan a un
+
+reconocimiento y respeto de los derechos patrimoniales y
+morales de autor se exigira a los evaluadores firmar una carta de compromiso
+de confidencialidad respecto a toda la informacién que les sea entregada para
+evaluacion.
+
+ARTICULO 5°. Para efectos de asignacién de puntos se reconoceran dos
+categorias de software:
+
+¢ Software de producci6n cientifica con generacién de conocimiento (hasta
+15 puntos).
+
+¢ Software de produccién tecnoldgica con generacién de innovacidn (hasta
+12 puntos).
+
+La produccién cientifica implica generacién de conocimiento, referido a la
+generacién de nuevos modelos de organizaciones, de procesos de fendmenos
+naturales y de fendmenos cientificos, entre otros, o nuevos modelos
+algoritmicos. También puede ser nuevo conocimiento referido al area de
+computacién como nuevo modelo de almacenamiento de datos, nueva
+metodologia de desarrollo, nuevo modelo de programacién, nuevas técnicas de
+computacién inteligente, nuevos modelos de la web, nuevos sistemas
+operativos, nuevas arquitecturas de computacion y algoritmos mas eficientes
+para resolver problemas conocidos, entre otros.
+
+La producci6n tecnoldégica implica generacién de innovacién y que esta puede
+estar dentro de las partes basicas para el desarrollo de un producto, como en el
+motor de una base de datos a utilizar, en la metodologia de desarrollo, en la
+plataforma, en el esquema de seguridad, o en la extensién de herramientas
+tecnolégicas existentes, entre otras. También se pueden considerar en nuevas
+aplicaciones de software o en mejoras significativas a aplicaciones existentes.UNIVERSIDAD DEL VALLE
+RESOLUCION No. 030-07 C.A. 4
+
+ARTICULO 6°. Los factores para aceptacién de produccién de software y
+
+asignacién de puntos son los siguientes:
+
+¢ En relacion con el origen del desarrollo:
+
+El producto de software desarrollado puede ser el resultado de una
+actividad debidamente registrada y/o reconocida por la Universidad tal
+como: proyectos de investigacién, proyecto de gestién o de inversién, afho
+sabatico o estudios de Posgrado. También se aceptaran productos de
+software resultantes de actividades realizadas por el docente en un curso
+de la Universidad.
+
+¢ En relacion con el desarrollo:
+
+El desarrollo se realiza atendiendo a unas especificaciones y disefho
+
+debidamente elaborados, es decir siguiendo un proceso sistematizado.
+El disefio conceptual especifica algoritmos claros y consistentes.
+La implementacién obedece al disefo elaborado.
+
+Los manuales técnicos (instalacién, disefho, implementacién) estan bien
+redactados, cubren la totalidad de aspectos del herramienta y facilitan
+adiciones y mejoras.
+
+¢ Enrelacion con la funcionalidad:
+
+Las interfaces de usuario son claras y de facil utilizacién.
+
+Los manuales de usuario estan bien redactados y cubren la totalidad de
+aspectos del sistema desarrollado.
+
+El funcionamiento del sistema obedece a las especificaciones y los
+resultados que aporta son consistentes.
+
+¢ Enrelacion con la complejidad:
+
+El tipo de problema que resuelve. Este indicador debe ser evaluado
+Uunicamente por un experto en el area disciplinar del problema, que podra
+establecer la complejidad del problema abordado.
+
+El grado de complejidad puede establecerse en términos de uno a varios
+de los siguientes items:
+
+e El nivel de dificultad del problema a resolver o tematica a tratar.
+
+e El alcance de la aplicacién que se veria reflejada en cantidad de
+funcionalidades disponibles para el usuario.
+
+Requerimientos de diferentes especialistas para el desarrollo del sistema.UNIVERSIDAD DEL VALLE
+RESOLUCION No. 030-07 C.A. 5
+
+¢ Enrelacion con la diferencia de productos de software similares:
+
+- La existencia de un numero reducido de herramientas gratuitas o
+comerciales disponibles que solucionan el problema.
+
+- El producto desarrollado mejora de manera considerable la_funcionalidad
+de herramientas similares existentes.
+
+¢ Encuanto ala autoria:
+
+- Grado de participaci6n de quien presenta el producto en cada una de las
+etapas del desarrollo (especificacién de requerimientos, disefo,
+implementacién y aporte del conocimiento para el desarrollo).
+
+¢ Encuanto al impacto:
+
+- El producto es utilizado por una comunidad que se enmarca dentro de
+los siguientes ambitos:
+
+- Comunidad institucional
+- Comunidad académica nacional.
+- Comunidad académica internacional.
+e Organizaciones publicas y privadas regionales
+
+e Organizaciones publicas y privadas nacionales
+e Organizaciones publicas y privadas internacionales.
+
+- Elimpacto del producto sera mayor, si ha sido avalado por las
+comunidades.
+
+ARTICULO 7°. La evaluaci6n se hara conforme a los criterios descritos en
+las tablas adjuntas.
+
+ARTICULO 8°. La presente resolucion rige a partir de la fecha y deroga
+todas las disposiciones que le sean contrarias.
+
+COMUNIQUESE Y CUMPLASEUNIVERSIDAD DEL VALLE
+RESOLUCION No. 030-07 C.A. 6
+
+Dada en Santiago de Cali, en el salébn de reuniones del Consejo Académico, a
+los 15 dias del mes de marzo de 2007.
+
+El Presidente,
+
+IVAN ENRIQUE RAMOS CALDERON
+Rector
+
+OSCAR LOPEZ PULECIO
+Secretario General

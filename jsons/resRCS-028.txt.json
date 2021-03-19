@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 3,
+    "text_characters": 23019,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "vocacio\u00e9n de servicio social",
+      "relevance": 0.660327,
+      "count": 1
+    },
+    {
+      "text": "actividades misionales",
+      "relevance": 0.625244,
+      "count": 1
+    },
+    {
+      "text": "proyeccion social",
+      "relevance": 0.598243,
+      "count": 8
+    },
+    {
+      "text": "proyecto institucional",
+      "relevance": 0.588212,
+      "count": 2
+    },
+    {
+      "text": "vicerrectoria acad\u00e9mica",
+      "relevance": 0.585372,
+      "count": 2
+    },
+    {
+      "text": "conjunto de los procesos",
+      "relevance": 0.563182,
+      "count": 1
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.556845,
+      "count": 4
+    },
+    {
+      "text": "proyecto cultural",
+      "relevance": 0.551676,
+      "count": 1
+    },
+    {
+      "text": "comunidad acad\u00e9mica",
+      "relevance": 0.551226,
+      "count": 1
+    },
+    {
+      "text": "compromiso social",
+      "relevance": 0.540951,
+      "count": 2
+    },
+    {
+      "text": "soportes acad\u00e9micos",
+      "relevance": 0.538537,
+      "count": 1
+    },
+    {
+      "text": "propositos de la proyeccion social",
+      "relevance": 0.533595,
+      "count": 2
+    },
+    {
+      "text": "desarrollo institucional",
+      "relevance": 0.532451,
+      "count": 2
+    },
+    {
+      "text": "programas de formacion",
+      "relevance": 0.532043,
+      "count": 1
+    },
+    {
+      "text": "pasantias profesionales",
+      "relevance": 0.529667,
+      "count": 1
+    },
+    {
+      "text": "proyecto acad\u00e9mico",
+      "relevance": 0.527402,
+      "count": 1
+    },
+    {
+      "text": "articulacion de los medios",
+      "relevance": 0.525772,
+      "count": 1
+    },
+    {
+      "text": "fortalecimiento de las capacidades productivas",
+      "relevance": 0.52296,
+      "count": 1
+    },
+    {
+      "text": "espacios virtuales",
+      "relevance": 0.522563,
+      "count": 1
+    },
+    {
+      "text": "emisora de radio",
+      "relevance": 0.522145,
+      "count": 1
+    },
+    {
+      "text": "proyecci\u00e9n social",
+      "relevance": 0.520951,
+      "count": 2
+    },
+    {
+      "text": "distintas modalidades",
+      "relevance": 0.52028,
+      "count": 1
+    },
+    {
+      "text": "excelencia acad\u00e9mica",
+      "relevance": 0.520235,
+      "count": 2
+    },
+    {
+      "text": "educacion continua",
+      "relevance": 0.51983,
+      "count": 1
+    },
+    {
+      "text": "trav\u00e9s de la proyeccion social",
+      "relevance": 0.51944,
+      "count": 2
+    },
+    {
+      "text": "politicas de extensi\u00e9dn universitaria",
+      "relevance": 0.518393,
+      "count": 1
+    },
+    {
+      "text": "apoyo acad\u00e9mico",
+      "relevance": 0.518009,
+      "count": 1
+    },
+    {
+      "text": "gestion publica",
+      "relevance": 0.516914,
+      "count": 1
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.516729,
+      "count": 21
+    },
+    {
+      "text": "materia cientifica",
+      "relevance": 0.51632,
+      "count": 1
+    },
+    {
+      "text": "responsabilidad social",
+      "relevance": 0.516029,
+      "count": 1
+    },
+    {
+      "text": "diferentes niveles educativos",
+      "relevance": 0.515988,
+      "count": 1
+    },
+    {
+      "text": "promocidn del inter\u00e9s publico",
+      "relevance": 0.515962,
+      "count": 1
+    },
+    {
+      "text": "escasos recursos",
+      "relevance": 0.515956,
+      "count": 1
+    },
+    {
+      "text": "trav\u00e9s de sus actividades",
+      "relevance": 0.515782,
+      "count": 1
+    },
+    {
+      "text": "extensidn de la universidad",
+      "relevance": 0.515509,
+      "count": 2
+    },
+    {
+      "text": "calidad de sus procesos acad\u00e9micos",
+      "relevance": 0.515167,
+      "count": 1
+    },
+    {
+      "text": "asuntos de amplio inter\u00e9s",
+      "relevance": 0.515127,
+      "count": 1
+    },
+    {
+      "text": "meses siguientes",
+      "relevance": 0.515115,
+      "count": 1
+    },
+    {
+      "text": "realizaci6n de programas",
+      "relevance": 0.514242,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.514234,
+      "count": 12
+    },
+    {
+      "text": "servicios acad\u00e9micos",
+      "relevance": 0.514087,
+      "count": 2
+    },
+    {
+      "text": "generadores de riqueza cultural",
+      "relevance": 0.513983,
+      "count": 1
+    },
+    {
+      "text": "agentes sociales",
+      "relevance": 0.513942,
+      "count": 1
+    },
+    {
+      "text": "creaci6n artistica",
+      "relevance": 0.513899,
+      "count": 1
+    },
+    {
+      "text": "apreciaci\u00e9n artistica",
+      "relevance": 0.512878,
+      "count": 1
+    },
+    {
+      "text": "produccion intelectual",
+      "relevance": 0.512151,
+      "count": 1
+    },
+    {
+      "text": "reconocimiento de saberes",
+      "relevance": 0.512028,
+      "count": 1
+    },
+    {
+      "text": "cumplimiento de sus obligaciones constitucionales",
+      "relevance": 0.511987,
+      "count": 1
+    },
+    {
+      "text": "nivel superior",
+      "relevance": 0.511572,
+      "count": 1
+    }
+  ]
+}

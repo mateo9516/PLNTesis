@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1184,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "formato correspondiente",
+      "relevance": 0.810501,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.712514,
+      "count": 1
+    },
+    {
+      "text": "parte de un proyecto de investigacion",
+      "relevance": 0.707066,
+      "count": 1
+    },
+    {
+      "text": "facultad de salud",
+      "relevance": 0.69837,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.683153,
+      "count": 1
+    },
+    {
+      "text": "salon de reuniones del consejo",
+      "relevance": 0.609457,
+      "count": 1
+    },
+    {
+      "text": "trabajo de grado",
+      "relevance": 0.596919,
+      "count": 2
+    },
+    {
+      "text": "proyecto de investigacion",
+      "relevance": 0.519161,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de enero",
+      "relevance": 0.516202,
+      "count": 1
+    },
+    {
+      "text": "uso de sus atribuciones",
+      "relevance": 0.513335,
+      "count": 1
+    },
+    {
+      "text": "secretario general",
+      "relevance": 0.513335,
+      "count": 1
+    },
+    {
+      "text": "acta de acuerdo",
+      "relevance": 0.497961,
+      "count": 2
+    },
+    {
+      "text": "lopez pulecio",
+      "relevance": 0.492189,
+      "count": 1
+    },
+    {
+      "text": "parte integral",
+      "relevance": 0.489212,
+      "count": 1
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.480104,
+      "count": 2
+    },
+    {
+      "text": "consejo academico de la universidad del valle",
+      "relevance": 0.47173,
+      "count": 1
+    },
+    {
+      "text": "formato",
+      "relevance": 0.436798,
+      "count": 1
+    },
+    {
+      "text": "alos",
+      "relevance": 0.413427,
+      "count": 1
+    },
+    {
+      "text": "parte",
+      "relevance": 0.412056,
+      "count": 1
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.411087,
+      "count": 1
+    },
+    {
+      "text": "ramos",
+      "relevance": 0.408205,
+      "count": 1
+    },
+    {
+      "text": "articulo",
+      "relevance": 0.40522,
+      "count": 1
+    },
+    {
+      "text": "cumplaseuniversidad",
+      "relevance": 0.404533,
+      "count": 1
+    },
+    {
+      "text": "comit\u00e9",
+      "relevance": 0.404152,
+      "count": 1
+    },
+    {
+      "text": "estatuto",
+      "relevance": 0.404152,
+      "count": 1
+    },
+    {
+      "text": "resolucion",
+      "relevance": 0.403417,
+      "count": 1
+    },
+    {
+      "text": "conformidad",
+      "relevance": 0.403417,
+      "count": 1
+    },
+    {
+      "text": "presidente",
+      "relevance": 0.403417,
+      "count": 1
+    },
+    {
+      "text": "rector",
+      "relevance": 0.403417,
+      "count": 1
+    },
+    {
+      "text": "acuerdo",
+      "relevance": 0.39643,
+      "count": 1
+    }
+  ]
+}

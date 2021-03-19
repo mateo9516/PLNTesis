@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3919,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "doctor alfredo carvajal",
+      "relevance": 0.742069,
+      "count": 1
+    },
+    {
+      "text": "larga trayectoria",
+      "relevance": 0.653862,
+      "count": 1
+    },
+    {
+      "text": "responsabilidad social empresarial",
+      "relevance": 0.600544,
+      "count": 1
+    },
+    {
+      "text": "comision evaluadora",
+      "relevance": 0.578759,
+      "count": 1
+    },
+    {
+      "text": "frente del grupo carvajal",
+      "relevance": 0.561933,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.560722,
+      "count": 3
+    },
+    {
+      "text": "sesion del dia",
+      "relevance": 0.560704,
+      "count": 1
+    },
+    {
+      "text": "importantes organismos nacionales",
+      "relevance": 0.559565,
+      "count": 1
+    },
+    {
+      "text": "empresas de familia",
+      "relevance": 0.558525,
+      "count": 1
+    },
+    {
+      "text": "numerosos reconocimientos",
+      "relevance": 0.558192,
+      "count": 1
+    },
+    {
+      "text": "temas empresariales",
+      "relevance": 0.553633,
+      "count": 1
+    },
+    {
+      "text": "serie de publicaciones",
+      "relevance": 0.551203,
+      "count": 1
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.549989,
+      "count": 1
+    },
+    {
+      "text": "modo importante",
+      "relevance": 0.549073,
+      "count": 1
+    },
+    {
+      "text": "centro de convenciones del pacifico",
+      "relevance": 0.542053,
+      "count": 1
+    },
+    {
+      "text": "uso de sus atribuciones",
+      "relevance": 0.537397,
+      "count": 1
+    },
+    {
+      "text": "largo de su carrera profesional",
+      "relevance": 0.5366,
+      "count": 1
+    },
+    {
+      "text": "invitado permanente",
+      "relevance": 0.533239,
+      "count": 1
+    },
+    {
+      "text": "diversos sectores de los paises",
+      "relevance": 0.531533,
+      "count": 1
+    },
+    {
+      "text": "sectores publico",
+      "relevance": 0.526642,
+      "count": 1
+    },
+    {
+      "text": "ceremonia especial",
+      "relevance": 0.526531,
+      "count": 1
+    },
+    {
+      "text": "contexto internacional",
+      "relevance": 0.525983,
+      "count": 1
+    },
+    {
+      "text": "solucion de problemas sociales",
+      "relevance": 0.524615,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.521708,
+      "count": 1
+    },
+    {
+      "text": "doctor alfredo carvajal sinisterra",
+      "relevance": 0.520099,
+      "count": 3
+    },
+    {
+      "text": "trayectoria de empresario",
+      "relevance": 0.518889,
+      "count": 1
+    },
+    {
+      "text": "consejo de la facultad de ciencias",
+      "relevance": 0.517202,
+      "count": 1
+    },
+    {
+      "text": "distincidn de doctorado honoris",
+      "relevance": 0.511482,
+      "count": 1
+    },
+    {
+      "text": "modelo de gerencia exitoso",
+      "relevance": 0.511121,
+      "count": 1
+    },
+    {
+      "text": "trav\u00e9s de su gestion",
+      "relevance": 0.510259,
+      "count": 1
+    },
+    {
+      "text": "grupo carvajal",
+      "relevance": 0.507862,
+      "count": 1
+    },
+    {
+      "text": "cumplimiento de los requisitos",
+      "relevance": 0.506436,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de abril",
+      "relevance": 0.504438,
+      "count": 1
+    },
+    {
+      "text": "mundo de los negocios",
+      "relevance": 0.503972,
+      "count": 1
+    },
+    {
+      "text": "evidencia del caracter",
+      "relevance": 0.503972,
+      "count": 1
+    },
+    {
+      "text": "presente resoluci6",
+      "relevance": 0.503972,
+      "count": 1
+    },
+    {
+      "text": "doctor alfredo",
+      "relevance": 0.503091,
+      "count": 3
+    },
+    {
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.502479,
+      "count": 1
+    },
+    {
+      "text": "secretario general",
+      "relevance": 0.501756,
+      "count": 1
+    },
+    {
+      "text": "realizaciones",
+      "relevance": 0.500154,
+      "count": 2
+    },
+    {
+      "text": "representante del presidente",
+      "relevance": 0.498603,
+      "count": 1
+    },
+    {
+      "text": "salon de reuniones",
+      "relevance": 0.498422,
+      "count": 1
+    },
+    {
+      "text": "diferentes ambitos",
+      "relevance": 0.498364,
+      "count": 1
+    },
+    {
+      "text": "civico del doctor alfredo",
+      "relevance": 0.497931,
+      "count": 1
+    },
+    {
+      "text": "condecoraciones nacionales",
+      "relevance": 0.497584,
+      "count": 1
+    },
+    {
+      "text": "gestion humana",
+      "relevance": 0.496371,
+      "count": 1
+    },
+    {
+      "text": "larreamendy joerns",
+      "relevance": 0.495638,
+      "count": 1
+    },
+    {
+      "text": "lopez pulecio",
+      "relevance": 0.495638,
+      "count": 1
+    },
+    {
+      "text": "destacado lugar",
+      "relevance": 0.49506,
+      "count": 1
+    },
+    {
+      "text": "desarrollo econ\u00e9mico",
+      "relevance": 0.493713,
+      "count": 1
+    }
+  ]
+}

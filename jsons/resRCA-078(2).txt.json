@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 4755,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "politica acad\u00e9mico",
+      "relevance": 0.66304,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.619403,
+      "count": 1
+    },
+    {
+      "text": "comit\u00e9 de curriculo",
+      "relevance": 0.609314,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.596697,
+      "count": 1
+    },
+    {
+      "text": "rol de profesor universitario",
+      "relevance": 0.585565,
+      "count": 1
+    },
+    {
+      "text": "procesos acad\u00e9micos",
+      "relevance": 0.577511,
+      "count": 1
+    },
+    {
+      "text": "programa piloto",
+      "relevance": 0.571097,
+      "count": 4
+    },
+    {
+      "text": "consejeria estudiantil",
+      "relevance": 0.567387,
+      "count": 4
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.563634,
+      "count": 1
+    },
+    {
+      "text": "mayor orientacion",
+      "relevance": 0.562719,
+      "count": 1
+    },
+    {
+      "text": "reglamento estudiantil",
+      "relevance": 0.561959,
+      "count": 2
+    },
+    {
+      "text": "jefe de la unidad acad\u00e9mica",
+      "relevance": 0.560928,
+      "count": 1
+    },
+    {
+      "text": "mejor desarrollo acad\u00e9mico",
+      "relevance": 0.56001,
+      "count": 1
+    },
+    {
+      "text": "salon de reuniones del consejo",
+      "relevance": 0.556186,
+      "count": 1
+    },
+    {
+      "text": "nombramiento de tiempo completo",
+      "relevance": 0.543824,
+      "count": 1
+    },
+    {
+      "text": "unidad acad\u00e9mica",
+      "relevance": 0.541185,
+      "count": 1
+    },
+    {
+      "text": "estudiante actividades formativas",
+      "relevance": 0.539849,
+      "count": 1
+    },
+    {
+      "text": "presente resolucio\u00e9n",
+      "relevance": 0.537577,
+      "count": 1
+    },
+    {
+      "text": "parte del profesor",
+      "relevance": 0.531477,
+      "count": 1
+    },
+    {
+      "text": "desarrollo acad\u00e9mico del estudiante",
+      "relevance": 0.527979,
+      "count": 1
+    },
+    {
+      "text": "labor de consejeria",
+      "relevance": 0.527111,
+      "count": 2
+    },
+    {
+      "text": "figura de profesor consejero creada",
+      "relevance": 0.524738,
+      "count": 1
+    },
+    {
+      "text": "director del programa acad\u00e9mico",
+      "relevance": 0.521443,
+      "count": 1
+    },
+    {
+      "text": "estatuto profesoral",
+      "relevance": 0.521033,
+      "count": 1
+    },
+    {
+      "text": "duracion de un afio",
+      "relevance": 0.520755,
+      "count": 1
+    },
+    {
+      "text": "profesores consejeros",
+      "relevance": 0.517728,
+      "count": 2
+    },
+    {
+      "text": "seguimiento del desempejio",
+      "relevance": 0.516428,
+      "count": 1
+    },
+    {
+      "text": "deserci6n estudiantil",
+      "relevance": 0.514977,
+      "count": 1
+    },
+    {
+      "text": "consejo academico de la universidad del valle",
+      "relevance": 0.512305,
+      "count": 1
+    },
+    {
+      "text": "segundo semestre",
+      "relevance": 0.512288,
+      "count": 3
+    },
+    {
+      "text": "actividad de consejeria realizada",
+      "relevance": 0.511279,
+      "count": 1
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.507092,
+      "count": 4
+    },
+    {
+      "text": "situaciones relevantes",
+      "relevance": 0.504627,
+      "count": 1
+    },
+    {
+      "text": "fecha de su aprobaci6n",
+      "relevance": 0.504396,
+      "count": 1
+    },
+    {
+      "text": "parte de las actividades organicas",
+      "relevance": 0.503136,
+      "count": 1
+    },
+    {
+      "text": "criterios de calidad",
+      "relevance": 0.502287,
+      "count": 1
+    },
+    {
+      "text": "profesores de la universidad",
+      "relevance": 0.502091,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de junio",
+      "relevance": 0.500717,
+      "count": 1
+    },
+    {
+      "text": "estructuras de funcionamiento",
+      "relevance": 0.49987,
+      "count": 1
+    },
+    {
+      "text": "medio tiempo",
+      "relevance": 0.498329,
+      "count": 1
+    },
+    {
+      "text": "protocolos de entendimiento",
+      "relevance": 0.498038,
+      "count": 1
+    },
+    {
+      "text": "uso de sus atribuciones",
+      "relevance": 0.49786,
+      "count": 1
+    },
+    {
+      "text": "secretario general",
+      "relevance": 0.49786,
+      "count": 1
+    },
+    {
+      "text": "profesor consejero",
+      "relevance": 0.495747,
+      "count": 1
+    },
+    {
+      "text": "horas-semestre de consejeria",
+      "relevance": 0.495565,
+      "count": 1
+    },
+    {
+      "text": "asignaci\u00e9n acad\u00e9mica",
+      "relevance": 0.494088,
+      "count": 1
+    },
+    {
+      "text": "mejor desarrollo",
+      "relevance": 0.493211,
+      "count": 1
+    },
+    {
+      "text": "lopez pulecio",
+      "relevance": 0.492312,
+      "count": 1
+    },
+    {
+      "text": "coordinaci6\u00e9n",
+      "relevance": 0.490566,
+      "count": 1
+    },
+    {
+      "text": "lugar visible",
+      "relevance": 0.490566,
+      "count": 1
+    }
+  ]
+}

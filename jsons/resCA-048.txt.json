@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 4683,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "envio de la documentaci\u00e9n",
+      "relevance": 0.661218,
+      "count": 1
+    },
+    {
+      "text": "estudiantes de primer semestre",
+      "relevance": 0.657909,
+      "count": 1
+    },
+    {
+      "text": "proceso de admision",
+      "relevance": 0.640462,
+      "count": 1
+    },
+    {
+      "text": "siguientes fechas",
+      "relevance": 0.613438,
+      "count": 1
+    },
+    {
+      "text": "programas acad\u00e9micos presenciales",
+      "relevance": 0.593131,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.58775,
+      "count": 1
+    },
+    {
+      "text": "sedes regionales",
+      "relevance": 0.580466,
+      "count": 4
+    },
+    {
+      "text": "dias del mes de mayo",
+      "relevance": 0.565554,
+      "count": 1
+    },
+    {
+      "text": "divisi6n",
+      "relevance": 0.565066,
+      "count": 1
+    },
+    {
+      "text": "envio de las solicitudes",
+      "relevance": 0.564902,
+      "count": 2
+    },
+    {
+      "text": "secretarias acad\u00e9micas",
+      "relevance": 0.549419,
+      "count": 1
+    },
+    {
+      "text": "estudiantes antiguos",
+      "relevance": 0.53681,
+      "count": 2
+    },
+    {
+      "text": "division de admisiones",
+      "relevance": 0.53502,
+      "count": 2
+    },
+    {
+      "text": "registro acad\u00e9mico",
+      "relevance": 0.527047,
+      "count": 1
+    },
+    {
+      "text": "documentacion deuniversidad",
+      "relevance": 0.521895,
+      "count": 1
+    },
+    {
+      "text": "direccion de regionalizacion",
+      "relevance": 0.521732,
+      "count": 2
+    },
+    {
+      "text": "recibos de pago",
+      "relevance": 0.518746,
+      "count": 2
+    },
+    {
+      "text": "lopez pulecio",
+      "relevance": 0.518746,
+      "count": 1
+    },
+    {
+      "text": "acad\u00e9mica estudiantes",
+      "relevance": 0.513723,
+      "count": 1
+    },
+    {
+      "text": "direcci\u00e9n de regionalizacion",
+      "relevance": 0.513398,
+      "count": 1
+    },
+    {
+      "text": "cambio de sede",
+      "relevance": 0.506013,
+      "count": 1
+    },
+    {
+      "text": "calendario acad\u00e9mico del periodo agosto-diciembre",
+      "relevance": 0.504877,
+      "count": 1
+    },
+    {
+      "text": "junio de 2003.universidad",
+      "relevance": 0.502974,
+      "count": 1
+    },
+    {
+      "text": "documentos",
+      "relevance": 0.501038,
+      "count": 3
+    },
+    {
+      "text": "secretario general",
+      "relevance": 0.500078,
+      "count": 1
+    },
+    {
+      "text": "consejo academico de la universidad del valle",
+      "relevance": 0.493096,
+      "count": 1
+    },
+    {
+      "text": "decisiones",
+      "relevance": 0.490544,
+      "count": 7
+    },
+    {
+      "text": "sal6n de reuniones del consejo acad\u00e9mico",
+      "relevance": 0.490417,
+      "count": 1
+    },
+    {
+      "text": "mayo de 2003universidad",
+      "relevance": 0.486918,
+      "count": 1
+    },
+    {
+      "text": "atribuciones",
+      "relevance": 0.485087,
+      "count": 1
+    },
+    {
+      "text": "cali",
+      "relevance": 0.484619,
+      "count": 1
+    },
+    {
+      "text": "estatuto general de la universidad del valle",
+      "relevance": 0.481965,
+      "count": 1
+    },
+    {
+      "text": "estudiantes",
+      "relevance": 0.480983,
+      "count": 1
+    },
+    {
+      "text": "junio",
+      "relevance": 0.476068,
+      "count": 15
+    },
+    {
+      "text": "asignaturas",
+      "relevance": 0.475399,
+      "count": 2
+    },
+    {
+      "text": "julio de 2003universidad",
+      "relevance": 0.475037,
+      "count": 1
+    },
+    {
+      "text": "reingresos",
+      "relevance": 0.473763,
+      "count": 4
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.473544,
+      "count": 2
+    },
+    {
+      "text": "division",
+      "relevance": 0.473293,
+      "count": 1
+    },
+    {
+      "text": "financiera",
+      "relevance": 0.472717,
+      "count": 4
+    },
+    {
+      "text": "formularios",
+      "relevance": 0.472658,
+      "count": 1
+    },
+    {
+      "text": "inscripciones",
+      "relevance": 0.472658,
+      "count": 1
+    },
+    {
+      "text": "solicitudes",
+      "relevance": 0.472569,
+      "count": 5
+    },
+    {
+      "text": "fecha",
+      "relevance": 0.472542,
+      "count": 2
+    },
+    {
+      "text": "directores",
+      "relevance": 0.472187,
+      "count": 1
+    },
+    {
+      "text": "transferencia",
+      "relevance": 0.472069,
+      "count": 1
+    },
+    {
+      "text": "julio",
+      "relevance": 0.471589,
+      "count": 6
+    },
+    {
+      "text": "mayo",
+      "relevance": 0.471589,
+      "count": 2
+    },
+    {
+      "text": "presidente",
+      "relevance": 0.471589,
+      "count": 1
+    },
+    {
+      "text": "programas",
+      "relevance": 0.471319,
+      "count": 1
+    }
+  ]
+}

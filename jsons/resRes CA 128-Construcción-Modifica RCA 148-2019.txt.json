@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 2,
+    "text_characters": 15973,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "infraestructura urbana",
+      "relevance": 0.644625,
+      "count": 28
+    },
+    {
+      "text": "arquitecto constructor",
+      "relevance": 0.591417,
+      "count": 3
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.583001,
+      "count": 11
+    },
+    {
+      "text": "denominacion del programa profesional",
+      "relevance": 0.571891,
+      "count": 1
+    },
+    {
+      "text": "control de obras",
+      "relevance": 0.56174,
+      "count": 3
+    },
+    {
+      "text": "construcci6n",
+      "relevance": 0.554186,
+      "count": 3
+    },
+    {
+      "text": "menci6n",
+      "relevance": 0.552976,
+      "count": 1
+    },
+    {
+      "text": "optimizaci\u00e9n de procesos",
+      "relevance": 0.552623,
+      "count": 1
+    },
+    {
+      "text": "objetivos de formacion de los programas",
+      "relevance": 0.545378,
+      "count": 1
+    },
+    {
+      "text": "titulo de arquitecto constructor",
+      "relevance": 0.544503,
+      "count": 1
+    },
+    {
+      "text": "construccion de edificaciones",
+      "relevance": 0.541473,
+      "count": 5
+    },
+    {
+      "text": "ciclo proped\u00e9utico",
+      "relevance": 0.535616,
+      "count": 1
+    },
+    {
+      "text": "construcci6n de edificaciones",
+      "relevance": 0.533301,
+      "count": 1
+    },
+    {
+      "text": "siguientes objetivos",
+      "relevance": 0.533051,
+      "count": 1
+    },
+    {
+      "text": "uso de las atribuciones legales",
+      "relevance": 0.531782,
+      "count": 1
+    },
+    {
+      "text": "diseno de procesos",
+      "relevance": 0.529299,
+      "count": 2
+    },
+    {
+      "text": "ciclos proped\u00e9uticos",
+      "relevance": 0.529149,
+      "count": 1
+    },
+    {
+      "text": "desarrollo econ\u00e9mico",
+      "relevance": 0.528986,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.528581,
+      "count": 1
+    },
+    {
+      "text": "fases de planeaci\u00e9ndiseno",
+      "relevance": 0.527006,
+      "count": 1
+    },
+    {
+      "text": "idioma extranjero",
+      "relevance": 0.526857,
+      "count": 1
+    },
+    {
+      "text": "necesidades de la regi\u00e9n",
+      "relevance": 0.526401,
+      "count": 1
+    },
+    {
+      "text": "escuela de ingenieria civil",
+      "relevance": 0.526035,
+      "count": 2
+    },
+    {
+      "text": "elementos conceptuales",
+      "relevance": 0.52554,
+      "count": 1
+    },
+    {
+      "text": "artes integradas",
+      "relevance": 0.525353,
+      "count": 1
+    },
+    {
+      "text": "recursos humanos",
+      "relevance": 0.524887,
+      "count": 1
+    },
+    {
+      "text": "responsabilidad social",
+      "relevance": 0.524594,
+      "count": 2
+    },
+    {
+      "text": "lengua extranjera",
+      "relevance": 0.522546,
+      "count": 2
+    },
+    {
+      "text": "gestaci\u00e9n de proyectos",
+      "relevance": 0.522537,
+      "count": 1
+    },
+    {
+      "text": "asistente de residencia de obras",
+      "relevance": 0.522387,
+      "count": 1
+    },
+    {
+      "text": "estatuto general",
+      "relevance": 0.521694,
+      "count": 1
+    },
+    {
+      "text": "nuevos materiales",
+      "relevance": 0.521054,
+      "count": 1
+    },
+    {
+      "text": "competencias necesarias",
+      "relevance": 0.520357,
+      "count": 1
+    },
+    {
+      "text": "trav\u00e9s de ciclos",
+      "relevance": 0.519727,
+      "count": 1
+    },
+    {
+      "text": "tecnologia de la construcci6n",
+      "relevance": 0.519328,
+      "count": 1
+    },
+    {
+      "text": "documento original",
+      "relevance": 0.518891,
+      "count": 1
+    },
+    {
+      "text": "medio ambiente",
+      "relevance": 0.518684,
+      "count": 2
+    },
+    {
+      "text": "ejercicio responsable de su profesi\u00e9n",
+      "relevance": 0.518521,
+      "count": 1
+    },
+    {
+      "text": "manejo del ingl\u00e9s",
+      "relevance": 0.517738,
+      "count": 1
+    },
+    {
+      "text": "programa acad\u00e9mico",
+      "relevance": 0.517462,
+      "count": 2
+    },
+    {
+      "text": "ejercicio profesional",
+      "relevance": 0.517022,
+      "count": 1
+    },
+    {
+      "text": "desarrollo social",
+      "relevance": 0.516998,
+      "count": 1
+    },
+    {
+      "text": "actitud receptiva",
+      "relevance": 0.516855,
+      "count": 1
+    },
+    {
+      "text": "excelencia acad\u00e9mica",
+      "relevance": 0.516502,
+      "count": 1
+    },
+    {
+      "text": "ejercicio de su profesion",
+      "relevance": 0.516497,
+      "count": 1
+    },
+    {
+      "text": "formaci\u00e9n profesional",
+      "relevance": 0.516373,
+      "count": 1
+    },
+    {
+      "text": "primer ciclo",
+      "relevance": 0.515848,
+      "count": 1
+    },
+    {
+      "text": "forma individual",
+      "relevance": 0.515201,
+      "count": 1
+    },
+    {
+      "text": "aspectos t\u00e9cnicos",
+      "relevance": 0.514959,
+      "count": 1
+    },
+    {
+      "text": "sistemas integrados",
+      "relevance": 0.514913,
+      "count": 1
+    }
+  ]
+}

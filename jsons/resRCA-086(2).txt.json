@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 5214,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "estudiante presente",
+      "relevance": 0.761545,
+      "count": 1
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.680005,
+      "count": 4
+    },
+    {
+      "text": "presente resolucion",
+      "relevance": 0.624343,
+      "count": 3
+    },
+    {
+      "text": "atribuciones legales",
+      "relevance": 0.619636,
+      "count": 1
+    },
+    {
+      "text": "literal c",
+      "relevance": 0.580808,
+      "count": 1
+    },
+    {
+      "text": "tesis de doctorado sobresaliente",
+      "relevance": 0.562276,
+      "count": 1
+    },
+    {
+      "text": "facultad de salud",
+      "relevance": 0.560082,
+      "count": 6
+    },
+    {
+      "text": "investigacion de maestria",
+      "relevance": 0.559041,
+      "count": 1
+    },
+    {
+      "text": "tesis de doctorado",
+      "relevance": 0.554449,
+      "count": 3
+    },
+    {
+      "text": "sustentacion oral",
+      "relevance": 0.542044,
+      "count": 1
+    },
+    {
+      "text": "siguientes requisitos",
+      "relevance": 0.541147,
+      "count": 1
+    },
+    {
+      "text": "resolucion del respectivo programa",
+      "relevance": 0.540015,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.537735,
+      "count": 1
+    },
+    {
+      "text": "solucion del problema",
+      "relevance": 0.536168,
+      "count": 1
+    },
+    {
+      "text": "comit\u00e9 de curriculo de postgrado",
+      "relevance": 0.535321,
+      "count": 1
+    },
+    {
+      "text": "trabajos de investigacion de las maestrias",
+      "relevance": 0.534217,
+      "count": 1
+    },
+    {
+      "text": "presente reglamento",
+      "relevance": 0.530791,
+      "count": 1
+    },
+    {
+      "text": "estudios de postgrado",
+      "relevance": 0.528364,
+      "count": 1
+    },
+    {
+      "text": "impacto social",
+      "relevance": 0.527402,
+      "count": 1
+    },
+    {
+      "text": "desarrollo de nuevas investigaciones",
+      "relevance": 0.520469,
+      "count": 1
+    },
+    {
+      "text": "consejo de la facultad",
+      "relevance": 0.51734,
+      "count": 1
+    },
+    {
+      "text": "consejo academico de la universidad del valle",
+      "relevance": 0.516821,
+      "count": 1
+    },
+    {
+      "text": "dominio de la tematica de la investigacion",
+      "relevance": 0.514066,
+      "count": 1
+    },
+    {
+      "text": "reglamentacion",
+      "relevance": 0.511003,
+      "count": 4
+    },
+    {
+      "text": "trabajo escrito",
+      "relevance": 0.510799,
+      "count": 1
+    },
+    {
+      "text": "acta de la sustentacion",
+      "relevance": 0.509491,
+      "count": 1
+    },
+    {
+      "text": "salon de reuniones",
+      "relevance": 0.508962,
+      "count": 1
+    },
+    {
+      "text": "area particular",
+      "relevance": 0.508772,
+      "count": 1
+    },
+    {
+      "text": "manera autonoma",
+      "relevance": 0.508099,
+      "count": 1
+    },
+    {
+      "text": "mencion meritoria",
+      "relevance": 0.507609,
+      "count": 2
+    },
+    {
+      "text": "tiempo de duracidn",
+      "relevance": 0.5064,
+      "count": 1
+    },
+    {
+      "text": "comit\u00e9 de curriculo",
+      "relevance": 0.506212,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de septiembre",
+      "relevance": 0.502061,
+      "count": 1
+    },
+    {
+      "text": "sectores productivo",
+      "relevance": 0.501265,
+      "count": 1
+    },
+    {
+      "text": "sesi6on del dia",
+      "relevance": 0.500084,
+      "count": 1
+    },
+    {
+      "text": "trabajos",
+      "relevance": 0.500068,
+      "count": 2
+    },
+    {
+      "text": "jurado evaluador de la tesis",
+      "relevance": 0.498691,
+      "count": 1
+    },
+    {
+      "text": "tesis de los programas de doctorado",
+      "relevance": 0.498591,
+      "count": 1
+    },
+    {
+      "text": "estudiantes de maestria",
+      "relevance": 0.49849,
+      "count": 1
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.498046,
+      "count": 1
+    },
+    {
+      "text": "reglamentaci6n",
+      "relevance": 0.497502,
+      "count": 1
+    },
+    {
+      "text": "caso de doctorados",
+      "relevance": 0.497035,
+      "count": 1
+    },
+    {
+      "text": "primer autor",
+      "relevance": 0.496815,
+      "count": 1
+    },
+    {
+      "text": "desarrollo del area",
+      "relevance": 0.496791,
+      "count": 1
+    },
+    {
+      "text": "resolucion",
+      "relevance": 0.496446,
+      "count": 1
+    },
+    {
+      "text": "recomendacion de la mencion",
+      "relevance": 0.496096,
+      "count": 1
+    },
+    {
+      "text": "calificacion de los jurados",
+      "relevance": 0.494865,
+      "count": 1
+    },
+    {
+      "text": "investigacion de las maestrias",
+      "relevance": 0.494365,
+      "count": 1
+    },
+    {
+      "text": "produccion original",
+      "relevance": 0.494165,
+      "count": 1
+    },
+    {
+      "text": "lopez pulecio",
+      "relevance": 0.494165,
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 5643,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.762477,
+      "count": 5
+    },
+    {
+      "text": "fechas de grado",
+      "relevance": 0.624996,
+      "count": 3
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.620461,
+      "count": 4
+    },
+    {
+      "text": "requisitos de grado",
+      "relevance": 0.588043,
+      "count": 2
+    },
+    {
+      "text": "excepcidn del trabajo de grado",
+      "relevance": 0.573381,
+      "count": 1
+    },
+    {
+      "text": "plazos establecidos",
+      "relevance": 0.56903,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.567746,
+      "count": 1
+    },
+    {
+      "text": "rendimiento acad\u00e9mico",
+      "relevance": 0.559742,
+      "count": 1
+    },
+    {
+      "text": "tesis doctoral",
+      "relevance": 0.55934,
+      "count": 1
+    },
+    {
+      "text": "articulo anterior",
+      "relevance": 0.556782,
+      "count": 2
+    },
+    {
+      "text": "segundo semestre",
+      "relevance": 0.554475,
+      "count": 5
+    },
+    {
+      "text": "asignaturas constitutivas de su curriculo",
+      "relevance": 0.550794,
+      "count": 1
+    },
+    {
+      "text": "sanciones disciplinarias",
+      "relevance": 0.548799,
+      "count": 1
+    },
+    {
+      "text": "examen de estado de calidad",
+      "relevance": 0.547915,
+      "count": 3
+    },
+    {
+      "text": "primer semestre del afio",
+      "relevance": 0.546753,
+      "count": 1
+    },
+    {
+      "text": "unica vez",
+      "relevance": 0.544177,
+      "count": 2
+    },
+    {
+      "text": "afios de la universidad del valle",
+      "relevance": 0.541641,
+      "count": 1
+    },
+    {
+      "text": "motivo de la conmemoraci6",
+      "relevance": 0.540282,
+      "count": 1
+    },
+    {
+      "text": "mecanismo de reingreso especial",
+      "relevance": 0.539539,
+      "count": 1
+    },
+    {
+      "text": "programas acad\u00e9micos de pregrado",
+      "relevance": 0.534049,
+      "count": 1
+    },
+    {
+      "text": "plazo maximo",
+      "relevance": 0.528934,
+      "count": 2
+    },
+    {
+      "text": "condici\u00e9n de estudiantes",
+      "relevance": 0.5243,
+      "count": 1
+    },
+    {
+      "text": "estudiantes de pregrado",
+      "relevance": 0.521309,
+      "count": 1
+    },
+    {
+      "text": "tramites administrativos",
+      "relevance": 0.51109,
+      "count": 1
+    },
+    {
+      "text": "educaci\u00e9n superior",
+      "relevance": 0.511041,
+      "count": 2
+    },
+    {
+      "text": "trabajo de investigacion",
+      "relevance": 0.505959,
+      "count": 1
+    },
+    {
+      "text": "amnistia acad\u00e9mica",
+      "relevance": 0.504875,
+      "count": 1
+    },
+    {
+      "text": "educaci\u00e9dn superior",
+      "relevance": 0.504229,
+      "count": 1
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.503806,
+      "count": 10
+    },
+    {
+      "text": "trabajo de investigacidn",
+      "relevance": 0.503577,
+      "count": 1
+    },
+    {
+      "text": "calidad de estudiantes regulares de los programas acad\u00e9micos",
+      "relevance": 0.500547,
+      "count": 1
+    },
+    {
+      "text": "consejo academico de la universidad del valle",
+      "relevance": 0.499801,
+      "count": 1
+    },
+    {
+      "text": "segundo semestre del afio",
+      "relevance": 0.498431,
+      "count": 2
+    },
+    {
+      "text": "razones distintas",
+      "relevance": 0.497971,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de septiembre",
+      "relevance": 0.49707,
+      "count": 1
+    },
+    {
+      "text": "requisitos acad\u00e9micos",
+      "relevance": 0.496929,
+      "count": 4
+    },
+    {
+      "text": "reingreso especial",
+      "relevance": 0.496343,
+      "count": 2
+    },
+    {
+      "text": "institutos acad\u00e9micos",
+      "relevance": 0.496252,
+      "count": 1
+    },
+    {
+      "text": "uso de sus atribuciones",
+      "relevance": 0.49419,
+      "count": 1
+    },
+    {
+      "text": "secretario general",
+      "relevance": 0.49419,
+      "count": 1
+    },
+    {
+      "text": "trabajo de grado",
+      "relevance": 0.492008,
+      "count": 2
+    },
+    {
+      "text": "busqueda de alternativas",
+      "relevance": 0.491126,
+      "count": 1
+    },
+    {
+      "text": "plan de estudios",
+      "relevance": 0.490489,
+      "count": 1
+    },
+    {
+      "text": "castillo gomez",
+      "relevance": 0.486838,
+      "count": 1
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.485459,
+      "count": 2
+    },
+    {
+      "text": "acad\u00e9mica",
+      "relevance": 0.484476,
+      "count": 4
+    },
+    {
+      "text": "primer semestre",
+      "relevance": 0.48389,
+      "count": 1
+    },
+    {
+      "text": "examen de estado",
+      "relevance": 0.48111,
+      "count": 1
+    },
+    {
+      "text": "programa",
+      "relevance": 0.47972,
+      "count": 4
+    },
+    {
+      "text": "saldn de reuniones del consejo acad\u00e9mico",
+      "relevance": 0.479678,
+      "count": 1
+    }
+  ]
+}

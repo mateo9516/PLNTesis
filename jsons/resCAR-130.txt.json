@@ -1,0 +1,263 @@
+{
+  "usage": {
+    "text_units": 5,
+    "text_characters": 50000,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "responsabilidad del consejo acad\u00e9mico",
+      "relevance": 0.787178,
+      "count": 1
+    },
+    {
+      "text": "perfil profesional",
+      "relevance": 0.712504,
+      "count": 58
+    },
+    {
+      "text": "perfil acad\u00e9mico",
+      "relevance": 0.706959,
+      "count": 51
+    },
+    {
+      "text": "experiencia profesional",
+      "relevance": 0.674181,
+      "count": 20
+    },
+    {
+      "text": "perfil ocupacional",
+      "relevance": 0.655397,
+      "count": 48
+    },
+    {
+      "text": "unidades acad\u00e9micas",
+      "relevance": 0.650801,
+      "count": 1
+    },
+    {
+      "text": "nivel de maestria",
+      "relevance": 0.619581,
+      "count": 4
+    },
+    {
+      "text": "perfiles",
+      "relevance": 0.618272,
+      "count": 2
+    },
+    {
+      "text": "calidad de los procesos acad\u00e9micos",
+      "relevance": 0.594272,
+      "count": 1
+    },
+    {
+      "text": "area de la tecnologia",
+      "relevance": 0.58704,
+      "count": 1
+    },
+    {
+      "text": "actitud de liderazgo",
+      "relevance": 0.565247,
+      "count": 1
+    },
+    {
+      "text": "titulo de maestria",
+      "relevance": 0.557905,
+      "count": 6
+    },
+    {
+      "text": "investigativa certificada",
+      "relevance": 0.555753,
+      "count": 2
+    },
+    {
+      "text": "area de proyectos",
+      "relevance": 0.555589,
+      "count": 1
+    },
+    {
+      "text": "escuela de arquitectura",
+      "relevance": 0.554178,
+      "count": 5
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.551963,
+      "count": 2
+    },
+    {
+      "text": "capacidad de liderazgo",
+      "relevance": 0.551291,
+      "count": 2
+    },
+    {
+      "text": "experiencia docente universitaria",
+      "relevance": 0.550246,
+      "count": 8
+    },
+    {
+      "text": "escuela de ciencias del lenguaje",
+      "relevance": 0.545158,
+      "count": 1
+    },
+    {
+      "text": "alta capacidad de gestion",
+      "relevance": 0.544565,
+      "count": 1
+    },
+    {
+      "text": "experiencia docente",
+      "relevance": 0.543269,
+      "count": 29
+    },
+    {
+      "text": "area de desempeno",
+      "relevance": 0.54005,
+      "count": 3
+    },
+    {
+      "text": "areas del disefo",
+      "relevance": 0.532453,
+      "count": 1
+    },
+    {
+      "text": "asignaturas del area de desempenio",
+      "relevance": 0.530977,
+      "count": 1
+    },
+    {
+      "text": "experiencia profesional certificada",
+      "relevance": 0.530285,
+      "count": 2
+    },
+    {
+      "text": "area",
+      "relevance": 0.530034,
+      "count": 48
+    },
+    {
+      "text": "portafolio de los proyectos",
+      "relevance": 0.529152,
+      "count": 2
+    },
+    {
+      "text": "ciencias sociales",
+      "relevance": 0.526735,
+      "count": 4
+    },
+    {
+      "text": "docencia universitaria",
+      "relevance": 0.524521,
+      "count": 10
+    },
+    {
+      "text": "lenguajes de alto nivel",
+      "relevance": 0.522163,
+      "count": 1
+    },
+    {
+      "text": "programa de musica",
+      "relevance": 0.522134,
+      "count": 1
+    },
+    {
+      "text": "ingeniero metalurgico",
+      "relevance": 0.520879,
+      "count": 1
+    },
+    {
+      "text": "m\u00e9dico especialista",
+      "relevance": 0.520497,
+      "count": 4
+    },
+    {
+      "text": "areas afines",
+      "relevance": 0.517386,
+      "count": 13
+    },
+    {
+      "text": "consejo academico de la universidad del valle",
+      "relevance": 0.516532,
+      "count": 1
+    },
+    {
+      "text": "certificados de asistencia",
+      "relevance": 0.516113,
+      "count": 1
+    },
+    {
+      "text": "nivel superior",
+      "relevance": 0.516084,
+      "count": 1
+    },
+    {
+      "text": "area te\u00e9rica",
+      "relevance": 0.515759,
+      "count": 1
+    },
+    {
+      "text": "cronograma de actividades",
+      "relevance": 0.514976,
+      "count": 1
+    },
+    {
+      "text": "desarrollo sostenible",
+      "relevance": 0.514504,
+      "count": 1
+    },
+    {
+      "text": "portafolio de los distintos trabajos",
+      "relevance": 0.514301,
+      "count": 1
+    },
+    {
+      "text": "area minimo",
+      "relevance": 0.514016,
+      "count": 2
+    },
+    {
+      "text": "cursos de teoria de la arquitectura",
+      "relevance": 0.513895,
+      "count": 1
+    },
+    {
+      "text": "ingenieria de sistemas",
+      "relevance": 0.513863,
+      "count": 5
+    },
+    {
+      "text": "cupos docentes de tiempos completos",
+      "relevance": 0.513838,
+      "count": 1
+    },
+    {
+      "text": "campo de las tecnologias",
+      "relevance": 0.513508,
+      "count": 1
+    },
+    {
+      "text": "experiencia artistica",
+      "relevance": 0.51336,
+      "count": 2
+    },
+    {
+      "text": "coordinador del area",
+      "relevance": 0.513226,
+      "count": 1
+    },
+    {
+      "text": "departamento de disefio",
+      "relevance": 0.512522,
+      "count": 1
+    },
+    {
+      "text": "estudios de posgrado",
+      "relevance": 0.512009,
+      "count": 2
+    }
+  ],
+  "warnings": [
+    "Text content exceeds 50000 character limit. Only first 50000 characters processed..."
+  ]
+}

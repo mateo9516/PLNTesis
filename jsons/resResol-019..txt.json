@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2742,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "revistas extranjeras",
+      "relevance": 0.681873,
+      "count": 1
+    },
+    {
+      "text": "instituto colombiano",
+      "relevance": 0.665335,
+      "count": 2
+    },
+    {
+      "text": "modalidad productiva de los docentes",
+      "relevance": 0.636726,
+      "count": 1
+    },
+    {
+      "text": "finales del afio",
+      "relevance": 0.604471,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.588054,
+      "count": 1
+    },
+    {
+      "text": "reconocimiento de los articulos",
+      "relevance": 0.576836,
+      "count": 1
+    },
+    {
+      "text": "sola vez",
+      "relevance": 0.560033,
+      "count": 1
+    },
+    {
+      "text": "pago de una retroactividad",
+      "relevance": 0.553845,
+      "count": 1
+    },
+    {
+      "text": "vicerrectoria acad\u00e9mica",
+      "relevance": 0.549269,
+      "count": 1
+    },
+    {
+      "text": "pagina web",
+      "relevance": 0.545213,
+      "count": 1
+    },
+    {
+      "text": "sal\u00e9n del consejo acad\u00e9mico",
+      "relevance": 0.541864,
+      "count": 1
+    },
+    {
+      "text": "francisco jos\u00e9 de caldas",
+      "relevance": 0.541164,
+      "count": 2
+    },
+    {
+      "text": "desarrollo de la ciencia",
+      "relevance": 0.53357,
+      "count": 2
+    },
+    {
+      "text": "articulo 18o0",
+      "relevance": 0.528377,
+      "count": 1
+    },
+    {
+      "text": "junio del afio",
+      "relevance": 0.526113,
+      "count": 1
+    },
+    {
+      "text": "definici\u00e9n de puntajes",
+      "relevance": 0.517398,
+      "count": 1
+    },
+    {
+      "text": "caso de docentes",
+      "relevance": 0.515164,
+      "count": 1
+    },
+    {
+      "text": "mes de marzo",
+      "relevance": 0.507105,
+      "count": 1
+    },
+    {
+      "text": "caso de nuevos docentes",
+      "relevance": 0.505607,
+      "count": 1
+    },
+    {
+      "text": "reconocimiento de los puntos salariales",
+      "relevance": 0.505244,
+      "count": 1
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.503032,
+      "count": 2
+    },
+    {
+      "text": "estatuto general",
+      "relevance": 0.502878,
+      "count": 1
+    },
+    {
+      "text": "lopez pulecio",
+      "relevance": 0.502878,
+      "count": 1
+    },
+    {
+      "text": "asignaci\u00e9n de los puntajes",
+      "relevance": 0.500778,
+      "count": 1
+    },
+    {
+      "text": "vigencia comprendida",
+      "relevance": 0.500134,
+      "count": 1
+    },
+    {
+      "text": "previa recomendacion",
+      "relevance": 0.500134,
+      "count": 1
+    },
+    {
+      "text": "secretario general",
+      "relevance": 0.497322,
+      "count": 1
+    },
+    {
+      "text": "instrumento de colciencias",
+      "relevance": 0.496312,
+      "count": 1
+    },
+    {
+      "text": "r\u00e9gimen del decreto",
+      "relevance": 0.494533,
+      "count": 1
+    },
+    {
+      "text": "cumplaseuniversidad del valle",
+      "relevance": 0.492828,
+      "count": 1
+    },
+    {
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.4923,
+      "count": 1
+    },
+    {
+      "text": "categorias",
+      "relevance": 0.490624,
+      "count": 1
+    },
+    {
+      "text": "atribuciones",
+      "relevance": 0.487685,
+      "count": 1
+    },
+    {
+      "text": "fecha",
+      "relevance": 0.485524,
+      "count": 4
+    },
+    {
+      "text": "presente",
+      "relevance": 0.481522,
+      "count": 1
+    },
+    {
+      "text": "tecnologia",
+      "relevance": 0.480331,
+      "count": 2
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.480073,
+      "count": 2
+    },
+    {
+      "text": "republica",
+      "relevance": 0.479442,
+      "count": 2
+    },
+    {
+      "text": "junio",
+      "relevance": 0.477971,
+      "count": 1
+    },
+    {
+      "text": "reconocimiento",
+      "relevance": 0.474774,
+      "count": 1
+    },
+    {
+      "text": "decreto",
+      "relevance": 0.473776,
+      "count": 4
+    },
+    {
+      "text": "expedicion",
+      "relevance": 0.473674,
+      "count": 1
+    },
+    {
+      "text": "docentes",
+      "relevance": 0.472177,
+      "count": 2
+    },
+    {
+      "text": "articulos",
+      "relevance": 0.472107,
+      "count": 1
+    },
+    {
+      "text": "documentacion",
+      "relevance": 0.472032,
+      "count": 1
+    },
+    {
+      "text": "instituci\u00e9n",
+      "relevance": 0.470909,
+      "count": 1
+    },
+    {
+      "text": "tenor",
+      "relevance": 0.470625,
+      "count": 2
+    },
+    {
+      "text": "reglas",
+      "relevance": 0.470483,
+      "count": 1
+    },
+    {
+      "text": "relaci\u00e9n",
+      "relevance": 0.469845,
+      "count": 1
+    },
+    {
+      "text": "rector",
+      "relevance": 0.469797,
+      "count": 1
+    }
+  ]
+}

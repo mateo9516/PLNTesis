@@ -1,0 +1,263 @@
+{
+  "usage": {
+    "text_units": 5,
+    "text_characters": 50000,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "universidad del valle",
+      "relevance": 0.648276,
+      "count": 33
+    },
+    {
+      "text": "compromisos de buen gobierno",
+      "relevance": 0.609463,
+      "count": 15
+    },
+    {
+      "text": "declaracion de politicas",
+      "relevance": 0.590296,
+      "count": 4
+    },
+    {
+      "text": "acad\u00e9mico de la universidad",
+      "relevance": 0.577476,
+      "count": 1
+    },
+    {
+      "text": "comunidad universitaria",
+      "relevance": 0.568653,
+      "count": 15
+    },
+    {
+      "text": "miembros del consejo superior",
+      "relevance": 0.556064,
+      "count": 25
+    },
+    {
+      "text": "rector de la universidad del valle",
+      "relevance": 0.549819,
+      "count": 8
+    },
+    {
+      "text": "desarrollo del principio",
+      "relevance": 0.549598,
+      "count": 1
+    },
+    {
+      "text": "demas estamentos",
+      "relevance": 0.542752,
+      "count": 4
+    },
+    {
+      "text": "desarrollo de sus actividades acad\u00e9micas",
+      "relevance": 0.541966,
+      "count": 1
+    },
+    {
+      "text": "declaracio\u00e9n de politicas",
+      "relevance": 0.541779,
+      "count": 1
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.540861,
+      "count": 57
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.540813,
+      "count": 28
+    },
+    {
+      "text": "mision institucional",
+      "relevance": 0.5376,
+      "count": 1
+    },
+    {
+      "text": "plan nacional de desarrollo",
+      "relevance": 0.536926,
+      "count": 1
+    },
+    {
+      "text": "equipo directivo",
+      "relevance": 0.529329,
+      "count": 29
+    },
+    {
+      "text": "instituto colombiano",
+      "relevance": 0.528781,
+      "count": 3
+    },
+    {
+      "text": "actos administrativos motivados",
+      "relevance": 0.52713,
+      "count": 1
+    },
+    {
+      "text": "buen gobierno",
+      "relevance": 0.525846,
+      "count": 3
+    },
+    {
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.525738,
+      "count": 2
+    },
+    {
+      "text": "vocacion de servicio",
+      "relevance": 0.525168,
+      "count": 1
+    },
+    {
+      "text": "funciones misionales",
+      "relevance": 0.525147,
+      "count": 1
+    },
+    {
+      "text": "autonomia acad\u00e9mica",
+      "relevance": 0.524947,
+      "count": 1
+    },
+    {
+      "text": "respeto del medio ambiente",
+      "relevance": 0.524368,
+      "count": 1
+    },
+    {
+      "text": "normas de conducta",
+      "relevance": 0.524329,
+      "count": 1
+    },
+    {
+      "text": "demas miembros",
+      "relevance": 0.524303,
+      "count": 1
+    },
+    {
+      "text": "proyecto institucional vigente",
+      "relevance": 0.521385,
+      "count": 2
+    },
+    {
+      "text": "ejercicio de las libertades acad\u00e9micas",
+      "relevance": 0.52133,
+      "count": 1
+    },
+    {
+      "text": "educacion de calidad",
+      "relevance": 0.521304,
+      "count": 1
+    },
+    {
+      "text": "pautas de comportamiento de los directivos",
+      "relevance": 0.521135,
+      "count": 1
+    },
+    {
+      "text": "cumplimiento de los deberes",
+      "relevance": 0.52091,
+      "count": 1
+    },
+    {
+      "text": "logro de la autonomia personal",
+      "relevance": 0.520301,
+      "count": 1
+    },
+    {
+      "text": "responsabilidades de los \u00e9rganos sociales",
+      "relevance": 0.519569,
+      "count": 1
+    },
+    {
+      "text": "prevalencia del inter\u00e9s general",
+      "relevance": 0.519335,
+      "count": 1
+    },
+    {
+      "text": "unidad acad\u00e9mica",
+      "relevance": 0.518641,
+      "count": 3
+    },
+    {
+      "text": "establecimiento de relaciones",
+      "relevance": 0.518581,
+      "count": 1
+    },
+    {
+      "text": "politica de dividendos",
+      "relevance": 0.518313,
+      "count": 1
+    },
+    {
+      "text": "sedes regionales",
+      "relevance": 0.517564,
+      "count": 4
+    },
+    {
+      "text": "defensa de la igualdad de derechos",
+      "relevance": 0.517531,
+      "count": 1
+    },
+    {
+      "text": "servicio social",
+      "relevance": 0.517417,
+      "count": 1
+    },
+    {
+      "text": "objeto de la presente resolucion",
+      "relevance": 0.517263,
+      "count": 1
+    },
+    {
+      "text": "objetivos de acuerdo",
+      "relevance": 0.517231,
+      "count": 1
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.51721,
+      "count": 1
+    },
+    {
+      "text": "documentos institucionales",
+      "relevance": 0.517175,
+      "count": 1
+    },
+    {
+      "text": "practicas de buen gobierno",
+      "relevance": 0.516743,
+      "count": 1
+    },
+    {
+      "text": "miembros de la comunidad universitaria",
+      "relevance": 0.516571,
+      "count": 1
+    },
+    {
+      "text": "seguimiento de la gestion",
+      "relevance": 0.51607,
+      "count": 1
+    },
+    {
+      "text": "propiedad intelectual",
+      "relevance": 0.516011,
+      "count": 4
+    },
+    {
+      "text": "profesional competente",
+      "relevance": 0.515985,
+      "count": 1
+    },
+    {
+      "text": "servidores publicos",
+      "relevance": 0.515665,
+      "count": 1
+    }
+  ],
+  "warnings": [
+    "Text content exceeds 50000 character limit. Only first 50000 characters processed..."
+  ]
+}

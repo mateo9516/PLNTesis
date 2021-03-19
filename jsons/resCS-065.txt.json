@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2330,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "nombramientos provisionales de los funcionarios",
+      "relevance": 0.717865,
+      "count": 1
+    },
+    {
+      "text": "actos administrativos",
+      "relevance": 0.689552,
+      "count": 1
+    },
+    {
+      "text": "docentes de la universidad del valle",
+      "relevance": 0.64116,
+      "count": 1
+    },
+    {
+      "text": "febrero del ario",
+      "relevance": 0.599792,
+      "count": 1
+    },
+    {
+      "text": "cargos de los empleados",
+      "relevance": 0.59971,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.598931,
+      "count": 2
+    },
+    {
+      "text": "vacantes existentes",
+      "relevance": 0.598019,
+      "count": 1
+    },
+    {
+      "text": "nombramiento provisional",
+      "relevance": 0.562971,
+      "count": 1
+    },
+    {
+      "text": "funcionarios asignados",
+      "relevance": 0.558219,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.555617,
+      "count": 1
+    },
+    {
+      "text": "cargos de empleados",
+      "relevance": 0.548762,
+      "count": 1
+    },
+    {
+      "text": "departamento del valle",
+      "relevance": 0.531609,
+      "count": 1
+    },
+    {
+      "text": "vacantes de la planta",
+      "relevance": 0.52511,
+      "count": 2
+    },
+    {
+      "text": "nombramientos provisionales",
+      "relevance": 0.523729,
+      "count": 1
+    },
+    {
+      "text": "saldn de reuniones del despacho",
+      "relevance": 0.52078,
+      "count": 1
+    },
+    {
+      "text": "manera definitiva",
+      "relevance": 0.515144,
+      "count": 1
+    },
+    {
+      "text": "planta de cargos definitiva",
+      "relevance": 0.510424,
+      "count": 1
+    },
+    {
+      "text": "proceso de concursos internos",
+      "relevance": 0.508532,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de octubre",
+      "relevance": 0.508242,
+      "count": 1
+    },
+    {
+      "text": "servicio de la instituci\u00e9n",
+      "relevance": 0.502814,
+      "count": 1
+    },
+    {
+      "text": "fecha de su expedici\u00e9dn",
+      "relevance": 0.502206,
+      "count": 1
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.501845,
+      "count": 1
+    },
+    {
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.498888,
+      "count": 1
+    },
+    {
+      "text": "estatuto general",
+      "relevance": 0.49544,
+      "count": 1
+    },
+    {
+      "text": "lopez pulecio",
+      "relevance": 0.49544,
+      "count": 1
+    },
+    {
+      "text": "servicio de la universidad del valle",
+      "relevance": 0.495127,
+      "count": 1
+    },
+    {
+      "text": "acuerdo",
+      "relevance": 0.492032,
+      "count": 1
+    },
+    {
+      "text": "empleados",
+      "relevance": 0.489605,
+      "count": 3
+    },
+    {
+      "text": "secretario general",
+      "relevance": 0.488708,
+      "count": 1
+    },
+    {
+      "text": "diciembre del afio",
+      "relevance": 0.488156,
+      "count": 1
+    },
+    {
+      "text": "cargos",
+      "relevance": 0.488132,
+      "count": 2
+    },
+    {
+      "text": "presidente de la republica",
+      "relevance": 0.478931,
+      "count": 1
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.469578,
+      "count": 1
+    },
+    {
+      "text": "atribuciones",
+      "relevance": 0.468613,
+      "count": 1
+    },
+    {
+      "text": "planta",
+      "relevance": 0.467485,
+      "count": 2
+    },
+    {
+      "text": "sefior rector de la universidad del valle",
+      "relevance": 0.464168,
+      "count": 1
+    },
+    {
+      "text": "septiembre",
+      "relevance": 0.461803,
+      "count": 1
+    },
+    {
+      "text": "vigencia",
+      "relevance": 0.4601,
+      "count": 1
+    },
+    {
+      "text": "docentes",
+      "relevance": 0.457208,
+      "count": 4
+    },
+    {
+      "text": "alos",
+      "relevance": 0.456916,
+      "count": 1
+    },
+    {
+      "text": "funcionarios",
+      "relevance": 0.455714,
+      "count": 1
+    },
+    {
+      "text": "disposiciones",
+      "relevance": 0.455542,
+      "count": 1
+    },
+    {
+      "text": "presidente",
+      "relevance": 0.455542,
+      "count": 2
+    },
+    {
+      "text": "plazo",
+      "relevance": 0.454797,
+      "count": 1
+    },
+    {
+      "text": "vacantes",
+      "relevance": 0.454215,
+      "count": 1
+    },
+    {
+      "text": "noviembre",
+      "relevance": 0.454,
+      "count": 1
+    },
+    {
+      "text": "periodo",
+      "relevance": 0.45384,
+      "count": 1
+    },
+    {
+      "text": "articulo",
+      "relevance": 0.451853,
+      "count": 1
+    },
+    {
+      "text": "abril",
+      "relevance": 0.451853,
+      "count": 1
+    },
+    {
+      "text": "octubre",
+      "relevance": 0.451238,
+      "count": 1
+    }
+  ]
+}

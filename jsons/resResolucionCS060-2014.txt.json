@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 3,
+    "text_characters": 23367,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "cargos de directores de escuela",
+      "relevance": 0.668909,
+      "count": 1
+    },
+    {
+      "text": "comit\u00e9s de programa acad\u00e9mico",
+      "relevance": 0.621238,
+      "count": 2
+    },
+    {
+      "text": "comit\u00e9s de departamento",
+      "relevance": 0.582645,
+      "count": 5
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.570471,
+      "count": 4
+    },
+    {
+      "text": "director de programa acad\u00e9mico",
+      "relevance": 0.559483,
+      "count": 1
+    },
+    {
+      "text": "directores de programa acad\u00e9mico de pregrado",
+      "relevance": 0.554731,
+      "count": 1
+    },
+    {
+      "text": "desarrollo acad\u00e9mico",
+      "relevance": 0.552514,
+      "count": 1
+    },
+    {
+      "text": "consejos de escuela",
+      "relevance": 0.541038,
+      "count": 4
+    },
+    {
+      "text": "instituto acad\u00e9mico",
+      "relevance": 0.540018,
+      "count": 14
+    },
+    {
+      "text": "rector de candidato",
+      "relevance": 0.539206,
+      "count": 2
+    },
+    {
+      "text": "disposiciones legales",
+      "relevance": 0.537797,
+      "count": 2
+    },
+    {
+      "text": "organizacion de los saberes",
+      "relevance": 0.535729,
+      "count": 1
+    },
+    {
+      "text": "programas acad\u00e9micos",
+      "relevance": 0.535372,
+      "count": 3
+    },
+    {
+      "text": "apertura de los cursos",
+      "relevance": 0.53506,
+      "count": 2
+    },
+    {
+      "text": "cargos de director de escuela",
+      "relevance": 0.534832,
+      "count": 1
+    },
+    {
+      "text": "jefe de departamento",
+      "relevance": 0.534294,
+      "count": 5
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.532471,
+      "count": 14
+    },
+    {
+      "text": "unidades acad\u00e9mico administrativas",
+      "relevance": 0.532363,
+      "count": 1
+    },
+    {
+      "text": "proyecto del plan",
+      "relevance": 0.53164,
+      "count": 1
+    },
+    {
+      "text": "programaci6n",
+      "relevance": 0.531447,
+      "count": 1
+    },
+    {
+      "text": "funciones del director de escuela",
+      "relevance": 0.529063,
+      "count": 1
+    },
+    {
+      "text": "representante de la escuela",
+      "relevance": 0.527457,
+      "count": 1
+    },
+    {
+      "text": "diferentes programas",
+      "relevance": 0.525836,
+      "count": 1
+    },
+    {
+      "text": "claustro de profesores de la escuela",
+      "relevance": 0.52554,
+      "count": 2
+    },
+    {
+      "text": "diferentes dreas",
+      "relevance": 0.524358,
+      "count": 1
+    },
+    {
+      "text": "categoria de profesor asistente",
+      "relevance": 0.524117,
+      "count": 2
+    },
+    {
+      "text": "uso de sus atribuciones legales",
+      "relevance": 0.522008,
+      "count": 1
+    },
+    {
+      "text": "parte del consejo de escuela",
+      "relevance": 0.521763,
+      "count": 1
+    },
+    {
+      "text": "demas funciones",
+      "relevance": 0.520967,
+      "count": 3
+    },
+    {
+      "text": "consejos",
+      "relevance": 0.520543,
+      "count": 2
+    },
+    {
+      "text": "forma consecutiva",
+      "relevance": 0.520119,
+      "count": 2
+    },
+    {
+      "text": "programa acad\u00e9mico",
+      "relevance": 0.520085,
+      "count": 4
+    },
+    {
+      "text": "disposiciones vigentes",
+      "relevance": 0.519554,
+      "count": 3
+    },
+    {
+      "text": "personal docente",
+      "relevance": 0.518985,
+      "count": 2
+    },
+    {
+      "text": "literales b",
+      "relevance": 0.518627,
+      "count": 1
+    },
+    {
+      "text": "concepto de compromisos acad\u00e9micos",
+      "relevance": 0.518571,
+      "count": 2
+    },
+    {
+      "text": "direccidn de un consejo de escuela",
+      "relevance": 0.517961,
+      "count": 1
+    },
+    {
+      "text": "permanente trabajo colegiado",
+      "relevance": 0.515741,
+      "count": 1
+    },
+    {
+      "text": "profesores nombrados de la respectiva escuela",
+      "relevance": 0.515564,
+      "count": 1
+    },
+    {
+      "text": "modalidad de nombramiento",
+      "relevance": 0.515061,
+      "count": 1
+    },
+    {
+      "text": "cumplimiento de los compromisos institucionales",
+      "relevance": 0.514235,
+      "count": 1
+    },
+    {
+      "text": "departamento",
+      "relevance": 0.514193,
+      "count": 9
+    },
+    {
+      "text": "solicitudes de comisiones de estudio",
+      "relevance": 0.513745,
+      "count": 2
+    },
+    {
+      "text": "informes de investigacion",
+      "relevance": 0.513411,
+      "count": 2
+    },
+    {
+      "text": "direccion de la facultad",
+      "relevance": 0.512581,
+      "count": 1
+    },
+    {
+      "text": "cargos acad\u00e9mico-administrativos de director",
+      "relevance": 0.511928,
+      "count": 1
+    },
+    {
+      "text": "jefes de los departamentos",
+      "relevance": 0.511894,
+      "count": 1
+    },
+    {
+      "text": "representante de los profesores de la escuela",
+      "relevance": 0.511832,
+      "count": 1
+    },
+    {
+      "text": "periodo adicional",
+      "relevance": 0.511694,
+      "count": 3
+    },
+    {
+      "text": "desarrollo de los cursos",
+      "relevance": 0.511627,
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3014,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "destacados intelectuales",
+      "relevance": 0.745943,
+      "count": 1
+    },
+    {
+      "text": "santos molano",
+      "relevance": 0.659494,
+      "count": 1
+    },
+    {
+      "text": "ceremonia especial",
+      "relevance": 0.649613,
+      "count": 1
+    },
+    {
+      "text": "producci\u00e9on intelectual",
+      "relevance": 0.62374,
+      "count": 1
+    },
+    {
+      "text": "sociedad justa",
+      "relevance": 0.585198,
+      "count": 1
+    },
+    {
+      "text": "obras narrativas",
+      "relevance": 0.578255,
+      "count": 1
+    },
+    {
+      "text": "escritor enrique",
+      "relevance": 0.564005,
+      "count": 4
+    },
+    {
+      "text": "motivo de orgullo",
+      "relevance": 0.54533,
+      "count": 1
+    },
+    {
+      "text": "titulo de doctor honoris",
+      "relevance": 0.537467,
+      "count": 1
+    },
+    {
+      "text": "parte de la mision de la universidad",
+      "relevance": 0.534768,
+      "count": 1
+    },
+    {
+      "text": "nacionalidad colombiana",
+      "relevance": 0.534272,
+      "count": 1
+    },
+    {
+      "text": "investigador de nuestra literatura",
+      "relevance": 0.534224,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.533882,
+      "count": 2
+    },
+    {
+      "text": "alto nivel",
+      "relevance": 0.529414,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.527551,
+      "count": 1
+    },
+    {
+      "text": "grande ideal",
+      "relevance": 0.527537,
+      "count": 1
+    },
+    {
+      "text": "invaluable contribucion",
+      "relevance": 0.526409,
+      "count": 1
+    },
+    {
+      "text": "escuela de estudios literarios",
+      "relevance": 0.526293,
+      "count": 2
+    },
+    {
+      "text": "creaci\u00e9n discursiva literaria",
+      "relevance": 0.52078,
+      "count": 1
+    },
+    {
+      "text": "jd\u00e9venes santos",
+      "relevance": 0.520317,
+      "count": 1
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.515768,
+      "count": 2
+    },
+    {
+      "text": "pie de las letras",
+      "relevance": 0.510852,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de abril",
+      "relevance": 0.508932,
+      "count": 1
+    },
+    {
+      "text": "obras est\u00e9ticas",
+      "relevance": 0.508377,
+      "count": 1
+    },
+    {
+      "text": "presente resoluci6",
+      "relevance": 0.507897,
+      "count": 1
+    },
+    {
+      "text": "salon de reuniones del despacho",
+      "relevance": 0.50636,
+      "count": 1
+    },
+    {
+      "text": "confesio6n del secreto",
+      "relevance": 0.504752,
+      "count": 1
+    },
+    {
+      "text": "amplio reconocimiento nacional",
+      "relevance": 0.504016,
+      "count": 1
+    },
+    {
+      "text": "ambito nacional",
+      "relevance": 0.502531,
+      "count": 1
+    },
+    {
+      "text": "representante del presidente",
+      "relevance": 0.501944,
+      "count": 1
+    },
+    {
+      "text": "titulo doctor honoris",
+      "relevance": 0.501787,
+      "count": 1
+    },
+    {
+      "text": "antonio narifo",
+      "relevance": 0.501743,
+      "count": 1
+    },
+    {
+      "text": "larreamendy joerns",
+      "relevance": 0.498656,
+      "count": 1
+    },
+    {
+      "text": "literaturas colombiana",
+      "relevance": 0.496187,
+      "count": 1
+    },
+    {
+      "text": "historizacion narrativa",
+      "relevance": 0.495639,
+      "count": 1
+    },
+    {
+      "text": "corazon del poeta",
+      "relevance": 0.495485,
+      "count": 1
+    },
+    {
+      "text": "titulo correspondiente",
+      "relevance": 0.492673,
+      "count": 1
+    },
+    {
+      "text": "novelas",
+      "relevance": 0.492429,
+      "count": 1
+    },
+    {
+      "text": "instituci6n",
+      "relevance": 0.490047,
+      "count": 1
+    },
+    {
+      "text": "dia dia",
+      "relevance": 0.489882,
+      "count": 1
+    },
+    {
+      "text": "legado literarios",
+      "relevance": 0.489859,
+      "count": 1
+    },
+    {
+      "text": "generaciones de colombianos",
+      "relevance": 0.489376,
+      "count": 1
+    },
+    {
+      "text": "acad\u00e9mica",
+      "relevance": 0.489367,
+      "count": 1
+    },
+    {
+      "text": "literatura",
+      "relevance": 0.487667,
+      "count": 3
+    },
+    {
+      "text": "sujetos",
+      "relevance": 0.486311,
+      "count": 1
+    },
+    {
+      "text": "intelectual",
+      "relevance": 0.485923,
+      "count": 1
+    },
+    {
+      "text": "molano",
+      "relevance": 0.484649,
+      "count": 1
+    },
+    {
+      "text": "ensayos",
+      "relevance": 0.483145,
+      "count": 2
+    },
+    {
+      "text": "memorias",
+      "relevance": 0.482716,
+      "count": 1
+    },
+    {
+      "text": "investigador",
+      "relevance": 0.482699,
+      "count": 1
+    }
+  ]
+}

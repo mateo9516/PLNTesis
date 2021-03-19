@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 9898,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "periodo acad\u00e9mico",
+      "relevance": 0.784078,
+      "count": 3
+    },
+    {
+      "text": "docentes de las sedes regionales",
+      "relevance": 0.731363,
+      "count": 4
+    },
+    {
+      "text": "programas acad\u00e9micos",
+      "relevance": 0.665902,
+      "count": 1
+    },
+    {
+      "text": "sede regional",
+      "relevance": 0.626053,
+      "count": 3
+    },
+    {
+      "text": "programa de capacitacidn",
+      "relevance": 0.625964,
+      "count": 1
+    },
+    {
+      "text": "dichos docentes",
+      "relevance": 0.621315,
+      "count": 1
+    },
+    {
+      "text": "programa acad\u00e9mico de posgrado",
+      "relevance": 0.59097,
+      "count": 1
+    },
+    {
+      "text": "normal desarrollo",
+      "relevance": 0.590508,
+      "count": 1
+    },
+    {
+      "text": "sedes regionales",
+      "relevance": 0.585052,
+      "count": 5
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.565412,
+      "count": 3
+    },
+    {
+      "text": "pertinencia de la formaci\u00e9n acad\u00e9mica",
+      "relevance": 0.56069,
+      "count": 1
+    },
+    {
+      "text": "criterios de elegibilidad",
+      "relevance": 0.559409,
+      "count": 2
+    },
+    {
+      "text": "vicerrectoria acad\u00e9mica",
+      "relevance": 0.558415,
+      "count": 4
+    },
+    {
+      "text": "contratistas docentes",
+      "relevance": 0.552329,
+      "count": 1
+    },
+    {
+      "text": "buen resultado",
+      "relevance": 0.551574,
+      "count": 1
+    },
+    {
+      "text": "rendimiento acad\u00e9mico",
+      "relevance": 0.546179,
+      "count": 2
+    },
+    {
+      "text": "docente de sede regional",
+      "relevance": 0.544151,
+      "count": 5
+    },
+    {
+      "text": "institutos acad\u00e9micos",
+      "relevance": 0.541433,
+      "count": 1
+    },
+    {
+      "text": "siguientes beneficios de exencion",
+      "relevance": 0.540468,
+      "count": 1
+    },
+    {
+      "text": "siguientes elementos",
+      "relevance": 0.535943,
+      "count": 1
+    },
+    {
+      "text": "renovacion del beneficio",
+      "relevance": 0.535574,
+      "count": 1
+    },
+    {
+      "text": "docentes hora catedra",
+      "relevance": 0.529261,
+      "count": 1
+    },
+    {
+      "text": "desarrollo de sus actividades docentes",
+      "relevance": 0.529096,
+      "count": 1
+    },
+    {
+      "text": "programa acad\u00e9mico",
+      "relevance": 0.527176,
+      "count": 1
+    },
+    {
+      "text": "areas acad\u00e9micas",
+      "relevance": 0.525648,
+      "count": 1
+    },
+    {
+      "text": "otorgamiento de exenciones",
+      "relevance": 0.524749,
+      "count": 1
+    },
+    {
+      "text": "buen desempefio acad\u00e9mico",
+      "relevance": 0.524121,
+      "count": 1
+    },
+    {
+      "text": "requisitos de admision",
+      "relevance": 0.523806,
+      "count": 1
+    },
+    {
+      "text": "docentes de las sedesuniversidad",
+      "relevance": 0.523447,
+      "count": 1
+    },
+    {
+      "text": "total de las matriculas",
+      "relevance": 0.522305,
+      "count": 1
+    },
+    {
+      "text": "literal c",
+      "relevance": 0.521922,
+      "count": 1
+    },
+    {
+      "text": "presente programa",
+      "relevance": 0.521156,
+      "count": 2
+    },
+    {
+      "text": "programa de posgrado respectivo",
+      "relevance": 0.519884,
+      "count": 1
+    },
+    {
+      "text": "literal b",
+      "relevance": 0.518268,
+      "count": 1
+    },
+    {
+      "text": "nivel de posgrado",
+      "relevance": 0.516771,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.516559,
+      "count": 1
+    },
+    {
+      "text": "terminaci\u00e9n de sus compromisos acad\u00e9micos",
+      "relevance": 0.514837,
+      "count": 1
+    },
+    {
+      "text": "direcci\u00e9n de la sede regional",
+      "relevance": 0.513979,
+      "count": 1
+    },
+    {
+      "text": "afio siguiente",
+      "relevance": 0.512231,
+      "count": 1
+    },
+    {
+      "text": "beneficiario de este programa",
+      "relevance": 0.512025,
+      "count": 1
+    },
+    {
+      "text": "forma continua",
+      "relevance": 0.511446,
+      "count": 1
+    },
+    {
+      "text": "mecanismo de seleccion",
+      "relevance": 0.511036,
+      "count": 1
+    },
+    {
+      "text": "linea de trabajo docente",
+      "relevance": 0.51026,
+      "count": 1
+    },
+    {
+      "text": "respectivo comit\u00e9 de programa",
+      "relevance": 0.509024,
+      "count": 1
+    },
+    {
+      "text": "solicitudes presentadas",
+      "relevance": 0.508984,
+      "count": 1
+    },
+    {
+      "text": "trabajo de grado",
+      "relevance": 0.508811,
+      "count": 2
+    },
+    {
+      "text": "numero de periodos",
+      "relevance": 0.508123,
+      "count": 1
+    },
+    {
+      "text": "requisitos acad\u00e9micos establecidos",
+      "relevance": 0.507778,
+      "count": 1
+    },
+    {
+      "text": "compromisos docentes",
+      "relevance": 0.507502,
+      "count": 1
+    },
+    {
+      "text": "tiempo completo",
+      "relevance": 0.507002,
+      "count": 2
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 4019,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "total facultad de ciencias",
+      "relevance": 0.907258,
+      "count": 1
+    },
+    {
+      "text": "facultad de ciencias cupos",
+      "relevance": 0.778346,
+      "count": 1
+    },
+    {
+      "text": "total facultad de humanidades",
+      "relevance": 0.739173,
+      "count": 1
+    },
+    {
+      "text": "tecnologia quimica",
+      "relevance": 0.653393,
+      "count": 2
+    },
+    {
+      "text": "total instituto de psicologia",
+      "relevance": 0.605215,
+      "count": 1
+    },
+    {
+      "text": "ingenieria topografica",
+      "relevance": 0.579945,
+      "count": 1
+    },
+    {
+      "text": "total instituto de educacion",
+      "relevance": 0.573782,
+      "count": 1
+    },
+    {
+      "text": "facultad de humanidades",
+      "relevance": 0.568298,
+      "count": 1
+    },
+    {
+      "text": "sede de cali",
+      "relevance": 0.559568,
+      "count": 2
+    },
+    {
+      "text": "total facultad de ingenieria",
+      "relevance": 0.557865,
+      "count": 1
+    },
+    {
+      "text": "terapia ocupacional",
+      "relevance": 0.556653,
+      "count": 1
+    },
+    {
+      "text": "comercio exterior",
+      "relevance": 0.556653,
+      "count": 1
+    },
+    {
+      "text": "ciencias sociales",
+      "relevance": 0.551534,
+      "count": 1
+    },
+    {
+      "text": "lenguas extranjeras",
+      "relevance": 0.546961,
+      "count": 2
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.542916,
+      "count": 1
+    },
+    {
+      "text": "basica \u00e9nfasis",
+      "relevance": 0.542071,
+      "count": 1
+    },
+    {
+      "text": "ciencias naturales",
+      "relevance": 0.540687,
+      "count": 2
+    },
+    {
+      "text": "ingenieria de materiales",
+      "relevance": 0.540498,
+      "count": 1
+    },
+    {
+      "text": "instituto de psicologia",
+      "relevance": 0.540156,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de octubre",
+      "relevance": 0.535535,
+      "count": 1
+    },
+    {
+      "text": "licenciatura",
+      "relevance": 0.531881,
+      "count": 13
+    },
+    {
+      "text": "facultad de ciencias sociales",
+      "relevance": 0.530345,
+      "count": 1
+    },
+    {
+      "text": "total cupos",
+      "relevance": 0.529589,
+      "count": 1
+    },
+    {
+      "text": "demas requisitos",
+      "relevance": 0.52666,
+      "count": 1
+    },
+    {
+      "text": "facultad de artes integradas",
+      "relevance": 0.526316,
+      "count": 2
+    },
+    {
+      "text": "instituto de educacion",
+      "relevance": 0.52539,
+      "count": 1
+    },
+    {
+      "text": "trabajo social",
+      "relevance": 0.521534,
+      "count": 1
+    },
+    {
+      "text": "disefio industrial",
+      "relevance": 0.52062,
+      "count": 1
+    },
+    {
+      "text": "ingenieria de sistemas",
+      "relevance": 0.51898,
+      "count": 1
+    },
+    {
+      "text": "siguiente oferta acad\u00e9mica",
+      "relevance": 0.515412,
+      "count": 1
+    },
+    {
+      "text": "contaduria publica",
+      "relevance": 0.515162,
+      "count": 2
+    },
+    {
+      "text": "tecnologia electr\u00e9nica",
+      "relevance": 0.512027,
+      "count": 1
+    },
+    {
+      "text": "secretario general",
+      "relevance": 0.510291,
+      "count": 1
+    },
+    {
+      "text": "ingenieria electronica",
+      "relevance": 0.510009,
+      "count": 1
+    },
+    {
+      "text": "oferta de programas",
+      "relevance": 0.509591,
+      "count": 1
+    },
+    {
+      "text": "educacion ambiental",
+      "relevance": 0.506101,
+      "count": 1
+    },
+    {
+      "text": "total facultad ciencias sociales",
+      "relevance": 0.505043,
+      "count": 1
+    },
+    {
+      "text": "sistemas de informacidn",
+      "relevance": 0.504529,
+      "count": 1
+    },
+    {
+      "text": "periodo acad\u00e9mico",
+      "relevance": 0.503484,
+      "count": 1
+    },
+    {
+      "text": "ingenieria",
+      "relevance": 0.503128,
+      "count": 1
+    },
+    {
+      "text": "ingenieria agricola",
+      "relevance": 0.502888,
+      "count": 1
+    },
+    {
+      "text": "arte dramatico",
+      "relevance": 0.500494,
+      "count": 1
+    },
+    {
+      "text": "laboratorio clinico",
+      "relevance": 0.500494,
+      "count": 1
+    },
+    {
+      "text": "facultad de salud",
+      "relevance": 0.499531,
+      "count": 1
+    },
+    {
+      "text": "ingenieria el\u00e9ctrica",
+      "relevance": 0.498047,
+      "count": 1
+    },
+    {
+      "text": "procedimiento del proceso",
+      "relevance": 0.495916,
+      "count": 1
+    },
+    {
+      "text": "reglamento de inscripciones",
+      "relevance": 0.495916,
+      "count": 1
+    },
+    {
+      "text": "facultad de ciencias de la administracion",
+      "relevance": 0.494846,
+      "count": 1
+    },
+    {
+      "text": "ingenieria civil",
+      "relevance": 0.494603,
+      "count": 1
+    },
+    {
+      "text": "disefio grafico",
+      "relevance": 0.494372,
+      "count": 1
+    }
+  ]
+}

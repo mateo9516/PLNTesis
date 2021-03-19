@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3031,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "denominacion del programa acad\u00e9mico",
+      "relevance": 0.778974,
+      "count": 2
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.671143,
+      "count": 3
+    },
+    {
+      "text": "programa acad\u00e9mico",
+      "relevance": 0.651571,
+      "count": 3
+    },
+    {
+      "text": "ciencias sociales",
+      "relevance": 0.638596,
+      "count": 9
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.637371,
+      "count": 3
+    },
+    {
+      "text": "resultados del proceso de autoevaluacion",
+      "relevance": 0.588831,
+      "count": 1
+    },
+    {
+      "text": "ciudad de cali-valle",
+      "relevance": 0.572432,
+      "count": 1
+    },
+    {
+      "text": "denominacion acorde",
+      "relevance": 0.567321,
+      "count": 1
+    },
+    {
+      "text": "educacion basica",
+      "relevance": 0.558638,
+      "count": 6
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.552329,
+      "count": 1
+    },
+    {
+      "text": "curriculo del programa acad\u00e9mico",
+      "relevance": 0.543887,
+      "count": 1
+    },
+    {
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.541092,
+      "count": 1
+    },
+    {
+      "text": "saldn de reuniones de la gobernacion",
+      "relevance": 0.539351,
+      "count": 1
+    },
+    {
+      "text": "demandas del entorno local",
+      "relevance": 0.539216,
+      "count": 1
+    },
+    {
+      "text": "objetivo del programa acad\u00e9mico",
+      "relevance": 0.513683,
+      "count": 1
+    },
+    {
+      "text": "revision permanente de los curriculos",
+      "relevance": 0.510349,
+      "count": 1
+    },
+    {
+      "text": "literal b",
+      "relevance": 0.503267,
+      "count": 1
+    },
+    {
+      "text": "facultad de humanidades",
+      "relevance": 0.503267,
+      "count": 1
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.502479,
+      "count": 2
+    },
+    {
+      "text": "sesion de septiembre",
+      "relevance": 0.502321,
+      "count": 1
+    },
+    {
+      "text": "t\u00e9rminos de nuevos conocimientos",
+      "relevance": 0.499321,
+      "count": 1
+    },
+    {
+      "text": "estatuto general",
+      "relevance": 0.49853,
+      "count": 1
+    },
+    {
+      "text": "reglamentacidn complementaria",
+      "relevance": 0.495256,
+      "count": 1
+    },
+    {
+      "text": "castillo gomez",
+      "relevance": 0.495256,
+      "count": 1
+    },
+    {
+      "text": "normativa existente",
+      "relevance": 0.493667,
+      "count": 1
+    },
+    {
+      "text": "dias del mes",
+      "relevance": 0.493667,
+      "count": 1
+    },
+    {
+      "text": "departamento del valle",
+      "relevance": 0.493627,
+      "count": 1
+    },
+    {
+      "text": "ministerio de educacion nacional",
+      "relevance": 0.493102,
+      "count": 1
+    },
+    {
+      "text": "secretario general",
+      "relevance": 0.4919,
+      "count": 1
+    },
+    {
+      "text": "acreditacion institucional del alta calidad",
+      "relevance": 0.48173,
+      "count": 1
+    },
+    {
+      "text": "mismas ofertas de las unidades acad\u00e9micas",
+      "relevance": 0.477144,
+      "count": 1
+    },
+    {
+      "text": "resolvio",
+      "relevance": 0.476604,
+      "count": 1
+    },
+    {
+      "text": "necesidad",
+      "relevance": 0.475333,
+      "count": 1
+    },
+    {
+      "text": "licenciatura",
+      "relevance": 0.47303,
+      "count": 11
+    },
+    {
+      "text": "solicitud de registro calificado del programa acad\u00e9mico",
+      "relevance": 0.472382,
+      "count": 1
+    },
+    {
+      "text": "cambio de denominacion del programa acad\u00e9mico",
+      "relevance": 0.471327,
+      "count": 1
+    },
+    {
+      "text": "educacion",
+      "relevance": 0.471162,
+      "count": 1
+    },
+    {
+      "text": "conformidad",
+      "relevance": 0.467984,
+      "count": 1
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.465566,
+      "count": 1
+    },
+    {
+      "text": "enfasis",
+      "relevance": 0.465122,
+      "count": 7
+    },
+    {
+      "text": "unico",
+      "relevance": 0.465042,
+      "count": 1
+    },
+    {
+      "text": "octubre",
+      "relevance": 0.459218,
+      "count": 1
+    },
+    {
+      "text": "ley",
+      "relevance": 0.459097,
+      "count": 1
+    },
+    {
+      "text": "ministerio",
+      "relevance": 0.458795,
+      "count": 1
+    },
+    {
+      "text": "t\u00e9rmino",
+      "relevance": 0.457911,
+      "count": 1
+    },
+    {
+      "text": "resolucio\u00e9n",
+      "relevance": 0.45754,
+      "count": 1
+    },
+    {
+      "text": "septiembre",
+      "relevance": 0.45642,
+      "count": 2
+    },
+    {
+      "text": "uso",
+      "relevance": 0.45558,
+      "count": 1
+    },
+    {
+      "text": "termino",
+      "relevance": 0.45558,
+      "count": 1
+    },
+    {
+      "text": "noviembre",
+      "relevance": 0.45558,
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1503,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "estudiantes especiales",
+      "relevance": 0.725581,
+      "count": 2
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.677901,
+      "count": 2
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.647827,
+      "count": 1
+    },
+    {
+      "text": "escuela de musica de la facultad",
+      "relevance": 0.614607,
+      "count": 1
+    },
+    {
+      "text": "salon de reuniones del despache",
+      "relevance": 0.586712,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de mayo",
+      "relevance": 0.577224,
+      "count": 1
+    },
+    {
+      "text": "uso de las atribuciones",
+      "relevance": 0.56942,
+      "count": 1
+    },
+    {
+      "text": "distribucion de unos ingresos provenientes",
+      "relevance": 0.542813,
+      "count": 1
+    },
+    {
+      "text": "division de admisiones",
+      "relevance": 0.525971,
+      "count": 1
+    },
+    {
+      "text": "artes integradas",
+      "relevance": 0.519587,
+      "count": 1
+    },
+    {
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.519013,
+      "count": 1
+    },
+    {
+      "text": "escuela de musica",
+      "relevance": 0.512267,
+      "count": 1
+    },
+    {
+      "text": "estatuto general",
+      "relevance": 0.508217,
+      "count": 1
+    },
+    {
+      "text": "vicerrectoria acad\u00e9mica",
+      "relevance": 0.504837,
+      "count": 2
+    },
+    {
+      "text": "facultad de artes integradas",
+      "relevance": 0.500555,
+      "count": 1
+    },
+    {
+      "text": "secretario general",
+      "relevance": 0.496892,
+      "count": 1
+    },
+    {
+      "text": "registro acad\u00e9mico",
+      "relevance": 0.492968,
+      "count": 2
+    },
+    {
+      "text": "siguiente manera",
+      "relevance": 0.48963,
+      "count": 1
+    },
+    {
+      "text": "valle del cauca",
+      "relevance": 0.48963,
+      "count": 1
+    },
+    {
+      "text": "dineros",
+      "relevance": 0.488744,
+      "count": 1
+    },
+    {
+      "text": "categoria",
+      "relevance": 0.461721,
+      "count": 2
+    },
+    {
+      "text": "facultad",
+      "relevance": 0.459382,
+      "count": 1
+    },
+    {
+      "text": "gobernador",
+      "relevance": 0.448818,
+      "count": 1
+    },
+    {
+      "text": "concepto",
+      "relevance": 0.447978,
+      "count": 1
+    },
+    {
+      "text": "musica",
+      "relevance": 0.446908,
+      "count": 1
+    },
+    {
+      "text": "siguiente",
+      "relevance": 0.441191,
+      "count": 1
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.439053,
+      "count": 1
+    },
+    {
+      "text": "unico",
+      "relevance": 0.43708,
+      "count": 1
+    },
+    {
+      "text": "departamento",
+      "relevance": 0.43708,
+      "count": 1
+    },
+    {
+      "text": "jaramillo",
+      "relevance": 0.43708,
+      "count": 1
+    },
+    {
+      "text": "oouniversidad",
+      "relevance": 0.436013,
+      "count": 1
+    },
+    {
+      "text": "resolucion",
+      "relevance": 0.432978,
+      "count": 1
+    },
+    {
+      "text": "programa",
+      "relevance": 0.432978,
+      "count": 1
+    },
+    {
+      "text": "curso",
+      "relevance": 0.432978,
+      "count": 1
+    },
+    {
+      "text": "sentido",
+      "relevance": 0.432978,
+      "count": 1
+    },
+    {
+      "text": "presidente",
+      "relevance": 0.432978,
+      "count": 1
+    }
+  ]
+}

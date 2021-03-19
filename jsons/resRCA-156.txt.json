@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2192,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "ciencias ambientales",
+      "relevance": 0.917754,
+      "count": 1
+    },
+    {
+      "text": "programas acad\u00e9micos de doctorado",
+      "relevance": 0.735224,
+      "count": 2
+    },
+    {
+      "text": "reuniones del consejo acad\u00e9mico",
+      "relevance": 0.629668,
+      "count": 1
+    },
+    {
+      "text": "politicas de colciencias de fortalecimiento",
+      "relevance": 0.611911,
+      "count": 1
+    },
+    {
+      "text": "periodicidad anual",
+      "relevance": 0.601851,
+      "count": 1
+    },
+    {
+      "text": "programas de fortalecimiento de capacidades",
+      "relevance": 0.601713,
+      "count": 1
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.57982,
+      "count": 1
+    },
+    {
+      "text": "presente resolucion",
+      "relevance": 0.562279,
+      "count": 1
+    },
+    {
+      "text": "programas de doctorado nacionales",
+      "relevance": 0.558019,
+      "count": 1
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.555869,
+      "count": 3
+    },
+    {
+      "text": "distintos sistemas",
+      "relevance": 0.549963,
+      "count": 1
+    },
+    {
+      "text": "programas acad\u00e9micos",
+      "relevance": 0.548756,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.53599,
+      "count": 1
+    },
+    {
+      "text": "programas de doble",
+      "relevance": 0.535478,
+      "count": 1
+    },
+    {
+      "text": "trav\u00e9s de estancias cortas",
+      "relevance": 0.519452,
+      "count": 1
+    },
+    {
+      "text": "literal c",
+      "relevance": 0.509251,
+      "count": 1
+    },
+    {
+      "text": "tutelas de tesis doctorales",
+      "relevance": 0.506529,
+      "count": 1
+    },
+    {
+      "text": "aseguramiento de la calidad de la educaci6n superior",
+      "relevance": 0.503744,
+      "count": 1
+    },
+    {
+      "text": "universidad del valle asumio",
+      "relevance": 0.500115,
+      "count": 1
+    },
+    {
+      "text": "periodicidad semestral",
+      "relevance": 0.499868,
+      "count": 1
+    },
+    {
+      "text": "ciencias",
+      "relevance": 0.499134,
+      "count": 1
+    },
+    {
+      "text": "dias de diciembre",
+      "relevance": 0.489432,
+      "count": 1
+    },
+    {
+      "text": "caracteristicas requeridas",
+      "relevance": 0.48892,
+      "count": 1
+    },
+    {
+      "text": "sede mel\u00e9ndez",
+      "relevance": 0.48892,
+      "count": 1
+    },
+    {
+      "text": "consejo academico de la universidad del valle",
+      "relevance": 0.486114,
+      "count": 1
+    },
+    {
+      "text": "vinculaci\u00e9n de los estudiantes",
+      "relevance": 0.481727,
+      "count": 1
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.470692,
+      "count": 2
+    },
+    {
+      "text": "atribuciones",
+      "relevance": 0.4704,
+      "count": 1
+    },
+    {
+      "text": "movilidad acad\u00e9mica internacional de estudiantes de doctorado",
+      "relevance": 0.469652,
+      "count": 1
+    },
+    {
+      "text": "admision",
+      "relevance": 0.465756,
+      "count": 1
+    },
+    {
+      "text": "docentes",
+      "relevance": 0.465455,
+      "count": 1
+    },
+    {
+      "text": "semestralizaci6",
+      "relevance": 0.465353,
+      "count": 1
+    },
+    {
+      "text": "doctorado",
+      "relevance": 0.463453,
+      "count": 1
+    },
+    {
+      "text": "ingenieria",
+      "relevance": 0.462854,
+      "count": 1
+    },
+    {
+      "text": "mundo",
+      "relevance": 0.46055,
+      "count": 1
+    },
+    {
+      "text": "expedicion",
+      "relevance": 0.460264,
+      "count": 1
+    },
+    {
+      "text": "resolucion",
+      "relevance": 0.457974,
+      "count": 1
+    },
+    {
+      "text": "investigadores",
+      "relevance": 0.456446,
+      "count": 1
+    },
+    {
+      "text": "programas",
+      "relevance": 0.456339,
+      "count": 1
+    },
+    {
+      "text": "psicologia",
+      "relevance": 0.455043,
+      "count": 1
+    },
+    {
+      "text": "biologia",
+      "relevance": 0.453893,
+      "count": 1
+    },
+    {
+      "text": "ramos",
+      "relevance": 0.453647,
+      "count": 1
+    },
+    {
+      "text": "diciembre",
+      "relevance": 0.452488,
+      "count": 1
+    },
+    {
+      "text": "articulo",
+      "relevance": 0.452488,
+      "count": 1
+    },
+    {
+      "text": "filosofia",
+      "relevance": 0.452488,
+      "count": 1
+    },
+    {
+      "text": "compromiso",
+      "relevance": 0.452466,
+      "count": 1
+    },
+    {
+      "text": "uso",
+      "relevance": 0.451329,
+      "count": 1
+    },
+    {
+      "text": "investigacion",
+      "relevance": 0.451329,
+      "count": 1
+    },
+    {
+      "text": "innovacion",
+      "relevance": 0.451329,
+      "count": 1
+    },
+    {
+      "text": "oferta",
+      "relevance": 0.451329,
+      "count": 1
+    }
+  ]
+}

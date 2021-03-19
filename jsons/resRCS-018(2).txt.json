@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 5740,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "demas actos",
+      "relevance": 0.589823,
+      "count": 1
+    },
+    {
+      "text": "promesa de compraventa",
+      "relevance": 0.579877,
+      "count": 1
+    },
+    {
+      "text": "siguientes valores",
+      "relevance": 0.572521,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.556301,
+      "count": 7
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.547282,
+      "count": 2
+    },
+    {
+      "text": "contrato de fiducia",
+      "relevance": 0.545979,
+      "count": 1
+    },
+    {
+      "text": "unidades inmobiliarias",
+      "relevance": 0.543748,
+      "count": 1
+    },
+    {
+      "text": "parte de la universidad del valle",
+      "relevance": 0.542984,
+      "count": 1
+    },
+    {
+      "text": "siguientes casos",
+      "relevance": 0.54086,
+      "count": 1
+    },
+    {
+      "text": "bienes constitutivos del fideicomiso",
+      "relevance": 0.537591,
+      "count": 1
+    },
+    {
+      "text": "luis alberto herrera",
+      "relevance": 0.537424,
+      "count": 1
+    },
+    {
+      "text": "partes contratantes",
+      "relevance": 0.535196,
+      "count": 1
+    },
+    {
+      "text": "fiduciaria del estado",
+      "relevance": 0.535173,
+      "count": 1
+    },
+    {
+      "text": "avaluo de los inmuebles",
+      "relevance": 0.533869,
+      "count": 1
+    },
+    {
+      "text": "registro de instrumentos",
+      "relevance": 0.531811,
+      "count": 1
+    },
+    {
+      "text": "desarrollos de diciembre",
+      "relevance": 0.531641,
+      "count": 1
+    },
+    {
+      "text": "oferta economica presentada",
+      "relevance": 0.530476,
+      "count": 1
+    },
+    {
+      "text": "tramites necesarios",
+      "relevance": 0.529674,
+      "count": 1
+    },
+    {
+      "text": "dicho inmueble",
+      "relevance": 0.528218,
+      "count": 1
+    },
+    {
+      "text": "fideicomiso torre",
+      "relevance": 0.527792,
+      "count": 1
+    },
+    {
+      "text": "estatuto general",
+      "relevance": 0.527742,
+      "count": 1
+    },
+    {
+      "text": "venta de los inmuebles",
+      "relevance": 0.52762,
+      "count": 1
+    },
+    {
+      "text": "paragrafo del articulo",
+      "relevance": 0.526376,
+      "count": 1
+    },
+    {
+      "text": "torre institucional",
+      "relevance": 0.525057,
+      "count": 4
+    },
+    {
+      "text": "proyecto hotel forte",
+      "relevance": 0.524496,
+      "count": 1
+    },
+    {
+      "text": "ymtramites necesarios",
+      "relevance": 0.524276,
+      "count": 1
+    },
+    {
+      "text": "parte del municipio de santiago",
+      "relevance": 0.521231,
+      "count": 1
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.520243,
+      "count": 4
+    },
+    {
+      "text": "reglamento de propiedad horizontal",
+      "relevance": 0.517443,
+      "count": 1
+    },
+    {
+      "text": "mejor opcion",
+      "relevance": 0.516357,
+      "count": 1
+    },
+    {
+      "text": "salon de reuniones del despacho",
+      "relevance": 0.51536,
+      "count": 1
+    },
+    {
+      "text": "titulo bienes inmuebles",
+      "relevance": 0.514807,
+      "count": 1
+    },
+    {
+      "text": "parte de la firma global",
+      "relevance": 0.514088,
+      "count": 1
+    },
+    {
+      "text": "matriculas inmobiliarias",
+      "relevance": 0.513737,
+      "count": 1
+    },
+    {
+      "text": "autorizaci6n previa",
+      "relevance": 0.512564,
+      "count": 1
+    },
+    {
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.510241,
+      "count": 1
+    },
+    {
+      "text": "firma bienes",
+      "relevance": 0.510018,
+      "count": 1
+    },
+    {
+      "text": "municipio de santiago de cali",
+      "relevance": 0.508966,
+      "count": 2
+    },
+    {
+      "text": "realizacion de los procesos contractuales",
+      "relevance": 0.508361,
+      "count": 1
+    },
+    {
+      "text": "oficina de registro de instrumentos",
+      "relevance": 0.508249,
+      "count": 1
+    },
+    {
+      "text": "literal k",
+      "relevance": 0.508036,
+      "count": 1
+    },
+    {
+      "text": "rector de la universidad del valle",
+      "relevance": 0.507735,
+      "count": 1
+    },
+    {
+      "text": "sedes de la universidad del valle",
+      "relevance": 0.506021,
+      "count": 1
+    },
+    {
+      "text": "cali",
+      "relevance": 0.502331,
+      "count": 6
+    },
+    {
+      "text": "estatuto de contratacion",
+      "relevance": 0.502311,
+      "count": 2
+    },
+    {
+      "text": "global express consulting",
+      "relevance": 0.501473,
+      "count": 1
+    },
+    {
+      "text": "fideicomitentes beneficiarios",
+      "relevance": 0.500319,
+      "count": 1
+    },
+    {
+      "text": "fideicomiso proyecto",
+      "relevance": 0.500227,
+      "count": 1
+    },
+    {
+      "text": "inmuebles",
+      "relevance": 0.500019,
+      "count": 1
+    },
+    {
+      "text": "avenidauniversidad del valle",
+      "relevance": 0.499805,
+      "count": 1
+    }
+  ]
+}

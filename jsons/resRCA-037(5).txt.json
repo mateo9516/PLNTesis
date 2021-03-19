@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 4175,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "tribunal administrativo de cundinamarca",
+      "relevance": 0.718375,
+      "count": 1
+    },
+    {
+      "text": "accion social",
+      "relevance": 0.665724,
+      "count": 2
+    },
+    {
+      "text": "educacion de varios accionantes inscritos",
+      "relevance": 0.652869,
+      "count": 1
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.631337,
+      "count": 5
+    },
+    {
+      "text": "educacion superior",
+      "relevance": 0.590893,
+      "count": 2
+    },
+    {
+      "text": "cooperacion internacional",
+      "relevance": 0.584728,
+      "count": 1
+    },
+    {
+      "text": "programas acad\u00e9micos",
+      "relevance": 0.580601,
+      "count": 3
+    },
+    {
+      "text": "poblacion desplazada",
+      "relevance": 0.569005,
+      "count": 4
+    },
+    {
+      "text": "presente resolucion",
+      "relevance": 0.538658,
+      "count": 1
+    },
+    {
+      "text": "pruebas adicionales",
+      "relevance": 0.532595,
+      "count": 1
+    },
+    {
+      "text": "minimo vital",
+      "relevance": 0.529501,
+      "count": 1
+    },
+    {
+      "text": "vivienda digna",
+      "relevance": 0.525884,
+      "count": 1
+    },
+    {
+      "text": "programa acad\u00e9mico",
+      "relevance": 0.525762,
+      "count": 2
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.523619,
+      "count": 1
+    },
+    {
+      "text": "acad\u00e9micos de pregrado",
+      "relevance": 0.522967,
+      "count": 1
+    },
+    {
+      "text": "registro unico",
+      "relevance": 0.522686,
+      "count": 2
+    },
+    {
+      "text": "fotocopia del documento de identidad",
+      "relevance": 0.521133,
+      "count": 1
+    },
+    {
+      "text": "consejo academico de la universidad",
+      "relevance": 0.520555,
+      "count": 1
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.518752,
+      "count": 3
+    },
+    {
+      "text": "sola vez",
+      "relevance": 0.516728,
+      "count": 1
+    },
+    {
+      "text": "sostenibilidad socioecond\u00e9mica",
+      "relevance": 0.515555,
+      "count": 1
+    },
+    {
+      "text": "sesiones del consejo acad\u00e9mico",
+      "relevance": 0.51474,
+      "count": 1
+    },
+    {
+      "text": "uso de sus atribuciones",
+      "relevance": 0.513378,
+      "count": 1
+    },
+    {
+      "text": "condicio\u00e9n de excepcidn",
+      "relevance": 0.510407,
+      "count": 1
+    },
+    {
+      "text": "permanencia de quienes",
+      "relevance": 0.509265,
+      "count": 1
+    },
+    {
+      "text": "vicerrectoria de bienestar universitario",
+      "relevance": 0.508877,
+      "count": 1
+    },
+    {
+      "text": "condici6n de excepcion",
+      "relevance": 0.507703,
+      "count": 1
+    },
+    {
+      "text": "periodo agosto",
+      "relevance": 0.505195,
+      "count": 1
+    },
+    {
+      "text": "examen de estado",
+      "relevance": 0.503829,
+      "count": 1
+    },
+    {
+      "text": "cumplimiento",
+      "relevance": 0.503808,
+      "count": 1
+    },
+    {
+      "text": "agencia presidencial",
+      "relevance": 0.502674,
+      "count": 2
+    },
+    {
+      "text": "dias del mes de abril",
+      "relevance": 0.500021,
+      "count": 1
+    },
+    {
+      "text": "sede san",
+      "relevance": 0.499531,
+      "count": 1
+    },
+    {
+      "text": "culminaci6n de estudios",
+      "relevance": 0.498155,
+      "count": 1
+    },
+    {
+      "text": "lopez pulecio",
+      "relevance": 0.49669,
+      "count": 1
+    },
+    {
+      "text": "condicion de excepcion",
+      "relevance": 0.495213,
+      "count": 2
+    },
+    {
+      "text": "directiva ministerial",
+      "relevance": 0.494725,
+      "count": 1
+    },
+    {
+      "text": "poblaci\u00e9n desplazada",
+      "relevance": 0.494436,
+      "count": 1
+    },
+    {
+      "text": "inscripcion",
+      "relevance": 0.493495,
+      "count": 3
+    },
+    {
+      "text": "condiciones dignas",
+      "relevance": 0.491237,
+      "count": 1
+    },
+    {
+      "text": "secretario general",
+      "relevance": 0.489908,
+      "count": 1
+    },
+    {
+      "text": "condici6on",
+      "relevance": 0.488206,
+      "count": 1
+    },
+    {
+      "text": "condiciones exigidas",
+      "relevance": 0.487401,
+      "count": 1
+    },
+    {
+      "text": "programa de acompanamiento",
+      "relevance": 0.487054,
+      "count": 1
+    },
+    {
+      "text": "valle",
+      "relevance": 0.485236,
+      "count": 4
+    },
+    {
+      "text": "resolucion",
+      "relevance": 0.484381,
+      "count": 2
+    },
+    {
+      "text": "admision",
+      "relevance": 0.48273,
+      "count": 3
+    },
+    {
+      "text": "articulo",
+      "relevance": 0.482433,
+      "count": 1
+    },
+    {
+      "text": "areas",
+      "relevance": 0.482134,
+      "count": 1
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.480886,
+      "count": 4
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 6212,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "comit\u00e9s de los planes de estudio",
+      "relevance": 0.733156,
+      "count": 1
+    },
+    {
+      "text": "estudiantes regulares",
+      "relevance": 0.677581,
+      "count": 2
+    },
+    {
+      "text": "candidatos estudiantiles",
+      "relevance": 0.618525,
+      "count": 1
+    },
+    {
+      "text": "planes de estudio",
+      "relevance": 0.588493,
+      "count": 1
+    },
+    {
+      "text": "estudiante regular",
+      "relevance": 0.578718,
+      "count": 1
+    },
+    {
+      "text": "inscripciones de candidatos estudiantiles",
+      "relevance": 0.576465,
+      "count": 1
+    },
+    {
+      "text": "calidad de miembro del comit\u00e9",
+      "relevance": 0.575978,
+      "count": 1
+    },
+    {
+      "text": "decano de la facultad correspondiente",
+      "relevance": 0.575203,
+      "count": 1
+    },
+    {
+      "text": "estudiantes candidatos de posgrado",
+      "relevance": 0.57281,
+      "count": 1
+    },
+    {
+      "text": "secretaria acad\u00e9mica",
+      "relevance": 0.562867,
+      "count": 1
+    },
+    {
+      "text": "integrantes de los comit\u00e9s de planes",
+      "relevance": 0.561976,
+      "count": 1
+    },
+    {
+      "text": "cartelera de la secretaria acad\u00e9mica",
+      "relevance": 0.55994,
+      "count": 1
+    },
+    {
+      "text": "comit\u00e9 de honor",
+      "relevance": 0.54624,
+      "count": 2
+    },
+    {
+      "text": "proceso electoral",
+      "relevance": 0.542103,
+      "count": 1
+    },
+    {
+      "text": "representantes estudiantiles",
+      "relevance": 0.54084,
+      "count": 1
+    },
+    {
+      "text": "respectivo plan de estudios",
+      "relevance": 0.539519,
+      "count": 1
+    },
+    {
+      "text": "primeros semestres",
+      "relevance": 0.539253,
+      "count": 1
+    },
+    {
+      "text": "resoluci\u00e9n de convocatoria",
+      "relevance": 0.531443,
+      "count": 1
+    },
+    {
+      "text": "plan de estudios",
+      "relevance": 0.53122,
+      "count": 4
+    },
+    {
+      "text": "oficina de registro acad\u00e9mico",
+      "relevance": 0.52916,
+      "count": 2
+    },
+    {
+      "text": "ndimero de votantes firmantes",
+      "relevance": 0.528674,
+      "count": 1
+    },
+    {
+      "text": "nuevo estudiante",
+      "relevance": 0.528134,
+      "count": 1
+    },
+    {
+      "text": "estudio de pregrado",
+      "relevance": 0.527804,
+      "count": 1
+    },
+    {
+      "text": "atribuciones legales",
+      "relevance": 0.52682,
+      "count": 1
+    },
+    {
+      "text": "dias hdbiles",
+      "relevance": 0.524714,
+      "count": 1
+    },
+    {
+      "text": "candidatos inscritos",
+      "relevance": 0.523629,
+      "count": 1
+    },
+    {
+      "text": "facultad de pregrado",
+      "relevance": 0.522806,
+      "count": 1
+    },
+    {
+      "text": "nimero de papeletas",
+      "relevance": 0.521591,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.51899,
+      "count": 1
+    },
+    {
+      "text": "planes de estudio de pregrado",
+      "relevance": 0.518176,
+      "count": 2
+    },
+    {
+      "text": "elecci6\u00e9n",
+      "relevance": 0.517929,
+      "count": 1
+    },
+    {
+      "text": "nuevas elecciones",
+      "relevance": 0.515858,
+      "count": 1
+    },
+    {
+      "text": "numero de firmantes",
+      "relevance": 0.515772,
+      "count": 1
+    },
+    {
+      "text": "aspectos procedimentales",
+      "relevance": 0.514973,
+      "count": 1
+    },
+    {
+      "text": "elecciones de estudiantes",
+      "relevance": 0.514634,
+      "count": 1
+    },
+    {
+      "text": "dia siguiente",
+      "relevance": 0.512952,
+      "count": 1
+    },
+    {
+      "text": "listados de estudiantes",
+      "relevance": 0.511846,
+      "count": 1
+    },
+    {
+      "text": "firma de los estudiantes",
+      "relevance": 0.511345,
+      "count": 1
+    },
+    {
+      "text": "periodos de los representantes",
+      "relevance": 0.511226,
+      "count": 1
+    },
+    {
+      "text": "decano de facultad",
+      "relevance": 0.510782,
+      "count": 1
+    },
+    {
+      "text": "apellido del candidato",
+      "relevance": 0.510781,
+      "count": 1
+    },
+    {
+      "text": "consejos de facultad podrdn",
+      "relevance": 0.509847,
+      "count": 1
+    },
+    {
+      "text": "miembros del comit\u00e9 del plan",
+      "relevance": 0.508692,
+      "count": 1
+    },
+    {
+      "text": "aceptaci\u00e96n de su  postulaci\u00e9n",
+      "relevance": 0.50636,
+      "count": 1
+    },
+    {
+      "text": "comit\u00e9s de los planes",
+      "relevance": 0.50576,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de septiembre",
+      "relevance": 0.505212,
+      "count": 1
+    },
+    {
+      "text": "diversos planes de estudio",
+      "relevance": 0.50501,
+      "count": 1
+    },
+    {
+      "text": "transcurso del primer  semestre",
+      "relevance": 0.504561,
+      "count": 1
+    },
+    {
+      "text": "respectiva facultad",
+      "relevance": 0.503962,
+      "count": 1
+    },
+    {
+      "text": "sal\u00e9n verde de la gobernaci\u00e9n",
+      "relevance": 0.50317,
+      "count": 1
+    }
+  ]
+}

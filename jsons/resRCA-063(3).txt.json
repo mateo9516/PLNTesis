@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 2,
+    "text_characters": 13030,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "puntaje minimo",
+      "relevance": 0.685821,
+      "count": 4
+    },
+    {
+      "text": "caso del pregrado",
+      "relevance": 0.626479,
+      "count": 1
+    },
+    {
+      "text": "puntaje minimo de preseleccion",
+      "relevance": 0.590665,
+      "count": 1
+    },
+    {
+      "text": "tipo de presentaciones",
+      "relevance": 0.580977,
+      "count": 1
+    },
+    {
+      "text": "evaluacion de los candidatos",
+      "relevance": 0.574114,
+      "count": 1
+    },
+    {
+      "text": "concurso publico de m\u00e9ritos",
+      "relevance": 0.570813,
+      "count": 1
+    },
+    {
+      "text": "institutos acad\u00e9micos",
+      "relevance": 0.568093,
+      "count": 1
+    },
+    {
+      "text": "propuesta completa de un curso",
+      "relevance": 0.563871,
+      "count": 1
+    },
+    {
+      "text": "experiencia docente universitaria",
+      "relevance": 0.559727,
+      "count": 1
+    },
+    {
+      "text": "literales f",
+      "relevance": 0.558936,
+      "count": 1
+    },
+    {
+      "text": "caso de las licenciaturas",
+      "relevance": 0.557096,
+      "count": 1
+    },
+    {
+      "text": "experiencia profesional",
+      "relevance": 0.554352,
+      "count": 3
+    },
+    {
+      "text": "publicacion impresa",
+      "relevance": 0.552482,
+      "count": 1
+    },
+    {
+      "text": "criterios de seleccidn",
+      "relevance": 0.549503,
+      "count": 1
+    },
+    {
+      "text": "tipo a1",
+      "relevance": 0.549241,
+      "count": 1
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.54399,
+      "count": 8
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.535638,
+      "count": 3
+    },
+    {
+      "text": "premios internacionales",
+      "relevance": 0.533635,
+      "count": 1
+    },
+    {
+      "text": "nombramiento de profesores de tiempo",
+      "relevance": 0.532297,
+      "count": 1
+    },
+    {
+      "text": "evaluacion de las pruebas acad\u00e9micas",
+      "relevance": 0.531347,
+      "count": 1
+    },
+    {
+      "text": "exposiciones individuales",
+      "relevance": 0.531312,
+      "count": 1
+    },
+    {
+      "text": "area de la convocatoria",
+      "relevance": 0.529803,
+      "count": 1
+    },
+    {
+      "text": "hoja de vida",
+      "relevance": 0.529175,
+      "count": 3
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.528994,
+      "count": 1
+    },
+    {
+      "text": "cargo de la comision",
+      "relevance": 0.528655,
+      "count": 1
+    },
+    {
+      "text": "formacion pedagogica certificadas",
+      "relevance": 0.528358,
+      "count": 1
+    },
+    {
+      "text": "siguiente base",
+      "relevance": 0.528234,
+      "count": 1
+    },
+    {
+      "text": "objeto de puntaje",
+      "relevance": 0.527054,
+      "count": 1
+    },
+    {
+      "text": "experiencia artistica",
+      "relevance": 0.525971,
+      "count": 1
+    },
+    {
+      "text": "puntaje determinado",
+      "relevance": 0.525636,
+      "count": 1
+    },
+    {
+      "text": "propuesta de investigacion",
+      "relevance": 0.525059,
+      "count": 3
+    },
+    {
+      "text": "puntos",
+      "relevance": 0.524158,
+      "count": 45
+    },
+    {
+      "text": "mitad del puntaje",
+      "relevance": 0.523299,
+      "count": 1
+    },
+    {
+      "text": "trabajos de grado",
+      "relevance": 0.522955,
+      "count": 1
+    },
+    {
+      "text": "tipo a2",
+      "relevance": 0.522955,
+      "count": 1
+    },
+    {
+      "text": "casos de exposiciones",
+      "relevance": 0.521299,
+      "count": 1
+    },
+    {
+      "text": "tipo de publicacion",
+      "relevance": 0.521222,
+      "count": 1
+    },
+    {
+      "text": "programa de semilleros docentes",
+      "relevance": 0.520813,
+      "count": 1
+    },
+    {
+      "text": "realizacion de las pruebas acad\u00e9micas",
+      "relevance": 0.514609,
+      "count": 1
+    },
+    {
+      "text": "casos de conciertos",
+      "relevance": 0.514357,
+      "count": 1
+    },
+    {
+      "text": "idioma extranjero",
+      "relevance": 0.514279,
+      "count": 1
+    },
+    {
+      "text": "especificidades de las diferentes facultades",
+      "relevance": 0.514179,
+      "count": 1
+    },
+    {
+      "text": "primer puesto",
+      "relevance": 0.513988,
+      "count": 2
+    },
+    {
+      "text": "instituciones reconocidas",
+      "relevance": 0.513476,
+      "count": 1
+    },
+    {
+      "text": "evaluacion de m\u00e9ritos de cada facultad",
+      "relevance": 0.513005,
+      "count": 2
+    },
+    {
+      "text": "afo de avance",
+      "relevance": 0.512979,
+      "count": 1
+    },
+    {
+      "text": "comision de evaluacion de m\u00e9ritos",
+      "relevance": 0.512625,
+      "count": 4
+    },
+    {
+      "text": "caso de empate",
+      "relevance": 0.512619,
+      "count": 1
+    },
+    {
+      "text": "estudio de la hoja de vida",
+      "relevance": 0.512475,
+      "count": 2
+    },
+    {
+      "text": "caso de los cuentos",
+      "relevance": 0.511343,
+      "count": 1
+    }
+  ]
+}

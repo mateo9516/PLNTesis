@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 2,
+    "text_characters": 11083,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "calidad acad\u00e9mica",
+      "relevance": 0.790628,
+      "count": 1
+    },
+    {
+      "text": "unidades acad\u00e9micas",
+      "relevance": 0.695873,
+      "count": 5
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.611443,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.569153,
+      "count": 10
+    },
+    {
+      "text": "procedimientos de la evaluacion",
+      "relevance": 0.54999,
+      "count": 1
+    },
+    {
+      "text": "caso de unidades acad\u00e9micas",
+      "relevance": 0.548968,
+      "count": 1
+    },
+    {
+      "text": "unidad acad\u00e9mica",
+      "relevance": 0.548116,
+      "count": 4
+    },
+    {
+      "text": "idoneidad de los profesores",
+      "relevance": 0.548036,
+      "count": 1
+    },
+    {
+      "text": "personas interesadas",
+      "relevance": 0.547759,
+      "count": 1
+    },
+    {
+      "text": "fecha de cierre de la convocatoria",
+      "relevance": 0.54735,
+      "count": 1
+    },
+    {
+      "text": "respectivo consejo",
+      "relevance": 0.544802,
+      "count": 2
+    },
+    {
+      "text": "experiencias de evaluacion",
+      "relevance": 0.540213,
+      "count": 1
+    },
+    {
+      "text": "hojas de vida",
+      "relevance": 0.53681,
+      "count": 1
+    },
+    {
+      "text": "informacion de los aspirantes inscritos",
+      "relevance": 0.53608,
+      "count": 1
+    },
+    {
+      "text": "subdirector acad\u00e9mico de la facultad",
+      "relevance": 0.531627,
+      "count": 1
+    },
+    {
+      "text": "vicerrectoria acad\u00e9mica",
+      "relevance": 0.531616,
+      "count": 4
+    },
+    {
+      "text": "aspirantes interesados",
+      "relevance": 0.529214,
+      "count": 1
+    },
+    {
+      "text": "profesores contratistas",
+      "relevance": 0.529153,
+      "count": 5
+    },
+    {
+      "text": "cierre de las inscripciones",
+      "relevance": 0.52906,
+      "count": 1
+    },
+    {
+      "text": "director de programa",
+      "relevance": 0.527689,
+      "count": 2
+    },
+    {
+      "text": "aspirantes inscritos",
+      "relevance": 0.526881,
+      "count": 2
+    },
+    {
+      "text": "nivel universitario",
+      "relevance": 0.524055,
+      "count": 2
+    },
+    {
+      "text": "experiencia profesional",
+      "relevance": 0.523225,
+      "count": 1
+    },
+    {
+      "text": "contratista ofrecera mayor",
+      "relevance": 0.523215,
+      "count": 1
+    },
+    {
+      "text": "jefe de la unidad acad\u00e9mica",
+      "relevance": 0.522591,
+      "count": 1
+    },
+    {
+      "text": "area de conocimiento",
+      "relevance": 0.520803,
+      "count": 1
+    },
+    {
+      "text": "efectos de la evaluacion de los requisitos",
+      "relevance": 0.519995,
+      "count": 1
+    },
+    {
+      "text": "banco de datos de profesores contratistas elegibles",
+      "relevance": 0.519877,
+      "count": 4
+    },
+    {
+      "text": "conducta del candidato",
+      "relevance": 0.519347,
+      "count": 1
+    },
+    {
+      "text": "estricto orden descendente",
+      "relevance": 0.51791,
+      "count": 1
+    },
+    {
+      "text": "instancia responsable",
+      "relevance": 0.517243,
+      "count": 1
+    },
+    {
+      "text": "instituto acad\u00e9mico",
+      "relevance": 0.51722,
+      "count": 6
+    },
+    {
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.517219,
+      "count": 1
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.517184,
+      "count": 3
+    },
+    {
+      "text": "profesor contratista",
+      "relevance": 0.516945,
+      "count": 1
+    },
+    {
+      "text": "calificaci\u00e9n de la hoja de vida",
+      "relevance": 0.516901,
+      "count": 1
+    },
+    {
+      "text": "parte del banco de datos",
+      "relevance": 0.51617,
+      "count": 2
+    },
+    {
+      "text": "experiencia docente",
+      "relevance": 0.515304,
+      "count": 1
+    },
+    {
+      "text": "titulos universitarios de pregrado",
+      "relevance": 0.515007,
+      "count": 1
+    },
+    {
+      "text": "disposicidn de las unidades",
+      "relevance": 0.5148,
+      "count": 1
+    },
+    {
+      "text": "informacion nueva",
+      "relevance": 0.514429,
+      "count": 1
+    },
+    {
+      "text": "vinculacion de profesores ocasionales",
+      "relevance": 0.51414,
+      "count": 1
+    },
+    {
+      "text": "fecha de su aprobacion",
+      "relevance": 0.513103,
+      "count": 1
+    },
+    {
+      "text": "marco de la ley",
+      "relevance": 0.512434,
+      "count": 1
+    },
+    {
+      "text": "paragrafo",
+      "relevance": 0.51213,
+      "count": 4
+    },
+    {
+      "text": "siguientes criterios",
+      "relevance": 0.512015,
+      "count": 1
+    },
+    {
+      "text": "vicedecano acad\u00e9mico",
+      "relevance": 0.511222,
+      "count": 1
+    },
+    {
+      "text": "m\u00e9ritos de profesores contratistas",
+      "relevance": 0.510936,
+      "count": 2
+    },
+    {
+      "text": "produccion artistica",
+      "relevance": 0.510738,
+      "count": 1
+    },
+    {
+      "text": "comision de evaluacion de m\u00e9ritos",
+      "relevance": 0.510652,
+      "count": 1
+    }
+  ]
+}

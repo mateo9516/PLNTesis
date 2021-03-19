@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 2,
+    "text_characters": 12100,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "experiencia calificada",
+      "relevance": 0.787439,
+      "count": 1
+    },
+    {
+      "text": "experiencia profesional diferente",
+      "relevance": 0.636426,
+      "count": 1
+    },
+    {
+      "text": "logro de la calidad acad\u00e9mica",
+      "relevance": 0.626136,
+      "count": 1
+    },
+    {
+      "text": "existencia de una comision",
+      "relevance": 0.607711,
+      "count": 1
+    },
+    {
+      "text": "evaluacion de m\u00e9ritos",
+      "relevance": 0.592227,
+      "count": 2
+    },
+    {
+      "text": "experiencia docente universitaria",
+      "relevance": 0.588649,
+      "count": 1
+    },
+    {
+      "text": "instituto acad\u00e9mico",
+      "relevance": 0.584333,
+      "count": 11
+    },
+    {
+      "text": "experiencia investigativa",
+      "relevance": 0.56124,
+      "count": 1
+    },
+    {
+      "text": "estatuto general de la universidad",
+      "relevance": 0.554217,
+      "count": 1
+    },
+    {
+      "text": "concurso publico de m\u00e9ritos",
+      "relevance": 0.55216,
+      "count": 1
+    },
+    {
+      "text": "hoja de vida",
+      "relevance": 0.538456,
+      "count": 2
+    },
+    {
+      "text": "trabajo escrito",
+      "relevance": 0.537566,
+      "count": 1
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.537465,
+      "count": 1
+    },
+    {
+      "text": "mayor objetividad",
+      "relevance": 0.53544,
+      "count": 1
+    },
+    {
+      "text": "estatuto profesoral",
+      "relevance": 0.53443,
+      "count": 4
+    },
+    {
+      "text": "unidad acad\u00e9mica",
+      "relevance": 0.532105,
+      "count": 2
+    },
+    {
+      "text": "idoneidad de los profesores",
+      "relevance": 0.531639,
+      "count": 1
+    },
+    {
+      "text": "evaluacion de los m\u00e9ritos",
+      "relevance": 0.530973,
+      "count": 1
+    },
+    {
+      "text": "m\u00e9ritos podra",
+      "relevance": 0.530788,
+      "count": 1
+    },
+    {
+      "text": "comision de evaluacion de m\u00e9ritos",
+      "relevance": 0.52956,
+      "count": 5
+    },
+    {
+      "text": "forma definitiva",
+      "relevance": 0.528429,
+      "count": 1
+    },
+    {
+      "text": "institutos acad\u00e9micos",
+      "relevance": 0.526295,
+      "count": 1
+    },
+    {
+      "text": "docente universitaria",
+      "relevance": 0.526218,
+      "count": 1
+    },
+    {
+      "text": "documentacion reunida",
+      "relevance": 0.525743,
+      "count": 1
+    },
+    {
+      "text": "capacidad creativa",
+      "relevance": 0.524432,
+      "count": 1
+    },
+    {
+      "text": "respectivo consejo de facultad",
+      "relevance": 0.524222,
+      "count": 2
+    },
+    {
+      "text": "sustentacion oral",
+      "relevance": 0.523366,
+      "count": 1
+    },
+    {
+      "text": "medio tiempo",
+      "relevance": 0.522762,
+      "count": 1
+    },
+    {
+      "text": "razones legales",
+      "relevance": 0.522559,
+      "count": 1
+    },
+    {
+      "text": "director de instituto acad\u00e9mico",
+      "relevance": 0.52221,
+      "count": 1
+    },
+    {
+      "text": "primer ano",
+      "relevance": 0.520556,
+      "count": 1
+    },
+    {
+      "text": "vinculacion de profesores",
+      "relevance": 0.520234,
+      "count": 3
+    },
+    {
+      "text": "funcion de los consejos",
+      "relevance": 0.520007,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.519417,
+      "count": 2
+    },
+    {
+      "text": "cargos nuevos",
+      "relevance": 0.519349,
+      "count": 1
+    },
+    {
+      "text": "tiempo completo",
+      "relevance": 0.51927,
+      "count": 4
+    },
+    {
+      "text": "perfil profesional",
+      "relevance": 0.518674,
+      "count": 1
+    },
+    {
+      "text": "necesidades del area",
+      "relevance": 0.518004,
+      "count": 1
+    },
+    {
+      "text": "jefe de departamento",
+      "relevance": 0.51734,
+      "count": 1
+    },
+    {
+      "text": "mayor documentacion",
+      "relevance": 0.514862,
+      "count": 1
+    },
+    {
+      "text": "cupo de la convocatoria",
+      "relevance": 0.514599,
+      "count": 1
+    },
+    {
+      "text": "director de la escuela",
+      "relevance": 0.514476,
+      "count": 1
+    },
+    {
+      "text": "nombramiento de profesores de tiempo completo",
+      "relevance": 0.513745,
+      "count": 1
+    },
+    {
+      "text": "atribuciones legales",
+      "relevance": 0.513708,
+      "count": 1
+    },
+    {
+      "text": "perfil ocupacional",
+      "relevance": 0.512867,
+      "count": 1
+    },
+    {
+      "text": "violacion de esta disposicion",
+      "relevance": 0.512418,
+      "count": 1
+    },
+    {
+      "text": "preseleccion de los candidatos",
+      "relevance": 0.511953,
+      "count": 1
+    },
+    {
+      "text": "comision de seleccion de la universidad",
+      "relevance": 0.511913,
+      "count": 3
+    },
+    {
+      "text": "presente resolucion",
+      "relevance": 0.511549,
+      "count": 4
+    },
+    {
+      "text": "circunstancias excepcionales",
+      "relevance": 0.511066,
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2292,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "colombia s",
+      "relevance": 0.630899,
+      "count": 2
+    },
+    {
+      "text": "estatuto general",
+      "relevance": 0.610837,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.605177,
+      "count": 3
+    },
+    {
+      "text": "secci6n de compras",
+      "relevance": 0.603763,
+      "count": 1
+    },
+    {
+      "text": "requisitos legales",
+      "relevance": 0.584858,
+      "count": 1
+    },
+    {
+      "text": "estatuto de contratacion de la universidad",
+      "relevance": 0.561443,
+      "count": 1
+    },
+    {
+      "text": "reuniones de la torre institucional",
+      "relevance": 0.546579,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.544993,
+      "count": 1
+    },
+    {
+      "text": "sistemas de aire",
+      "relevance": 0.538835,
+      "count": 1
+    },
+    {
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.532289,
+      "count": 1
+    },
+    {
+      "text": "tramites respectivos",
+      "relevance": 0.530941,
+      "count": 1
+    },
+    {
+      "text": "primeras dias del mes",
+      "relevance": 0.530079,
+      "count": 1
+    },
+    {
+      "text": "representante del presidente",
+      "relevance": 0.520036,
+      "count": 1
+    },
+    {
+      "text": "conocimiento previo de dicho",
+      "relevance": 0.519568,
+      "count": 1
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.516224,
+      "count": 3
+    },
+    {
+      "text": "aceptaci\u00e9n de la donaci\u00e9n",
+      "relevance": 0.509798,
+      "count": 1
+    },
+    {
+      "text": "larreamendy joerns",
+      "relevance": 0.509798,
+      "count": 1
+    },
+    {
+      "text": "representante legal de omnilife manufactura",
+      "relevance": 0.507527,
+      "count": 1
+    },
+    {
+      "text": "acciones adelantadas",
+      "relevance": 0.506372,
+      "count": 1
+    },
+    {
+      "text": "literal k",
+      "relevance": 0.50471,
+      "count": 1
+    },
+    {
+      "text": "medio de oficio",
+      "relevance": 0.50471,
+      "count": 1
+    },
+    {
+      "text": "ordenador del gasto de la vicerrectoria administrativa",
+      "relevance": 0.49551,
+      "count": 1
+    },
+    {
+      "text": "resolucion de rectoria",
+      "relevance": 0.493176,
+      "count": 1
+    },
+    {
+      "text": "aceptacion de dicha donacion",
+      "relevance": 0.49185,
+      "count": 1
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.491262,
+      "count": 2
+    },
+    {
+      "text": "dias de diciembre",
+      "relevance": 0.488631,
+      "count": 1
+    },
+    {
+      "text": "atribuciones",
+      "relevance": 0.486085,
+      "count": 1
+    },
+    {
+      "text": "octubre",
+      "relevance": 0.485123,
+      "count": 1
+    },
+    {
+      "text": "acuerdo",
+      "relevance": 0.483926,
+      "count": 1
+    },
+    {
+      "text": "noviembre",
+      "relevance": 0.481119,
+      "count": 3
+    },
+    {
+      "text": "valle",
+      "relevance": 0.476691,
+      "count": 2
+    },
+    {
+      "text": "intencion",
+      "relevance": 0.473008,
+      "count": 2
+    },
+    {
+      "text": "conocimiento",
+      "relevance": 0.472785,
+      "count": 1
+    },
+    {
+      "text": "omnilife",
+      "relevance": 0.471658,
+      "count": 2
+    },
+    {
+      "text": "conferidas",
+      "relevance": 0.468829,
+      "count": 1
+    },
+    {
+      "text": "conveniencia",
+      "relevance": 0.4679,
+      "count": 1
+    },
+    {
+      "text": "aplicacion",
+      "relevance": 0.466848,
+      "count": 1
+    },
+    {
+      "text": "nit",
+      "relevance": 0.466848,
+      "count": 1
+    },
+    {
+      "text": "articulo",
+      "relevance": 0.466334,
+      "count": 1
+    },
+    {
+      "text": "presidente",
+      "relevance": 0.466063,
+      "count": 1
+    },
+    {
+      "text": "resolucion",
+      "relevance": 0.465215,
+      "count": 1
+    },
+    {
+      "text": "diciembre",
+      "relevance": 0.464791,
+      "count": 1
+    },
+    {
+      "text": "bienes",
+      "relevance": 0.464791,
+      "count": 1
+    },
+    {
+      "text": "donacion",
+      "relevance": 0.46352,
+      "count": 2
+    },
+    {
+      "text": "uso",
+      "relevance": 0.46352,
+      "count": 1
+    },
+    {
+      "text": "paragrafo",
+      "relevance": 0.46352,
+      "count": 1
+    },
+    {
+      "text": "suma",
+      "relevance": 0.46352,
+      "count": 1
+    },
+    {
+      "text": "pesos",
+      "relevance": 0.46352,
+      "count": 1
+    },
+    {
+      "text": "solicit6",
+      "relevance": 0.46352,
+      "count": 1
+    },
+    {
+      "text": "trav\u00e9s",
+      "relevance": 0.46352,
+      "count": 1
+    }
+  ]
+}

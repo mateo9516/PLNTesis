@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3332,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "oferta de cursos de extension",
+      "relevance": 0.72401,
+      "count": 1
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.662053,
+      "count": 1
+    },
+    {
+      "text": "expedici\u00e9n de los respectivos certificados",
+      "relevance": 0.649565,
+      "count": 1
+    },
+    {
+      "text": "unidades acad\u00e9micas",
+      "relevance": 0.606803,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.606652,
+      "count": 1
+    },
+    {
+      "text": "certificados de cursos de extension",
+      "relevance": 0.589431,
+      "count": 1
+    },
+    {
+      "text": "sedes regionales",
+      "relevance": 0.582662,
+      "count": 4
+    },
+    {
+      "text": "cursos especiales",
+      "relevance": 0.570075,
+      "count": 4
+    },
+    {
+      "text": "respectivo convenio",
+      "relevance": 0.564878,
+      "count": 1
+    },
+    {
+      "text": "cat\u00e9logo de registro acad\u00e9mico",
+      "relevance": 0.561883,
+      "count": 1
+    },
+    {
+      "text": "comit\u00e9 de regionalizacion",
+      "relevance": 0.561825,
+      "count": 2
+    },
+    {
+      "text": "parte de la politica",
+      "relevance": 0.552835,
+      "count": 1
+    },
+    {
+      "text": "casos de cursos especiales",
+      "relevance": 0.538216,
+      "count": 1
+    },
+    {
+      "text": "instituto respectivos",
+      "relevance": 0.534316,
+      "count": 1
+    },
+    {
+      "text": "registro general",
+      "relevance": 0.531904,
+      "count": 1
+    },
+    {
+      "text": "coordinaci6n administrativa",
+      "relevance": 0.531849,
+      "count": 1
+    },
+    {
+      "text": "oferta de programas",
+      "relevance": 0.528483,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de febrero",
+      "relevance": 0.523039,
+      "count": 1
+    },
+    {
+      "text": "catalogo de oferta de educaci6",
+      "relevance": 0.522065,
+      "count": 1
+    },
+    {
+      "text": "direcci\u00e9n de extensi6n",
+      "relevance": 0.521945,
+      "count": 1
+    },
+    {
+      "text": "unidad acad\u00e9mica correspondiente",
+      "relevance": 0.521248,
+      "count": 1
+    },
+    {
+      "text": "tipo de cursos especiales",
+      "relevance": 0.521095,
+      "count": 1
+    },
+    {
+      "text": "parte del rector",
+      "relevance": 0.506394,
+      "count": 1
+    },
+    {
+      "text": "secretario general",
+      "relevance": 0.505867,
+      "count": 1
+    },
+    {
+      "text": "radicaci6n",
+      "relevance": 0.503764,
+      "count": 1
+    },
+    {
+      "text": "casos de cursos",
+      "relevance": 0.498276,
+      "count": 1
+    },
+    {
+      "text": "procesos de descentralizaci6n acad\u00e9micoadministrativa",
+      "relevance": 0.496903,
+      "count": 1
+    },
+    {
+      "text": "lopez pulecio",
+      "relevance": 0.493252,
+      "count": 1
+    },
+    {
+      "text": "consejo academico de la universidad del valle",
+      "relevance": 0.490224,
+      "count": 1
+    },
+    {
+      "text": "visto bueno",
+      "relevance": 0.489367,
+      "count": 1
+    },
+    {
+      "text": "certificado de asistencia",
+      "relevance": 0.488926,
+      "count": 1
+    },
+    {
+      "text": "diplomados de una unidad",
+      "relevance": 0.486618,
+      "count": 1
+    },
+    {
+      "text": "diplomados realizados",
+      "relevance": 0.485778,
+      "count": 1
+    },
+    {
+      "text": "diplomados conjuntos",
+      "relevance": 0.484946,
+      "count": 1
+    },
+    {
+      "text": "diplomados",
+      "relevance": 0.483457,
+      "count": 7
+    },
+    {
+      "text": "diplomados definidos",
+      "relevance": 0.482995,
+      "count": 1
+    },
+    {
+      "text": "modalidad de cursos de extensi6n",
+      "relevance": 0.482752,
+      "count": 1
+    },
+    {
+      "text": "programa de postgrado",
+      "relevance": 0.480821,
+      "count": 1
+    },
+    {
+      "text": "salon de reuniones del consejo acad\u00e9mico",
+      "relevance": 0.480373,
+      "count": 1
+    },
+    {
+      "text": "paragrafo",
+      "relevance": 0.474434,
+      "count": 1
+    },
+    {
+      "text": "ofrecimiento",
+      "relevance": 0.473515,
+      "count": 1
+    },
+    {
+      "text": "atribuciones",
+      "relevance": 0.472137,
+      "count": 1
+    },
+    {
+      "text": "facultad",
+      "relevance": 0.470041,
+      "count": 1
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.469996,
+      "count": 6
+    },
+    {
+      "text": "cursos",
+      "relevance": 0.469759,
+      "count": 2
+    },
+    {
+      "text": "educaci6",
+      "relevance": 0.467604,
+      "count": 1
+    },
+    {
+      "text": "defini\u00e9",
+      "relevance": 0.463673,
+      "count": 1
+    },
+    {
+      "text": "oferta",
+      "relevance": 0.461316,
+      "count": 1
+    },
+    {
+      "text": "expedici\u00e9n",
+      "relevance": 0.460808,
+      "count": 1
+    },
+    {
+      "text": "ramos",
+      "relevance": 0.459894,
+      "count": 1
+    }
+  ]
+}

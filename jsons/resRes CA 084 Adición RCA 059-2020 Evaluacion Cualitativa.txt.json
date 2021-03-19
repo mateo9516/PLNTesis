@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2768,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.736597,
+      "count": 1
+    },
+    {
+      "text": "nota cualitativa reportada",
+      "relevance": 0.635696,
+      "count": 1
+    },
+    {
+      "text": "efectos legales",
+      "relevance": 0.624658,
+      "count": 1
+    },
+    {
+      "text": "periodos acad\u00e9micos",
+      "relevance": 0.591445,
+      "count": 2
+    },
+    {
+      "text": "parte del docente responsable",
+      "relevance": 0.586619,
+      "count": 1
+    },
+    {
+      "text": "sede cali",
+      "relevance": 0.57351,
+      "count": 1
+    },
+    {
+      "text": "motivo de la emergencia sanitaria",
+      "relevance": 0.569352,
+      "count": 1
+    },
+    {
+      "text": "documento original",
+      "relevance": 0.568513,
+      "count": 1
+    },
+    {
+      "text": "parte del quehacer acad\u00e9mico",
+      "relevance": 0.566509,
+      "count": 1
+    },
+    {
+      "text": "modificacion de calificaciones",
+      "relevance": 0.552601,
+      "count": 1
+    },
+    {
+      "text": "calificaci\u00e9n definitiva",
+      "relevance": 0.545061,
+      "count": 1
+    },
+    {
+      "text": "sola vez",
+      "relevance": 0.539288,
+      "count": 1
+    },
+    {
+      "text": "fechas de adiciones",
+      "relevance": 0.534813,
+      "count": 1
+    },
+    {
+      "text": "2020consejo acad\u00e9mico",
+      "relevance": 0.532262,
+      "count": 2
+    },
+    {
+      "text": "parte pertinente",
+      "relevance": 0.530292,
+      "count": 1
+    },
+    {
+      "text": "c\u00e9digo contencioso administrativo",
+      "relevance": 0.529352,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.523657,
+      "count": 1
+    },
+    {
+      "text": "reglamento de forma transitoria",
+      "relevance": 0.513013,
+      "count": 1
+    },
+    {
+      "text": "literal c",
+      "relevance": 0.510018,
+      "count": 1
+    },
+    {
+      "text": "jose echeverry",
+      "relevance": 0.508101,
+      "count": 1
+    },
+    {
+      "text": "sesi6n",
+      "relevance": 0.498766,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de mayo",
+      "relevance": 0.497431,
+      "count": 1
+    },
+    {
+      "text": "fuerza ejecutoria",
+      "relevance": 0.496754,
+      "count": 1
+    },
+    {
+      "text": "presente resoluci6",
+      "relevance": 0.493325,
+      "count": 1
+    },
+    {
+      "text": "capitulo v",
+      "relevance": 0.492861,
+      "count": 1
+    },
+    {
+      "text": "resolucio6n",
+      "relevance": 0.491737,
+      "count": 1
+    },
+    {
+      "text": "consejo academico de la universidad del valle",
+      "relevance": 0.491333,
+      "count": 1
+    },
+    {
+      "text": "estudiantes",
+      "relevance": 0.487355,
+      "count": 2
+    },
+    {
+      "text": "pregrado",
+      "relevance": 0.486212,
+      "count": 1
+    },
+    {
+      "text": "cancelaciones del periodo",
+      "relevance": 0.486112,
+      "count": 1
+    },
+    {
+      "text": "aplicacion de un sistema de evaluacion cualitativo",
+      "relevance": 0.483667,
+      "count": 1
+    },
+    {
+      "text": "resolucion",
+      "relevance": 0.483205,
+      "count": 3
+    },
+    {
+      "text": "atribuciones",
+      "relevance": 0.477913,
+      "count": 1
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.475425,
+      "count": 1
+    },
+    {
+      "text": "asignatura",
+      "relevance": 0.47523,
+      "count": 2
+    },
+    {
+      "text": "nota",
+      "relevance": 0.473768,
+      "count": 2
+    },
+    {
+      "text": "alcance",
+      "relevance": 0.470928,
+      "count": 1
+    },
+    {
+      "text": "conformidad",
+      "relevance": 0.469468,
+      "count": 1
+    },
+    {
+      "text": "profesores",
+      "relevance": 0.468992,
+      "count": 1
+    },
+    {
+      "text": "demas",
+      "relevance": 0.468873,
+      "count": 1
+    },
+    {
+      "text": "perdera",
+      "relevance": 0.468873,
+      "count": 1
+    },
+    {
+      "text": "presente",
+      "relevance": 0.468734,
+      "count": 1
+    },
+    {
+      "text": "cuenta",
+      "relevance": 0.466953,
+      "count": 1
+    },
+    {
+      "text": "notas",
+      "relevance": 0.465279,
+      "count": 1
+    },
+    {
+      "text": "resoluci6",
+      "relevance": 0.465173,
+      "count": 1
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.464239,
+      "count": 2
+    },
+    {
+      "text": "acuerdo",
+      "relevance": 0.463925,
+      "count": 1
+    },
+    {
+      "text": "articulo",
+      "relevance": 0.463649,
+      "count": 2
+    },
+    {
+      "text": "fecha",
+      "relevance": 0.463643,
+      "count": 1
+    },
+    {
+      "text": "aplicacion",
+      "relevance": 0.463455,
+      "count": 1
+    }
+  ]
+}

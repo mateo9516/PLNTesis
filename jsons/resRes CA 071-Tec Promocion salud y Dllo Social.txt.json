@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 2,
+    "text_characters": 10037,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "promocion de la salud",
+      "relevance": 0.674191,
+      "count": 9
+    },
+    {
+      "text": "programa acad\u00e9mico",
+      "relevance": 0.646453,
+      "count": 5
+    },
+    {
+      "text": "tiempos de acompanamiento docente",
+      "relevance": 0.596339,
+      "count": 1
+    },
+    {
+      "text": "escuelas de odontologia",
+      "relevance": 0.580939,
+      "count": 1
+    },
+    {
+      "text": "consejo de facultad de salud",
+      "relevance": 0.57646,
+      "count": 1
+    },
+    {
+      "text": "desarrollo social",
+      "relevance": 0.558924,
+      "count": 3
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.557074,
+      "count": 8
+    },
+    {
+      "text": "desarrollo de competencias",
+      "relevance": 0.553026,
+      "count": 1
+    },
+    {
+      "text": "nivel tecnologico",
+      "relevance": 0.546565,
+      "count": 1
+    },
+    {
+      "text": "estrategias dirigidas",
+      "relevance": 0.543152,
+      "count": 1
+    },
+    {
+      "text": "facultades legales",
+      "relevance": 0.53613,
+      "count": 1
+    },
+    {
+      "text": "bienestar de un colectivo humano",
+      "relevance": 0.535915,
+      "count": 1
+    },
+    {
+      "text": "formacion de pregrado de la universidad",
+      "relevance": 0.534176,
+      "count": 1
+    },
+    {
+      "text": "escuela de ciencias del lenguaje",
+      "relevance": 0.533868,
+      "count": 1
+    },
+    {
+      "text": "condiciones sociales",
+      "relevance": 0.529158,
+      "count": 1
+    },
+    {
+      "text": "proficiencia respectiva",
+      "relevance": 0.529009,
+      "count": 1
+    },
+    {
+      "text": "administradoras de planes",
+      "relevance": 0.528308,
+      "count": 1
+    },
+    {
+      "text": "valores \u00e9ticos",
+      "relevance": 0.527826,
+      "count": 1
+    },
+    {
+      "text": "total ciclo basico",
+      "relevance": 0.527774,
+      "count": 1
+    },
+    {
+      "text": "siguientes objetivos",
+      "relevance": 0.526758,
+      "count": 1
+    },
+    {
+      "text": "procesos educativos",
+      "relevance": 0.524557,
+      "count": 1
+    },
+    {
+      "text": "fundamentos sociales del desarrollo",
+      "relevance": 0.524439,
+      "count": 1
+    },
+    {
+      "text": "acompafniamiento t\u00e9cnico",
+      "relevance": 0.524111,
+      "count": 1
+    },
+    {
+      "text": "ciclo profesional",
+      "relevance": 0.52261,
+      "count": 1
+    },
+    {
+      "text": "estudiantes conocimientos",
+      "relevance": 0.522554,
+      "count": 1
+    },
+    {
+      "text": "titulo de tecndlogo",
+      "relevance": 0.519999,
+      "count": 1
+    },
+    {
+      "text": "componentes de la formaci\u00e9n general",
+      "relevance": 0.519997,
+      "count": 1
+    },
+    {
+      "text": "competencias del tecnologo",
+      "relevance": 0.519385,
+      "count": 1
+    },
+    {
+      "text": "reconocimiento internacional",
+      "relevance": 0.518641,
+      "count": 1
+    },
+    {
+      "text": "portafolio de electivas de la facultad",
+      "relevance": 0.517529,
+      "count": 1
+    },
+    {
+      "text": "nivel a2",
+      "relevance": 0.517115,
+      "count": 1
+    },
+    {
+      "text": "desarrollo sostenible",
+      "relevance": 0.517035,
+      "count": 1
+    },
+    {
+      "text": "trabajo de campo",
+      "relevance": 0.516825,
+      "count": 1
+    },
+    {
+      "text": "estrategias de intervencion de los programas",
+      "relevance": 0.516251,
+      "count": 1
+    },
+    {
+      "text": "lengua extranjera",
+      "relevance": 0.515196,
+      "count": 1
+    },
+    {
+      "text": "bienestar social",
+      "relevance": 0.51444,
+      "count": 1
+    },
+    {
+      "text": "educacion superior",
+      "relevance": 0.512318,
+      "count": 1
+    },
+    {
+      "text": "consejo academico de la universidad del valle",
+      "relevance": 0.512133,
+      "count": 1
+    },
+    {
+      "text": "curriculo del programa acad\u00e9mico",
+      "relevance": 0.512075,
+      "count": 1
+    },
+    {
+      "text": "medios digitales",
+      "relevance": 0.51189,
+      "count": 1
+    },
+    {
+      "text": "periodicidad de admision",
+      "relevance": 0.511641,
+      "count": 1
+    },
+    {
+      "text": "relacion directa",
+      "relevance": 0.511566,
+      "count": 1
+    },
+    {
+      "text": "actividades acad\u00e9micas",
+      "relevance": 0.511423,
+      "count": 2
+    },
+    {
+      "text": "prueba de clasificaci6",
+      "relevance": 0.511092,
+      "count": 1
+    },
+    {
+      "text": "equipos interdisciplinarios",
+      "relevance": 0.511063,
+      "count": 1
+    },
+    {
+      "text": "cursos necesarios",
+      "relevance": 0.510778,
+      "count": 1
+    },
+    {
+      "text": "espacios formativos",
+      "relevance": 0.510177,
+      "count": 1
+    },
+    {
+      "text": "informacion estudiante",
+      "relevance": 0.509874,
+      "count": 1
+    },
+    {
+      "text": "comunicacion escrita",
+      "relevance": 0.509735,
+      "count": 2
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.509093,
+      "count": 1
+    }
+  ]
+}

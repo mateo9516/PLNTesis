@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 7557,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "politica institucional de investigaciones",
+      "relevance": 0.637662,
+      "count": 2
+    },
+    {
+      "text": "desarrollo productivo",
+      "relevance": 0.627519,
+      "count": 1
+    },
+    {
+      "text": "actividades de ciencia",
+      "relevance": 0.615988,
+      "count": 1
+    },
+    {
+      "text": "ley de ciencia",
+      "relevance": 0.589145,
+      "count": 1
+    },
+    {
+      "text": "sistema nacional de ciencia",
+      "relevance": 0.58378,
+      "count": 3
+    },
+    {
+      "text": "objetivo general",
+      "relevance": 0.583569,
+      "count": 3
+    },
+    {
+      "text": "produccion intelectual",
+      "relevance": 0.571859,
+      "count": 2
+    },
+    {
+      "text": "documento anexo",
+      "relevance": 0.567676,
+      "count": 1
+    },
+    {
+      "text": "alto impacto",
+      "relevance": 0.565169,
+      "count": 1
+    },
+    {
+      "text": "actividad artistica",
+      "relevance": 0.564653,
+      "count": 1
+    },
+    {
+      "text": "transformaci\u00e9n social",
+      "relevance": 0.561834,
+      "count": 1
+    },
+    {
+      "text": "consejo superior de junio",
+      "relevance": 0.55902,
+      "count": 1
+    },
+    {
+      "text": "responsabilidad social",
+      "relevance": 0.549807,
+      "count": 1
+    },
+    {
+      "text": "sistema general de regalias",
+      "relevance": 0.549524,
+      "count": 1
+    },
+    {
+      "text": "elevado valor agregado",
+      "relevance": 0.547428,
+      "count": 1
+    },
+    {
+      "text": "formacion de talentos",
+      "relevance": 0.541074,
+      "count": 1
+    },
+    {
+      "text": "desarrollo tecnoldgico",
+      "relevance": 0.540204,
+      "count": 2
+    },
+    {
+      "text": "largo plazo",
+      "relevance": 0.53788,
+      "count": 1
+    },
+    {
+      "text": "estatuto general",
+      "relevance": 0.537655,
+      "count": 1
+    },
+    {
+      "text": "nuevos conocimientos",
+      "relevance": 0.535355,
+      "count": 1
+    },
+    {
+      "text": "documento base",
+      "relevance": 0.53206,
+      "count": 1
+    },
+    {
+      "text": "expresiones culturales",
+      "relevance": 0.5303,
+      "count": 1
+    },
+    {
+      "text": "construcci\u00e9n de una agenda",
+      "relevance": 0.529258,
+      "count": 1
+    },
+    {
+      "text": "propiedad intelectual",
+      "relevance": 0.529146,
+      "count": 1
+    },
+    {
+      "text": "nueva industria nacional",
+      "relevance": 0.529074,
+      "count": 1
+    },
+    {
+      "text": "consejo acad\u00e9mico aprobo",
+      "relevance": 0.528275,
+      "count": 1
+    },
+    {
+      "text": "acto legislativo",
+      "relevance": 0.528224,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.527715,
+      "count": 3
+    },
+    {
+      "text": "artistica de los profesores",
+      "relevance": 0.526941,
+      "count": 1
+    },
+    {
+      "text": "actividades de investigacion",
+      "relevance": 0.525867,
+      "count": 1
+    },
+    {
+      "text": "objetivo central",
+      "relevance": 0.525326,
+      "count": 1
+    },
+    {
+      "text": "transformacion social",
+      "relevance": 0.519316,
+      "count": 1
+    },
+    {
+      "text": "estandares de alta calidad",
+      "relevance": 0.519214,
+      "count": 1
+    },
+    {
+      "text": "plan estrat\u00e9gico de desarrollo",
+      "relevance": 0.519145,
+      "count": 1
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.518537,
+      "count": 8
+    },
+    {
+      "text": "capacidades de investigacidn",
+      "relevance": 0.517017,
+      "count": 1
+    },
+    {
+      "text": "grandes objetivos",
+      "relevance": 0.515785,
+      "count": 1
+    },
+    {
+      "text": "desarrollo de sectores",
+      "relevance": 0.515202,
+      "count": 1
+    },
+    {
+      "text": "acciones del estado",
+      "relevance": 0.51519,
+      "count": 1
+    },
+    {
+      "text": "apropiacion social del conocimiento",
+      "relevance": 0.513997,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.513604,
+      "count": 1
+    },
+    {
+      "text": "talento investigativo",
+      "relevance": 0.512877,
+      "count": 1
+    },
+    {
+      "text": "creaci6n artistica",
+      "relevance": 0.512784,
+      "count": 2
+    },
+    {
+      "text": "sistema de investigacion de la universidad",
+      "relevance": 0.512704,
+      "count": 1
+    },
+    {
+      "text": "ciencias exactas",
+      "relevance": 0.512663,
+      "count": 1
+    },
+    {
+      "text": "pardmetros de calidad",
+      "relevance": 0.5126,
+      "count": 1
+    },
+    {
+      "text": "principios \u00e9ticos",
+      "relevance": 0.511544,
+      "count": 1
+    },
+    {
+      "text": "formaci\u00e9n de talento humano",
+      "relevance": 0.508616,
+      "count": 1
+    },
+    {
+      "text": "resultados de investigacidn",
+      "relevance": 0.508207,
+      "count": 1
+    },
+    {
+      "text": "materia del desarrollo del conocimiento cientifico",
+      "relevance": 0.50798,
+      "count": 1
+    }
+  ]
+}
